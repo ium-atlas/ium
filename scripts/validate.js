@@ -42,7 +42,7 @@ for (const topicDir of fs.readdirSync(ROOT)) {
         if (typeof p.weight !== 'number' || p.weight < 0 || p.weight > 100) err(fp, `${c}.weight는 0~100 정수`);
         if (p.weight >= 10) visible++;
         if (p.narrative && (!p.sources || !p.sources.length))
-          warn(fp, `${c}: narrative에 sources 없음 — PR 시 출처 필수`);
+          err(fp, `${c}: narrative에 sources 없음 — 출처 필수`);
       }
       if (!visible) err(fp, '표시 가능한 관점(weight>=10)이 하나도 없음');
     }
