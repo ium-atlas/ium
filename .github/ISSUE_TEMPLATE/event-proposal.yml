@@ -18,6 +18,6 @@ body:
     id: perspectives
     attributes:
       label: 관점별 서술과 출처 / Narratives and Sources by Perspective
-      description: 관점마다 한 줄 요약과 출처를 적어주세요. Add a one-line summary and source for each perspective.
+      description: 관점마다 한 줄 요약과 출처를 적어주세요. 출처 없는 제안은 반려됩니다. Add a one-line summary and source for each perspective. Proposals without sources will be declined.
       placeholder: "eu: ... (출처: ...)\nar: ... (출처: ...)"
     validations: { required: true }
