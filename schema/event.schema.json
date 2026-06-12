@@ -25,6 +25,19 @@
           "sources": { "type": "array", "items": { "type": "string" } }
         }
       }
+    },
+    "disputed": {
+      "type": "object",
+      "required": ["fields", "issue"],
+      "properties": {
+        "fields": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "issue": { "type": "integer", "minimum": 1 }
+      },
+      "additionalProperties": false
     }
   }
 }

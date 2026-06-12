@@ -55,6 +55,14 @@ If a new type is needed, please suggest it by issue.
 
 By submitting a PR, you are considered to agree that contributed data will be distributed under CC BY-SA 4.0 and code under MIT.
 
+## Dispute Resolution
+
+- Disagreements over weight, naming, or narratives are discussed in issues **based only on sources**. Claims without sources are not part of the discussion
+- If consensus cannot be reached, a maintainer makes the final decision and **records the rationale in the relevant issue**. The discussion can be reopened if new sources appear
+- Naming disputes (for example, when an event name differs by perspective): within each perspective's narrative, use that perspective's name, and in shared fields, use the most commonly used name. Do not remove either side's name
+- Items judged impossible to resolve by consensus are marked in the data: add the optional field `"disputed": { "fields": ["weight", etc.], "issue": issue number }` to the event JSON
+- Do not project modern political disputes (see the existing code of conduct)
+
 ## Code of Conduct
 
-We deal with sensitive history, including massacres, conflicts, and territorial issues. Derogatory statements about specific ethnic or religious groups, unsourced assertions, and projection of modern political disputes are prohibited. We deal not with "who was right," but with "who recorded it how."
+Please see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).

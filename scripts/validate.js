@@ -46,6 +46,16 @@ for (const topicDir of fs.readdirSync(ROOT)) {
       }
       if (!visible) err(fp, '표시 가능한 관점(weight>=10)이 하나도 없음 (no visible perspectives with weight>=10)');
     }
+    if ('disputed' in ev) {
+      if (!ev.disputed || typeof ev.disputed !== 'object' || Array.isArray(ev.disputed)) {
+        err(fp, 'disputed는 객체여야 함 (disputed must be an object)');
+      } else {
+        if (!Array.isArray(ev.disputed.fields) || ev.disputed.fields.length === 0)
+          err(fp, 'disputed.fields는 비어있지 않은 배열이어야 함 (disputed.fields must be a non-empty array)');
+        if (!Number.isInteger(ev.disputed.issue) || ev.disputed.issue <= 0)
+          err(fp, 'disputed.issue는 양의 정수여야 함 (disputed.issue must be a positive integer)');
+      }
+    }
   }
 }
 console.log(`검증 완료 (validation complete) — 오류 ${errors.length}건 (errors), 경고 ${warnings.length}건 (warnings)`);
