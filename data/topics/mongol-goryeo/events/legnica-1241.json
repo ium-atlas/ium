@@ -12,7 +12,9 @@
       "name": "(서방 원정의 일부)",
       "weight": 30,
       "narrative": "바투-수부타이 원정의 일부. 몽골 기록에서 비중은 크지 않다.",
-      "sources": []
+      "sources": [
+        "라시드 앗딘, 『집사(Jami' al-Tawarikh)』"
+      ]
     },
     "kr": {
       "name": "(기록 없음)",
@@ -30,7 +32,10 @@
       "name": "기독교 세계의 공포",
       "weight": 85,
       "narrative": "폴란드-독일 연합군의 궤멸. 유럽 연대기는 \"타타르의 공포\"를 종말론적 언어로 기록했다. 오고타이 칸의 죽음으로 몽골군이 회군하지 않았다면 — 이라는 가정은 유럽사 서술의 단골 주제다. 유럽(85) vs 몽골(30)의 비대칭.",
-      "sources": []
+      "sources": [
+        "매슈 패리스, 『대연대기(Chronica Majora)』",
+        "얀 드우고시, 『폴란드 왕국 연대기(Annales seu cronicae incliti Regni Poloniae)』"
+      ]
     }
   }
 }
