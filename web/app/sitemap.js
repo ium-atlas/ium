@@ -1,4 +1,4 @@
-import { getTopicIds, getTopic } from '@/lib/data';
+import { getContentYears, getTopicIds, getTopic } from '@/lib/data';
 
 export const dynamic = 'force-static';
 
@@ -9,5 +9,6 @@ export default function sitemap() {
     urls.push({ url: `${base}/${id}/`, priority: 0.8 });
     getTopic(id).events.forEach(e => urls.push({ url: `${base}/${id}/${e.id}/`, priority: 0.6 }));
   });
+  getContentYears(2).forEach(year => urls.push({ url: `${base}/year/${year}/`, priority: 0.55 }));
   return urls;
 }
