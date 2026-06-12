@@ -32,6 +32,18 @@ body { font-family: 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-s
 .tcard.soon { border-style: dashed; opacity: .55; cursor: default; }
 .tcard.soon:hover { transform: none; border-color: rgba(255,255,255,.18); }
 .tcard.soon .badge { color: #7a8a9a; }
+.ymarker { position: relative; width: 172px; background: rgba(15,18,25,.94); color: #e8edf2; border: 1px solid rgba(232,180,74,.5);
+  border-radius: 8px; padding: 9px 10px; cursor: default; box-shadow: 0 10px 26px rgba(0,0,0,.32); }
+.ymarker::after { content: ''; position: absolute; left: 50%; bottom: -7px; width: 12px; height: 12px;
+  transform: translateX(-50%) rotate(45deg); background: rgba(15,18,25,.94); border-right: 1px solid rgba(232,180,74,.5);
+  border-bottom: 1px solid rgba(232,180,74,.5); }
+.ymarker.topic-event { cursor: pointer; }
+.ymarker.topic-event:hover { border-color: #e8b44a; background: rgba(24,29,39,.96); }
+.ymarker.milestone { border-color: rgba(62,180,137,.55); }
+.ymarker.milestone::after { border-right-color: rgba(62,180,137,.55); border-bottom-color: rgba(62,180,137,.55); }
+.ym-region { color: #e8b44a; font-size: 11px; font-weight: 800; line-height: 1.2; }
+.ym-label { margin-top: 3px; color: #f3f6f8; font-size: 12.5px; font-weight: 700; line-height: 1.35; }
+.ym-year { margin-top: 4px; color: #9ab; font-size: 11px; font-weight: 700; }
 
 /* 연대기 */
 .chron { position: absolute; top: 64px; left: 0; bottom: 130px; width: 268px; z-index: 9;
@@ -123,6 +135,8 @@ body { font-family: 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-s
   background: #fff; border: 3px solid #e8b44a; cursor: grab; }
 .era-labels { display: flex; justify-content: space-between; font-size: 11px; color: #9ab; margin-top: 2px; }
 .era-sel { text-align: center; font-size: 13px; margin-top: 6px; color: #e8b44a; font-weight: 700; }
+.era-sel.year-on { display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; }
+.era-sel a { color: #10141c; background: #e8b44a; border-radius: 7px; padding: 4px 9px; text-decoration: none; font-size: 12px; }
 
 /* 사건 SEO 본문 (사건 페이지 하단) */
 .article { position: relative; z-index: 5; margin: 100vh auto 0; max-width: 720px; padding: 40px 24px 80px;

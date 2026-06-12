@@ -1,4 +1,4 @@
-import { getAllTopics, getTopic } from '@/lib/data';
+import { getAllTopics, getTopic, getYearCounts, getYearMapItems } from '@/lib/data';
 import HomeMap from '@/components/HomeMap';
 
 export default function Home() {
@@ -12,5 +12,5 @@ export default function Home() {
     });
     return { ...meta, avgWeights };
   });
-  return <HomeMap topics={topics} />;
+  return <HomeMap topics={topics} yearItems={getYearMapItems()} yearCounts={getYearCounts()} />;
 }

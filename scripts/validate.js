@@ -97,6 +97,17 @@ if (fs.existsSync(MILESTONES_ROOT)) {
             err(f, 'label_en은 비어있지 않은 문자열이어야 함 (label_en must be a non-empty string)');
           if (typeof r.color !== 'string' || !COLOR_RE.test(r.color))
             err(f, `color는 #RRGGBB 형식이어야 함 (color must be #RRGGBB): ${r.color}`);
+          if ('anchor' in r) {
+            if (!r.anchor || typeof r.anchor !== 'object' || Array.isArray(r.anchor)) {
+              err(f, 'anchor는 객체여야 함 (anchor must be an object)');
+            } else {
+              const { lng, lat } = r.anchor;
+              if (typeof lng !== 'number' || lng < -180 || lng > 180)
+                err(f, 'anchor.lng는 -180~180 숫자여야 함 (anchor.lng must be a number from -180 to 180)');
+              if (typeof lat !== 'number' || lat < -90 || lat > 90)
+                err(f, 'anchor.lat은 -90~90 숫자여야 함 (anchor.lat must be a number from -90 to 90)');
+            }
+          }
         });
       }
     }
