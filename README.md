@@ -1,3 +1,5 @@
+한국어 | [English](README.en.md)
+
 <div align="center">
 
 # 🗺️ IUM — 역사를 여러 관점으로
@@ -6,7 +8,7 @@
 
 *Interactive historical atlas showing how the same event is remembered differently — and how much it matters — across civilizations.*
 
-[데모 보기](#시작하기) · [기여하기](CONTRIBUTING.md) · [English](#english)
+[데모 보기](#시작하기) · [기여하기](CONTRIBUTING.md) · [English](README.en.md)
 
 </div>
 
@@ -89,4 +91,4 @@ data/topics/crusade-1/
 
 ## English
 
-IUM maps historical events with **perspective-weighted markers**: the same event renders as a large circle in one civilization's view and a dot in another's. Click any event to compare how European, Arab-Islamic, Byzantine, Korean, or Mongol traditions record it — with primary sources cited. Content lives in plain JSON (`data/topics/`); contributions welcome, sources required. Code MIT, data CC BY-SA 4.0.
+For the full English translation, see [README.en.md](README.en.md).

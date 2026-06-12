@@ -1,3 +1,5 @@
+한국어 | [English](CONTRIBUTING.en.md)
+
 # 기여 가이드
 
 IUM의 모든 콘텐츠는 `data/topics/`의 JSON 파일입니다. 코드를 몰라도 기여할 수 있습니다.
