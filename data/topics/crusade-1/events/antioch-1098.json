@@ -12,19 +12,27 @@
       "name": "안티오크 공방전",
       "weight": 80,
       "narrative": "8개월의 포위, 기아, 성창(聖槍) 발견의 기적 서사. 서구 연대기의 클라이맥스 중 하나.",
-      "sources": []
+      "sources": [
+        "익명 저자, 『게스타 프랑코룸(Gesta Francorum)』",
+        "레이몽 다길레르, 『Historia Francorum qui ceperunt Iherusalem』"
+      ]
     },
     "ar": {
       "name": "안타키야 함락",
       "weight": 60,
       "narrative": "야기 시얀의 죽음과 도시 함락. 케르보가의 패배는 셀주크 분열상의 상징으로 기록된다.",
-      "sources": []
+      "sources": [
+        "이븐 알칼라니시, 『다마스쿠스 연대기 속편(Dhayl Ta'rikh Dimashq)』",
+        "이븐 알아시르, 『완사(al-Kamil fi al-Tarikh)』"
+      ]
     },
     "byz": {
       "name": "안티오크 — 반환되지 않은 도시",
       "weight": 70,
       "narrative": "보에몽이 반환 서약을 깨고 도시를 차지한 사건. 비잔틴-라틴 불신의 시작점.",
-      "sources": []
+      "sources": [
+        "안나 콤네네, 『알렉시아스』"
+      ]
     }
   }
 }

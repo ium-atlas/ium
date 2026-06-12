@@ -12,21 +12,28 @@
       "name": "예루살렘 해방",
       "weight": 95,
       "narrative": "서구 서사의 정점. 연대기들은 성묘 앞의 통곡과 감격을 기록하며 원정의 완성으로 묘사한다.",
-      "sources": []
+      "sources": [
+        "익명 저자, 『게스타 프랑코룸(Gesta Francorum)』",
+        "레이몽 다길레르, 『Historia Francorum qui ceperunt Iherusalem』"
+      ]
     },
     "ar": {
       "name": "예루살렘 함락과 학살",
       "weight": 70,
       "narrative": "당대에는 충격적이었으나 이후 수십 년간 이슬람 중심부의 대응은 미온적이었다. \"예루살렘 상실\"이 범이슬람적 대의가 된 것은 장기·살라딘 시대부터, 그리고 현대에 와서 비중이 다시 급상승한다 — 시대에 따라 비중 자체가 변하는 사례.",
       "sources": [
-        "Hillenbrand; 이븐 알아시르 — 출처 표기 예시"
+        "이븐 알칼라니시, 『다마스쿠스 연대기 속편(Dhayl Ta'rikh Dimashq)』",
+        "이븐 알아시르, 『완사(al-Kamil fi al-Tarikh)』",
+        "캐롤 힐렌브랜드, 『The Crusades: Islamic Perspectives』"
       ]
     },
     "byz": {
       "name": "(정치적 거리두기)",
       "weight": 30,
       "narrative": "비잔틴은 축하 사절을 보냈으나 제국의 관심은 여전히 소아시아 수복이었다.",
-      "sources": []
+      "sources": [
+        "안나 콤네네, 『알렉시아스』"
+      ]
     }
   }
 }
