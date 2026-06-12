@@ -1,0 +1,30 @@
+{
+  "id": "rhineland",
+  "name": "라인란트 유대인 학살",
+  "type": "massacre",
+  "date": "1096-05",
+  "location": {
+    "lng": 7,
+    "lat": 50.3
+  },
+  "perspectives": {
+    "eu": {
+      "name": "라인란트 학살",
+      "weight": 35,
+      "narrative": null,
+      "sources": []
+    },
+    "ar": {
+      "name": "(기록 없음)",
+      "weight": 3,
+      "narrative": null,
+      "sources": []
+    },
+    "byz": {
+      "name": "(기록 없음)",
+      "weight": 3,
+      "narrative": null,
+      "sources": []
+    }
+  }
+}

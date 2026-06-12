@@ -1,0 +1,36 @@
+{
+  "id": "ganghwa",
+  "name": "강화 천도",
+  "type": "movement",
+  "date": "1232-07",
+  "location": {
+    "lng": 126.49,
+    "lat": 37.75
+  },
+  "perspectives": {
+    "mn": {
+      "name": "고려 조정의 도피",
+      "weight": 15,
+      "narrative": null,
+      "sources": []
+    },
+    "kr": {
+      "name": "강화 천도 — 39년 항쟁의 시작",
+      "weight": 90,
+      "narrative": "최우 정권이 수도를 강화도로 옮기며 장기 항전 체제에 돌입했다. 바다에 약한 몽골군의 특성을 이용한 선택이었으나, 본토 백성이 겪은 참화와 함께 평가가 갈리는 사건이기도 하다.",
+      "sources": []
+    },
+    "is": {
+      "name": "(기록 없음)",
+      "weight": 3,
+      "narrative": null,
+      "sources": []
+    },
+    "eu": {
+      "name": "(기록 없음)",
+      "weight": 3,
+      "narrative": null,
+      "sources": []
+    }
+  }
+}

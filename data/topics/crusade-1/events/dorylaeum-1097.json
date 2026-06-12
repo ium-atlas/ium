@@ -1,0 +1,30 @@
+{
+  "id": "dorylaeum",
+  "name": "도릴라이움 전투",
+  "type": "battle",
+  "date": "1097-07",
+  "location": {
+    "lng": 30.52,
+    "lat": 39.78
+  },
+  "perspectives": {
+    "eu": {
+      "name": "도릴라이움 전투",
+      "weight": 55,
+      "narrative": null,
+      "sources": []
+    },
+    "ar": {
+      "name": "도릴라이움 패전",
+      "weight": 30,
+      "narrative": null,
+      "sources": []
+    },
+    "byz": {
+      "name": "(간략 기록)",
+      "weight": 20,
+      "narrative": null,
+      "sources": []
+    }
+  }
+}

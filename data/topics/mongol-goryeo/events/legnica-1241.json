@@ -1,0 +1,36 @@
+{
+  "id": "legnica",
+  "name": "레그니차 전투",
+  "type": "battle",
+  "date": "1241-04",
+  "location": {
+    "lng": 16.2,
+    "lat": 51.2
+  },
+  "perspectives": {
+    "mn": {
+      "name": "(서방 원정의 일부)",
+      "weight": 30,
+      "narrative": "바투-수부타이 원정의 일부. 몽골 기록에서 비중은 크지 않다.",
+      "sources": []
+    },
+    "kr": {
+      "name": "(기록 없음)",
+      "weight": 3,
+      "narrative": null,
+      "sources": []
+    },
+    "is": {
+      "name": "(간접 인지)",
+      "weight": 10,
+      "narrative": null,
+      "sources": []
+    },
+    "eu": {
+      "name": "기독교 세계의 공포",
+      "weight": 85,
+      "narrative": "폴란드-독일 연합군의 궤멸. 유럽 연대기는 \"타타르의 공포\"를 종말론적 언어로 기록했다. 오고타이 칸의 죽음으로 몽골군이 회군하지 않았다면 — 이라는 가정은 유럽사 서술의 단골 주제다. 유럽(85) vs 몽골(30)의 비대칭.",
+      "sources": []
+    }
+  }
+}

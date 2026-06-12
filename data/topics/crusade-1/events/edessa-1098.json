@@ -1,0 +1,30 @@
+{
+  "id": "edessa",
+  "name": "에데사 백국 수립",
+  "type": "political",
+  "date": "1098-03",
+  "location": {
+    "lng": 38.79,
+    "lat": 37.16
+  },
+  "perspectives": {
+    "eu": {
+      "name": "에데사 백국 수립",
+      "weight": 40,
+      "narrative": null,
+      "sources": []
+    },
+    "ar": {
+      "name": "루하의 찬탈",
+      "weight": 50,
+      "narrative": null,
+      "sources": []
+    },
+    "byz": {
+      "name": "제국 영토에 세워진 라틴 국가",
+      "weight": 35,
+      "narrative": null,
+      "sources": []
+    }
+  }
+}

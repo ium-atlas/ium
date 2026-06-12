@@ -1,0 +1,23 @@
+name: 사건 제안
+description: 새 사건 추가 또는 기존 사건 보완을 제안합니다
+labels: [event-proposal]
+body:
+  - type: input
+    id: topic
+    attributes: { label: 주제, placeholder: "예: crusade-1" }
+    validations: { required: true }
+  - type: input
+    id: name
+    attributes: { label: 사건명, placeholder: "예: 아스칼론 전투" }
+    validations: { required: true }
+  - type: input
+    id: date
+    attributes: { label: 시기 (YYYY-MM), placeholder: "1099-08" }
+    validations: { required: true }
+  - type: textarea
+    id: perspectives
+    attributes:
+      label: 관점별 서술과 출처
+      description: 관점마다 한 줄 요약 + 출처. 출처 없는 제안은 반려됩니다.
+      placeholder: "eu: ... (출처: ...)\nar: ... (출처: ...)"
+    validations: { required: true }

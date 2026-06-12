@@ -1,0 +1,12 @@
+name: 오류 제보
+description: 사실 오류, 좌표/날짜 오류, 편향된 서술을 제보합니다
+labels: [error-report]
+body:
+  - type: input
+    id: where
+    attributes: { label: 위치, placeholder: "data/topics/crusade-1/events/jerusalem-1099.json" }
+    validations: { required: true }
+  - type: textarea
+    id: what
+    attributes: { label: 무엇이 잘못되었나요?, description: 근거 사료/문헌이 있으면 함께 적어주세요. }
+    validations: { required: true }

@@ -1,0 +1,36 @@
+{
+  "id": "peace1259",
+  "name": "고려–몽골 강화",
+  "type": "treaty",
+  "date": "1259-04",
+  "location": {
+    "lng": 126.55,
+    "lat": 37.97
+  },
+  "perspectives": {
+    "mn": {
+      "name": "고려 복속의 완성",
+      "weight": 20,
+      "narrative": null,
+      "sources": []
+    },
+    "kr": {
+      "name": "태자 입조 — 항쟁의 끝, 간섭기의 시작",
+      "weight": 75,
+      "narrative": "태자(훗날 원종)의 입조로 39년 전쟁이 끝났다. 한국사에서는 \"항복이 아닌 강화\"라는 해석과 원 간섭기의 시작이라는 평가가 교차하는 지점이다.",
+      "sources": []
+    },
+    "is": {
+      "name": "(기록 없음)",
+      "weight": 2,
+      "narrative": null,
+      "sources": []
+    },
+    "eu": {
+      "name": "(기록 없음)",
+      "weight": 2,
+      "narrative": null,
+      "sources": []
+    }
+  }
+}

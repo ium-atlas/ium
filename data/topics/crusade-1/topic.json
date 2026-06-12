@@ -1,0 +1,45 @@
+{
+  "id": "crusade-1",
+  "title": "1차 십자군",
+  "subtitle": "1095–1099",
+  "period": [
+    1095,
+    1099
+  ],
+  "start": "1095-11",
+  "end": "1099-07",
+  "bounds": [
+    [
+      -8,
+      28
+    ],
+    [
+      43,
+      54
+    ]
+  ],
+  "card": [
+    22,
+    44
+  ],
+  "territory_years": [
+    1100
+  ],
+  "perspectives": [
+    {
+      "code": "eu",
+      "label": "유럽",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "ar",
+      "label": "아랍·이슬람",
+      "color": "#3eb489"
+    },
+    {
+      "code": "byz",
+      "label": "비잔틴",
+      "color": "#b06ad9"
+    }
+  ]
+}

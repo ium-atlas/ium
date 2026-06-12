@@ -1,0 +1,51 @@
+{
+  "id": "mongol-goryeo",
+  "title": "몽골 제국의 팽창과 고려",
+  "subtitle": "1206–1259",
+  "period": [
+    1206,
+    1259
+  ],
+  "start": "1206-01",
+  "end": "1259-12",
+  "bounds": [
+    [
+      10,
+      18
+    ],
+    [
+      135,
+      58
+    ]
+  ],
+  "card": [
+    105,
+    46
+  ],
+  "territory_years": [
+    1200,
+    1279
+  ],
+  "perspectives": [
+    {
+      "code": "mn",
+      "label": "몽골",
+      "color": "#e8884a"
+    },
+    {
+      "code": "kr",
+      "label": "고려",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "is",
+      "label": "이슬람권",
+      "color": "#3eb489"
+    },
+    {
+      "code": "eu",
+      "label": "유럽",
+      "color": "#b06ad9"
+    }
+  ]
+}

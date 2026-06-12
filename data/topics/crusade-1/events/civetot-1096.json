@@ -1,0 +1,30 @@
+{
+  "id": "civetot",
+  "name": "민중 십자군 궤멸 (키보토스)",
+  "type": "battle",
+  "date": "1096-10",
+  "location": {
+    "lng": 29.6,
+    "lat": 40.42
+  },
+  "perspectives": {
+    "eu": {
+      "name": "민중 십자군의 궤멸",
+      "weight": 40,
+      "narrative": null,
+      "sources": []
+    },
+    "ar": {
+      "name": "프랑크 선발대 격멸",
+      "weight": 25,
+      "narrative": null,
+      "sources": []
+    },
+    "byz": {
+      "name": "키보토스의 참극",
+      "weight": 45,
+      "narrative": null,
+      "sources": []
+    }
+  }
+}

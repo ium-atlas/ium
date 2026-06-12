@@ -1,0 +1,36 @@
+{
+  "id": "tripitaka",
+  "name": "팔만대장경 조판 시작",
+  "type": "culture",
+  "date": "1236-06",
+  "location": {
+    "lng": 126.49,
+    "lat": 37.72
+  },
+  "perspectives": {
+    "mn": {
+      "name": "(기록 없음)",
+      "weight": 3,
+      "narrative": null,
+      "sources": []
+    },
+    "kr": {
+      "name": "대장경 — 불력으로 국난 극복",
+      "weight": 80,
+      "narrative": null,
+      "sources": []
+    },
+    "is": {
+      "name": "(기록 없음)",
+      "weight": 2,
+      "narrative": null,
+      "sources": []
+    },
+    "eu": {
+      "name": "(기록 없음)",
+      "weight": 2,
+      "narrative": null,
+      "sources": []
+    }
+  }
+}

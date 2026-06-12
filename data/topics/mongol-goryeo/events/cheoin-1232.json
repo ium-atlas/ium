@@ -1,0 +1,38 @@
+{
+  "id": "cheoin",
+  "name": "처인성 전투 — 살리타 사살",
+  "type": "battle",
+  "date": "1232-12",
+  "location": {
+    "lng": 127.2,
+    "lat": 37.23
+  },
+  "perspectives": {
+    "mn": {
+      "name": "살리타 전사",
+      "weight": 30,
+      "narrative": null,
+      "sources": []
+    },
+    "kr": {
+      "name": "김윤후와 처인 부곡민의 승리",
+      "weight": 85,
+      "narrative": "승려 김윤후와 천민 부곡민들이 몽골군 사령관 살리타를 사살한 사건. 정규군이 아닌 민중의 승리라는 점에서 한국사 서술에서 특별한 비중을 갖는다.",
+      "sources": [
+        "고려사 김윤후전 — 출처 표기 예시"
+      ]
+    },
+    "is": {
+      "name": "(기록 없음)",
+      "weight": 3,
+      "narrative": null,
+      "sources": []
+    },
+    "eu": {
+      "name": "(기록 없음)",
+      "weight": 3,
+      "narrative": null,
+      "sources": []
+    }
+  }
+}

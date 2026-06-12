@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IUM — 프로토타입 v3</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.min.js"></script>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic',sans-serif; overflow:hidden; }
+  #map { position:absolute; inset:0; }
+  .hide { display:none !important; }
+
+  /* 상단 바 */
+  #topbar { position:absolute; top:0; left:0; right:0; z-index:10;
+    display:flex; align-items:center; gap:14px; padding:12px 20px;
+    background:linear-gradient(rgba(15,18,25,.92),rgba(15,18,25,.75) 70%,transparent); color:#fff; pointer-events:none; }
+  #topbar > * { pointer-events:auto; }
+  #logo { font-size:18px; font-weight:800; letter-spacing:1px; cursor:pointer; }
+  #logo small { font-weight:400; color:#9ab; margin-left:8px; font-size:12px; }
+  #back { border:0; background:rgba(255,255,255,.1); color:#e8edf2; padding:7px 14px; border-radius:8px; cursor:pointer; font-size:13px; font-weight:600; }
+  #layers { display:flex; gap:6px; background:rgba(255,255,255,.08); border-radius:10px; padding:5px 8px; }
+  .lay { display:flex; align-items:center; gap:6px; color:#cdd6e0; font-size:13px; font-weight:600;
+    padding:5px 10px; border-radius:7px; cursor:pointer; user-select:none; border:1px solid transparent; }
+  .lay .sw { width:12px; height:12px; border-radius:50%; }
+  .lay.on { background:rgba(255,255,255,.1); border-color:rgba(255,255,255,.18); }
+  .lay.off { opacity:.38; }
+  #hint { font-size:12px; color:#9ab; }
+
+  /* 주제 카드 (지도 마커) */
+  .tcard { width:178px; background:rgba(15,18,25,.93); color:#e8edf2; border:1px solid rgba(255,255,255,.18);
+    border-radius:11px; padding:10px 12px; cursor:pointer; transition:transform .15s, border-color .15s; }
+  .tcard:hover { transform:scale(1.05); border-color:#e8b44a; }
+  .tcard .tt { font-size:13.5px; font-weight:700; }
+  .tcard .tp { font-size:11px; color:#9ab; margin:2px 0 6px; }
+  .tcard .tb { display:flex; gap:3px; align-items:center; }
+  .tcard .tb i { display:block; height:5px; border-radius:3px; }
+  .tcard .badge { display:inline-block; margin-top:6px; font-size:10.5px; color:#e8b44a; }
+  .tcard.soon { border-style:dashed; opacity:.55; cursor:default; }
+  .tcard.soon:hover { transform:none; border-color:rgba(255,255,255,.18); }
+  .tcard.soon .badge { color:#7a8a9a; }
+
+  /* 연대기 */
+  #chron { position:absolute; top:64px; left:0; bottom:130px; width:268px; z-index:9;
+    background:rgba(15,18,25,.92); color:#e8edf2; border-radius:0 14px 14px 0; display:flex; flex-direction:column; }
+  #chron h3 { font-size:11px; color:#9ab; letter-spacing:2px; padding:14px 16px 8px; text-transform:uppercase; }
+  #chron-list { overflow-y:auto; flex:1; padding:0 8px 12px; }
+  .ce { padding:9px 10px; border-radius:9px; cursor:pointer; margin:2px 0; border-left:3px solid transparent; transition:all .2s; }
+  .ce .cd { font-size:11px; color:#e8b44a; font-weight:700; font-variant-numeric:tabular-nums; }
+  .ce .cn { font-size:13px; font-weight:600; margin:2px 0 4px; line-height:1.35; }
+  .ce .cw { display:flex; gap:3px; align-items:center; height:6px; }
+  .ce .cw i { display:block; height:5px; border-radius:3px; }
+  .ce.future { opacity:.28; }
+  .ce.now { background:rgba(232,180,74,.13); border-left-color:#e8b44a; }
+  .ce:hover { background:rgba(255,255,255,.07); }
+
+  /* 사이드 패널 */
+  #panel { position:absolute; top:64px; right:0; bottom:130px; width:380px; z-index:9;
+    background:rgba(15,18,25,.94); color:#e8edf2; border-radius:14px 0 0 14px;
+    transform:translateX(100%); transition:transform .25s; display:flex; flex-direction:column; }
+  #panel.open { transform:translateX(0); }
+  #panel-head { padding:18px 20px 12px; border-bottom:1px solid rgba(255,255,255,.08); }
+  #panel-close { position:absolute; top:12px; right:14px; background:none; border:0; color:#9ab; font-size:18px; cursor:pointer; }
+  #ev-date { font-size:12px; color:#e8b44a; font-weight:700; }
+  #ev-title { font-size:19px; font-weight:800; margin:4px 0 2px; }
+  #gauge { padding:14px 20px; border-bottom:1px solid rgba(255,255,255,.08); }
+  #gauge h4 { font-size:11px; color:#9ab; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; }
+  .grow { display:flex; align-items:center; gap:8px; margin:6px 0 0; font-size:12px; }
+  .grow span.lab { width:72px; color:#cdd6e0; }
+  .gbar { flex:1; height:8px; background:rgba(255,255,255,.08); border-radius:4px; overflow:hidden; }
+  .gfill { height:100%; border-radius:4px; transition:width .4s; }
+  .grow span.val { width:28px; text-align:right; color:#9ab; }
+  .gname { font-size:11px; color:#7a8a9a; margin:1px 0 4px 80px; }
+  #tabs { display:flex; border-bottom:1px solid rgba(255,255,255,.08); }
+  .tab { flex:1; padding:10px 4px; background:none; border:0; color:#9ab; font-size:12.5px; font-weight:600; cursor:pointer; border-bottom:2px solid transparent; }
+  .tab.on { color:#e8b44a; border-bottom-color:#e8b44a; }
+  #narr { padding:16px 20px; overflow-y:auto; flex:1; font-size:13.5px; line-height:1.7; color:#cdd6e0; }
+  #narr .src { margin-top:12px; font-size:11px; color:#7a8a9a; border-top:1px dashed rgba(255,255,255,.1); padding-top:8px; }
+  .placeholder { color:#67788a; font-style:italic; }
+
+  /* 하단 공통 */
+  .botbar { position:absolute; left:0; right:0; bottom:0; z-index:10; padding:14px 24px 18px;
+    background:linear-gradient(transparent,rgba(15,18,25,.85) 30%,rgba(15,18,25,.95)); color:#fff; }
+
+  /* 주제 타임라인 */
+  #tl-top { display:flex; align-items:center; gap:14px; margin-bottom:4px; }
+  #play { width:38px; height:38px; border-radius:50%; border:0; background:#e8b44a; color:#1a1408; font-size:15px; cursor:pointer; flex-shrink:0; }
+  #cur-date { font-size:20px; font-weight:800; font-variant-numeric:tabular-nums; min-width:96px; }
+  #cur-event { font-size:12.5px; color:#e8b44a; }
+  #track { position:relative; height:14px; }
+  .tm { position:absolute; top:2px; width:8px; height:8px; border-radius:50%; background:#e8b44a;
+    border:1.5px solid #1a1408; transform:translateX(-50%); cursor:pointer; }
+  .tm.future { background:#5a6678; }
+  .tm:hover::after { content:attr(data-n); position:absolute; bottom:14px; left:50%; transform:translateX(-50%);
+    background:#1a1f2a; color:#e8edf2; font-size:11px; padding:4px 8px; border-radius:6px; white-space:nowrap; }
+  #slider { width:100%; accent-color:#e8b44a; cursor:pointer; display:block; }
+  #tl-labels { display:flex; justify-content:space-between; font-size:11px; color:#9ab; margin-top:2px; }
+
+  /* 아이콘 범례 */
+  #iconlegend { position:absolute; left:282px; bottom:140px; z-index:8; display:flex; gap:10px;
+    background:rgba(15,18,25,.85); color:#cdd6e0; padding:7px 12px; border-radius:9px; font-size:11px; align-items:center; }
+  #iconlegend span { display:flex; align-items:center; gap:4px; }
+
+  /* 홈 시대 필터 */
+  #era-chips { display:flex; gap:6px; margin-bottom:10px; flex-wrap:wrap; align-items:center; }
+  .chip { border:1px solid rgba(255,255,255,.22); background:rgba(255,255,255,.06); color:#cdd6e0;
+    font-size:12px; font-weight:600; padding:5px 12px; border-radius:20px; cursor:pointer; }
+  .chip:hover, .chip.on { background:#e8b44a; color:#1a1408; border-color:#e8b44a; }
+  #era-inputs { margin-left:auto; display:flex; gap:6px; align-items:center; font-size:12px; color:#9ab; }
+  #era-inputs input { width:74px; background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.18);
+    color:#e8edf2; border-radius:7px; padding:5px 8px; font-size:12px; }
+  #dual { position:relative; height:26px; }
+  #dual .rail { position:absolute; top:11px; left:0; right:0; height:5px; background:rgba(255,255,255,.12); border-radius:3px; }
+  #dual .fill { position:absolute; top:11px; height:5px; background:#e8b44a; border-radius:3px; }
+  #dual input[type=range] { position:absolute; top:0; left:0; width:100%; height:26px; -webkit-appearance:none; appearance:none;
+    background:transparent; pointer-events:none; margin:0; }
+  #dual input[type=range]::-webkit-slider-thumb { -webkit-appearance:none; appearance:none; pointer-events:auto;
+    width:18px; height:18px; border-radius:50%; background:#fff; border:3px solid #e8b44a; cursor:grab; }
+  #dual input[type=range]::-moz-range-thumb { pointer-events:auto; width:14px; height:14px; border-radius:50%;
+    background:#fff; border:3px solid #e8b44a; cursor:grab; }
+  #era-labels { display:flex; justify-content:space-between; font-size:11px; color:#9ab; margin-top:2px; }
+  #era-sel { text-align:center; font-size:13px; margin-top:6px; color:#e8b44a; font-weight:700; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<div id="topbar">
+  <div id="logo">IUM<small id="crumb">세계 — 시대를 골라 역사를 펼쳐보세요</small></div>
+  <button id="back" class="hide">← 세계지도</button>
+  <div id="layers" class="hide"></div>
+  <div id="hint" class="hide">원의 크기 = 그 관점에서의 비중</div>
+</div>
+
+<div id="iconlegend" class="hide"></div>
+
+<div id="chron" class="hide">
+  <h3>연대기 — 시대순</h3>
+  <div id="chron-list"></div>
+</div>
+
+<div id="panel">
+  <div id="panel-head">
+    <button id="panel-close">✕</button>
+    <div id="ev-date"></div>
+    <div id="ev-title"></div>
+  </div>
+  <div id="gauge"><h4>관점별 비중 · 명칭</h4><div id="gauge-rows"></div></div>
+  <div id="tabs"></div>
+  <div id="narr"></div>
+</div>
+
+<!-- 홈: 시대 필터 -->
+<div id="homebar" class="botbar">
+  <div id="era-chips">
+    <button class="chip on" data-r="-3000,2030">전체</button>
+    <button class="chip" data-r="-3000,500">고대</button>
+    <button class="chip" data-r="500,1500">중세</button>
+    <button class="chip" data-r="1000,1100">11세기</button>
+    <button class="chip" data-r="1200,1300">13세기</button>
+    <button class="chip" data-r="1500,1600">16세기</button>
+    <button class="chip" data-r="1800,1900">19세기</button>
+    <button class="chip" data-r="1900,2000">20세기</button>
+    <div id="era-inputs">
+      정확한 연도 <input type="number" id="ylo" value="-3000" step="10" title="음수 = 기원전">–<input type="number" id="yhi" value="2030" step="10">
+    </div>
+  </div>
+  <div id="dual">
+    <div class="rail"></div><div class="fill" id="fill"></div>
+    <input type="range" id="rlo" min="-3000" max="2030" step="10" value="-3000">
+    <input type="range" id="rhi" min="-3000" max="2030" step="10" value="2030">
+  </div>
+  <div id="era-labels"><span>← 기원전 3000</span><span>BC 1000</span><span>0</span><span>1000</span><span>현재 →</span></div>
+  <div id="era-sel"></div>
+</div>
+
+<!-- 주제: 타임라인 -->
+<div id="timeline" class="botbar hide">
+  <div id="tl-top">
+    <button id="play">▶</button>
+    <div id="cur-date"></div>
+    <div id="cur-event"></div>
+  </div>
+  <div id="track"></div>
+  <input type="range" id="slider" min="0" max="44" value="0" step="1">
+  <div id="tl-labels"><span id="tl-l"></span><span id="tl-r"></span></div>
+</div>
+
+<script>
+// ───────── 유틸
+const ami = s => { const neg = s[0] === '-'; const [y, m] = (neg ? s.slice(1) : s).split('-').map(Number); return (neg ? -y : y) * 12 + m - 1; };
+const fmtM = a => { const y = Math.floor(a / 12), m = a - y * 12 + 1; return (y < 0 ? 'BC ' + (-y) : y) + '.' + String(m).padStart(2, '0'); };
+const fmtY = y => y < 0 ? 'BC ' + (-y) : String(y);
+
+// ───────── 주제 데이터 (프로토타입 — 실데이터로 교체 예정)
+const TOPICS = [
+{
+  id: 'crusade1', ready: true,
+  title: '1차 십자군', sub: '1095–1099',
+  period: [1095, 1099], card: [22, 44],
+  start: '1095-11', end: '1099-07',
+  bounds: [[-8, 28], [43, 54]],
+  terr: [1100],
+  persps: [
+    { c: 'eu', label: '유럽', color: '#4a90d9' },
+    { c: 'ar', label: '아랍·이슬람', color: '#3eb489' },
+    { c: 'byz', label: '비잔틴', color: '#b06ad9' } ],
+  routes: [
+    { color: '#d94a4a', pts: [[5.4,49.2,'1096-08'],[12.1,49.0,'1096-09'],[16.4,48.2,'1096-10'],[20.5,44.8,'1096-11'],[23.3,42.7,'1096-12'],[29.0,41.0,'1096-12'],[29.7,40.4,'1097-05'],[30.5,39.8,'1097-07'],[32.5,37.9,'1097-08'],[34.0,37.4,'1097-09'],[36.2,36.2,'1097-10'],[36.7,35.6,'1098-12'],[35.8,34.4,'1099-02'],[34.8,32.0,'1099-06'],[35.23,31.78,'1099-06']] },
+    { color: '#e8884a', pts: [[7.0,50.9,'1096-04'],[12.1,49.0,'1096-05'],[16.4,48.2,'1096-06'],[20.5,44.8,'1096-07'],[23.3,42.7,'1096-07'],[29.0,41.0,'1096-08'],[29.6,40.4,'1096-10']] },
+    { color: '#d9c44a', pts: [[1.4,43.6,'1096-10'],[9.2,45.5,'1096-11'],[13.8,45.7,'1096-12'],[18.1,42.7,'1097-01'],[19.5,41.3,'1097-02'],[22.9,40.6,'1097-03'],[29.0,41.0,'1097-04'],[29.7,40.4,'1097-05']] } ],
+  events: [
+    { id:'clermont', name:'클레르몽 공의회', lng:3.08, lat:45.78, date:'1095-11',
+      names:{ eu:'클레르몽 공의회 — "신께서 그것을 원하신다"', ar:'(아랍 기록에 거의 등장하지 않음)', byz:'알렉시오스의 원군 요청에 대한 응답' },
+      w:{ eu:90, ar:5, byz:35 },
+      narr:{
+        eu:'교황 우르바누스 2세가 클레르몽에서 동방 원정을 호소했다. 서구 연대기들은 이 날을 십자군의 출발점이자 기독교 세계가 하나로 응답한 순간으로 기록한다.',
+        ar:'당대 아랍 연대기에서 클레르몽 공의회는 사실상 등장하지 않는다. 이슬람 세계는 수년 뒤 프랑크 군대가 아나톨리아에 나타나고서야 이 움직임을 인지했다. 비중 격차(90 vs 5)가 이 사이트가 보여주려는 것이다.',
+        byz:'비잔틴 입장에서 이 공의회는 황제 알렉시오스 1세가 요청한 "용병 지원"에 대한 응답이었다. 그러나 도착한 것은 통제 불가능한 대규모 무장 순례단이었다.' },
+      src:{ eu:'로베르 연대기 — 출처 표기 예시', ar:'Hillenbrand, Islamic Perspectives — 출처 표기 예시', byz:'안나 콤네네, 알렉시아스 10권 — 출처 표기 예시' } },
+    { id:'rhineland', name:'라인란트 유대인 학살', lng:7.0, lat:50.3, date:'1096-05',
+      names:{ eu:'라인란트 학살', ar:'(기록 없음)', byz:'(기록 없음)' }, w:{ eu:35, ar:3, byz:3 },
+      narr:{ eu:'placeholder', ar:'placeholder', byz:'placeholder' }, src:{} },
+    { id:'civetot', name:'민중 십자군 궤멸 (키보토스)', lng:29.6, lat:40.42, date:'1096-10',
+      names:{ eu:'민중 십자군의 궤멸', ar:'프랑크 선발대 격멸', byz:'키보토스의 참극' }, w:{ eu:40, ar:25, byz:45 },
+      narr:{ eu:'placeholder', ar:'placeholder', byz:'placeholder' }, src:{} },
+    { id:'nicaea', name:'니케아 공방전', lng:29.72, lat:40.43, date:'1097-06',
+      names:{ eu:'니케아 공방전', ar:'니케아 상실', byz:'니케아 수복' }, w:{ eu:55, ar:35, byz:75 },
+      narr:{
+        eu:'십자군 본대의 첫 승리. 서구 연대기는 공성의 무용담을 길게 다룬다.',
+        ar:'룸 셀주크의 수도 상실. 다만 당대 이슬람 중심부에서는 변경 소식 정도로 취급됐다.',
+        byz:'도시는 십자군이 아니라 황제에게 항복했고, 제국은 소아시아 수복의 발판을 얻었다. 비중(75)이 유럽(55)보다 높은 이유다.' },
+      src:{ byz:'알렉시아스 11권 — 출처 표기 예시' } },
+    { id:'dorylaeum', name:'도릴라이움 전투', lng:30.52, lat:39.78, date:'1097-07',
+      names:{ eu:'도릴라이움 전투', ar:'도릴라이움 패전', byz:'(간략 기록)' }, w:{ eu:55, ar:30, byz:20 },
+      narr:{ eu:'placeholder', ar:'placeholder', byz:'placeholder' }, src:{} },
+    { id:'edessa', name:'에데사 백국 수립', lng:38.79, lat:37.16, date:'1098-03',
+      names:{ eu:'에데사 백국 수립', ar:'루하의 찬탈', byz:'제국 영토에 세워진 라틴 국가' }, w:{ eu:40, ar:50, byz:35 },
+      narr:{ eu:'placeholder', ar:'placeholder', byz:'placeholder' }, src:{} },
+    { id:'antioch', name:'안티오크 공방전', lng:36.16, lat:36.2, date:'1098-06',
+      names:{ eu:'안티오크 공방전', ar:'안타키야 함락', byz:'안티오크 — 반환되지 않은 도시' }, w:{ eu:80, ar:60, byz:70 },
+      narr:{
+        eu:'8개월의 포위, 기아, 성창(聖槍) 발견의 기적 서사. 서구 연대기의 클라이맥스 중 하나.',
+        ar:'야기 시얀의 죽음과 도시 함락. 케르보가의 패배는 셀주크 분열상의 상징으로 기록된다.',
+        byz:'보에몽이 반환 서약을 깨고 도시를 차지한 사건. 비잔틴-라틴 불신의 시작점.' }, src:{} },
+    { id:'maarat', name:'마라트 안누만', lng:36.67, lat:35.65, date:'1098-12',
+      names:{ eu:'마라트 안누만 (간략히 기록)', ar:'마아라트 학살 — 기억의 상처', byz:'(기록 없음)' }, w:{ eu:25, ar:75, byz:5 },
+      narr:{
+        eu:'서구 연대기 일부도 식인 사건을 기록했으나, 전체 서사에서 비중은 작다.',
+        ar:'아랍 측 기억에서 가장 어두운 사건 중 하나. 식인 기록은 수세기 동안 프랑크인의 야만성의 상징으로 전승됐다. 유럽(25) vs 아랍(75) — 비중 비대칭의 대표 사례.',
+        byz:'비잔틴 사료에는 거의 등장하지 않는다.' },
+      src:{ ar:'이븐 알아시르, 완사 — 출처 표기 예시' } },
+    { id:'jerusalem', name:'예루살렘 함락', lng:35.23, lat:31.78, date:'1099-07',
+      names:{ eu:'예루살렘 해방', ar:'예루살렘 함락과 학살', byz:'(정치적 거리두기)' }, w:{ eu:95, ar:70, byz:30 },
+      narr:{
+        eu:'서구 서사의 정점. 연대기들은 성묘 앞의 통곡과 감격을 기록하며 원정의 완성으로 묘사한다.',
+        ar:'당대에는 충격적이었으나 이후 수십 년간 이슬람 중심부의 대응은 미온적이었다. "예루살렘 상실"이 범이슬람적 대의가 된 것은 장기·살라딘 시대부터, 그리고 현대에 와서 비중이 다시 급상승한다 — 시대에 따라 비중 자체가 변하는 사례.',
+        byz:'비잔틴은 축하 사절을 보냈으나 제국의 관심은 여전히 소아시아 수복이었다.' },
+      src:{ ar:'Hillenbrand; 이븐 알아시르 — 출처 표기 예시' } } ]
+},
+{
+  id: 'mongol', ready: true,
+  title: '몽골 제국의 팽창과 고려', sub: '1206–1259',
+  period: [1206, 1259], card: [105, 46],
+  start: '1206-01', end: '1259-12',
+  bounds: [[10, 18], [135, 58]],
+  terr: [1200, 1279],
+  persps: [
+    { c: 'mn', label: '몽골', color: '#e8884a' },
+    { c: 'kr', label: '고려', color: '#4a90d9' },
+    { c: 'is', label: '이슬람권', color: '#3eb489' },
+    { c: 'eu', label: '유럽', color: '#b06ad9' } ],
+  routes: [
+    { color: '#d9c44a', pts: [[110,48,'1219-05'],[86,47,'1219-07'],[68.3,42.9,'1219-09'],[64.4,39.8,'1220-02'],[66.9,39.6,'1220-03'],[62.2,37.7,'1221-03']] },
+    { color: '#d94a4a', pts: [[55,51,'1236-06'],[39.7,54.6,'1237-12'],[37.6,55.7,'1238-02'],[30.5,50.45,'1240-12'],[16.2,51.2,'1241-04'],[19.1,47.5,'1241-04']] },
+    { color: '#4a90d9', pts: [[124.4,40.1,'1231-08'],[125.0,39.7,'1231-09'],[125.75,39.0,'1231-11'],[126.55,37.97,'1231-12']] },
+    { color: '#3eb489', pts: [[110,48,'1253-05'],[66.9,39.6,'1255-09'],[51.4,35.7,'1256-11'],[44.4,33.3,'1258-01']] } ],
+  events: [
+    { id:'genghis', name:'칭기즈 칸 즉위', lng:108.7, lat:48.5, date:'1206-03',
+      names:{ mn:'예케 몽골 울루스의 탄생', kr:'(고려는 아직 인지하지 못함)', is:'(동방의 소문)', eu:'(미지의 존재)' },
+      w:{ mn:95, kr:5, is:10, eu:3 },
+      narr:{
+        mn:'테무진이 쿠릴타이에서 칭기즈 칸으로 추대되며 몽골 초원이 통일됐다. 몽골 관점에서 모든 역사의 출발점이며, 『몽골비사』의 중심 서사다.',
+        kr:'1206년의 고려는 최충헌 무신정권 초기로, 초원의 통일을 알지 못했다. 사반세기 뒤 이 사건이 고려의 운명을 바꾼다 — 비중 격차(95 vs 5)는 시차를 두고 역전된다.',
+        is:'placeholder', eu:'placeholder' },
+      src:{ mn:'몽골비사 — 출처 표기 예시' } },
+    { id:'zhongdu', name:'금 중도(베이징) 함락', lng:116.4, lat:39.9, date:'1215-05',
+      names:{ mn:'금 정벌의 분수령', kr:'북방 정세의 격변', is:'(간접 인지)', eu:'(기록 없음)' },
+      w:{ mn:80, kr:35, is:10, eu:3 },
+      narr:{ mn:'placeholder', kr:'placeholder', is:'placeholder', eu:'placeholder' }, src:{} },
+    { id:'otrar', name:'호라즘 원정 개시 (오트라르)', lng:68.3, lat:42.9, date:'1219-09',
+      names:{ mn:'서방 원정의 시작', kr:'(인지 밖)', is:'재앙의 서막', eu:'(소문 수준)' },
+      w:{ mn:70, kr:3, is:90, eu:10 },
+      narr:{ mn:'placeholder', kr:'placeholder', is:'placeholder', eu:'placeholder' }, src:{} },
+    { id:'merv', name:'메르브 함락', lng:62.2, lat:37.7, date:'1221-03',
+      names:{ mn:'(원정 기록의 일부)', kr:'(기록 없음)', is:'문명사적 재앙', eu:'(기록 없음)' },
+      w:{ mn:35, kr:3, is:95, eu:5 },
+      narr:{
+        mn:'몽골 측 기록에서 메르브는 서방 원정의 여러 도시 중 하나로 간략히 다뤄진다.',
+        kr:'placeholder',
+        is:'이슬람 연대기가 기록한 최악의 참극 중 하나. 이븐 알아시르는 "이슬람과 무슬림에게 닥친 가장 큰 재앙"이라 적었다. 도서관과 관개시설의 파괴는 호라산 문명의 단절로 이어졌다 — 십자군보다 몽골이 이슬람 역사 서술에서 압도적 비중을 갖는 이유.',
+        eu:'placeholder' },
+      src:{ is:'이븐 알아시르, 완사 — 출처 표기 예시' } },
+    { id:'kuju', name:'1차 고려 침공 — 귀주성', lng:125.0, lat:39.7, date:'1231-09',
+      names:{ mn:'고려 복속전의 시작', kr:'귀주성 전투 — 박서의 항전', is:'(기록 없음)', eu:'(기록 없음)' },
+      w:{ mn:25, kr:95, is:3, eu:3 },
+      narr:{
+        mn:'몽골 측에서 고려 원정은 변방 작전 중 하나였다. 살리타의 1차 원정은 금 정벌의 측면 작전으로 다뤄진다.',
+        kr:'한국사 서술의 중심 사건. 박서가 이끈 귀주성은 몽골군의 온갖 공성을 견뎌냈고, "성을 지킨 자"의 상징이 됐다. 고려(95) vs 몽골(25) — 같은 전쟁의 비중이 침공받은 쪽에서 압도적으로 큰 전형적 사례.',
+        is:'placeholder', eu:'placeholder' },
+      src:{ kr:'고려사 — 출처 표기 예시' } },
+    { id:'ganghwa', name:'강화 천도', lng:126.49, lat:37.75, date:'1232-07',
+      names:{ mn:'고려 조정의 도피', kr:'강화 천도 — 39년 항쟁의 시작', is:'(기록 없음)', eu:'(기록 없음)' },
+      w:{ mn:15, kr:90, is:3, eu:3 },
+      narr:{
+        mn:'placeholder',
+        kr:'최우 정권이 수도를 강화도로 옮기며 장기 항전 체제에 돌입했다. 바다에 약한 몽골군의 특성을 이용한 선택이었으나, 본토 백성이 겪은 참화와 함께 평가가 갈리는 사건이기도 하다.',
+        is:'placeholder', eu:'placeholder' }, src:{} },
+    { id:'cheoin', name:'처인성 전투 — 살리타 사살', lng:127.2, lat:37.23, date:'1232-12',
+      names:{ mn:'살리타 전사', kr:'김윤후와 처인 부곡민의 승리', is:'(기록 없음)', eu:'(기록 없음)' },
+      w:{ mn:30, kr:85, is:3, eu:3 },
+      narr:{
+        mn:'placeholder',
+        kr:'승려 김윤후와 천민 부곡민들이 몽골군 사령관 살리타를 사살한 사건. 정규군이 아닌 민중의 승리라는 점에서 한국사 서술에서 특별한 비중을 갖는다.',
+        is:'placeholder', eu:'placeholder' },
+      src:{ kr:'고려사 김윤후전 — 출처 표기 예시' } },
+    { id:'tripitaka', name:'팔만대장경 조판 시작', lng:126.49, lat:37.72, date:'1236-06',
+      names:{ mn:'(기록 없음)', kr:'대장경 — 불력으로 국난 극복', is:'(기록 없음)', eu:'(기록 없음)' },
+      w:{ mn:3, kr:80, is:2, eu:2 },
+      narr:{ mn:'placeholder', kr:'placeholder', is:'placeholder', eu:'placeholder' }, src:{} },
+    { id:'legnica', name:'레그니차 전투', lng:16.2, lat:51.2, date:'1241-04',
+      names:{ mn:'(서방 원정의 일부)', kr:'(기록 없음)', is:'(간접 인지)', eu:'기독교 세계의 공포' },
+      w:{ mn:30, kr:3, is:10, eu:85 },
+      narr:{
+        mn:'바투-수부타이 원정의 일부. 몽골 기록에서 비중은 크지 않다.',
+        kr:'placeholder', is:'placeholder',
+        eu:'폴란드-독일 연합군의 궤멸. 유럽 연대기는 "타타르의 공포"를 종말론적 언어로 기록했다. 오고타이 칸의 죽음으로 몽골군이 회군하지 않았다면 — 이라는 가정은 유럽사 서술의 단골 주제다. 유럽(85) vs 몽골(30)의 비대칭.' }, src:{} },
+    { id:'baghdad', name:'바그다드 함락', lng:44.4, lat:33.3, date:'1258-02',
+      names:{ mn:'훌라구의 서아시아 평정', kr:'(기록 없음)', is:'압바스 칼리프조의 종말', eu:'(복잡한 시선 — 잠재적 동맹?)' },
+      w:{ mn:60, kr:3, is:100, eu:25 },
+      narr:{
+        mn:'훌라구 원정의 완성. 몽골 관점에서는 정복 사업의 한 장이다.',
+        kr:'placeholder',
+        is:'이슬람 역사 서술에서 최대의 단절점. 500년 압바스 칼리프조의 종말이자 "지혜의 집" 도서관의 파괴로, 이슬람 황금기의 종언을 상징한다. 비중 100 — 이 주제에서 가장 무거운 사건.',
+        eu:'일부 유럽 세력은 몽골을 이슬람에 맞설 동맹 후보로 보았다. 같은 사건을 두고 공포와 기대가 공존한 기록이 남아 있다.' },
+      src:{ is:'키트부카·와사프 연대기 등 — 출처 표기 예시' } },
+    { id:'peace1259', name:'고려–몽골 강화', lng:126.55, lat:37.97, date:'1259-04',
+      names:{ mn:'고려 복속의 완성', kr:'태자 입조 — 항쟁의 끝, 간섭기의 시작', is:'(기록 없음)', eu:'(기록 없음)' },
+      w:{ mn:20, kr:75, is:2, eu:2 },
+      narr:{
+        mn:'placeholder',
+        kr:'태자(훗날 원종)의 입조로 39년 전쟁이 끝났다. 한국사에서는 "항복이 아닌 강화"라는 해석과 원 간섭기의 시작이라는 평가가 교차하는 지점이다.',
+        is:'placeholder', eu:'placeholder' }, src:{} } ]
+},
+{
+  id: 'imjin', ready: false,
+  title: '임진왜란', sub: '1592–1598 · 준비 중',
+  period: [1592, 1598], card: [128.5, 36.2],
+  persps: [ { c:'kr', color:'#4a90d9' }, { c:'jp', color:'#e8884a' }, { c:'cn', color:'#3eb489' } ]
+}
+];
+
+// ───────── 상태
+const MIN_W = 10; // 이 미만 비중(=실질 기록 없음)은 지도·패널에 표시하지 않음
+let mode = 'home', T = null, cur = 0, total = 0, m0 = 0;
+let playing = false, timer = null, openEv = null, tab = null;
+let enabled = {};
+const markers = [];
+
+// ───────── 사건 유형 아이콘 (8종 돌려쓰기)
+const ICONS = {
+  battle:   { label: '전투',     tpl: '<g stroke="{C}" stroke-width="{W}" stroke-linecap="round" stroke-linejoin="round" fill="{C}"><path fill="none" d="M5 4l15 15M19 4L4 19"/><circle cx="4.5" cy="19.5" r="2"/><circle cx="19.5" cy="19.5" r="2"/></g>' },
+  siege:    { label: '공방전',   tpl: '<g stroke="{C}" stroke-width="{W}" stroke-linejoin="round" fill="{C}"><path d="M6 21V8h2.5V5H11v3h2V5h2.5v3H18v13z"/></g>' },
+  massacre: { label: '학살',     tpl: '<g stroke="{C}" stroke-width="{W}" stroke-linejoin="round" fill="{C}"><path d="M12 2c1.5 4-3.5 5.5-3.5 9.5a3.5 3.5 0 007 0c0-2-.8-3-.8-4.5 2 1.2 3.8 3.8 3.8 6.5a6.5 6.5 0 11-13 0C5.5 8.5 10 6.5 12 2z"/></g>' },
+  council:  { label: '회의·선언', tpl: '<g stroke="{C}" stroke-width="{W}" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="5" y="4" width="14" height="16" rx="2" fill="{C}" fill-opacity="0.15"/><rect x="5" y="4" width="14" height="16" rx="2"/><path d="M8.5 9h7M8.5 12.5h7M8.5 16h4"/></g>' },
+  political:{ label: '정치·즉위', tpl: '<g stroke="{C}" stroke-width="{W}" stroke-linejoin="round" fill="{C}"><path d="M4.5 18h15l1.2-8.5-4.7 2.8L12 6.5l-4 5.8-4.7-2.8z"/></g>' },
+  treaty:   { label: '조약·강화', tpl: '<g stroke="{C}" stroke-width="{W}" stroke-linejoin="round" fill="{C}"><circle cx="12" cy="9" r="4.5" fill="none"/><circle cx="12" cy="9" r="1.6"/><path fill="none" d="M9.5 13l-2 8 4.5-2.6 4.5 2.6-2-8"/></g>' },
+  movement: { label: '천도·이동', tpl: '<g stroke="{C}" stroke-width="{W}" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3.5 12h14M12 5.5l6.5 6.5-6.5 6.5"/></g>' },
+  culture:  { label: '문화·종교', tpl: '<g stroke="{C}" stroke-width="{W}" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M4 5.5C6.5 4 9.5 4 12 5.5c2.5-1.5 5.5-1.5 8 0V19c-2.5-1.5-5.5-1.5-8 0-2.5-1.5-5.5-1.5-8 0zM12 5.5V19"/></g>' }
+};
+const EVTYPE = {
+  clermont:'council', rhineland:'massacre', civetot:'battle', nicaea:'siege', dorylaeum:'battle',
+  edessa:'political', antioch:'siege', maarat:'massacre', jerusalem:'siege',
+  genghis:'political', zhongdu:'siege', otrar:'battle', merv:'massacre', kuju:'siege',
+  ganghwa:'movement', cheoin:'battle', tripitaka:'culture', legnica:'battle', baghdad:'siege', peace1259:'treaty'
+};
+function iconSVG(type, size, fg, halo) {
+  const t = ICONS[type].tpl;
+  const inner = (halo ? t.replaceAll('{C}', halo).replaceAll('{W}', '5.5') : '') +
+                t.replaceAll('{C}', fg).replaceAll('{W}', '1.8');
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="${size}" height="${size}">${inner}</svg>`;
+}
+function loadIcons() {
+  Object.keys(ICONS).forEach(k => {
+    const img = new Image(44, 44);
+    img.onload = () => { if (!map.hasImage('ic-' + k)) map.addImage('ic-' + k, img); };
+    img.src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(iconSVG(k, 44, '#ffffff', '#10141c'));
+  });
+}
+
+// ───────── 영토 (historical-basemaps 스냅샷)
+const PALETTE = ['#4a90d9','#3eb489','#b06ad9','#e8884a','#d94a4a','#d9c44a','#5dc4d9','#d96aa8'];
+let terrOn = true, terrYearLoaded = null, terrReq = 0;
+const terrCache = {};
+const hashCol = s => { let h = 0; for (const ch of s) h = (h * 31 + ch.charCodeAt(0)) >>> 0; return PALETTE[h % PALETTE.length]; };
+function terrSnapshot() {
+  const year = Math.floor((m0 + cur) / 12);
+  let pick = T.terr[0];
+  T.terr.forEach(y => { if (y <= year) pick = y; });
+  return pick;
+}
+async function updateTerr() {
+  if (!T || !T.terr || !terrOn || !map.getSource('terr')) return;
+  const y = terrSnapshot();
+  if (y === terrYearLoaded) return;
+  const req = ++terrReq;
+  if (!terrCache[y]) {
+    try {
+      const r = await fetch(`https://raw.githubusercontent.com/aourednik/historical-basemaps/master/geojson/world_${y}.geojson`);
+      if (!r.ok) throw 0;
+      const gj = await r.json();
+      gj.features.forEach(f => {
+        const n = f.properties.NAME || f.properties.name || '';
+        f.properties._n = n; f.properties._c = hashCol(n);
+      });
+      terrCache[y] = gj;
+    } catch (e) { return; }
+  }
+  if (req !== terrReq || !map.getSource('terr')) return;
+  map.getSource('terr').setData(terrCache[y]);
+  terrYearLoaded = y;
+  document.getElementById('hint').textContent = `원의 크기 = 관점 비중 · 영토는 ${y}년경 기준 (근사치, 클릭하면 이름)`;
+}
+
+// ───────── 지도
+const map = new maplibregl.Map({
+  container: 'map',
+  style: { version: 8, sources: {
+      phys: { type: 'raster', tiles: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}'],
+        tileSize: 256, maxzoom: 8, attribution: 'Esri World Physical Map (프로토타입 — 현대 국경 없는 지형도)' } },
+    layers: [ { id: 'phys', type: 'raster', source: 'phys' } ] },
+  center: [60, 35], zoom: 1.7, maxZoom: 8
+});
+map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right');
+
+// ───────── 홈: 주제 카드
+function avgW(t, c) {
+  if (!t.events) return 50;
+  return Math.round(t.events.reduce((s, e) => s + (e.w[c] || 0), 0) / t.events.length);
+}
+function buildCards() {
+  TOPICS.forEach(t => {
+    const d = document.createElement('div');
+    d.className = 'tcard' + (t.ready ? '' : ' soon');
+    const bars = t.persps.map(p =>
+      `<i style="width:${6 + avgW(t, p.c) * 0.55}px;background:${p.color}"></i>`).join('');
+    const spread = t.ready ? Math.max(...t.persps.map(p=>avgW(t,p.c))) - Math.min(...t.persps.map(p=>avgW(t,p.c))) : 0;
+    d.innerHTML = `<div class="tt">${t.title}</div><div class="tp">${t.sub}${t.ready ? ' · 관점 ' + t.persps.length : ''}</div>
+      <div class="tb">${bars}</div>
+      <div class="badge">${t.ready ? (spread >= 30 ? '비대칭 지수 높음 ★' : '비대칭 보통') : '준비 중'}</div>`;
+    if (t.ready) d.onclick = () => enterTopic(t);
+    const mk = new maplibregl.Marker({ element: d, anchor: 'center' }).setLngLat(t.card).addTo(map);
+    markers.push({ t, mk, el: d });
+  });
+}
+
+// ───────── 시대 필터 (듀얼 슬라이더)
+const rlo = document.getElementById('rlo'), rhi = document.getElementById('rhi');
+const ylo = document.getElementById('ylo'), yhi = document.getElementById('yhi');
+function eraApply(noChip) {
+  let lo = +rlo.value, hi = +rhi.value;
+  if (lo > hi) [lo, hi] = [hi, lo];
+  ylo.value = lo; yhi.value = hi;
+  const p = v => (v + 3000) / 5030 * 100;
+  const f = document.getElementById('fill');
+  f.style.left = p(lo) + '%'; f.style.width = (p(hi) - p(lo)) + '%';
+  document.getElementById('era-sel').textContent = `${fmtY(lo)} – ${fmtY(hi)} 시대의 주제를 보는 중`;
+  markers.forEach(({ t, el }) => {
+    el.style.display = (t.period[1] >= lo && t.period[0] <= hi) ? '' : 'none';
+  });
+  if (!noChip) document.querySelectorAll('.chip').forEach(c => {
+    const [a, b] = c.dataset.r.split(',').map(Number);
+    c.classList.toggle('on', a === lo && b === hi);
+  });
+}
+rlo.oninput = () => eraApply(); rhi.oninput = () => eraApply();
+ylo.onchange = () => { rlo.value = Math.max(-3000, Math.min(2030, +ylo.value)); eraApply(); };
+yhi.onchange = () => { rhi.value = Math.max(-3000, Math.min(2030, +yhi.value)); eraApply(); };
+document.querySelectorAll('.chip').forEach(c => c.onclick = () => {
+  const [a, b] = c.dataset.r.split(',').map(Number);
+  rlo.value = a; rhi.value = b; eraApply();
+});
+
+// ───────── 주제 진입/이탈
+function enterTopic(t) {
+  mode = 'topic'; T = t;
+  m0 = ami(t.start); total = ami(t.end) - m0; cur = 0;
+  terrOn = true; terrYearLoaded = null;
+  enabled = {}; t.persps.forEach(p => enabled[p.c] = true);
+  tab = t.persps[0].c;
+  markers.forEach(m => m.el.style.display = 'none');
+  document.getElementById('homebar').classList.add('hide');
+  ['timeline', 'chron', 'layers', 'hint'].forEach(i => document.getElementById(i).classList.remove('hide'));
+  document.getElementById('back').classList.remove('hide');
+  document.getElementById('crumb').textContent = t.title + ' ' + t.sub;
+  document.getElementById('slider').max = total;
+  document.getElementById('tl-l').textContent = fmtM(m0) + ' ' + t.events[0].name;
+  document.getElementById('tl-r').textContent = fmtM(m0 + total) + ' ' + t.events[t.events.length - 1].name;
+  buildLayerBtns(); buildTabs(); buildGaugeRows(); buildChron(); buildTrack();
+  const used = [...new Set(t.events.map(e => EVTYPE[e.id] || 'political'))];
+  document.getElementById('iconlegend').innerHTML =
+    used.map(k => `<span>${iconSVG(k, 13, '#cdd6e0')}${ICONS[k].label}</span>`).join('');
+  document.getElementById('iconlegend').classList.remove('hide');
+  addMapLayers();
+  map.fitBounds(t.bounds, { duration: 2200 });
+  refresh();
+}
+function exitTopic() {
+  stopPlay(); closePanel();
+  removeMapLayers();
+  mode = 'home'; T = null;
+  ['timeline', 'chron', 'layers', 'hint', 'iconlegend'].forEach(i => document.getElementById(i).classList.add('hide'));
+  document.getElementById('back').classList.add('hide');
+  document.getElementById('homebar').classList.remove('hide');
+  document.getElementById('crumb').textContent = '세계 — 시대를 골라 역사를 펼쳐보세요';
+  eraApply(true);
+  map.flyTo({ center: [60, 35], zoom: 1.7, duration: 2000 });
+}
+document.getElementById('back').onclick = exitTopic;
+document.getElementById('logo').onclick = () => { if (mode === 'topic') exitTopic(); };
+
+// ───────── 지도 레이어
+const radiusExpr = c => ['interpolate', ['linear'], ['get', 'w_' + c], 0, 2, 100, 24];
+function routeGeo() {
+  return { type: 'FeatureCollection', features: T.routes.map(r => {
+    const c = r.pts.filter(p => ami(p[2]) - m0 <= cur).map(p => [p[0], p[1]]);
+    return { type: 'Feature', properties: { color: r.color }, geometry: { type: 'LineString', coordinates: c.length > 1 ? c : [] } };
+  }) };
+}
+function eventGeo() {
+  return { type: 'FeatureCollection', features: T.events.map(e => {
+    const props = { id: e.id, m: ami(e.date) - m0, type: EVTYPE[e.id] || 'political' };
+    T.persps.forEach(p => props['w_' + p.c] = e.w[p.c] || 0);
+    return { type: 'Feature', properties: props, geometry: { type: 'Point', coordinates: [e.lng, e.lat] } };
+  }) };
+}
+function addMapLayers() {
+  map.addSource('terr', { type: 'geojson', data: { type: 'FeatureCollection', features: [] } });
+  map.addLayer({ id: 'terr-fill', type: 'fill', source: 'terr',
+    paint: { 'fill-color': ['get', '_c'], 'fill-opacity': .14 } });
+  map.addLayer({ id: 'terr-line', type: 'line', source: 'terr',
+    paint: { 'line-color': '#5a6678', 'line-width': .8, 'line-opacity': .6 } });
+  map.on('click', 'terr-fill', e => {
+    const evLayers = T.persps.map(p => 'ev-' + p.c).filter(l => map.getLayer(l));
+    if (map.queryRenderedFeatures(e.point, { layers: evLayers }).length) return;
+    new maplibregl.Popup({ closeButton: false })
+      .setLngLat(e.lngLat)
+      .setHTML(`<b>${e.features[0].properties._n || '(이름 없음)'}</b> · ${terrYearLoaded}년경`)
+      .addTo(map);
+  });
+  map.addSource('routes', { type: 'geojson', data: routeGeo() });
+  map.addLayer({ id: 'routes', type: 'line', source: 'routes',
+    paint: { 'line-color': ['get', 'color'], 'line-width': 3, 'line-opacity': .85 },
+    layout: { 'line-cap': 'round', 'line-join': 'round' } });
+  map.addSource('events', { type: 'geojson', data: eventGeo() });
+  T.persps.forEach(p => {
+    map.addLayer({ id: 'ev-' + p.c, type: 'circle', source: 'events',
+      filter: ['all', ['<=', ['get', 'm'], cur], ['>=', ['get', 'w_' + p.c], MIN_W]],
+      paint: { 'circle-radius': radiusExpr(p.c), 'circle-color': p.color,
+        'circle-opacity': .28, 'circle-stroke-width': 1.6, 'circle-stroke-color': p.color, 'circle-stroke-opacity': .9 } });
+    map.on('click', 'ev-' + p.c, e => openPanel(T.events.find(x => x.id === e.features[0].properties.id)));
+    map.on('mouseenter', 'ev-' + p.c, () => map.getCanvas().style.cursor = 'pointer');
+    map.on('mouseleave', 'ev-' + p.c, () => map.getCanvas().style.cursor = '');
+  });
+  map.addLayer({ id: 'ev-ic', type: 'symbol', source: 'events',
+    filter: ['<=', ['get', 'm'], cur],
+    layout: { 'icon-image': ['concat', 'ic-', ['get', 'type']], 'icon-size': 0.5,
+      'icon-allow-overlap': true, 'icon-ignore-placement': true } });
+  map.on('click', 'ev-ic', e => openPanel(T.events.find(x => x.id === e.features[0].properties.id)));
+}
+function removeMapLayers() {
+  if (!map.getSource('routes')) return;
+  T.persps.forEach(p => map.getLayer('ev-' + p.c) && map.removeLayer('ev-' + p.c));
+  map.getLayer('ev-ic') && map.removeLayer('ev-ic');
+  map.removeLayer('routes');
+  ['terr-fill', 'terr-line'].forEach(l => map.getLayer(l) && map.removeLayer(l));
+  map.removeSource('events'); map.removeSource('routes');
+  map.getSource('terr') && map.removeSource('terr');
+  terrYearLoaded = null;
+}
+
+// ───────── 동적 UI 빌드
+function buildLayerBtns() {
+  const box = document.getElementById('layers');
+  box.innerHTML = '';
+  T.persps.forEach(p => {
+    const d = document.createElement('div');
+    d.className = 'lay on';
+    d.innerHTML = `<span class="sw" style="background:${p.color}"></span>${p.label}`;
+    d.onclick = () => {
+      enabled[p.c] = !enabled[p.c];
+      d.classList.toggle('on', enabled[p.c]); d.classList.toggle('off', !enabled[p.c]);
+      if (map.getLayer('ev-' + p.c)) map.setLayoutProperty('ev-' + p.c, 'visibility', enabled[p.c] ? 'visible' : 'none');
+      buildChron(); updateChron();
+    };
+    box.appendChild(d);
+  });
+  if (T.terr) {
+    const tg = document.createElement('div');
+    tg.className = 'lay' + (terrOn ? ' on' : ' off');
+    tg.innerHTML = `<span class="sw" style="background:#5a6678"></span>영토`;
+    tg.onclick = () => {
+      terrOn = !terrOn;
+      tg.classList.toggle('on', terrOn); tg.classList.toggle('off', !terrOn);
+      ['terr-fill', 'terr-line'].forEach(l => map.getLayer(l) && map.setLayoutProperty(l, 'visibility', terrOn ? 'visible' : 'none'));
+      if (terrOn) updateTerr();
+    };
+    box.appendChild(tg);
+  }
+}
+function buildTabs() {
+  const box = document.getElementById('tabs');
+  box.innerHTML = '';
+  T.persps.forEach(p => {
+    const b = document.createElement('button');
+    b.className = 'tab' + (p.c === tab ? ' on' : ''); b.textContent = p.label; b.dataset.c = p.c;
+    b.onclick = () => { tab = p.c; if (openEv) openPanel(openEv); };
+    box.appendChild(b);
+  });
+}
+function buildGaugeRows() {
+  const box = document.getElementById('gauge-rows');
+  box.innerHTML = '';
+  T.persps.forEach(p => {
+    box.insertAdjacentHTML('beforeend',
+      `<div id="gr-${p.c}"><div class="grow"><span class="lab">${p.label}</span><div class="gbar"><div class="gfill" id="g-${p.c}" style="background:${p.color}"></div></div><span class="val" id="gv-${p.c}"></span></div><div class="gname" id="gn-${p.c}"></div></div>`);
+  });
+}
+function buildChron() {
+  const box = document.getElementById('chron-list');
+  box.innerHTML = '';
+  T.events.forEach(e => {
+    const d = document.createElement('div');
+    d.className = 'ce'; d.id = 'ce-' + e.id;
+    const bars = T.persps.filter(p => (e.w[p.c] || 0) >= MIN_W).map(p =>
+      `<i style="width:${4 + (e.w[p.c] || 0) * 0.45}px;background:${p.color};opacity:${enabled[p.c] ? 1 : .15}"></i>`).join('');
+    const tp = EVTYPE[e.id] || 'political';
+    d.innerHTML = `<div class="cd">${fmtM(ami(e.date))} <span style="color:#7a8a9a;font-weight:400">· ${ICONS[tp].label}</span></div>
+      <div class="cn" style="display:flex;align-items:center;gap:6px">${iconSVG(tp, 14, '#9ab3c4')}<span>${e.name}</span></div><div class="cw">${bars}</div>`;
+    d.onclick = () => { const m = ami(e.date) - m0; if (m > cur) { cur = m; refresh(); } focusCamera([e], 5.5); openPanel(e); };
+    box.appendChild(d);
+  });
+}
+function updateChron() {
+  T.events.forEach(e => {
+    const el = document.getElementById('ce-' + e.id), m = ami(e.date) - m0;
+    el.classList.toggle('future', m > cur);
+    el.classList.toggle('now', m === cur);
+    if (m === cur) el.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  });
+}
+function buildTrack() {
+  const t = document.getElementById('track');
+  t.innerHTML = '';
+  T.events.forEach(e => {
+    const m = ami(e.date) - m0, d = document.createElement('div');
+    d.className = 'tm'; d.id = 'tm-' + e.id;
+    d.style.left = (m / total * 100) + '%';
+    d.dataset.n = `${fmtM(ami(e.date))} ${e.name}`;
+    d.onclick = () => { cur = m; refresh(); openPanel(e); };
+    t.appendChild(d);
+  });
+}
+function updateTrack() {
+  T.events.forEach(e => document.getElementById('tm-' + e.id).classList.toggle('future', ami(e.date) - m0 > cur));
+}
+
+// ───────── 갱신
+function refresh() {
+  document.getElementById('cur-date').textContent = fmtM(m0 + cur);
+  document.getElementById('slider').value = cur;
+  document.getElementById('cur-event').textContent = T.events.filter(e => ami(e.date) - m0 === cur).map(e => e.name).join(' · ');
+  updateChron(); updateTrack();
+  if (!map.getSource('routes')) return;
+  map.getSource('routes').setData(routeGeo());
+  T.persps.forEach(p => map.setFilter('ev-' + p.c, ['all', ['<=', ['get', 'm'], cur], ['>=', ['get', 'w_' + p.c], MIN_W]]));
+  map.getLayer('ev-ic') && map.setFilter('ev-ic', ['<=', ['get', 'm'], cur]);
+  updateTerr();
+}
+
+// ───────── 패널
+function openPanel(ev) {
+  openEv = ev;
+  document.getElementById('panel').classList.add('open');
+  document.getElementById('ev-date').textContent = fmtM(ami(ev.date));
+  document.getElementById('ev-title').textContent = ev.name;
+  T.persps.forEach(p => {
+    const has = (ev.w[p.c] || 0) >= MIN_W;
+    document.getElementById('gr-' + p.c).style.display = has ? '' : 'none';
+    document.getElementById('g-' + p.c).style.width = (ev.w[p.c] || 0) + '%';
+    document.getElementById('gv-' + p.c).textContent = ev.w[p.c] || 0;
+    document.getElementById('gn-' + p.c).textContent = ev.names[p.c] || '';
+  });
+  const vis = T.persps.filter(p => (ev.w[p.c] || 0) >= MIN_W);
+  if (!vis.find(p => p.c === tab) && vis.length) tab = vis[0].c;
+  document.querySelectorAll('.tab').forEach(b => {
+    b.style.display = (ev.w[b.dataset.c] || 0) >= MIN_W ? '' : 'none';
+    b.classList.toggle('on', b.dataset.c === tab);
+  });
+  const n = ev.narr[tab], s = (ev.src || {})[tab];
+  document.getElementById('narr').innerHTML =
+    (!n || n === 'placeholder' ? '<span class="placeholder">[ 서술 준비 중 — 데이터 구축 단계에서 사료 기반 서술이 들어갈 자리 ]</span>' : n) +
+    (s ? `<div class="src">출처: ${s}</div>` : '');
+}
+function closePanel() { document.getElementById('panel').classList.remove('open'); openEv = null; }
+document.getElementById('panel-close').onclick = closePanel;
+
+// ───────── 카메라: 인접 사건 클러스터로 줌
+function focusCamera(list, clickZoom) {
+  if (!list.length) return;
+  const e0 = list[0];
+  const near = T.events.filter(e => ami(e.date) - m0 <= cur &&
+    Math.abs(e.lng - e0.lng) < 6 && Math.abs(e.lat - e0.lat) < 6);
+  if (near.length >= 2) {
+    const lngs = near.map(e => e.lng), lats = near.map(e => e.lat);
+    map.fitBounds([[Math.min(...lngs) - 1.5, Math.min(...lats) - 1.5],
+                   [Math.max(...lngs) + 1.5, Math.max(...lats) + 1.5]],
+      { duration: 850, maxZoom: 6.5, padding: 80 });
+  } else {
+    map.flyTo({ center: [e0.lng, e0.lat], zoom: clickZoom || Math.max(map.getZoom(), 4.8), duration: 850 });
+  }
+}
+
+// ───────── 타임라인 조작
+document.getElementById('slider').oninput = e => { cur = +e.target.value; refresh(); };
+function stopPlay() { playing = false; document.getElementById('play').textContent = '▶'; clearInterval(timer); }
+document.getElementById('play').onclick = () => {
+  if (playing) return stopPlay();
+  playing = true;
+  document.getElementById('play').textContent = '❚❚';
+  if (cur >= total) cur = 0;
+  const step = Math.max(1, Math.round(total / 80));
+  timer = setInterval(() => {
+    if (cur >= total) { stopPlay(); map.fitBounds(T.bounds, { duration: 1500 }); return; }
+    const prev = cur;
+    cur = Math.min(total, cur + step); refresh();
+    focusCamera(T.events.filter(e => { const m = ami(e.date) - m0; return m > prev && m <= cur; }));
+  }, 400);
+};
+
+// ───────── 시작
+map.on('load', () => { loadIcons(); buildCards(); eraApply(); });
+</script>
+</body>
+</html>

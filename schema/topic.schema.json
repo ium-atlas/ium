@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "IUM Topic",
+  "type": "object",
+  "required": ["id", "title", "period", "start", "end", "bounds", "perspectives"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+    "title": { "type": "string" },
+    "subtitle": { "type": "string" },
+    "period": { "type": "array", "items": { "type": "integer" }, "minItems": 2, "maxItems": 2 },
+    "start": { "type": "string", "pattern": "^-?[0-9]{1,4}-[0-9]{2}$" },
+    "end": { "type": "string", "pattern": "^-?[0-9]{1,4}-[0-9]{2}$" },
+    "bounds": { "type": "array" },
+    "card": { "type": "array", "items": { "type": "number" }, "minItems": 2, "maxItems": 2 },
+    "territory_years": { "type": "array", "items": { "type": "integer" } },
+    "perspectives": {
+      "type": "array", "minItems": 2,
+      "items": { "type": "object", "required": ["code", "label", "color"],
+        "properties": { "code": { "type": "string" }, "label": { "type": "string" }, "color": { "type": "string" } } }
+    }
+  }
+}
