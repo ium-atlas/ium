@@ -1,0 +1,77 @@
+[
+  {
+    "year": 1037,
+    "label": "셀주크 세력 부상",
+    "sources": ["Cambridge University Press, The New Cambridge History of Islam, Vol. 3: The Eastern Islamic World, Eleventh to Eighteenth Centuries"]
+  },
+  {
+    "year": 1055,
+    "label": "셀주크의 바그다드 입성",
+    "sources": ["Cambridge University Press, The New Cambridge History of Islam, Vol. 3: The Eastern Islamic World, Eleventh to Eighteenth Centuries"]
+  },
+  {
+    "year": 1071,
+    "label": "만지케르트 전투",
+    "sources": ["Cambridge University Press, The Cambridge History of Turkey, Vol. 1: Byzantium to Turkey, 1071-1453"]
+  },
+  {
+    "year": 1099,
+    "label": "십자군의 예루살렘 점령",
+    "sources": ["Cambridge University Press, The New Cambridge History of Islam, Vol. 2: The Western Islamic World, Eleventh to Eighteenth Centuries"]
+  },
+  {
+    "year": 1187,
+    "label": "살라딘의 예루살렘 탈환",
+    "sources": ["Cambridge University Press, The New Cambridge History of Islam, Vol. 2: The Western Islamic World, Eleventh to Eighteenth Centuries"]
+  },
+  {
+    "year": 1258,
+    "label": "바그다드 함락",
+    "sources": ["Cambridge University Press, The New Cambridge History of Islam, Vol. 3: The Eastern Islamic World, Eleventh to Eighteenth Centuries"]
+  },
+  {
+    "year": 1260,
+    "label": "아인잘루트 전투",
+    "sources": ["Cambridge University Press, The New Cambridge History of Islam, Vol. 2: The Western Islamic World, Eleventh to Eighteenth Centuries"]
+  },
+  {
+    "year": 1299,
+    "label": "오스만 베이국 성립",
+    "sources": ["Cambridge University Press, The Cambridge History of Turkey, Vol. 1: Byzantium to Turkey, 1071-1453"]
+  },
+  {
+    "year": 1453,
+    "label": "오스만의 콘스탄티노폴리스 정복",
+    "sources": ["Cambridge University Press, The Cambridge History of Turkey, Vol. 2: The Ottoman Empire as a World Power, 1453-1603"]
+  },
+  {
+    "year": 1501,
+    "label": "사파비 왕조 성립",
+    "sources": ["Cambridge University Press, The New Cambridge History of Islam, Vol. 3: The Eastern Islamic World, Eleventh to Eighteenth Centuries"]
+  },
+  {
+    "year": 1514,
+    "label": "찰디란 전투",
+    "sources": ["Cambridge University Press, The Cambridge History of Turkey, Vol. 2: The Ottoman Empire as a World Power, 1453-1603"]
+  },
+  {
+    "year": 1517,
+    "label": "오스만의 이집트 정복",
+    "sources": ["Cambridge University Press, The Cambridge History of Turkey, Vol. 2: The Ottoman Empire as a World Power, 1453-1603"]
+  },
+  {
+    "year": 1526,
+    "label": "무굴 제국 성립",
+    "sources": ["Cambridge University Press, The New Cambridge History of Islam, Vol. 3: The Eastern Islamic World, Eleventh to Eighteenth Centuries"]
+  },
+  {
+    "year": 1571,
+    "label": "레판토 해전",
+    "sources": ["Cambridge University Press, The Cambridge History of Turkey, Vol. 2: The Ottoman Empire as a World Power, 1453-1603"]
+  },
+  {
+    "year": 1639,
+    "label": "주하브 조약",
+    "sources": ["Cambridge University Press, The Cambridge History of Turkey, Vol. 3: The Later Ottoman Empire, 1603-1839"]
+  }
+]
