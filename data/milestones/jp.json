@@ -1,0 +1,78 @@
+[
+  {
+    "year": 1016,
+    "label": "후지와라 미치나가 섭정",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 2: Heian Japan"]
+  },
+  {
+    "year": 1086,
+    "label": "인세이 시작",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 2: Heian Japan"]
+  },
+  {
+    "year": 1180,
+    "label": "겐페이 전쟁 발발",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 3: Medieval Japan"]
+  },
+  {
+    "year": 1185,
+    "label": "단노우라 전투",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 3: Medieval Japan"]
+  },
+  {
+    "year": 1192,
+    "label": "요리토모 쇼군 임명",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 3: Medieval Japan"]
+  },
+  {
+    "year": 1221,
+    "label": "조큐의 난",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 3: Medieval Japan"]
+  },
+  {
+    "year": 1274,
+    "label": "몽골 1차 일본 원정",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 3: Medieval Japan"]
+  },
+  {
+    "year": 1281,
+    "label": "몽골 2차 일본 원정",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 3: Medieval Japan"]
+  },
+  {
+    "year": 1333,
+    "label": "가마쿠라 막부 멸망",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 3: Medieval Japan"]
+  },
+  {
+    "year": 1338,
+    "label": "무로마치 막부 성립",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 3: Medieval Japan"]
+  },
+  {
+    "year": 1467,
+    "label": "오닌의 난 발발",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 3: Medieval Japan"]
+  },
+  {
+    "year": 1543,
+    "label": "포르투갈인·조총 전래",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 4: Early Modern Japan"]
+  },
+  {
+    "year": 1568,
+    "label": "오다 노부나가 상락",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 4: Early Modern Japan"]
+  },
+  {
+    "year": 1603,
+    "label": "에도 막부 성립",
+    "note": "세키가하라 전투(1600) 이후",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 4: Early Modern Japan"]
+  },
+  {
+    "year": 1639,
+    "label": "포르투갈선 입항 금지",
+    "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 4: Early Modern Japan"]
+  }
+]
