@@ -11,7 +11,7 @@ Because this project deals with "multiple perspectives," it is always exposed to
 - Every `narrative` must have a `sources` array with at least one entry
 - Narratives must be **"quotations from records," not "my interpretation."**
   ✅ "Ibn al-Athir recorded that ..." / ❌ "The Arabs probably thought that ..."
-- Source format: `author/institution, title, (volume/page), (year)` — whenever possible, use primary sources or approved textbooks
+- Source format: `author/institution, title, (volume/page), (year)` — whenever possible, use primary sources or government-authorized textbooks
 
 ## Weight Scoring Criteria
 
@@ -59,7 +59,7 @@ By submitting a PR, you are considered to agree that contributed data will be di
 
 - Disagreements over weight, naming, or narratives are discussed in issues **based only on sources**. Claims without sources are not part of the discussion
 - If consensus cannot be reached, a maintainer makes the final decision and **records the rationale in the relevant issue**. The discussion can be reopened if new sources appear
-- Naming disputes (for example, when an event name differs by perspective): within each perspective's narrative, use that perspective's name, and in shared fields, use the most commonly used name. Do not remove either side's name
+- Naming disputes (for example, when an event name differs by perspective): within each perspective's narrative, use that perspective's name, and in shared fields, use the scholarly name most widely used in that language edition. Do not remove either side's name
 - Items judged impossible to resolve by consensus are marked in the data: add the optional field `"disputed": { "fields": ["weight", etc.], "issue": issue number }` to the event JSON
 - Do not project modern political disputes (see the existing code of conduct)
 
