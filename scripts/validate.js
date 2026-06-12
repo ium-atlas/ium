@@ -12,43 +12,43 @@ for (const topicDir of fs.readdirSync(ROOT)) {
   const tdir = path.join(ROOT, topicDir);
   if (!fs.statSync(tdir).isDirectory()) continue;
   const tfile = path.join(tdir, 'topic.json');
-  if (!fs.existsSync(tfile)) { err(topicDir, 'topic.json 없음'); continue; }
+  if (!fs.existsSync(tfile)) { err(topicDir, 'topic.json 없음 (topic.json missing)'); continue; }
   let topic;
   try { topic = JSON.parse(fs.readFileSync(tfile, 'utf8')); }
-  catch (e) { err(tfile, 'JSON 파싱 실패: ' + e.message); continue; }
+  catch (e) { err(tfile, 'JSON 파싱 실패 (JSON parse failed): ' + e.message); continue; }
   for (const k of ['id','title','period','start','end','bounds','perspectives'])
-    if (!(k in topic)) err(tfile, `필수 필드 누락: ${k}`);
+    if (!(k in topic)) err(tfile, `필수 필드 누락 (required field missing): ${k}`);
   const codes = (topic.perspectives || []).map(p => p.code);
-  if (codes.length < 2) err(tfile, '관점은 2개 이상이어야 함');
-  (topic.perspectives || []).forEach(p => ['code','label','color'].forEach(k => !(k in p) && err(tfile, `관점에 ${k} 누락`)));
+  if (codes.length < 2) err(tfile, '관점은 2개 이상이어야 함 (at least 2 perspectives required)');
+  (topic.perspectives || []).forEach(p => ['code','label','color'].forEach(k => !(k in p) && err(tfile, `관점에 ${k} 누락 (perspective missing ${k})`)));
 
   const edir = path.join(tdir, 'events');
-  if (!fs.existsSync(edir)) { warn(tdir, 'events/ 폴더 없음'); continue; }
+  if (!fs.existsSync(edir)) { warn(tdir, 'events/ 폴더 없음 (events/ directory missing)'); continue; }
   for (const ef of fs.readdirSync(edir).filter(f => f.endsWith('.json'))) {
     const fp = path.join(edir, ef);
     let ev;
     try { ev = JSON.parse(fs.readFileSync(fp, 'utf8')); }
-    catch (e) { err(fp, 'JSON 파싱 실패: ' + e.message); continue; }
+    catch (e) { err(fp, 'JSON 파싱 실패 (JSON parse failed): ' + e.message); continue; }
     for (const k of ['id','name','type','date','location','perspectives'])
-      if (!(k in ev)) err(fp, `필수 필드 누락: ${k}`);
-    if (ev.type && !TYPES.includes(ev.type)) err(fp, `알 수 없는 type: ${ev.type}`);
-    if (ev.date && !DATE_RE.test(ev.date)) err(fp, `date 형식 오류 (YYYY-MM): ${ev.date}`);
+      if (!(k in ev)) err(fp, `필수 필드 누락 (required field missing): ${k}`);
+    if (ev.type && !TYPES.includes(ev.type)) err(fp, `알 수 없는 type (unknown type): ${ev.type}`);
+    if (ev.date && !DATE_RE.test(ev.date)) err(fp, `date 형식 오류 (YYYY-MM) (date format error): ${ev.date}`);
     if (ev.location && (typeof ev.location.lng !== 'number' || typeof ev.location.lat !== 'number'))
-      err(fp, 'location.lng/lat은 숫자여야 함');
+      err(fp, 'location.lng/lat은 숫자여야 함 (location.lng/lat must be numbers)');
     if (ev.perspectives) {
       let visible = 0;
       for (const [c, p] of Object.entries(ev.perspectives)) {
-        if (!codes.includes(c)) err(fp, `topic에 정의되지 않은 관점: ${c}`);
-        if (typeof p.weight !== 'number' || p.weight < 0 || p.weight > 100) err(fp, `${c}.weight는 0~100 정수`);
+        if (!codes.includes(c)) err(fp, `topic에 정의되지 않은 관점 (perspective not defined in topic): ${c}`);
+        if (typeof p.weight !== 'number' || p.weight < 0 || p.weight > 100) err(fp, `${c}.weight는 0~100 정수 (${c}.weight must be an integer from 0 to 100)`);
         if (p.weight >= 10) visible++;
         if (p.narrative && (!p.sources || !p.sources.length))
-          err(fp, `${c}: narrative에 sources 없음 — 출처 필수`);
+          err(fp, `${c}: narrative에 sources 없음 — 출처 필수 (missing sources for narrative — sources required)`);
       }
-      if (!visible) err(fp, '표시 가능한 관점(weight>=10)이 하나도 없음');
+      if (!visible) err(fp, '표시 가능한 관점(weight>=10)이 하나도 없음 (no visible perspectives with weight>=10)');
     }
   }
 }
-console.log(`검증 완료 — 오류 ${errors.length}건, 경고 ${warnings.length}건`);
-errors.forEach(e => console.log('  [오류] ' + e));
-warnings.forEach(w => console.log('  [경고] ' + w));
+console.log(`검증 완료 (validation complete) — 오류 ${errors.length}건 (errors), 경고 ${warnings.length}건 (warnings)`);
+errors.forEach(e => console.log('  [오류/error] ' + e));
+warnings.forEach(w => console.log('  [경고/warning] ' + w));
 process.exit(errors.length ? 1 : 0);
