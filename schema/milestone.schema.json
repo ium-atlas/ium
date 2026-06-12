@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "IUM Milestone File",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["label", "sources"],
+    "oneOf": [
+      { "required": ["year"], "not": { "required": ["range"] } },
+      { "required": ["range"], "not": { "required": ["year"] } }
+    ],
+    "properties": {
+      "year": {
+        "type": "integer",
+        "description": "Year number. BCE years use negative integers."
+      },
+      "range": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 2,
+        "prefixItems": [
+          { "type": "integer" },
+          { "type": "integer" }
+        ],
+        "items": false,
+        "description": "Inclusive [start, end] year range. The validator enforces start <= end."
+      },
+      "label": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 40,
+        "pattern": "^[^\\r\\n]+$",
+        "description": "One-line milestone label, 40 characters or fewer."
+      },
+      "note": {
+        "type": "string"
+      },
+      "sources": {
+        "type": "array",
+        "minItems": 1,
+        "items": { "type": "string", "minLength": 1 }
+      }
+    },
+    "additionalProperties": false
+  }
+}
