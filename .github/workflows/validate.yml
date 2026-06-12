@@ -1,7 +1,6 @@
 name: validate-data
 on:
   pull_request:
-    paths: ['data/**', 'schema/**', 'scripts/**']
   push:
     branches: [main]
 jobs:

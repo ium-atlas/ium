@@ -36,6 +36,9 @@ git clone https://github.com/ium-atlas/ium.git
 cd ium
 # 프로토타입은 의존성 없는 단일 HTML — 바로 열면 됩니다
 open prototype/index.html
+
+# 웹 사이트 (Next.js) — data/의 콘텐츠를 직접 읽습니다
+cd web && npm install && npm run dev
 ```
 
 ## 데이터 구조
