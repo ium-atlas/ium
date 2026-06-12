@@ -227,6 +227,7 @@ function normalizeMilestone(row, region, index) {
     regionId: region.id,
     regionLabel: row.regionLabel || region.label || region.id,
     label,
+    note: row.note || null,
     year: startYear,
     startYear,
     endYear,

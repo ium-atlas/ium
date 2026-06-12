@@ -148,3 +148,50 @@ body { font-family: 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-s
 .article .weight { font-size: 12px; color: #9ab; font-weight: 400; }
 .article .srcs { font-size: 12px; color: #7a8a9a; margin-top: 8px; }
 .article a { color: #e8b44a; }
+
+/* 연도 정적 페이지 */
+.year-page { min-height: 100vh; background: #0f1219; color: #d9e2eb; }
+.year-shell { max-width: 980px; margin: 0 auto; padding: 24px 24px 80px; }
+.year-header { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 56px; }
+.year-hero { padding: 18px 0 34px; border-bottom: 1px solid rgba(255,255,255,.1); }
+.year-kicker { color: #e8b44a; font-size: 12px; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; }
+.year-hero h1 { margin-top: 8px; color: #fff; font-size: 42px; line-height: 1.1; }
+.year-hero p { margin-top: 12px; max-width: 620px; color: #9ab; font-size: 15px; line-height: 1.7; }
+.year-nav { display: grid; grid-template-columns: 1fr auto 1fr; gap: 12px; margin: 18px 0 34px; align-items: center; }
+.year-nav a, .year-nav span { min-height: 36px; }
+.year-nav a { display: flex; align-items: center; justify-content: center; color: #e8edf2; text-decoration: none;
+  border: 1px solid rgba(255,255,255,.14); border-radius: 8px; background: rgba(255,255,255,.05); padding: 7px 12px; font-size: 13px; font-weight: 700; }
+.year-nav a:first-child { justify-content: flex-start; }
+.year-nav a:last-child { justify-content: flex-end; }
+.year-nav a:hover { border-color: rgba(232,180,74,.55); color: #e8b44a; }
+.year-section { margin-top: 34px; }
+.year-section h2 { color: #fff; font-size: 19px; margin-bottom: 14px; }
+.year-regions, .year-events { display: grid; gap: 12px; }
+.year-region, .year-event { border: 1px solid rgba(255,255,255,.1); border-radius: 8px; background: rgba(255,255,255,.04); }
+.year-region { padding: 16px; }
+.year-region h3 { color: #e8b44a; font-size: 14px; margin-bottom: 10px; }
+.year-row { padding: 10px 0; border-top: 1px solid rgba(255,255,255,.08); }
+.year-row:first-of-type { border-top: 0; padding-top: 0; }
+.year-row-main { display: flex; gap: 10px; align-items: baseline; }
+.year-row-main span { color: #9ab; font-size: 12px; font-weight: 800; min-width: 82px; }
+.year-row-main strong { color: #f3f6f8; font-size: 14px; }
+.year-row p { color: #aebdca; font-size: 13px; line-height: 1.6; margin-top: 4px; }
+.year-sources { color: #7a8a9a; font-size: 12px; line-height: 1.5; margin-top: 5px; }
+.year-event { display: grid; grid-template-columns: 150px 1fr auto; gap: 12px; align-items: center;
+  padding: 13px 14px; color: #e8edf2; text-decoration: none; }
+.year-event:hover { border-color: rgba(232,180,74,.55); background: rgba(232,180,74,.07); }
+.year-event span { color: #e8b44a; font-size: 12px; font-weight: 800; }
+.year-event strong { font-size: 14px; line-height: 1.35; }
+.year-event em { color: #9ab; font-size: 12px; font-style: normal; white-space: nowrap; }
+.year-empty { color: #7a8a9a; border: 1px dashed rgba(255,255,255,.12); border-radius: 8px; padding: 14px; font-size: 13px; }
+
+@media (max-width: 720px) {
+  .year-shell { padding: 18px 16px 64px; }
+  .year-header { align-items: flex-start; margin-bottom: 36px; }
+  .year-header .logo small { display: block; margin-left: 0; margin-top: 2px; }
+  .year-hero h1 { font-size: 31px; }
+  .year-nav { grid-template-columns: 1fr; }
+  .year-nav a:first-child, .year-nav a:last-child { justify-content: center; }
+  .year-row-main, .year-event { display: grid; grid-template-columns: 1fr; gap: 4px; }
+  .year-event em { white-space: normal; }
+}
