@@ -1,0 +1,12 @@
+[
+  { "code": "kr", "label": "한국", "label_en": "Korea", "color": "#2563EB" },
+  { "code": "jp", "label": "일본", "label_en": "Japan", "color": "#DC2626" },
+  { "code": "cn", "label": "중국", "label_en": "China", "color": "#F59E0B" },
+  { "code": "mn", "label": "몽골·초원", "label_en": "Mongolia and Steppe", "color": "#16A34A" },
+  { "code": "is", "label": "이슬람권", "label_en": "Islamic World", "color": "#0D9488" },
+  { "code": "byz", "label": "비잔틴", "label_en": "Byzantium", "color": "#7C3AED" },
+  { "code": "eu", "label": "서유럽", "label_en": "Western Europe", "color": "#4F46E5" },
+  { "code": "in", "label": "인도", "label_en": "India", "color": "#DB2777" },
+  { "code": "sea", "label": "동남아시아", "label_en": "Southeast Asia", "color": "#0891B2" },
+  { "code": "am", "label": "아메리카", "label_en": "Americas", "color": "#65A30D" }
+]

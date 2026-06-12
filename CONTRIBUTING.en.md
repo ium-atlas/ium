@@ -39,7 +39,32 @@ Please report them with the [issue template](../../issues/new/choose).
 3. Local validation: `node scripts/validate.js`
 4. Submit a PR — CI automatically validates the schema
 
-### 3. Suggest a New Topic
+### 3. Add or Edit Milestones by PR
+A `milestone` is lightweight one-line chronology data for showing "what was happening in other regions in the same year." It is lighter than an event, but the source rules are the same.
+
+1. Add entries to the regional file `data/milestones/<region-code>.json`. The region code must exist in `data/milestones/regions.json`
+2. Each entry must have exactly one of `year` (integer; BCE years are negative) or `range` (`[start, end]`, start<=end)
+3. `label` is required and must be one line, 40 characters or fewer. `note` is optional
+4. `sources` is required and must contain at least one source. Unsourced chronology entries are not accepted
+5. Local validation: `node scripts/validate.js`
+
+Example:
+
+```jsonc
+[
+  { "year": 1592, "label": "Imjin War begins", "sources": ["National Institute of Korean History, Korean History Chronology"] },
+  {
+    "range": [1418, 1450],
+    "label": "Reign of King Sejong",
+    "note": "Hunminjeongeum created (1446)",
+    "sources": ["National Institute of Korean History, Korean History Chronology"]
+  }
+]
+```
+
+Do not add events whose years are uncertain. Do not invent volume or page numbers you are not sure about, and prefer standard histories, chronology references, or primary sources.
+
+### 4. Suggest a New Topic
 Please suggest it by issue first. Good topics have these conditions:
 - Large asymmetry of weight between perspectives
 - Sources exist from at least three perspectives
