@@ -1,4 +1,4 @@
-import { getTopicIds, getTopic } from '@/lib/data';
+import { getTopicIds, getTopic, getTopicWithContemporaries } from '@/lib/data';
 import TopicMap from '@/components/TopicMap';
 import { ICONS } from '@/lib/icons';
 
@@ -24,7 +24,7 @@ export function generateMetadata({ params }) {
 }
 
 export default function EventPage({ params }) {
-  const topic = getTopic(params.topic);
+  const topic = getTopicWithContemporaries(params.topic);
   const ev = topic.events.find(e => e.id === params.event);
   const visible = topic.perspectives.filter(p => (ev.perspectives[p.code]?.weight || 0) >= 10);
 

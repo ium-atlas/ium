@@ -210,6 +210,7 @@ export default function TopicMap({ topic, initialEventId }) {
   const usedTypes = [...new Set(T.events.map(e => e.type))];
   const nowEvents = T.events.filter(e => evMonth(e) === cur);
   const narrP = openEv?.perspectives[tab];
+  const contemporaries = openEv?.contemporaries || [];
 
   return (
     <div className="mapwrap">
@@ -287,6 +288,29 @@ export default function TopicMap({ topic, initialEventId }) {
                 ? <span>{narrP.narrative}</span>
                 : <span className="placeholder">[ 서술 준비 중 — 사료 기반 서술이 들어갈 자리 ]</span>}
               {narrP?.sources?.length > 0 && <div className="src">출처: {narrP.sources.join(' · ')}</div>}
+              {contemporaries.length > 0 && (
+                <div className="same-era">
+                  <h4>같은 시기, 세계는</h4>
+                  <div className="same-era-list">
+                    {contemporaries.map(item => {
+                      const body = (
+                        <>
+                          <div className="same-era-top">
+                            <span>{item.regionLabel}</span>
+                            <em>{item.yearLabel}</em>
+                          </div>
+                          <div className="same-era-label">{item.label}</div>
+                        </>
+                      );
+                      return item.href ? (
+                        <a key={`${item.kind}-${item.id}`} className="same-era-item link" href={item.href}>{body}</a>
+                      ) : (
+                        <div key={`${item.kind}-${item.id}`} className="same-era-item">{body}</div>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
             </div>
           </>
         )}
