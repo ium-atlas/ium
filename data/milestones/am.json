@@ -1,0 +1,110 @@
+[
+  {
+    "year": 1754,
+    "label": "프렌치 인디언 전쟁 발발",
+    "sources": [
+      "Alan Taylor, American Colonies: The Settling of North America",
+      "Alan Taylor, American Revolutions: A Continental History, 1750-1804"
+    ]
+  },
+  {
+    "year": 1773,
+    "label": "보스턴 차 사건",
+    "sources": [
+      "Alan Taylor, American Revolutions: A Continental History, 1750-1804"
+    ]
+  },
+  {
+    "year": 1776,
+    "label": "미국 독립선언",
+    "sources": [
+      "Alan Taylor, American Revolutions: A Continental History, 1750-1804"
+    ]
+  },
+  {
+    "year": 1791,
+    "label": "아이티 혁명 시작",
+    "sources": [
+      "Laurent Dubois, Avengers of the New World: The Story of the Haitian Revolution",
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 3: From Independence to c.1870"
+    ]
+  },
+  {
+    "year": 1804,
+    "label": "아이티 독립",
+    "sources": [
+      "Laurent Dubois, Avengers of the New World: The Story of the Haitian Revolution",
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 3: From Independence to c.1870"
+    ]
+  },
+  {
+    "year": 1810,
+    "label": "멕시코 독립전쟁 시작",
+    "sources": [
+      "John Lynch, The Spanish American Revolutions, 1808-1826",
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 3: From Independence to c.1870"
+    ]
+  },
+  {
+    "year": 1816,
+    "label": "아르헨티나 독립 선언",
+    "sources": [
+      "John Lynch, The Spanish American Revolutions, 1808-1826",
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 3: From Independence to c.1870"
+    ]
+  },
+  {
+    "year": 1821,
+    "label": "멕시코 독립",
+    "sources": [
+      "John Lynch, The Spanish American Revolutions, 1808-1826",
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 3: From Independence to c.1870"
+    ]
+  },
+  {
+    "year": 1822,
+    "label": "브라질 독립",
+    "sources": [
+      "John Lynch, The Spanish American Revolutions, 1808-1826",
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 3: From Independence to c.1870"
+    ]
+  },
+  {
+    "year": 1823,
+    "label": "먼로 독트린",
+    "sources": [
+      "Daniel Walker Howe, What Hath God Wrought: The Transformation of America, 1815-1848"
+    ]
+  },
+  {
+    "range": [1846, 1848],
+    "label": "미국-멕시코 전쟁",
+    "sources": [
+      "Daniel Walker Howe, What Hath God Wrought: The Transformation of America, 1815-1848",
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 3: From Independence to c.1870"
+    ]
+  },
+  {
+    "range": [1861, 1865],
+    "label": "미국 남북전쟁",
+    "sources": [
+      "James M. McPherson, Battle Cry of Freedom: The Civil War Era"
+    ]
+  },
+  {
+    "range": [1864, 1870],
+    "label": "파라과이 전쟁",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 3: From Independence to c.1870",
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 4: c.1870 to 1930"
+    ]
+  },
+  {
+    "year": 1898,
+    "label": "미국-스페인 전쟁",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Latin America, Vol. 4: c.1870 to 1930",
+      "David F. Trask, The War with Spain in 1898"
+    ]
+  }
+]
