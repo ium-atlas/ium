@@ -74,5 +74,117 @@
     "year": 1641,
     "label": "네덜란드의 말라카 점령",
     "sources": ["Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680, Yale University Press"]
+  },
+  {
+    "year": 1669,
+    "label": "마카사르 전쟁 종결",
+    "sources": [
+      "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680, Yale University Press",
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"
+    ]
+  },
+  {
+    "year": 1767,
+    "label": "아유타야 함락",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800",
+      "D. G. E. Hall, A History of South-East Asia"
+    ]
+  },
+  {
+    "year": 1782,
+    "label": "라따나꼬신 왕조 성립",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800",
+      "Milton Osborne, Southeast Asia: An Introductory History"
+    ]
+  },
+  {
+    "year": 1786,
+    "label": "영국의 페낭 확보",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "D. G. E. Hall, A History of South-East Asia"
+    ]
+  },
+  {
+    "year": 1819,
+    "label": "싱가포르 무역항 설립",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "Milton Osborne, Southeast Asia: An Introductory History"
+    ]
+  },
+  {
+    "range": [1825, 1830],
+    "label": "자바 전쟁",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "D. G. E. Hall, A History of South-East Asia"
+    ]
+  },
+  {
+    "year": 1855,
+    "label": "보링 조약",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "Milton Osborne, Southeast Asia: An Introductory History"
+    ]
+  },
+  {
+    "range": [1859, 1862],
+    "label": "프랑스의 코친차이나 장악",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "D. G. E. Hall, A History of South-East Asia"
+    ]
+  },
+  {
+    "year": 1873,
+    "label": "아체 전쟁 시작",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "Milton Osborne, Southeast Asia: An Introductory History"
+    ]
+  },
+  {
+    "year": 1885,
+    "label": "제3차 영국-버마 전쟁",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "D. G. E. Hall, A History of South-East Asia"
+    ]
+  },
+  {
+    "year": 1887,
+    "label": "프랑스령 인도차이나 성립",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "Milton Osborne, Southeast Asia: An Introductory History"
+    ]
+  },
+  {
+    "year": 1896,
+    "label": "필리핀 혁명",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "D. G. E. Hall, A History of South-East Asia"
+    ]
+  },
+  {
+    "year": 1898,
+    "label": "마닐라만 전투",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "Milton Osborne, Southeast Asia: An Introductory History"
+    ]
+  },
+  {
+    "year": 1899,
+    "label": "말롤로스 공화국 수립",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 2: The Nineteenth and Twentieth Centuries",
+      "D. G. E. Hall, A History of South-East Asia"
+    ]
   }
 ]
