@@ -1,0 +1,13 @@
+{
+  "id": "first-marne",
+  "name": "제1차 마른 전투",
+  "type": "battle",
+  "date": "1914-09",
+  "location": { "lng": 2.8, "lat": 48.95 },
+  "perspectives": {
+    "entente": { "name": "파리 앞 진격 저지", "weight": 100, "narrative": "프랑스와 영국군은 마른 전투에서 독일의 파리 방면 진격을 멈췄다. 승리는 빠른 프랑스 패배를 막고 서부전선을 장기전으로 바꾸었다.", "sources": ["John Keegan, The First World War", "Hew Strachan, The First World War"] },
+    "central": { "name": "단기전 계획의 실패", "weight": 100, "narrative": "독일은 서부에서 빠른 결정적 승리를 얻지 못했고, 전선은 참호와 소모전으로 굳어졌다. 양면전의 부담이 현실이 됐다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "civilians": { "name": "수도 방어와 피난", "weight": 80, "narrative": "파리와 주변 지역 주민은 독일군 접근과 피난, 군사 동원의 불안을 겪었다. 전쟁은 대도시의 안전 감각까지 흔들었다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "John Keegan, The First World War"] },
+    "colonial": { "name": "제국 병력의 초기 투입", "weight": 45, "narrative": "프랑스와 영국 제국의 병력과 자원은 서부전선 방어에 점차 동원됐다. 유럽 전쟁은 초반부터 제국의 인력 체계와 연결됐다.", "sources": ["Hew Strachan, The First World War", "Jay Winter, The Great War and the Shaping of the 20th Century"] }
+  }
+}

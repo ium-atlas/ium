@@ -1,0 +1,21 @@
+{
+  "id": "world-war-i",
+  "title": "제1차 세계대전",
+  "subtitle": "제국 경쟁에서 총력전과 전후 질서로",
+  "period": [1914, 1918],
+  "start": "1914-06",
+  "end": "1918-11",
+  "bounds": [
+    [-78.0, 20.0],
+    [40.5, 55.0]
+  ],
+  "card": [14.0, 47.5],
+  "perspectives": [
+    { "code": "entente", "label": "연합국", "color": "#2563eb" },
+    { "code": "central", "label": "동맹국", "color": "#dc2626" },
+    { "code": "russia", "label": "러시아", "color": "#16a34a" },
+    { "code": "ottoman", "label": "오스만", "color": "#f59e0b" },
+    { "code": "colonial", "label": "식민지·피지배지", "color": "#7c3aed" },
+    { "code": "civilians", "label": "민간사회", "color": "#0891b2" }
+  ]
+}

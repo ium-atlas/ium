@@ -1,0 +1,13 @@
+{
+  "id": "arab-revolt",
+  "name": "아랍 반란",
+  "type": "movement",
+  "date": "1916-06",
+  "location": { "lng": 39.82, "lat": 21.42 },
+  "perspectives": {
+    "ottoman": { "name": "중동 통치의 균열", "weight": 100, "narrative": "아랍 반란은 오스만 제국의 전시 통치와 충성 체계에 균열을 만들었다. 제국은 전선 방어와 내부 통합을 동시에 유지해야 했다.", "sources": ["Eugene Rogan, The Fall of the Ottomans: The Great War in the Middle East"] },
+    "entente": { "name": "영국의 지역 협력", "weight": 85, "narrative": "영국은 아랍 반란을 오스만 중동 전선을 흔드는 전략적 협력으로 활용했다. 현지 동맹은 전후 약속과 제국 이해관계의 긴장을 품고 있었다.", "sources": ["Eugene Rogan, The Fall of the Ottomans: The Great War in the Middle East", "Hew Strachan, The First World War"] },
+    "colonial": { "name": "피지배지 정치의 기회와 한계", "weight": 100, "narrative": "아랍 지도자들은 오스만 지배에서 벗어날 기회를 보았지만, 영국과 프랑스의 전후 구상은 자결의 기대와 충돌했다. 반란은 해방과 새 종속 가능성을 함께 품었다.", "sources": ["Eugene Rogan, The Fall of the Ottomans: The Great War in the Middle East", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "civilians": { "name": "사막 전쟁과 지역사회", "weight": 65, "narrative": "헤자즈와 시리아 일대 주민은 군사 이동, 보급, 보복, 식량난의 영향을 받았다. 중동 전선은 지역사회와 제국 질서를 함께 흔들었다.", "sources": ["Eugene Rogan, The Fall of the Ottomans: The Great War in the Middle East"] }
+  }
+}

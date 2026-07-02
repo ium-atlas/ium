@@ -1,0 +1,13 @@
+{
+  "id": "lusitania-sinking",
+  "name": "루시타니아호 침몰",
+  "type": "battle",
+  "date": "1915-05",
+  "location": { "lng": -8.55, "lat": 51.42 },
+  "perspectives": {
+    "central": { "name": "잠수함전의 위험한 확장", "weight": 100, "narrative": "독일 잠수함전은 영국 봉쇄를 깨려는 수단이었지만, 루시타니아호 침몰은 민간인 희생과 외교 위기를 낳았다. 해상전은 정치적 비용을 키웠다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "entente": { "name": "독일 비난의 외교 자산", "weight": 85, "narrative": "영국은 침몰 사건을 독일의 잠수함전이 민간 항해를 위협한다는 증거로 제시했다. 협상국 선전과 외교는 미국 여론을 의식했다.", "sources": ["Hew Strachan, The First World War", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "civilians": { "name": "민간 승객의 희생", "weight": 100, "narrative": "루시타니아호 침몰은 민간인이 대서양 전쟁의 직접 피해자가 될 수 있음을 보여 주었다. 해상 봉쇄와 잠수함전은 전투원과 비전투원의 경계를 흐렸다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "John Keegan, The First World War"] },
+    "colonial": { "name": "대서양 제국 항로의 불안", "weight": 45, "narrative": "잠수함전은 영국 제국의 항로와 물자 이동 전체를 위협했다. 전쟁은 유럽 해안 밖의 제국 교통망에도 위험을 퍼뜨렸다.", "sources": ["Hew Strachan, The First World War", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "somme",
+  "name": "솜 전투",
+  "type": "battle",
+  "date": "1916-07",
+  "location": { "lng": 2.65, "lat": 50.0 },
+  "perspectives": {
+    "entente": { "name": "영국군 대규모 공세", "weight": 100, "narrative": "솜 전투는 영국과 프랑스가 독일 방어선을 돌파하려 한 대규모 공세였다. 전술 변화와 신무기에도 불구하고 전투는 막대한 손실을 낳았다.", "sources": ["John Keegan, The First World War", "Hew Strachan, The First World War"] },
+    "central": { "name": "방어 속 소모", "weight": 100, "narrative": "독일군은 솜에서 강한 방어를 유지했지만 병력과 장비를 계속 소모했다. 서부전선은 승패보다 소모 능력을 겨루는 공간이 됐다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "colonial": { "name": "제국 병력의 전장", "weight": 75, "narrative": "영국 제국과 프랑스 제국의 병력은 솜 전투와 서부전선 보급 체계에 참여했다. 전투의 희생은 유럽 밖 사회의 기억에도 남았다.", "sources": ["Hew Strachan, The First World War", "Jay Winter, The Great War and the Shaping of the 20th Century"] },
+    "civilians": { "name": "산업전의 상징", "weight": 100, "narrative": "솜 전투의 사상자 규모는 각국 민간사회에 깊은 충격을 주었다. 편지, 부상자 귀환, 전사자 명단은 전쟁의 산업적 폭력을 일상으로 가져왔다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "John Keegan, The First World War"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sarajevo-assassination",
+  "name": "사라예보 암살",
+  "type": "political",
+  "date": "1914-06",
+  "location": { "lng": 18.41, "lat": 43.86 },
+  "perspectives": {
+    "central": { "name": "오스트리아-헝가리의 위기", "weight": 100, "narrative": "프란츠 페르디난트 암살은 오스트리아-헝가리가 세르비아 민족주의를 제국 생존의 위협으로 보게 만든 사건이었다. 빈의 대응은 지역 위기를 동맹 정치로 끌고 갔다.", "sources": ["Christopher Clark, The Sleepwalkers: How Europe Went to War in 1914", "Margaret MacMillan, The War That Ended Peace: The Road to 1914"] },
+    "entente": { "name": "발칸 위기의 확대 가능성", "weight": 60, "narrative": "협상국 측은 처음에는 발칸의 또 다른 위기로 보았지만, 오스트리아-헝가리와 세르비아의 충돌이 러시아와 프랑스를 끌어들일 수 있음을 알고 있었다.", "sources": ["Christopher Clark, The Sleepwalkers: How Europe Went to War in 1914", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "russia": { "name": "세르비아 후견의 압박", "weight": 80, "narrative": "러시아는 세르비아를 완전히 버리면 발칸 영향력과 대국 위신을 잃을 수 있었다. 사라예보 사건은 러시아 외교에 후퇴와 동원 사이의 압박을 만들었다.", "sources": ["Christopher Clark, The Sleepwalkers: How Europe Went to War in 1914", "Margaret MacMillan, The War That Ended Peace: The Road to 1914"] },
+    "civilians": { "name": "도시 암살이 연 전쟁", "weight": 55, "narrative": "사라예보의 정치 폭력은 현장 시민에게는 지역적 충격이었지만, 곧 유럽 전체 민간사회를 전쟁 동원과 검열, 피난의 세계로 밀어 넣는 출발점이 됐다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "Christopher Clark, The Sleepwalkers: How Europe Went to War in 1914"] }
+  }
+}

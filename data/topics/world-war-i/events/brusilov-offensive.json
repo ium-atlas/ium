@@ -1,0 +1,13 @@
+{
+  "id": "brusilov-offensive",
+  "name": "브루실로프 공세",
+  "type": "battle",
+  "date": "1916-06",
+  "location": { "lng": 25.32, "lat": 50.75 },
+  "perspectives": {
+    "russia": { "name": "동부전선 최대 성과", "weight": 100, "narrative": "브루실로프 공세는 러시아군이 오스트리아-헝가리에 큰 타격을 준 전쟁 중 가장 성공적인 공세였다. 그러나 러시아군도 손실과 보급 부담을 크게 떠안았다.", "sources": ["David Stevenson, Cataclysm: The First World War as Political Tragedy", "Hew Strachan, The First World War"] },
+    "central": { "name": "오스트리아-헝가리의 위기", "weight": 100, "narrative": "공세는 오스트리아-헝가리군을 붕괴 직전까지 몰아넣고 독일의 지원을 필요하게 했다. 동맹국 내부의 군사 불균형이 드러났다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "entente": { "name": "서부전선 압박 분산", "weight": 80, "narrative": "러시아 공세는 베르됭과 솜의 압박 속에서 동맹국 병력을 동쪽으로 묶는 효과를 냈다. 협상국은 동시 압박의 가능성을 보았다.", "sources": ["Hew Strachan, The First World War", "John Keegan, The First World War"] },
+    "civilians": { "name": "갈리치아의 전선 이동", "weight": 70, "narrative": "갈리치아와 볼히니아 지역 주민은 전선 이동, 점령 변화, 피난과 보복의 위험을 겪었다. 동부전선은 민간사회에 반복적인 국경 변화를 강요했다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] }
+  }
+}

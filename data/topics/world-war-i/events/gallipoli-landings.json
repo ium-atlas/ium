@@ -1,0 +1,14 @@
+{
+  "id": "gallipoli-landings",
+  "name": "갈리폴리 상륙",
+  "type": "battle",
+  "date": "1915-04",
+  "location": { "lng": 26.29, "lat": 40.15 },
+  "perspectives": {
+    "entente": { "name": "다르다넬스 돌파 시도", "weight": 100, "narrative": "영국과 프랑스는 다르다넬스를 열어 러시아와 연결하고 오스만을 전쟁에서 밀어내려 했다. 상륙 작전은 곧 장기 교착과 큰 손실에 빠졌다.", "sources": ["Hew Strachan, The First World War", "John Keegan, The First World War"] },
+    "ottoman": { "name": "제국 방어의 승리", "weight": 100, "narrative": "오스만군은 갈리폴리에서 연합군 상륙을 저지하며 수도 이스탄불 방어에 성공했다. 이 승리는 오스만의 전쟁 지속 능력을 보여 주었다.", "sources": ["Eugene Rogan, The Fall of the Ottomans: The Great War in the Middle East", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "central": { "name": "동맹국 남동부 전선 유지", "weight": 70, "narrative": "갈리폴리 방어 성공은 독일과 오스트리아-헝가리에게도 전략적 이익이었다. 오스만이 버티면서 협상국은 러시아 보급로를 열지 못했다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "Eugene Rogan, The Fall of the Ottomans: The Great War in the Middle East"] },
+    "colonial": { "name": "호주·뉴질랜드 병사의 기억", "weight": 90, "narrative": "ANZAC 병력과 식민지 병사들은 갈리폴리에서 큰 손실을 입었다. 전투는 제국 병력의 희생과 각 지역의 전쟁 기억을 강하게 만들었다.", "sources": ["Hew Strachan, The First World War", "Jay Winter, The Great War and the Shaping of the 20th Century"] },
+    "civilians": { "name": "해협 주변의 군사화", "weight": 55, "narrative": "다르다넬스와 해협 주변 주민은 해상 봉쇄, 이동 제한, 병력 주둔의 압력을 겪었다. 제국 수도 방어는 민간 공간도 군사화했다.", "sources": ["Eugene Rogan, The Fall of the Ottomans: The Great War in the Middle East"] }
+  }
+}
