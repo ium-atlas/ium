@@ -1,0 +1,13 @@
+{
+  "id": "delhi-retaken",
+  "name": "영국군의 델리 재점령",
+  "type": "siege",
+  "date": "1857-09",
+  "location": { "lng": 77.23, "lat": 28.65 },
+  "perspectives": {
+    "sepoy": { "name": "상징 수도의 상실", "weight": 100, "narrative": "델리 재점령은 반란군이 기대던 무굴 상징권의 중심을 잃는 사건이었다. 반란은 이후 지역 전선으로 흩어져 더 분산된 저항이 됐다.", "sources": ["William Dalrymple, The Last Mughal: The Fall of a Dynasty, Delhi, 1857", "Saul David, The Indian Mutiny: 1857"] },
+    "british": { "name": "위신 회복과 처벌", "weight": 100, "narrative": "영국군은 델리 탈환을 제국 권위 회복의 핵심으로 보았다. 점령 뒤에는 반란 가담자 처벌과 도시 통제 회복이 강하게 추진됐다.", "sources": ["William Dalrymple, The Last Mughal: The Fall of a Dynasty, Delhi, 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "princely": { "name": "무굴 정치의 붕괴", "weight": 60, "narrative": "바하두르 샤 2세의 몰락은 무굴 황제 이름으로 지역 권력을 묶으려던 시도의 한계를 드러냈다. 번왕과 지역 엘리트는 각자 생존 전략을 다시 계산했다.", "sources": ["William Dalrymple, The Last Mughal: The Fall of a Dynasty, Delhi, 1857", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] },
+    "civilians": { "name": "도시 보복과 추방", "weight": 100, "narrative": "델리 주민은 재점령 뒤 대규모 처벌, 재산 몰수, 추방과 생계 붕괴를 겪었다. 전쟁의 정치적 상징은 도시 사회의 파괴로 이어졌다.", "sources": ["William Dalrymple, The Last Mughal: The Fall of a Dynasty, Delhi, 1857", "Kim A. Wagner, The Great Fear of 1857: Rumours, Conspiracies and the Making of the Indian Uprising"] }
+  }
+}

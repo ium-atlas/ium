@@ -1,0 +1,13 @@
+{
+  "id": "gwalior-falls",
+  "name": "괄리오르 함락",
+  "type": "battle",
+  "date": "1858-06",
+  "location": { "lng": 78.18, "lat": 26.22 },
+  "perspectives": {
+    "sepoy": { "name": "마지막 대형 거점의 상실", "weight": 90, "narrative": "괄리오르 전투와 함락은 중앙 인도 반란군의 마지막 대형 군사 거점을 무너뜨렸다. 주요 저항은 이후 더 작은 전선과 유격적 형태로 흩어졌다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] },
+    "british": { "name": "군사 저항의 붕괴 확인", "weight": 100, "narrative": "영국군은 괄리오르 탈환으로 대규모 조직 저항을 거의 제압했다고 보았다. 전쟁은 군사 진압에서 행정 재편과 처벌의 단계로 넘어갔다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "princely": { "name": "신디아와 반란 세력의 갈림", "weight": 100, "narrative": "괄리오르는 신디아 가문의 이해관계와 반란군의 군사 전략이 충돌한 공간이었다. 번왕 세력은 영국 협력, 반란 동참, 생존 계산 사이에서 갈라졌다.", "sources": ["Christopher A. Bayly, Indian Society and the Making of the British Empire", "Saul David, The Indian Mutiny: 1857"] },
+    "civilians": { "name": "전선 이동의 부담", "weight": 70, "narrative": "괄리오르 일대 주민은 반란군 점령과 영국군 재탈환이 빠르게 이어지는 가운데 징발과 보복 위험을 겪었다. 전선의 이동은 생활 기반을 흔들었다.", "sources": ["Eric Stokes, The Peasant Armed: The Indian Revolt of 1857", "Saul David, The Indian Mutiny: 1857"] }
+  }
+}

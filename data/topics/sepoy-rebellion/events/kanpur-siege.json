@@ -1,0 +1,13 @@
+{
+  "id": "kanpur-siege",
+  "name": "칸푸르 포위",
+  "type": "siege",
+  "date": "1857-06",
+  "location": { "lng": 80.35, "lat": 26.45 },
+  "perspectives": {
+    "sepoy": { "name": "지역 반란군의 압박", "weight": 90, "narrative": "칸푸르의 반란군은 영국 수비대를 포위하며 갠지스 중류의 교통과 권력을 흔들었다. 군인 반란은 지역 지도력과 결합해 더 넓은 전선이 됐다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] },
+    "british": { "name": "포위와 보복의 기억", "weight": 100, "narrative": "칸푸르 포위와 뒤이은 살해 사건은 영국 사회에서 강렬한 충격과 보복 정서를 낳았다. 이후 영국군의 진압은 처벌과 위신 회복의 언어를 더 강하게 띠었다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "princely": { "name": "나나 사히브의 선택", "weight": 100, "narrative": "나나 사히브는 영국과의 연금·권리 분쟁 속에서 칸푸르 반란의 중심 인물로 떠올랐다. 그의 역할은 번왕·지역 엘리트의 이해관계가 반란과 결합할 수 있음을 보여 주었다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "civilians": { "name": "민간인 살해와 보복", "weight": 100, "narrative": "칸푸르는 영국인 여성·아이 살해와 이후 영국군 보복이 겹치며 폭력의 상징이 됐다. 민간인은 전투원 구분이 흐려진 보복 정치의 가장 취약한 대상이었다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Kim A. Wagner, The Great Fear of 1857: Rumours, Conspiracies and the Making of the Indian Uprising"] }
+  }
+}

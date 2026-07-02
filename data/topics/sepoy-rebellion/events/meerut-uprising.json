@@ -1,0 +1,13 @@
+{
+  "id": "meerut-uprising",
+  "name": "메루트 세포이 봉기",
+  "type": "movement",
+  "date": "1857-05",
+  "location": { "lng": 77.71, "lat": 28.98 },
+  "perspectives": {
+    "sepoy": { "name": "군인 반란의 폭발", "weight": 100, "narrative": "메루트의 세포이들은 탄약통 소문과 군율 처벌, 누적된 불만 속에서 봉기해 델리로 향했다. 지역적 반란은 곧 북인도 전체 위기로 번졌다.", "sources": ["Kim A. Wagner, The Great Fear of 1857: Rumours, Conspiracies and the Making of the Indian Uprising", "Saul David, The Indian Mutiny: 1857"] },
+    "british": { "name": "주둔군 통제의 붕괴", "weight": 95, "narrative": "영국 동인도회사에게 메루트 봉기는 군율과 충성 체계가 무너진 경고였다. 초기 대응 지연은 반란군이 델리로 이동할 시간을 주었다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "princely": { "name": "지역 권력의 관망", "weight": 50, "narrative": "메루트 봉기는 아직 번왕과 지역 엘리트의 일제 행동은 아니었지만, 영국 지배가 흔들릴 수 있다는 신호를 보냈다. 이후 각 지역 권력은 합류와 관망 사이에서 선택해야 했다.", "sources": ["Eric Stokes, The Peasant Armed: The Indian Revolt of 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "civilians": { "name": "소문과 폭력의 확산", "weight": 70, "narrative": "탄약통과 개종 공포를 둘러싼 소문은 병영 밖 민간사회에도 퍼졌다. 봉기는 주민에게 약탈, 보복, 피난의 위험이 동시에 다가오는 순간이었다.", "sources": ["Kim A. Wagner, The Great Fear of 1857: Rumours, Conspiracies and the Making of the Indian Uprising", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] }
+  }
+}

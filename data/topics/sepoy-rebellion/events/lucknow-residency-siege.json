@@ -1,0 +1,13 @@
+{
+  "id": "lucknow-residency-siege",
+  "name": "러크나우 레지던시 포위",
+  "type": "siege",
+  "date": "1857-06",
+  "location": { "lng": 80.95, "lat": 26.85 },
+  "perspectives": {
+    "sepoy": { "name": "아와드 반란의 중심", "weight": 90, "narrative": "러크나우 포위는 세포이 반란이 아와드 지역의 넓은 불만과 결합한 장면이었다. 반란군은 영국 행정 거점을 묶어 두며 장기 전선을 만들었다.", "sources": ["Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] },
+    "british": { "name": "레지던시 방어의 상징", "weight": 100, "narrative": "영국군에게 러크나우 레지던시 방어는 포위 속 생존과 구원의 상징이 됐다. 그러나 포위가 길어질수록 동인도회사 통치의 취약성도 드러났다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858"] },
+    "princely": { "name": "아와드 엘리트의 동원", "weight": 85, "narrative": "아와드의 탈루크다르와 지역 엘리트는 병합 이후 잃은 권리와 지위를 둘러싸고 반란에 가담하거나 협력했다. 러크나우는 지역 정치가 군사 포위와 만나는 중심이었다.", "sources": ["Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "civilians": { "name": "도시와 농촌의 장기 고통", "weight": 100, "narrative": "러크나우와 주변 아와드 주민은 포위, 식량 부족, 징발, 보복의 압력을 함께 겪었다. 항쟁의 전선은 성벽 안팎의 민간사회까지 길게 이어졌다.", "sources": ["Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] }
+  }
+}

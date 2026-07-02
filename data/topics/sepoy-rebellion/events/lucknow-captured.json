@@ -1,0 +1,13 @@
+{
+  "id": "lucknow-captured",
+  "name": "러크나우 함락",
+  "type": "siege",
+  "date": "1858-03",
+  "location": { "lng": 80.95, "lat": 26.85 },
+  "perspectives": {
+    "sepoy": { "name": "아와드 전선의 약화", "weight": 85, "narrative": "러크나우 함락은 아와드 반란군의 도시 거점을 크게 약화시켰다. 저항은 농촌과 이동 전선으로 이어졌지만 중심 도시는 영국군 손에 넘어갔다.", "sources": ["Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858", "Saul David, The Indian Mutiny: 1857"] },
+    "british": { "name": "대규모 재정복 작전", "weight": 100, "narrative": "영국군은 증원군과 조직적 공세로 러크나우를 재점령했다. 이는 동인도회사 지배가 군사력으로 회복될 수 있음을 보여 주려는 작전이었다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858"] },
+    "princely": { "name": "아와드 권력망의 흔들림", "weight": 95, "narrative": "아와드의 지역 엘리트와 탈루크다르 세력은 러크나우 상실 뒤에도 저항과 협상을 병행했다. 도시 함락은 지역 권력망 전체를 즉시 끝내지는 못했다.", "sources": ["Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] },
+    "civilians": { "name": "포위 뒤의 폐허", "weight": 100, "narrative": "장기 포위와 재점령은 러크나우 주민에게 파괴된 주거, 식량난, 보복과 피난의 기억을 남겼다. 전투의 결말은 도시 복구의 긴 문제로 이어졌다.", "sources": ["Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] }
+  }
+}

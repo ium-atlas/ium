@@ -1,0 +1,13 @@
+{
+  "id": "jhansi-falls",
+  "name": "잔시 함락",
+  "type": "siege",
+  "date": "1858-04",
+  "location": { "lng": 78.57, "lat": 25.45 },
+  "perspectives": {
+    "sepoy": { "name": "중앙 인도 저항의 후퇴", "weight": 75, "narrative": "잔시 함락은 중앙 인도 반란군의 핵심 방어 거점을 무너뜨렸다. 남은 세력은 라니 락슈미바이와 함께 이동하며 다른 거점과 합류하려 했다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] },
+    "british": { "name": "중앙 인도 공세의 성과", "weight": 90, "narrative": "영국군은 잔시 점령을 통해 중앙 인도 전선의 주도권을 되찾았다. 라니와 잔시는 영국 진압 서사에서 강한 상징적 의미를 갖게 됐다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "princely": { "name": "라니 락슈미바이의 이동 저항", "weight": 100, "narrative": "잔시가 함락된 뒤 라니 락슈미바이는 항복하지 않고 중앙 인도의 다른 반란 세력과 결합했다. 번왕 권리의 방어는 군사 이동 저항으로 바뀌었다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] },
+    "civilians": { "name": "성곽 도시의 피해", "weight": 80, "narrative": "잔시 주민은 포위와 돌입, 보복의 충격을 겪었다. 지역 정치의 상징이 된 도시는 민간 생활의 파괴를 감수해야 했다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] }
+  }
+}
