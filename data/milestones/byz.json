@@ -1,5 +1,69 @@
 [
   {
+    "year": -900,
+    "label": "프리기아 고르디온 성장",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 1: The Prehistory of the Balkans; and the Middle East and the Aegean World, Tenth to Eighth Centuries B.C.",
+      "Trevor Bryce, The World of the Neo-Hittite Kingdoms: A Political and Military History"
+    ]
+  },
+  {
+    "year": -800,
+    "label": "이오니아 도시권 성장",
+    "sources": [
+      "John Boardman, The Greeks Overseas: Their Early Colonies and Trade",
+      "Robin Osborne, Greece in the Making, 1200-479 BC"
+    ]
+  },
+  {
+    "year": -756,
+    "label": "시노페 건설 전승",
+    "sources": [
+      "John Boardman, The Greeks Overseas: Their Early Colonies and Trade",
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C."
+    ]
+  },
+  {
+    "year": -680,
+    "label": "기게스와 리디아 부상",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C.",
+      "Robin Osborne, Greece in the Making, 1200-479 BC"
+    ]
+  },
+  {
+    "year": -667,
+    "label": "비잔티온 건설 전승",
+    "sources": [
+      "John Boardman, The Greeks Overseas: Their Early Colonies and Trade",
+      "Robin Osborne, Greece in the Making, 1200-479 BC"
+    ]
+  },
+  {
+    "year": -585,
+    "label": "할리스 전투와 일식",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C.",
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 4: Persia, Greece and the Western Mediterranean c. 525 to 479 B.C."
+    ]
+  },
+  {
+    "year": -546,
+    "label": "페르시아의 리디아 정복",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 4: Persia, Greece and the Western Mediterranean c. 525 to 479 B.C.",
+      "John Boardman, The Greeks Overseas: Their Early Colonies and Trade"
+    ]
+  },
+  {
+    "year": -513,
+    "label": "다리우스의 보스포로스 원정",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 4: Persia, Greece and the Western Mediterranean c. 525 to 479 B.C.",
+      "John Boardman, The Greeks Overseas: Their Early Colonies and Trade"
+    ]
+  },
+  {
     "year": 1669,
     "label": "칸디아 함락",
     "sources": [
