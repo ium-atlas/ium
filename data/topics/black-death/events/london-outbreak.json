@@ -1,0 +1,37 @@
+{
+  "id": "london-outbreak",
+  "name": "런던 발병",
+  "type": "movement",
+  "date": "1348-11",
+  "location": {
+    "lng": -0.1276,
+    "lat": 51.5072
+  },
+  "perspectives": {
+    "eu": {
+      "name": "잉글랜드 확산",
+      "weight": 95,
+      "narrative": "런던 발병은 흑사병이 잉글랜드 사회와 노동 질서를 뒤흔드는 계기가 됐다. 이후 임금, 토지, 농민 관계의 변화와 함께 다뤄진다.",
+      "sources": [
+        "John Aberth, The Black Death: The Great Mortality of 1348-1350: A Brief History with Documents",
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    },
+    "is": {
+      "name": "원거리 비교 지점",
+      "weight": 15,
+      "narrative": "런던은 이슬람권과 멀리 떨어져 있지만 같은 팬데믹이 서로 다른 제도권에 미친 영향을 비교하는 지점이 된다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    },
+    "trade": {
+      "name": "북해 교역권 진입",
+      "weight": 75,
+      "narrative": "런던의 발병은 북해와 영국 해협 교역권도 대유행의 연결망 안에 들어갔음을 보여 준다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    }
+  }
+}

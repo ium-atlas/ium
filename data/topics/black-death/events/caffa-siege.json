@@ -1,0 +1,39 @@
+{
+  "id": "caffa-siege",
+  "name": "카파 포위",
+  "type": "siege",
+  "date": "1346-09",
+  "location": {
+    "lng": 35.382,
+    "lat": 45.0319
+  },
+  "perspectives": {
+    "eu": {
+      "name": "흑해 식민도시의 위기",
+      "weight": 70,
+      "narrative": "제노바계 카파 포위는 유럽 흑사병 서사의 출발점 중 하나로 자주 언급된다. 다만 이 포위가 곧바로 유럽 전파의 단일 원인이라는 식의 단정은 피해야 한다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History",
+        "Mark Wheelis, \"Biological Warfare at the 1346 Siege of Caffa\""
+      ]
+    },
+    "is": {
+      "name": "킵차크-흑해 전선",
+      "weight": 45,
+      "narrative": "이슬람권과 유라시아 내륙 세계에서 흑해 북안은 몽골계 정치권과 장거리 교역이 만나는 지역이었다. 카파 사례는 감염과 전쟁, 교역이 겹친 복합 상황으로 보아야 한다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East",
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    },
+    "trade": {
+      "name": "전파 경로 논쟁",
+      "weight": 100,
+      "narrative": "카파는 흑해-지중해 교역망을 통한 전파 가능성을 보여 주는 사례이지만, 생물전과 직접 전파 경로는 학계에서 조심스럽게 다뤄진다.",
+      "sources": [
+        "Mark Wheelis, \"Biological Warfare at the 1346 Siege of Caffa\"",
+        "Samuel K. Cohn Jr., The Black Death Transformed: Disease and Culture in Early Renaissance Europe"
+      ]
+    }
+  }
+}

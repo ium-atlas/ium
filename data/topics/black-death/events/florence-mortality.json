@@ -1,0 +1,37 @@
+{
+  "id": "florence-mortality",
+  "name": "피렌체 대유행",
+  "type": "culture",
+  "date": "1348-04",
+  "location": {
+    "lng": 11.2558,
+    "lat": 43.7696
+  },
+  "perspectives": {
+    "eu": {
+      "name": "도시 공동체의 붕괴감",
+      "weight": 100,
+      "narrative": "피렌체는 흑사병이 유럽 도시 공동체와 가족, 노동, 종교 감각을 뒤흔든 사례로 자주 쓰인다. 보카치오의 서술도 이 기억을 강하게 남겼다.",
+      "sources": [
+        "John Aberth, The Black Death: The Great Mortality of 1348-1350: A Brief History with Documents",
+        "Samuel K. Cohn Jr., The Black Death Transformed: Disease and Culture in Early Renaissance Europe"
+      ]
+    },
+    "is": {
+      "name": "비교 가능한 도시 재난",
+      "weight": 30,
+      "narrative": "피렌체의 도시 충격은 카이로·다마스쿠스 같은 이슬람권 도시의 경험과 비교된다. 지역은 달랐지만 대도시의 사회적 불안은 공통적으로 나타났다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    },
+    "trade": {
+      "name": "상업도시의 취약성",
+      "weight": 80,
+      "narrative": "피렌체는 내륙 도시였지만 금융·상업 연결망 속에 있었다. 대유행은 항만만이 아니라 상업도시 전체의 연결성을 타고 충격을 확산시켰다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    }
+  }
+}

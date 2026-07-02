@@ -1,0 +1,36 @@
+{
+  "id": "damascus-outbreak",
+  "name": "다마스쿠스 발병",
+  "type": "movement",
+  "date": "1348-09",
+  "location": {
+    "lng": 36.2765,
+    "lat": 33.5138
+  },
+  "perspectives": {
+    "eu": {
+      "name": "동지중해 동시성",
+      "weight": 35,
+      "narrative": "다마스쿠스 발병은 흑사병이 유럽과 거의 동시에 동지중해 내륙 도시에도 충격을 줬음을 보여 준다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    },
+    "is": {
+      "name": "종교적·도시적 대응",
+      "weight": 100,
+      "narrative": "다마스쿠스는 이슬람권 흑사병 경험을 보여 주는 핵심 도시 중 하나다. 종교적 해석, 공동체 의례, 사망률 충격이 함께 논의된다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    },
+    "trade": {
+      "name": "시리아 내륙 교통로",
+      "weight": 70,
+      "narrative": "다마스쿠스는 시리아 내륙과 지중해·메소포타미아를 잇는 교통망의 중심이었다. 병의 확산도 이러한 노드들을 통해 이해된다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bergen-norway",
+  "name": "베르겐 도착",
+  "type": "movement",
+  "date": "1349-08",
+  "location": {
+    "lng": 5.3221,
+    "lat": 60.3913
+  },
+  "perspectives": {
+    "eu": {
+      "name": "북유럽 전파",
+      "weight": 90,
+      "narrative": "베르겐 도착은 흑사병이 지중해와 서유럽을 넘어 북유럽 해상 교역권까지 확산됐음을 보여 준다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    },
+    "is": {
+      "name": "북방 확산의 비교",
+      "weight": 15,
+      "narrative": "베르겐은 이슬람권 직접 사건은 아니지만, 팬데믹이 매우 다른 기후·사회 환경으로도 확산됐음을 비교하게 해 준다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    },
+    "trade": {
+      "name": "북해 항로의 역할",
+      "weight": 85,
+      "narrative": "베르겐 사례는 북해와 한자동맹권 항로가 전파 지도에서 중요한 역할을 했음을 보여 준다. 항구 연결망은 북유럽 확산의 통로였다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    }
+  }
+}

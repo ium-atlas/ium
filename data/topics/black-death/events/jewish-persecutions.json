@@ -1,0 +1,37 @@
+{
+  "id": "jewish-persecutions",
+  "name": "슈트라스부르 학살",
+  "type": "massacre",
+  "date": "1349-02",
+  "location": {
+    "lng": 7.7521,
+    "lat": 48.5734
+  },
+  "perspectives": {
+    "eu": {
+      "name": "공포와 희생양 만들기",
+      "weight": 100,
+      "narrative": "슈트라스부르 학살은 흑사병 공포가 반유대 폭력으로 이어진 대표 사례다. 질병 설명과 사회적 불안이 폭력적으로 결합했다.",
+      "sources": [
+        "John Aberth, The Black Death: The Great Mortality of 1348-1350: A Brief History with Documents",
+        "Samuel K. Cohn Jr., The Black Death Transformed: Disease and Culture in Early Renaissance Europe"
+      ]
+    },
+    "is": {
+      "name": "지역별 사회 반응의 차이",
+      "weight": 25,
+      "narrative": "이 사건은 유럽 기독교 사회의 특정 폭력 양상을 보여 준다. 이슬람권의 종교적 대응과 비교할 때, 같은 질병도 사회별로 다른 반응을 낳았다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    },
+    "trade": {
+      "name": "전파 공포의 왜곡",
+      "weight": 55,
+      "narrative": "교역망과 이동은 실제 전파의 일부였지만, 대중적 공포는 종종 특정 집단을 근거 없이 원인으로 지목했다. 지도는 전파와 폭력의 차이를 함께 보여야 한다.",
+      "sources": [
+        "Samuel K. Cohn Jr., The Black Death Transformed: Disease and Culture in Early Renaissance Europe"
+      ]
+    }
+  }
+}
