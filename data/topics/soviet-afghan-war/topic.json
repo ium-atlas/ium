@@ -1,0 +1,21 @@
+{
+  "id": "soviet-afghan-war",
+  "title": "소련-아프가니스탄 전쟁",
+  "subtitle": "개입, 저항, 후방 지원, 철군으로 이어진 1979-1989년",
+  "period": [1979, 1989],
+  "start": "1979-03",
+  "end": "1989-02",
+  "bounds": [
+    [6.0, 30.0],
+    [72.5, 47.0]
+  ],
+  "card": [69.17, 34.53],
+  "perspectives": [
+    { "code": "soviet", "label": "소련", "color": "#dc2626" },
+    { "code": "pdpa", "label": "아프가니스탄 인민민주당 정부", "color": "#2563eb" },
+    { "code": "mujahideen", "label": "무자헤딘", "color": "#16a34a" },
+    { "code": "us_pakistan", "label": "미국·파키스탄 지원망", "color": "#7c3aed" },
+    { "code": "civilians", "label": "아프가니스탄 민간인·난민", "color": "#0891b2" },
+    { "code": "regional", "label": "주변국·국제 외교", "color": "#f59e0b" }
+  ]
+}

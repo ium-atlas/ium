@@ -1,0 +1,13 @@
+{
+  "id": "operation-storm-333",
+  "name": "폭풍-333 작전",
+  "type": "battle",
+  "date": "1979-12",
+  "location": { "lng": 69.10, "lat": 34.46 },
+  "perspectives": {
+    "soviet": { "name": "정권 교체형 개입", "weight": 100, "narrative": "소련 특수부대의 타지벡 궁 공격은 단순 지원을 넘어 카불 정권 교체를 직접 수행한 사건이었다. 개입은 비밀 작전에서 장기 전쟁으로 커졌다.", "sources": ["Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89", "The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost"] },
+    "pdpa": { "name": "카르말 체제의 출범", "weight": 90, "narrative": "아민 제거 뒤 바브락 카르말이 등장했지만 새 정부의 권위는 소련 군사력에 크게 의존했다. 정권 정당성 문제는 더 깊어졌다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan"] },
+    "mujahideen": { "name": "점령 서사의 강화", "weight": 85, "narrative": "소련의 직접 군사개입은 반정권 저항을 외세 점령에 맞선 지하드로 재해석할 강한 명분을 주었다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Odd Arne Westad, The Global Cold War: Third World Interventions and the Making of Our Times"] },
+    "civilians": { "name": "수도 전투의 충격", "weight": 70, "narrative": "카불 주민은 궁정 공격과 정권 교체를 통해 전쟁이 수도 권력 중심까지 들어왔음을 목격했다.", "sources": ["Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89", "Thomas Barfield, Afghanistan: A Cultural and Political History"] }
+  }
+}

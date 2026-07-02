@@ -1,0 +1,13 @@
+{
+  "id": "soviet-40th-army-entry",
+  "name": "소련 40군 진입",
+  "type": "movement",
+  "date": "1979-12",
+  "location": { "lng": 67.43, "lat": 37.21 },
+  "perspectives": {
+    "soviet": { "name": "제한 개입이라는 착각", "weight": 100, "narrative": "소련 40군의 진입은 정권을 안정시키는 제한적 임무로 설명됐지만, 실제로는 산악·농촌 전쟁의 장기 소모로 이어졌다.", "sources": ["The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] },
+    "pdpa": { "name": "군사 후견의 강화", "weight": 90, "narrative": "PDPA 정부는 소련군 지원으로 생존 기반을 얻었지만, 동시에 외세 의존 정권이라는 비판을 피하기 어려워졌다.", "sources": ["Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] },
+    "regional": { "name": "냉전의 중앙아시아화", "weight": 85, "narrative": "소련군 진입은 아프가니스탄 문제를 지역 반란에서 국제 냉전 쟁점으로 끌어올렸다. 파키스탄, 미국, 이란, 중국의 계산도 달라졌다.", "sources": ["Odd Arne Westad, The Global Cold War: Third World Interventions and the Making of Our Times", "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001"] },
+    "civilians": { "name": "전쟁의 전국화", "weight": 75, "narrative": "소련군 진입은 검문, 군사작전, 피난, 보급로 통제를 아프가니스탄 일상에 깊숙이 가져왔다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] }
+  }
+}

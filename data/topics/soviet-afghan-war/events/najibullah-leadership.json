@@ -1,0 +1,13 @@
+{
+  "id": "najibullah-leadership",
+  "name": "나지불라 집권",
+  "type": "political",
+  "date": "1986-05",
+  "location": { "lng": 69.17, "lat": 34.53 },
+  "perspectives": {
+    "pdpa": { "name": "국민화해 노선", "weight": 100, "narrative": "나지불라 집권은 PDPA가 생존을 위해 국민화해와 정권 재포장을 시도하는 계기가 됐다. 그러나 권력 기반은 여전히 취약했다.", "sources": ["Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] },
+    "soviet": { "name": "철군을 준비하는 동맹 관리", "weight": 95, "narrative": "소련은 나지불라 체제를 통해 철군 이후에도 카불 정부가 버틸 조건을 만들려 했다. 군사 승리보다 관리 가능한 퇴로가 중요해졌다.", "sources": ["Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan", "Diego Cordovez and Selig S. Harrison, Out of Afghanistan: The Inside Story of the Soviet Withdrawal"] },
+    "mujahideen": { "name": "타협 거부와 압박 지속", "weight": 80, "narrative": "무자헤딘 다수는 카불 정부의 국민화해를 소련 의존 정권의 생존책으로 보며 군사 압박을 이어갔다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001"] },
+    "civilians": { "name": "평화 약속과 계속되는 전쟁", "weight": 75, "narrative": "국민화해 담론은 전쟁 피로 속의 평화 기대를 건드렸지만, 많은 지역에서는 폭력과 불안이 계속됐다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] }
+  }
+}

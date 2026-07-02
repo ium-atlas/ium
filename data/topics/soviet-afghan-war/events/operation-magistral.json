@@ -1,0 +1,13 @@
+{
+  "id": "operation-magistral",
+  "name": "마기스트랄 작전",
+  "type": "battle",
+  "date": "1987-11",
+  "location": { "lng": 69.22, "lat": 33.60 },
+  "perspectives": {
+    "soviet": { "name": "철군 전 마지막 대작전", "weight": 100, "narrative": "마기스트랄 작전은 코스트 보급로를 확보하려는 대규모 소련·정부군 작전이었다. 철군을 앞두고도 군사적 체면과 카불 정부 방어가 중요했다.", "sources": ["The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] },
+    "pdpa": { "name": "고립 지역 연결 시도", "weight": 90, "narrative": "PDPA 정부는 주요 도시와 고립된 지역을 연결해야 정권 생존 가능성을 높일 수 있었다. 보급로 확보는 정치적 안정의 문제였다.", "sources": ["Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] },
+    "mujahideen": { "name": "보급로 차단 전략", "weight": 85, "narrative": "무자헤딘은 도로와 요충지를 압박해 정부군의 통제 범위를 좁히려 했다. 산악전은 점령보다 보급과 이동을 겨냥했다.", "sources": ["The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost", "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001"] },
+    "civilians": { "name": "도로와 마을의 전장화", "weight": 70, "narrative": "작전은 도로 주변 마을과 주민을 군사 목표, 보급 통로, 피난 경로 사이에 놓이게 했다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] }
+  }
+}

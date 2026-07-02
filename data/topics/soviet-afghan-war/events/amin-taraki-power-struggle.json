@@ -1,0 +1,12 @@
+{
+  "id": "amin-taraki-power-struggle",
+  "name": "아민-타라키 권력투쟁",
+  "type": "political",
+  "date": "1979-09",
+  "location": { "lng": 69.17, "lat": 34.53 },
+  "perspectives": {
+    "pdpa": { "name": "당내 분열의 폭발", "weight": 100, "narrative": "하피줄라 아민의 권력 장악은 PDPA 내부 파벌 갈등과 폭력적 정치 문화를 드러냈다. 혁명 정권은 내부 결속보다 숙청과 불신에 매달렸다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Thomas Barfield, Afghanistan: A Cultural and Political History"] },
+    "soviet": { "name": "불신받는 동맹 지도자", "weight": 95, "narrative": "소련은 아민의 노선과 통제 가능성을 점점 더 의심했다. 카불의 권력투쟁은 모스크바가 직접 개입을 검토하는 중요한 배경이 됐다.", "sources": ["Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89", "Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan"] },
+    "civilians": { "name": "정권 폭력의 일상화", "weight": 70, "narrative": "정권 내부 투쟁은 체포, 숙청, 공포정치와 결합해 민간사회에도 압력을 주었다. 국가 권력은 안정의 약속보다 불안을 키웠다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] }
+  }
+}

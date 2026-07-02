@@ -1,0 +1,13 @@
+{
+  "id": "panjshir-offensives",
+  "name": "판지시르 공세",
+  "type": "battle",
+  "date": "1982-05",
+  "location": { "lng": 69.53, "lat": 35.31 },
+  "perspectives": {
+    "mujahideen": { "name": "마수드 거점의 방어", "weight": 100, "narrative": "판지시르 계곡은 아흐마드 샤 마수드 세력의 상징적 거점이었다. 무자헤딘은 지형과 지역 기반을 활용해 반복 공세에 대응했다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001"] },
+    "soviet": { "name": "반복 공세의 한계", "weight": 95, "narrative": "소련군은 대규모 공중·지상 작전으로 계곡을 압박했지만, 일시 점령과 장기 통제 사이의 간극을 극복하기 어려웠다.", "sources": ["The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] },
+    "pdpa": { "name": "중앙정부 통제의 취약성", "weight": 75, "narrative": "정부군은 소련 지원 없이는 주요 반군 거점을 안정적으로 통제하기 어려웠다. 국가 권력은 도시와 도로망에 더 묶였다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan"] },
+    "civilians": { "name": "계곡 주민의 반복 피해", "weight": 85, "narrative": "반복 공세는 지역 주민에게 피난, 폭격, 보급 차질을 반복적으로 안겼다. 전선과 생활권이 분리되지 않았다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] }
+  }
+}
