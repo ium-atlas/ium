@@ -1,0 +1,13 @@
+{
+  "id": "quarantine-speech",
+  "name": "케네디의 해상 봉쇄 연설",
+  "type": "political",
+  "date": "1962-10",
+  "location": { "lng": -77.04, "lat": 38.90 },
+  "perspectives": {
+    "us": { "name": "공개 압박과 확전 억제", "weight": 100, "narrative": "케네디는 해상 봉쇄를 '검역'으로 제시하며 미사일 철수를 공개 요구했다. 이는 즉각 공습보다 낮은 단계의 강압으로 시간을 벌려는 선택이었다.", "sources": ["Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis", "Ernest R. May and Philip D. Zelikow, The Kennedy Tapes: Inside the White House During the Cuban Missile Crisis"] },
+    "soviet": { "name": "체면과 후퇴의 딜레마", "weight": 90, "narrative": "소련은 봉쇄를 압박으로 보면서도 미사일 철수 여부를 둘러싼 협상 공간을 계산해야 했다. 군사 충돌과 정치적 굴욕 모두 위험했다.", "sources": ["Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis", "Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964"] },
+    "cuba": { "name": "침공 공포의 고조", "weight": 85, "narrative": "쿠바는 미국의 공개 봉쇄를 침공 전 단계로 받아들일 수 있었다. 카스트로 정부는 방어 태세와 혁명 동원을 강화했다.", "sources": ["Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War", "Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964"] },
+    "civilians": { "name": "핵위기의 대중화", "weight": 80, "narrative": "연설 뒤 미국과 세계의 민간사회는 핵전쟁 가능성을 공개 뉴스로 받아들였다. 위기는 정부 회의실 밖의 일상 불안으로 확산됐다.", "sources": ["Sheldon M. Stern, The Cuban Missile Crisis in American Memory: Myths versus Reality", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] }
+  }
+}

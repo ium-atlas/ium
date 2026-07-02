@@ -1,0 +1,13 @@
+{
+  "id": "soviet-missiles-arrive-cuba",
+  "name": "소련 미사일 장비 반입",
+  "type": "movement",
+  "date": "1962-09",
+  "location": { "lng": -82.75, "lat": 23.00 },
+  "perspectives": {
+    "soviet": { "name": "은밀한 전력 전개", "weight": 100, "narrative": "소련은 병력, 방공 장비, 미사일 관련 장비를 쿠바로 은밀히 옮겼다. 작전은 성공적으로 진행되는 듯했지만 노출될 경우 정치적 비용이 컸다.", "sources": ["Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] },
+    "cuba": { "name": "방어 준비와 주권 긴장", "weight": 85, "narrative": "쿠바는 소련 전력을 안보 보장으로 보았지만, 배치와 협상 과정에서 하바나의 주도권이 제한되는 긴장도 생겼다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis"] },
+    "us": { "name": "정찰과 해석의 압박", "weight": 75, "narrative": "미국 정보기관은 쿠바의 군사 활동 증가를 추적했지만, 핵미사일 배치의 범위와 속도를 확정하기 전까지 불확실성이 컸다.", "sources": ["Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] },
+    "civilians": { "name": "군사화되는 섬", "weight": 60, "narrative": "쿠바 주민은 혁명 방어와 동원 분위기 속에서 섬 전체가 냉전 군사 대치의 전초기지가 되는 현실을 겪었다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis"] }
+  }
+}

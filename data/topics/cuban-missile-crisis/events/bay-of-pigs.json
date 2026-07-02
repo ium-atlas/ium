@@ -1,0 +1,13 @@
+{
+  "id": "bay-of-pigs",
+  "name": "피그스만 침공",
+  "type": "battle",
+  "date": "1961-04",
+  "location": { "lng": -82.45, "lat": 22.06 },
+  "perspectives": {
+    "cuba": { "name": "혁명 방어의 기억", "weight": 100, "narrative": "피그스만 침공 실패는 카스트로 정권에 미국의 재침공 가능성을 강하게 각인시켰다. 쿠바는 안보 보장을 위해 소련과 더 깊이 결합할 이유를 얻었다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] },
+    "us": { "name": "실패한 비밀작전의 부담", "weight": 95, "narrative": "케네디 행정부는 침공 실패 뒤 쿠바 정책과 대외 신뢰에서 큰 부담을 안았다. 이 실패는 1962년 위기 때 군사 옵션을 논의하는 방식에도 그림자를 남겼다.", "sources": ["Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis", "Sheldon M. Stern, The Cuban Missile Crisis in American Memory: Myths versus Reality"] },
+    "soviet": { "name": "동맹 방어 명분", "weight": 80, "narrative": "소련 지도부는 미국이 쿠바 혁명 정부를 위협한다고 보았고, 쿠바 방어를 냉전 균형의 문제로 해석했다.", "sources": ["Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis", "Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964"] },
+    "latinamerica": { "name": "혁명과 반공의 충돌", "weight": 70, "narrative": "피그스만은 라틴아메리카에서 쿠바 혁명, 망명자 정치, 미국의 반공 정책이 공개적으로 충돌한 사건이었다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "un-security-council-crisis",
+  "name": "유엔 안보리 공개 대치",
+  "type": "council",
+  "date": "1962-10",
+  "location": { "lng": -73.97, "lat": 40.75 },
+  "perspectives": {
+    "us": { "name": "증거 공개와 여론전", "weight": 95, "narrative": "미국은 유엔 안보리에서 정찰 사진과 외교 논리를 활용해 소련 배치의 부당성을 공개 압박했다. 위기는 국제 여론전의 무대가 됐다.", "sources": ["Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War", "Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis"] },
+    "soviet": { "name": "부인과 외교 방어", "weight": 85, "narrative": "소련 대표단은 공개 대치 속에서 배치의 성격과 미국 봉쇄의 정당성을 둘러싼 방어 논리를 펼쳐야 했다.", "sources": ["Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] },
+    "allies": { "name": "동맹 결속의 확인", "weight": 70, "narrative": "유엔 무대는 미국 동맹국들이 위기를 어떻게 지지하거나 우려하는지 드러내는 장이 됐다. 국제적 지지는 봉쇄 선택의 정치적 기반이었다.", "sources": ["Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis", "Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis"] },
+    "latinamerica": { "name": "미주 질서의 압력", "weight": 70, "narrative": "라틴아메리카 정부들은 쿠바 혁명과 미국 주도 안보 질서 사이에서 입장을 정해야 했다. 위기는 지역 외교에도 직접 압력을 주었다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis"] }
+  }
+}
