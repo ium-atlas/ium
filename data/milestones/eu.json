@@ -1,0 +1,77 @@
+[
+  {
+    "year": 1066,
+    "label": "노르만의 잉글랜드 정복",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 4: c.1024-c.1198"]
+  },
+  {
+    "year": 1077,
+    "label": "카노사의 굴욕",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 4: c.1024-c.1198"]
+  },
+  {
+    "year": 1095,
+    "label": "클레르몽 공의회",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 4: c.1024-c.1198"]
+  },
+  {
+    "year": 1215,
+    "label": "마그나 카르타",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 5: c.1198-c.1300"]
+  },
+  {
+    "year": 1291,
+    "label": "아크레 함락",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 5: c.1198-c.1300"]
+  },
+  {
+    "year": 1337,
+    "label": "백년전쟁 발발",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 6: c.1300-c.1415"]
+  },
+  {
+    "range": [1347, 1351],
+    "label": "흑사병 확산",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 6: c.1300-c.1415"]
+  },
+  {
+    "year": 1378,
+    "label": "서방 교회 대분열",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 6: c.1300-c.1415"]
+  },
+  {
+    "year": 1453,
+    "label": "백년전쟁 종결",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 7: c.1415-c.1500"]
+  },
+  {
+    "year": 1455,
+    "label": "구텐베르크 성서 간행",
+    "sources": ["Cambridge University Press, The New Cambridge Medieval History, Vol. 7: c.1415-c.1500"]
+  },
+  {
+    "year": 1492,
+    "label": "콜럼버스 항해",
+    "sources": ["Cambridge University Press, The New Cambridge Modern History, Vol. 1: The Renaissance, 1493-1520"]
+  },
+  {
+    "year": 1517,
+    "label": "루터 95개조 발표",
+    "sources": ["Cambridge University Press, The New Cambridge Modern History, Vol. 2: The Reformation, 1520-1559"]
+  },
+  {
+    "year": 1555,
+    "label": "아우크스부르크 화의",
+    "sources": ["Cambridge University Press, The New Cambridge Modern History, Vol. 2: The Reformation, 1520-1559"]
+  },
+  {
+    "year": 1618,
+    "label": "삼십년전쟁 발발",
+    "sources": ["Cambridge University Press, The New Cambridge Modern History, Vol. 4: The Decline of Spain and the Thirty Years War, 1609-48/59"]
+  },
+  {
+    "year": 1648,
+    "label": "베스트팔렌 조약",
+    "sources": ["Cambridge University Press, The New Cambridge Modern History, Vol. 4: The Decline of Spain and the Thirty Years War, 1609-48/59"]
+  }
+]
