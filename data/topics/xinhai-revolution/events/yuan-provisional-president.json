@@ -1,0 +1,13 @@
+{
+  "id": "yuan-provisional-president",
+  "name": "위안스카이 임시대총통 취임",
+  "type": "political",
+  "date": "1912-03",
+  "location": { "lng": 116.40, "lat": 39.90 },
+  "perspectives": {
+    "yuan": { "name": "북양 권력의 공화정 장악", "weight": 100, "narrative": "위안스카이의 임시대총통 취임은 북양 군사권력이 새 공화정의 중심을 장악했음을 보여 주었다. 혁명은 왕조를 끝냈지만 군사 권력의 무게를 넘어서지 못했다.", "sources": ["Ernest P. Young, The Presidency of Yuan Shih-k'ai: Liberalism and Dictatorship in Early Republican China", "Jonathan D. Spence, The Search for Modern China"] },
+    "revolutionaries": { "name": "혁명과 타협의 대가", "weight": 90, "narrative": "혁명파는 왕조 퇴위를 얻기 위해 위안스카이에게 권력을 넘기는 타협을 받아들였다. 공화정은 출범했지만 혁명파의 직접 통제력은 제한됐다.", "sources": ["Marie-Claire Bergère, Sun Yat-sen", "Ernest P. Young, The Presidency of Yuan Shih-k'ai: Liberalism and Dictatorship in Early Republican China"] },
+    "provincial": { "name": "지방 권력의 새 협상 상대", "weight": 75, "narrative": "각 성의 군정부와 지방 엘리트는 이제 난징 혁명정부만이 아니라 베이징의 위안 정권과 관계를 조정해야 했다. 공화정 초기 권력은 중앙과 지방 사이에서 흔들렸다.", "sources": ["Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei", "Ernest P. Young, The Presidency of Yuan Shih-k'ai: Liberalism and Dictatorship in Early Republican China"] },
+    "foreign": { "name": "안정된 교섭 상대의 등장", "weight": 70, "narrative": "외국 세력은 위안스카이를 질서와 채무, 조약을 관리할 수 있는 현실적 교섭 상대로 보았다. 국제 질서 속 공화정은 곧 재정과 외교 승인 문제를 마주했다.", "sources": ["Ernest P. Young, The Presidency of Yuan Shih-k'ai: Liberalism and Dictatorship in Early Republican China", "Jonathan D. Spence, The Search for Modern China"] }
+  }
+}

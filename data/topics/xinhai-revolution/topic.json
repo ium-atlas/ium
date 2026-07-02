@@ -1,0 +1,21 @@
+{
+  "id": "xinhai-revolution",
+  "title": "신해혁명",
+  "subtitle": "청 제국 붕괴와 공화정 타협의 1911-1912년",
+  "period": [1911, 1912],
+  "start": "1911-09",
+  "end": "1912-03",
+  "bounds": [
+    [103.0, 27.5],
+    [122.0, 40.5]
+  ],
+  "card": [114.31, 30.54],
+  "perspectives": [
+    { "code": "revolutionaries", "label": "혁명파", "color": "#dc2626" },
+    { "code": "qing", "label": "청 조정", "color": "#475569" },
+    { "code": "provincial", "label": "지방 엘리트·성 군정부", "color": "#2563eb" },
+    { "code": "yuan", "label": "위안스카이·북양 세력", "color": "#16a34a" },
+    { "code": "foreign", "label": "외국 세력", "color": "#7c3aed" },
+    { "code": "civilians", "label": "민간사회", "color": "#f59e0b" }
+  ]
+}

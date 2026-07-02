@@ -1,0 +1,13 @@
+{
+  "id": "qing-abdication",
+  "name": "선통제 퇴위",
+  "type": "political",
+  "date": "1912-02",
+  "location": { "lng": 116.40, "lat": 39.90 },
+  "perspectives": {
+    "qing": { "name": "왕조의 공식 종식", "weight": 100, "narrative": "선통제 퇴위는 청 왕조와 제국 정치 질서의 공식적 종말을 뜻했다. 만주 지배층은 퇴위 조건을 통해 황실의 안전과 지위를 일부 보장받으려 했다.", "sources": ["Edward J. M. Rhoads, Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928", "Jonathan D. Spence, The Search for Modern China"] },
+    "yuan": { "name": "협상 중재자의 승리", "weight": 100, "narrative": "위안스카이는 북양 군사력과 정치 협상을 이용해 왕조 퇴위와 공화정 이행을 연결했다. 그는 양쪽 모두에게 필요한 중재자로 권력을 키웠다.", "sources": ["Ernest P. Young, The Presidency of Yuan Shih-k'ai: Liberalism and Dictatorship in Early Republican China", "Jonathan D. Spence, The Search for Modern China"] },
+    "revolutionaries": { "name": "반청 목표의 달성", "weight": 95, "narrative": "혁명파는 청 왕조 퇴위로 핵심 목표인 왕조 타도를 달성했다. 그러나 공화정 권력은 곧 위안스카이와 북양 세력과의 타협 속에 재편됐다.", "sources": ["Marie-Claire Bergère, Sun Yat-sen", "Ernest P. Young, The Presidency of Yuan Shih-k'ai: Liberalism and Dictatorship in Early Republican China"] },
+    "civilians": { "name": "왕조 이후의 불확실성", "weight": 70, "narrative": "민간사회는 왕조 종식을 맞았지만 새 정부의 세금, 치안, 군사 동원이 어떻게 바뀔지는 불확실했다. 혁명의 상징적 승리와 생활 안정은 별개의 과제였다.", "sources": ["Jonathan D. Spence, The Search for Modern China", "Edward J. M. Rhoads, Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928"] }
+  }
+}

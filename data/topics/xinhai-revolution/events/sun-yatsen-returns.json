@@ -1,0 +1,13 @@
+{
+  "id": "sun-yatsen-returns",
+  "name": "쑨원 귀국",
+  "type": "political",
+  "date": "1911-12",
+  "location": { "lng": 121.47, "lat": 31.23 },
+  "perspectives": {
+    "revolutionaries": { "name": "국제적 상징의 귀환", "weight": 100, "narrative": "쑨원의 귀국은 해외 혁명 네트워크와 국내 봉기를 연결하는 상징적 사건이었다. 그는 혁명 진영의 대표 지도자로 부상했지만 실제 군사력은 지방과 북양 세력에 나뉘어 있었다.", "sources": ["Marie-Claire Bergère, Sun Yat-sen", "Jonathan D. Spence, The Search for Modern China"] },
+    "provincial": { "name": "지방 권력과 지도력 조정", "weight": 75, "narrative": "성 군정부와 지방 엘리트는 쑨원의 명성을 활용하면서도 각자의 이해를 유지했다. 혁명 지도력은 개인 카리스마와 지방 권력의 타협 위에 놓였다.", "sources": ["Marie-Claire Bergère, Sun Yat-sen", "Mary Backus Rankin, Early Chinese Revolutionaries: Radical Intellectuals in Shanghai and Chekiang, 1902-1911"] },
+    "foreign": { "name": "해외 활동과 외교 시선", "weight": 70, "narrative": "쑨원은 오랜 해외 활동을 통해 자금과 지지를 모아 왔다. 그의 귀국은 외국 언론과 외교가 혁명 권력의 성격을 판단하는 계기가 됐다.", "sources": ["Marie-Claire Bergère, Sun Yat-sen", "Jonathan D. Spence, The Search for Modern China"] },
+    "civilians": { "name": "공화정 기대의 집중", "weight": 65, "narrative": "쑨원의 등장은 공화정과 민권에 대한 기대를 대중적으로 상징했다. 그러나 전쟁, 재정, 치안의 현실은 새 지도자가 곧 해결해야 할 부담이었다.", "sources": ["Marie-Claire Bergère, Sun Yat-sen", "Jonathan D. Spence, The Search for Modern China"] }
+  }
+}

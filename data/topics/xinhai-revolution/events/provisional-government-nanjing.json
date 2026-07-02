@@ -1,0 +1,13 @@
+{
+  "id": "provisional-government-nanjing",
+  "name": "중화민국 임시정부 수립",
+  "type": "political",
+  "date": "1912-01",
+  "location": { "lng": 118.78, "lat": 32.06 },
+  "perspectives": {
+    "revolutionaries": { "name": "공화정의 제도화", "weight": 100, "narrative": "난징 임시정부 수립과 쑨원의 임시대총통 취임은 반청 혁명을 공화정 국가 수립으로 제도화했다. 혁명파는 왕조 타도 이상의 정치 형식을 제시했다.", "sources": ["Marie-Claire Bergère, Sun Yat-sen", "Jonathan D. Spence, The Search for Modern China"] },
+    "provincial": { "name": "성들의 느슨한 연합", "weight": 90, "narrative": "임시정부는 독립한 성들의 지지와 대표를 바탕으로 세워졌다. 지방 권력은 공화정의 기반이면서 동시에 중앙 권력의 취약성을 드러냈다.", "sources": ["Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei", "Jonathan D. Spence, The Search for Modern China"] },
+    "qing": { "name": "왕조와의 협상 압박", "weight": 80, "narrative": "임시정부의 등장은 청 조정에 군사 진압뿐 아니라 퇴위 협상이라는 선택지를 압박했다. 왕조의 생존 문제는 위안스카이의 협상력과 연결됐다.", "sources": ["Edward J. M. Rhoads, Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928", "Ernest P. Young, The Presidency of Yuan Shih-k'ai: Liberalism and Dictatorship in Early Republican China"] },
+    "foreign": { "name": "승인과 안정의 관망", "weight": 65, "narrative": "외국 세력은 새 공화정부가 조약, 채무, 무역 질서를 유지할 수 있는지 관망했다. 국제 인정은 혁명정부의 중요한 과제로 남았다.", "sources": ["Jonathan D. Spence, The Search for Modern China", "Marie-Claire Bergère, Sun Yat-sen"] }
+  }
+}

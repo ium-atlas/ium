@@ -1,0 +1,13 @@
+{
+  "id": "shanghai-uprising-1911",
+  "name": "상하이 봉기",
+  "type": "movement",
+  "date": "1911-11",
+  "location": { "lng": 121.47, "lat": 31.23 },
+  "perspectives": {
+    "revolutionaries": { "name": "동남 연해 혁명 기반", "weight": 100, "narrative": "상하이 봉기는 혁명파가 동남 연해의 정치·상업 중심지에서 기반을 강화하는 계기였다. 급진 지식인과 혁명 조직은 도시 네트워크를 활용했다.", "sources": ["Mary Backus Rankin, Early Chinese Revolutionaries: Radical Intellectuals in Shanghai and Chekiang, 1902-1911", "Jonathan D. Spence, The Search for Modern China"] },
+    "provincial": { "name": "상인과 지방 엘리트의 참여", "weight": 90, "narrative": "상하이의 상인과 지방 엘리트는 혁명 질서 유지와 새 권력 구성에 중요한 역할을 했다. 혁명은 도시 상업 이해와 치안 문제를 함께 다뤄야 했다.", "sources": ["Mary Backus Rankin, Early Chinese Revolutionaries: Radical Intellectuals in Shanghai and Chekiang, 1902-1911", "Xiaowei Zheng, The Politics of Rights and the 1911 Revolution in China"] },
+    "foreign": { "name": "조계와 국제도시의 계산", "weight": 80, "narrative": "상하이는 외국 조계와 무역 이해가 밀집한 국제도시였다. 혁명 세력은 외국 세력의 개입을 피하면서 도시 질서와 재정을 안정시켜야 했다.", "sources": ["Mary Backus Rankin, Early Chinese Revolutionaries: Radical Intellectuals in Shanghai and Chekiang, 1902-1911", "Jonathan D. Spence, The Search for Modern China"] },
+    "civilians": { "name": "상업도시의 불안과 기대", "weight": 70, "narrative": "상하이 시민과 상인들은 정권 교체가 치안과 영업에 미칠 영향을 민감하게 보았다. 혁명은 정치적 해방과 도시 불안을 동시에 가져왔다.", "sources": ["Mary Backus Rankin, Early Chinese Revolutionaries: Radical Intellectuals in Shanghai and Chekiang, 1902-1911"] }
+  }
+}
