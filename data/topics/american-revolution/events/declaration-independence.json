@@ -1,0 +1,13 @@
+{
+  "id": "declaration-independence",
+  "name": "독립선언",
+  "type": "political",
+  "date": "1776-07",
+  "location": { "lng": -75.1635, "lat": 39.9526 },
+  "perspectives": {
+    "patriot": { "name": "전쟁 목표의 전환", "weight": 100, "narrative": "독립선언은 영국 의회와 왕권에 대한 저항을 독립 국가 수립의 목표로 바꾸었다. 대륙회의는 전쟁을 정치적 단절과 국제 승인 요청의 문제로 재정의했다.", "sources": ["Gordon S. Wood, The American Revolution: A History", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "british": { "name": "반란의 공식화", "weight": 90, "narrative": "영국 제국의 관점에서 독립선언은 식민지 불만이 반역과 분리 독립으로 확정된 사건이었다. 화해 가능성은 좁아지고 군사적 제압의 논리가 강해졌다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "french": { "name": "승인 가능성의 신호", "weight": 55, "narrative": "독립을 명시한 선언은 프랑스가 식민지 저항 세력을 단순한 반란군이 아니라 영국에 맞선 잠재 동맹으로 검토할 여지를 넓혔다.", "sources": ["Gordon S. Wood, The American Revolution: A History", "Piers Mackesy, The War for America, 1775-1783"] },
+    "native": { "name": "권리 언어의 배제", "weight": 60, "narrative": "선언의 자유 언어는 원주민 토지권과 변경 공동체의 자율성을 보장하지 않았다. 많은 원주민에게 독립 전쟁은 식민지 팽창을 누가 통제할 것인가의 문제이기도 했다.", "sources": ["Colin G. Calloway, The American Revolution in Indian Country", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "loyalist-evacuation",
+  "name": "뉴욕 철수와 충성파 이동",
+  "type": "movement",
+  "date": "1783-11",
+  "location": { "lng": -74.006, "lat": 40.7128 },
+  "perspectives": {
+    "patriot": { "name": "전쟁의 종결 장면", "weight": 90, "narrative": "영국군의 뉴욕 철수는 독립 전쟁의 군사적 종결을 상징했다. 애국파에게 도시는 점령지에서 새 공화국의 공간으로 돌아왔다.", "sources": ["Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789", "Gordon S. Wood, The American Revolution: A History"] },
+    "british": { "name": "철수와 제국 재배치", "weight": 95, "narrative": "영국은 뉴욕에서 철수하면서 병력과 행정 역량을 캐나다와 카리브해 등 다른 제국 거점으로 재배치했다. 패전은 제국의 완전한 붕괴가 아니라 방향 전환이었다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Maya Jasanoff, Liberty's Exiles: American Loyalists in the Revolutionary World"] },
+    "french": { "name": "동맹 전쟁의 마무리", "weight": 50, "narrative": "프랑스에게 뉴욕 철수는 북미 동맹 전쟁이 목표를 달성하고 정리되는 장면이었다. 그러나 전후 부담과 유럽 정치는 여전히 남아 있었다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Gordon S. Wood, The American Revolution: A History"] },
+    "native": { "name": "충성파와 동맹자의 난민화", "weight": 85, "narrative": "충성파 난민의 이동은 영국 편에 섰던 사람들과 공동체가 전후 질서에서 밀려나는 과정을 보여 준다. 원주민 동맹자들도 미국 팽창 앞에서 영국의 보호 약화와 난민화를 겪었다.", "sources": ["Maya Jasanoff, Liberty's Exiles: American Loyalists in the Revolutionary World", "Colin G. Calloway, The American Revolution in Indian Country"] }
+  }
+}

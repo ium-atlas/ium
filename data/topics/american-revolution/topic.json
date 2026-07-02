@@ -1,0 +1,17 @@
+{
+  "id": "american-revolution",
+  "title": "미국 독립전쟁",
+  "period": [1775, 1783],
+  "start": "1775-04",
+  "end": "1783-11",
+  "bounds": [
+    [-81.8, 32.5],
+    [2.8, 49.0]
+  ],
+  "perspectives": [
+    { "code": "patriot", "label": "애국파", "color": "#2563eb" },
+    { "code": "british", "label": "영국 제국", "color": "#dc2626" },
+    { "code": "french", "label": "프랑스 동맹", "color": "#7c3aed" },
+    { "code": "native", "label": "원주민 공동체", "color": "#15803d" }
+  ]
+}

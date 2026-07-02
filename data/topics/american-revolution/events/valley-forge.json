@@ -1,0 +1,13 @@
+{
+  "id": "valley-forge",
+  "name": "밸리 포지 주둔",
+  "type": "movement",
+  "date": "1777-12",
+  "location": { "lng": -75.47, "lat": 40.1 },
+  "perspectives": {
+    "patriot": { "name": "대륙군의 재편", "weight": 95, "narrative": "밸리 포지의 겨울 주둔은 굶주림과 병으로 기억되지만, 동시에 대륙군이 훈련과 조직을 재정비한 시기였다. 생존 자체가 정치적 결속을 증명했다.", "sources": ["Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789", "Gordon S. Wood, The American Revolution: A History"] },
+    "british": { "name": "필라델피아 점령의 한계", "weight": 75, "narrative": "영국군은 필라델피아를 점령했지만 대륙군을 결정적으로 파괴하지 못했다. 도시에 머무는 승리와 반란 세력의 지속이라는 간극이 커졌다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "french": { "name": "동맹 전야의 지속성 확인", "weight": 55, "narrative": "혹독한 겨울에도 대륙군이 해체되지 않은 사실은 프랑스가 장기 동맹을 계산할 때 중요한 신호가 됐다. 군사적 취약성과 정치적 지속성이 함께 보였다.", "sources": ["Gordon S. Wood, The American Revolution: A History", "Piers Mackesy, The War for America, 1775-1783"] },
+    "native": { "name": "변경 압력은 계속됨", "weight": 35, "narrative": "밸리 포지는 대륙군 내부의 사건이었지만, 전쟁이 길어질수록 변경의 원주민 공동체는 보급, 동맹, 보복 전쟁의 압력을 계속 받았다.", "sources": ["Colin G. Calloway, The American Revolution in Indian Country", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "charleston-captured",
+  "name": "찰스턴 함락",
+  "type": "siege",
+  "date": "1780-05",
+  "location": { "lng": -79.9311, "lat": 32.7765 },
+  "perspectives": {
+    "patriot": { "name": "남부 전선의 위기", "weight": 95, "narrative": "찰스턴 함락은 대륙군과 애국파 민병대에게 큰 타격이었다. 남부의 항구와 병력이 상실되며 전쟁은 더 거친 내전적 양상으로 옮겨갔다.", "sources": ["Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] },
+    "british": { "name": "남부 전략의 최대 성과", "weight": 100, "narrative": "영국은 찰스턴을 점령해 남부 충성파의 지원을 끌어내고 반란을 지역적으로 분리하려 했다. 이 승리는 남부 전략의 정점으로 보였다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "french": { "name": "해상 지원 필요성", "weight": 55, "narrative": "찰스턴의 상실은 미국 측이 해군과 원정 지원 없이는 영국의 항구 장악을 깨기 어렵다는 점을 보여 주었다. 프랑스 해군의 전략적 가치가 더 커졌다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Gordon S. Wood, The American Revolution: A History"] },
+    "native": { "name": "남부 변경의 불안정", "weight": 65, "narrative": "남부 전쟁이 격화되면서 체로키와 크리크 등 원주민 공동체는 영국, 애국파, 지역 민병대의 충돌 속에서 토지와 생존 전략을 다시 계산해야 했다.", "sources": ["Colin G. Calloway, The American Revolution in Indian Country", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] }
+  }
+}

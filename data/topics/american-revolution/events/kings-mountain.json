@@ -1,0 +1,13 @@
+{
+  "id": "kings-mountain",
+  "name": "킹스 마운틴 전투",
+  "type": "battle",
+  "date": "1780-10",
+  "location": { "lng": -81.377, "lat": 35.14 },
+  "perspectives": {
+    "patriot": { "name": "남부 민병대의 반격", "weight": 95, "narrative": "킹스 마운틴에서 애국파 민병대는 충성파 부대를 격파하며 남부 전선의 흐름을 바꾸기 시작했다. 전투는 정규군만이 아니라 지역 사회의 내전이었음을 드러냈다.", "sources": ["Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] },
+    "british": { "name": "충성파 동원의 한계", "weight": 90, "narrative": "영국 남부 전략은 충성파 동원에 기대었지만 킹스 마운틴 패배는 그 기반이 취약하다는 점을 보여 주었다. 지역 지지 세력도 보호받지 못하면 흔들렸다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "french": { "name": "남부 전황의 변화", "weight": 40, "narrative": "프랑스 동맹군이 직접 전투한 사건은 아니었지만, 남부에서 영국 전략이 흔들리는 흐름은 훗날 연합 작전의 기회를 넓혔다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Gordon S. Wood, The American Revolution: A History"] },
+    "native": { "name": "산악 변경의 내전화", "weight": 70, "narrative": "킹스 마운틴은 남부 변경 사회가 애국파와 충성파로 갈라지는 폭력의 일부였다. 원주민 공동체에는 백인 정착민 내부 충돌도 토지 압박과 보복 위험을 키우는 요인이었다.", "sources": ["Colin G. Calloway, The American Revolution in Indian Country", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] }
+  }
+}
