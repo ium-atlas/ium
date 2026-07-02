@@ -1,0 +1,48 @@
+{
+  "id": "kabul-falls-2001",
+  "name": "카불 함락",
+  "type": "battle",
+  "date": "2001-11",
+  "location": {
+    "lng": 69.17,
+    "lat": 34.53
+  },
+  "perspectives": {
+    "northern_alliance": {
+      "name": "수도 진입",
+      "weight": 100,
+      "narrative": "북부동맹은 탈레반이 철수한 카불에 진입했다. 수도 장악은 탈레반 정권 붕괴의 결정적 장면이었지만 새 정치 질서의 문제를 곧 열었다.",
+      "sources": [
+        "Thomas Barfield, Afghanistan: A Cultural and Political History",
+        "Barnett R. Rubin, The Fragmentation of Afghanistan"
+      ]
+    },
+    "taliban": {
+      "name": "수도 상실과 남부 후퇴",
+      "weight": 95,
+      "narrative": "탈레반은 카불을 잃고 남부와 산악 지역으로 후퇴했다. 정권은 도시 통치력을 잃었지만 운동 자체가 완전히 사라진 것은 아니었다.",
+      "sources": [
+        "Ahmed Rashid, Taliban: Militant Islam, Oil and Fundamentalism in Central Asia",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    },
+    "us": {
+      "name": "빠른 정권 붕괴의 효과",
+      "weight": 85,
+      "narrative": "미국은 제한된 지상 병력과 현지 동맹 조합으로 빠른 군사 성과를 얻었다. 그러나 알카에다 지도부 추적과 전후 국가 건설은 남아 있었다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden"
+      ]
+    },
+    "civilians": {
+      "name": "탈레반 이후의 기대",
+      "weight": 80,
+      "narrative": "카불 시민 일부는 탈레반 통치의 종식을 기대했지만, 전쟁 이후 치안과 생계, 정치 보복에 대한 불안도 함께 안았다.",
+      "sources": [
+        "Thomas Barfield, Afghanistan: A Cultural and Political History",
+        "Barnett R. Rubin, The Fragmentation of Afghanistan"
+      ]
+    }
+  }
+}

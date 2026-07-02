@@ -1,0 +1,39 @@
+{
+  "id": "nato-article-five",
+  "name": "나토 집단방위 조항 발동",
+  "type": "political",
+  "date": "2001-09",
+  "location": {
+    "lng": 4.35,
+    "lat": 50.85
+  },
+  "perspectives": {
+    "nato_allies": {
+      "name": "동맹 차원의 9·11 대응",
+      "weight": 100,
+      "narrative": "나토는 9·11 공격을 집단방위 사안으로 다루며 조약 제5조를 발동했다. 테러 대응은 미국 단독 문제가 아니라 동맹의 안보 의제가 됐다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report"
+      ]
+    },
+    "us": {
+      "name": "국제 지지 확보",
+      "weight": 90,
+      "narrative": "미국은 동맹의 지지를 통해 아프가니스탄 작전의 외교적 기반을 넓혔다. 테러와의 전쟁은 초기에 폭넓은 국제 연대를 얻었다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden"
+      ]
+    },
+    "international": {
+      "name": "테러를 국제 안보 문제로 규정",
+      "weight": 85,
+      "narrative": "9·11 이후 국제사회는 알카에다와 탈레반의 관계, 피난처 제공, 제재와 군사 대응을 함께 논의했다. 안보 의제의 중심이 이동했다.",
+      "sources": [
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    }
+  }
+}

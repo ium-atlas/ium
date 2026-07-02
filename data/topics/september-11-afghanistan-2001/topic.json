@@ -1,0 +1,62 @@
+{
+  "id": "september-11-afghanistan-2001",
+  "title": "9·11 테러와 아프가니스탄 침공",
+  "subtitle": "미국 본토 공격에서 탈레반 붕괴와 본 협정까지",
+  "period": [
+    2001,
+    2001
+  ],
+  "start": "2001-09",
+  "end": "2001-12",
+  "bounds": [
+    [
+      -80.0,
+      30.0
+    ],
+    [
+      71.5,
+      52.0
+    ]
+  ],
+  "card": [
+    69.17,
+    34.53
+  ],
+  "perspectives": [
+    {
+      "code": "al_qaeda",
+      "label": "알카에다",
+      "color": "#dc2626"
+    },
+    {
+      "code": "us",
+      "label": "미국",
+      "color": "#2563eb"
+    },
+    {
+      "code": "taliban",
+      "label": "탈레반",
+      "color": "#475569"
+    },
+    {
+      "code": "northern_alliance",
+      "label": "북부동맹",
+      "color": "#16a34a"
+    },
+    {
+      "code": "nato_allies",
+      "label": "나토 동맹국",
+      "color": "#7c3aed"
+    },
+    {
+      "code": "international",
+      "label": "유엔·국제 외교",
+      "color": "#f59e0b"
+    },
+    {
+      "code": "civilians",
+      "label": "민간인",
+      "color": "#0891b2"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "taliban-refuses-handover",
+  "name": "탈레반의 빈라덴 인도 거부",
+  "type": "political",
+  "date": "2001-09",
+  "location": {
+    "lng": 65.71,
+    "lat": 31.62
+  },
+  "perspectives": {
+    "taliban": {
+      "name": "피난처와 정권 생존의 딜레마",
+      "weight": 100,
+      "narrative": "탈레반은 빈라덴 인도 요구에 즉각 응하지 않았다. 알카에다와의 관계는 탈레반 정권을 미국의 직접 군사 목표로 만들었다.",
+      "sources": [
+        "Ahmed Rashid, Taliban: Militant Islam, Oil and Fundamentalism in Central Asia",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    },
+    "us": {
+      "name": "최후통첩에서 침공으로",
+      "weight": 95,
+      "narrative": "미국은 탈레반의 태도를 알카에다 보호로 보고 군사작전을 준비했다. 외교적 압박은 빠르게 정권 제거 전쟁으로 이어졌다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden"
+      ]
+    },
+    "al_qaeda": {
+      "name": "아프가니스탄 피난처의 의미",
+      "weight": 90,
+      "narrative": "알카에다는 탈레반 통치 아래 아프가니스탄을 훈련과 은신의 거점으로 활용했다. 9·11 이후 그 피난처는 전쟁의 핵심 쟁점이 됐다.",
+      "sources": [
+        "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001",
+        "Lawrence Wright, The Looming Tower: Al-Qaeda and the Road to 9/11"
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "bonn-agreement-afghanistan",
+  "name": "본 협정",
+  "type": "treaty",
+  "date": "2001-12",
+  "location": {
+    "lng": 7.10,
+    "lat": 50.73
+  },
+  "perspectives": {
+    "international": {
+      "name": "전후 정치 질서 설계",
+      "weight": 100,
+      "narrative": "본 협정은 탈레반 이후 아프가니스탄 과도정부와 정치 일정의 틀을 마련했다. 국제사회는 군사 승리 이후 국가 재건의 제도 설계에 들어갔다.",
+      "sources": [
+        "Barnett R. Rubin, The Fragmentation of Afghanistan",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    },
+    "northern_alliance": {
+      "name": "승리 세력의 정치 참여",
+      "weight": 90,
+      "narrative": "북부동맹과 반탈레반 세력은 새 정치 질서의 핵심 참여자가 됐다. 그러나 아프가니스탄 내부 세력 균형은 여전히 복잡했다.",
+      "sources": [
+        "Barnett R. Rubin, The Fragmentation of Afghanistan",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    },
+    "us": {
+      "name": "군사작전에서 재건 지원으로",
+      "weight": 85,
+      "narrative": "미국은 알카에다 추적과 함께 탈레반 이후 정치 질서 지원이라는 과제를 떠안았다. 초기 전쟁 목표는 빠르게 국가 재건 문제와 연결됐다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    },
+    "civilians": {
+      "name": "평화 기대와 대표성 문제",
+      "weight": 75,
+      "narrative": "아프가니스탄 민간인은 전후 질서가 폭력과 통치를 안정시키기를 기대했지만, 대표성·지역 군벌·피난민 문제는 쉽게 해결되지 않았다.",
+      "sources": [
+        "Barnett R. Rubin, The Fragmentation of Afghanistan",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    }
+  }
+}

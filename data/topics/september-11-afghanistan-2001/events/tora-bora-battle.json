@@ -1,0 +1,48 @@
+{
+  "id": "tora-bora-battle",
+  "name": "토라보라 전투",
+  "type": "battle",
+  "date": "2001-12",
+  "location": {
+    "lng": 70.32,
+    "lat": 34.12
+  },
+  "perspectives": {
+    "us": {
+      "name": "알카에다 지도부 추적",
+      "weight": 100,
+      "narrative": "미국은 토라보라 산악지대에서 알카에다 지도부를 추적했다. 작전 결과와 책임을 둘러싼 논쟁은 이후에도 계속됐지만, 지도부 상당수가 포획되지 않은 점은 중요한 쟁점이 됐다.",
+      "sources": [
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden",
+        "Bob Woodward, Bush at War"
+      ]
+    },
+    "al_qaeda": {
+      "name": "산악 은신망과 탈출",
+      "weight": 95,
+      "narrative": "알카에다 잔존 세력은 산악 지형과 국경 지역의 복잡성을 활용했다. 토라보라는 2001년 전쟁의 빠른 승리 속에서도 조직 추적이 끝나지 않았음을 보여주었다.",
+      "sources": [
+        "Lawrence Wright, The Looming Tower: Al-Qaeda and the Road to 9/11",
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden"
+      ]
+    },
+    "northern_alliance": {
+      "name": "현지 동맹 의존의 한계",
+      "weight": 80,
+      "narrative": "작전은 현지 동맹과 미국 특수전의 결합에 의존했다. 이 구조는 기동성과 정보 이점을 주었지만 포위와 통제의 한계도 남겼다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    },
+    "civilians": {
+      "name": "산악 전쟁의 주변 피해",
+      "weight": 65,
+      "narrative": "난가르하르 지역 주민은 공습과 지상전, 피난, 전후 무장세력 이동의 불안을 겪었다. 대테러 작전은 지역 사회의 삶에도 깊이 들어왔다.",
+      "sources": [
+        "Thomas Barfield, Afghanistan: A Cultural and Political History",
+        "Barnett R. Rubin, The Fragmentation of Afghanistan"
+      ]
+    }
+  }
+}
