@@ -1,0 +1,13 @@
+{
+  "id": "tet-offensive",
+  "name": "테트 공세",
+  "type": "battle",
+  "date": "1968-01",
+  "location": { "lng": 106.70, "lat": 10.78 },
+  "perspectives": {
+    "north": { "name": "전략적 충격 시도", "weight": 100, "narrative": "북베트남과 민족해방전선은 테트 공세로 남베트남 전역의 정치·군사 균형을 흔들려 했다. 군사적 비용은 컸지만 전쟁 인식에 큰 충격을 주었다.", "sources": ["Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam", "James H. Willbanks, The Tet Offensive: A Concise History"] },
+    "nlf": { "name": "도시 봉기의 도박", "weight": 100, "narrative": "민족해방전선은 도시와 농촌에서 동시 공격을 벌이며 남베트남 체제의 취약성을 드러내려 했다. 공세 이후 조직은 큰 손실을 입었다.", "sources": ["James H. Willbanks, The Tet Offensive: A Concise History", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "us": { "name": "승리 담론의 붕괴", "weight": 100, "narrative": "미국은 전술적으로 공세를 격퇴했지만, 국내 여론은 전쟁이 곧 끝날 것이라는 정부 설명을 의심하게 됐다. 테트는 정치적 전환점이었다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "James H. Willbanks, The Tet Offensive: A Concise History"] },
+    "civilians": { "name": "도시 전투의 피해", "weight": 95, "narrative": "사이공, 후에 등 도시 주민은 시가전, 보복, 피난의 피해를 겪었다. 전쟁은 설 명절의 일상 공간까지 파고들었다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "us-marines-da-nang",
+  "name": "다낭 미 해병대 상륙",
+  "type": "movement",
+  "date": "1965-03",
+  "location": { "lng": 108.22, "lat": 16.07 },
+  "perspectives": {
+    "us": { "name": "지상군 전쟁의 본격화", "weight": 100, "narrative": "다낭 미 해병대 상륙은 미국 지상군 전쟁이 본격화되는 상징적 사건이었다. 미국의 책임과 비용은 급격히 커졌다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Christian G. Appy, Working-Class War: American Combat Soldiers and Vietnam"] },
+    "south": { "name": "동맹 군사력 의존", "weight": 85, "narrative": "남베트남은 미군 지상군 투입으로 방어 능력을 보강했지만 정치적·군사적 의존도 더 깊어졌다.", "sources": ["Mark Atwood Lawrence, The Vietnam War: A Concise International History", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "north": { "name": "미국과의 직접전", "weight": 90, "narrative": "북베트남은 미군 지상군 투입을 제국주의 개입의 확대라고 보았다. 하노이의 전략은 더 긴 소모전을 감수하는 방향으로 굳어졌다.", "sources": ["Pierre Asselin, Vietnam's American War: A History", "Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam"] },
+    "civilians": { "name": "기지 도시의 변화", "weight": 75, "narrative": "다낭과 주변 지역은 미군 기지, 군수, 노동, 치안 변화의 영향을 받았다. 지상군 투입은 지역사회 경제와 일상을 바꾸었다.", "sources": ["Christian G. Appy, Working-Class War: American Combat Soldiers and Vietnam", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] }
+  }
+}

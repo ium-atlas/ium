@@ -1,0 +1,13 @@
+{
+  "id": "nlf-founded",
+  "name": "남베트남 민족해방전선 결성",
+  "type": "movement",
+  "date": "1960-12",
+  "location": { "lng": 106.10, "lat": 11.31 },
+  "perspectives": {
+    "nlf": { "name": "남부 혁명 전선", "weight": 100, "narrative": "민족해방전선 결성은 남베트남 내부 반정부 투쟁을 조직된 정치·군사 전선으로 묶었다. 전쟁은 게릴라, 정치 조직, 지역 기반을 결합했다.", "sources": ["Pierre Asselin, Vietnam's American War: A History", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "north": { "name": "남부 투쟁 지원", "weight": 90, "narrative": "북베트남은 남부 혁명세력을 지원하며 통일 전략을 장기화했다. 남부 투쟁은 하노이의 전쟁 전략과 점점 더 긴밀히 연결됐다.", "sources": ["Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam", "Pierre Asselin, Vietnam's American War: A History"] },
+    "south": { "name": "농촌 통제의 위기", "weight": 90, "narrative": "남베트남 정부는 민족해방전선의 확산으로 농촌 통제와 정통성에 큰 압박을 받았다. 전쟁은 수도 정치보다 마을과 지방에서 먼저 깊어졌다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "civilians": { "name": "마을이 된 전장", "weight": 85, "narrative": "농촌 주민은 정부군, 민족해방전선, 민병, 정보망 사이에서 생존을 모색해야 했다. 정치 선택은 종종 폭력과 보복의 위험을 동반했다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}

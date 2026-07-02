@@ -1,0 +1,13 @@
+{
+  "id": "paris-peace-accords",
+  "name": "파리 평화협정",
+  "type": "treaty",
+  "date": "1973-01",
+  "location": { "lng": 2.35, "lat": 48.86 },
+  "perspectives": {
+    "us": { "name": "철수의 외교적 형식", "weight": 100, "narrative": "파리 평화협정은 미국이 전쟁에서 빠져나갈 외교적 형식을 제공했다. 그러나 남베트남의 장기 생존 문제는 해결되지 않았다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam"] },
+    "north": { "name": "정치·군사 목표의 지속", "weight": 95, "narrative": "북베트남은 협정을 통해 미군 철수를 얻으면서도 남부에서의 정치·군사 목표를 포기하지 않았다. 전쟁은 베트남 내부 구도로 이어졌다.", "sources": ["Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam", "Pierre Asselin, Vietnam's American War: A History"] },
+    "south": { "name": "미국 없는 불안", "weight": 90, "narrative": "남베트남은 협정 뒤에도 북베트남과 민족해방전선의 압박을 감당해야 했다. 미군 철수는 사이공 정권의 불안을 키웠다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "civilians": { "name": "평화의 기대와 미완", "weight": 80, "narrative": "협정은 전쟁 종료의 기대를 만들었지만 폭력과 불안은 곧바로 사라지지 않았다. 가족과 지역사회는 긴 전쟁의 후유증을 계속 감당했다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}

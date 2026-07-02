@@ -1,0 +1,13 @@
+{
+  "id": "buddhist-crisis",
+  "name": "불교 위기",
+  "type": "movement",
+  "date": "1963-06",
+  "location": { "lng": 106.70, "lat": 10.78 },
+  "perspectives": {
+    "south": { "name": "정권 정당성의 균열", "weight": 100, "narrative": "불교계 항의와 탄압은 지엠 정권의 권위주의와 종교 편향 논란을 드러냈다. 남베트남 내부 지지 기반은 빠르게 흔들렸다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "us": { "name": "동맹 관리의 딜레마", "weight": 90, "narrative": "미국은 반공 동맹인 지엠 정부를 지지하면서도 그 정권이 전쟁 수행을 약화시키는 현실을 보았다. 동맹 후원은 정치적 부담이 됐다.", "sources": ["Mark Atwood Lawrence, The Vietnam War: A Concise International History", "George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975"] },
+    "nlf": { "name": "남부 정권 취약성의 확대", "weight": 70, "narrative": "정권 위기는 민족해방전선에게 남베트남 정부가 민중 대표성을 잃었다고 주장할 여지를 주었다. 도시 정치의 균열은 농촌 전쟁에도 영향을 미쳤다.", "sources": ["Pierre Asselin, Vietnam's American War: A History", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "civilians": { "name": "종교 항의와 도시 동원", "weight": 95, "narrative": "불교 승려, 신도, 학생, 도시 시민은 항의와 진압의 현장에 들어섰다. 전쟁 전선 밖의 정치 폭력도 민간사회에 깊은 충격을 주었다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "geneva-accords-1954",
+  "name": "제네바 협정",
+  "type": "treaty",
+  "date": "1954-07",
+  "location": { "lng": 6.14, "lat": 46.20 },
+  "perspectives": {
+    "north": { "name": "분단 속 승리의 유예", "weight": 90, "narrative": "제네바 협정은 프랑스 식민전쟁의 종결을 만들었지만 베트남 통일을 즉시 실현하지는 못했다. 북베트남은 정치적 승리와 임시 분단을 동시에 받아들였다.", "sources": ["Fredrik Logevall, Embers of War: The Fall of an Empire and the Making of America's Vietnam", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "south": { "name": "새 국가 구도의 시작", "weight": 80, "narrative": "남베트남의 권력 구도는 제네바 이후 새롭게 형성됐다. 분단은 임시 조치였지만 곧 별도 국가 건설과 냉전 대립의 틀이 됐다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "us": { "name": "프랑스 이후의 개입", "weight": 75, "narrative": "미국은 프랑스 패배 이후 공산주의 확산을 막는 관점에서 남베트남을 지원했다. 제네바는 미국식 베트남 개입의 출발점이 됐다.", "sources": ["Fredrik Logevall, Embers of War: The Fall of an Empire and the Making of America's Vietnam", "George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975"] },
+    "civilians": { "name": "분단과 이동", "weight": 85, "narrative": "협정 이후 많은 베트남 주민은 정치적 선택과 안전 문제 속에서 남북 이동을 겪었다. 분단은 외교문서가 아니라 가족과 지역사회의 현실이 됐다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}

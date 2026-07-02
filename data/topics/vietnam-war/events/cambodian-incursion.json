@@ -1,0 +1,13 @@
+{
+  "id": "cambodian-incursion",
+  "name": "캄보디아 침공",
+  "type": "movement",
+  "date": "1970-04",
+  "location": { "lng": 105.80, "lat": 11.08 },
+  "perspectives": {
+    "us": { "name": "전쟁의 지역 확산", "weight": 100, "narrative": "미국과 남베트남의 캄보디아 작전은 북베트남 보급기지와 통로를 공격하려는 시도였다. 그러나 전쟁 확대 논란은 미국 국내 갈등을 키웠다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "north": { "name": "보급망 방어", "weight": 85, "narrative": "북베트남은 캄보디아와 라오스 접경의 보급망을 전략적 생명선으로 보았다. 침공은 전쟁이 국경을 넘어 이미 얽혀 있음을 드러냈다.", "sources": ["Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam", "Pierre Asselin, Vietnam's American War: A History"] },
+    "south": { "name": "동맹 작전 참여", "weight": 75, "narrative": "남베트남군은 미국과 함께 캄보디아 작전에 참여하며 전쟁 범위를 넓혔다. 베트남화 정책 속 남베트남군의 역할도 커졌다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "civilians": { "name": "국경 너머의 피해", "weight": 90, "narrative": "캄보디아와 접경 지역 주민은 폭격, 피난, 전선 확산의 피해를 겪었다. 베트남 전쟁은 인접 사회의 정치 불안정까지 키웠다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}
