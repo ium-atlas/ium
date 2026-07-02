@@ -1,0 +1,48 @@
+{
+  "id": "seokmun-defeat",
+  "name": "석문 전투",
+  "type": "battle",
+  "date": "672-08",
+  "location": {
+    "lng": 127.0,
+    "lat": 36.7
+  },
+  "perspectives": {
+    "silla": {
+      "name": "신라군의 큰 패배",
+      "weight": 90,
+      "narrative": "석문 전투의 패배는 신라가 당과의 전쟁에서 쉽게 우위를 잡지 못했음을 보여 주었다. 나당전쟁은 정복의 마무리가 아니라 생존과 지배권 싸움이었다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Ki-baik Lee, A New History of Korea"
+      ]
+    },
+    "tang": {
+      "name": "신라 압박의 성과",
+      "weight": 90,
+      "narrative": "당에게 석문 전투는 신라군을 크게 물리친 군사적 성과였다. 제국은 여전히 한반도 남부에 압력을 행사할 수 있음을 보였다.",
+      "sources": [
+        "Cambridge University Press, The Cambridge History of China, Vol. 3: Sui and T'ang China, 589-906, Part One",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "baekje": {
+      "name": "옛 백제 지역의 전장화",
+      "weight": 65,
+      "narrative": "석문 전투는 옛 백제 권역 주변이 신라와 당의 충돌지로 남아 있었음을 보여 준다. 백제 유민의 독자 정치력은 줄었지만 지역은 계속 전쟁을 겪었다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche"
+      ]
+    },
+    "goguryeo": {
+      "name": "당 우세의 압박",
+      "weight": 55,
+      "narrative": "고구려 유민 세력에게 당의 승리는 한반도에서 당의 영향력이 여전히 강하다는 신호였다. 신라와의 협력도 위험을 동반했다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "silla-controls-south",
+  "name": "신라의 한반도 남부 지배 확정",
+  "type": "political",
+  "date": "676-12",
+  "location": {
+    "lng": 127.5,
+    "lat": 36.5
+  },
+  "perspectives": {
+    "silla": {
+      "name": "통일 질서의 성립",
+      "weight": 100,
+      "narrative": "676년 무렵 신라는 당 세력을 밀어내고 한반도 남부 지배를 확정했다. 이것은 통일의 성취이면서도 대동강 이북과 옛 고구려 세계를 모두 포괄하지 못한 제한적 통합이었다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Ki-baik Lee, A New History of Korea",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "tang": {
+      "name": "직접 지배 구상의 후퇴",
+      "weight": 85,
+      "narrative": "당은 한반도 남부를 직접 장악하지 못하고 전략을 조정했다. 다만 고구려 유민과 동북 변경 문제는 당 제국 질서 안에서 계속 다루어졌다.",
+      "sources": [
+        "Cambridge University Press, The Cambridge History of China, Vol. 3: Sui and T'ang China, 589-906, Part One",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "baekje": {
+      "name": "백제 세계의 신라 편입",
+      "weight": 90,
+      "narrative": "백제 관점에서 이 결말은 왕국 회복 실패와 신라 체제 편입을 뜻했다. 삼국통일 서사 안에서도 백제 유민의 상실과 지역 재편은 별도로 보아야 한다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche"
+      ]
+    },
+    "goguryeo": {
+      "name": "남부 통합 밖의 고구려 유산",
+      "weight": 90,
+      "narrative": "고구려 관점에서 신라의 남부 지배 확정은 옛 고구려 세계 전체의 통합이 아니었다. 고구려 유민과 북방 공간은 이후 발해와 당 변경 질서 속에서 다시 재편됐다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    }
+  }
+}

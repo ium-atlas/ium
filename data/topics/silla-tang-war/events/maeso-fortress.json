@@ -1,0 +1,48 @@
+{
+  "id": "maeso-fortress",
+  "name": "매소성 전투",
+  "type": "battle",
+  "date": "675-09",
+  "location": {
+    "lng": 127.075,
+    "lat": 38.1
+  },
+  "perspectives": {
+    "silla": {
+      "name": "북방 전선의 반전",
+      "weight": 100,
+      "narrative": "매소성 전투는 신라가 당군을 크게 격퇴한 전투로 기억된다. 석문 패배 뒤 신라가 한반도 남부 지배권을 지킬 수 있다는 흐름을 만들었다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Ki-baik Lee, A New History of Korea"
+      ]
+    },
+    "tang": {
+      "name": "한반도 남부 장악의 좌절",
+      "weight": 85,
+      "narrative": "당에게 매소성 패배는 신라를 군사적으로 굴복시키는 일이 어렵다는 현실을 보여 주었다. 제국의 동북 전략은 다른 변경 문제와 함께 조정될 수밖에 없었다.",
+      "sources": [
+        "Cambridge University Press, The Cambridge History of China, Vol. 3: Sui and T'ang China, 589-906, Part One",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "baekje": {
+      "name": "신라 지배 고착의 전조",
+      "weight": 55,
+      "narrative": "백제 옛 지역 관점에서는 당이 밀려나며 신라 지배가 더 굳어지는 전조가 됐다. 백제 부흥의 독자 가능성은 이미 거의 사라졌다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche"
+      ]
+    },
+    "goguryeo": {
+      "name": "당 견제의 가능성",
+      "weight": 65,
+      "narrative": "고구려 유민에게 매소성의 신라 승리는 당 세력을 밀어낼 수 있다는 가능성을 보여 주었다. 그러나 옛 고구려 전역 회복으로 곧바로 이어지지는 않았다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    }
+  }
+}

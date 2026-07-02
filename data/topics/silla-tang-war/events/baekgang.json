@@ -1,0 +1,48 @@
+{
+  "id": "baekgang",
+  "name": "백강 전투",
+  "type": "battle",
+  "date": "663-08",
+  "location": {
+    "lng": 126.6,
+    "lat": 36.0
+  },
+  "perspectives": {
+    "silla": {
+      "name": "백제 부흥군 격파",
+      "weight": 90,
+      "narrative": "백강 전투는 신라와 당이 백제 부흥군과 왜 지원군을 꺾은 결정적 전투였다. 신라는 서남부 정복지 안정에 가까워졌다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Ki-baik Lee, A New History of Korea"
+      ]
+    },
+    "tang": {
+      "name": "해상 지원 차단",
+      "weight": 90,
+      "narrative": "당에게 백강 전투는 백제 부흥 세력의 외부 지원을 끊고 점령 질서를 굳히는 승리였다. 동아시아 해상 전선에서도 당의 군사력이 드러났다.",
+      "sources": [
+        "Cambridge University Press, The Cambridge History of China, Vol. 3: Sui and T'ang China, 589-906, Part One",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "baekje": {
+      "name": "부흥의 결정적 좌절",
+      "weight": 100,
+      "narrative": "백제 부흥 세력에게 백강 패배는 왕국 회복 가능성을 크게 무너뜨린 사건이었다. 왜 지원군의 패배까지 겹치며 저항의 기반이 급격히 약해졌다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche"
+      ]
+    },
+    "goguryeo": {
+      "name": "남쪽 저항 축의 소멸",
+      "weight": 60,
+      "narrative": "고구려 입장에서는 백제 부흥 전선의 붕괴가 신라-당 연합의 힘을 다시 북쪽으로 돌리게 만들었다. 고구려의 외교·군사 여지는 줄어들었다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    }
+  }
+}

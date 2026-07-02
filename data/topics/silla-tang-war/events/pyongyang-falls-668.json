@@ -1,0 +1,48 @@
+{
+  "id": "pyongyang-falls-668",
+  "name": "평양성 함락",
+  "type": "siege",
+  "date": "668-09",
+  "location": {
+    "lng": 125.7625,
+    "lat": 39.0392
+  },
+  "perspectives": {
+    "silla": {
+      "name": "고구려 정복 참여",
+      "weight": 95,
+      "narrative": "평양성 함락은 신라가 당과 함께 고구려를 무너뜨린 사건이었다. 신라는 한반도 경쟁국을 모두 제거했지만 곧 당의 직접 지배 구상과 맞서야 했다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Ki-baik Lee, A New History of Korea"
+      ]
+    },
+    "tang": {
+      "name": "고구려 원정의 완성",
+      "weight": 100,
+      "narrative": "당에게 평양 함락은 수·당 이래 이어진 고구려 원정의 최종 성과였다. 제국은 고구려 옛 땅을 보호령 체계로 관리하려 했다.",
+      "sources": [
+        "Cambridge University Press, The Cambridge History of China, Vol. 3: Sui and T'ang China, 589-906, Part One",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "baekje": {
+      "name": "옛 동맹권의 붕괴",
+      "weight": 45,
+      "narrative": "이미 멸망한 백제 유민에게 고구려 멸망은 신라-당 질서가 한반도 전역으로 확대되는 사건이었다. 부흥의 외교적 기대도 더 약해졌다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche"
+      ]
+    },
+    "goguryeo": {
+      "name": "왕도와 국가의 붕괴",
+      "weight": 100,
+      "narrative": "고구려 관점에서 평양성 함락은 왕도 상실과 국가 멸망이었다. 이후 유민과 지배층은 당의 이주·통치 정책, 부흥운동, 발해 성립의 긴 여파 속에 놓였다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    }
+  }
+}
