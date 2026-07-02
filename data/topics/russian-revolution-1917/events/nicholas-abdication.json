@@ -1,0 +1,12 @@
+{
+  "id": "nicholas-abdication",
+  "name": "니콜라이 2세 퇴위",
+  "type": "political",
+  "date": "1917-03",
+  "location": { "lng": 28.35, "lat": 57.81 },
+  "perspectives": {
+    "oldregime": { "name": "로마노프 통치의 종말", "weight": 100, "narrative": "니콜라이 2세의 퇴위는 로마노프 왕조와 전제정의 정치적 붕괴를 뜻했다. 군 지휘부와 정치 엘리트도 왕조 보존보다 질서 재편을 선택했다.", "sources": ["Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924", "Richard Pipes, The Russian Revolution"] },
+    "provisional": { "name": "새 권력의 출발", "weight": 90, "narrative": "퇴위는 임시정부가 국가 운영을 맡는 길을 열었다. 그러나 새 정부는 전쟁 지속, 토지 문제, 대표성 문제를 즉시 떠안았다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "masses": { "name": "왕조 이후의 기대", "weight": 80, "narrative": "노동자, 병사, 농민은 왕조 붕괴를 생활 개선과 전쟁 종식의 가능성으로 받아들였다. 기대가 커질수록 새 권력이 감당해야 할 압력도 커졌다.", "sources": ["S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] }
+  }
+}

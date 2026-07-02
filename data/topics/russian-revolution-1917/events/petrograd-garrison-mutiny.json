@@ -1,0 +1,13 @@
+{
+  "id": "petrograd-garrison-mutiny",
+  "name": "페트로그라드 수비대 반란",
+  "type": "movement",
+  "date": "1917-03",
+  "location": { "lng": 30.31, "lat": 59.94 },
+  "perspectives": {
+    "masses": { "name": "병사의 혁명 합류", "weight": 100, "narrative": "수비대 병사들이 진압 명령을 거부하고 시위대 편에 서면서 혁명은 결정적 힘을 얻었다. 병사 대중은 전쟁과 군율에 대한 불만을 정치 행동으로 바꾸었다.", "sources": ["Tsuyoshi Hasegawa, The February Revolution: Petrograd, 1917", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] },
+    "oldregime": { "name": "수도 군사력의 붕괴", "weight": 100, "narrative": "차르 체제는 수도 수비대를 통해 질서를 회복하려 했지만 병사들의 이탈로 핵심 강제력을 잃었다. 군의 균열은 왕조 권력 붕괴를 앞당겼다.", "sources": ["Richard Pipes, The Russian Revolution", "Tsuyoshi Hasegawa, The February Revolution: Petrograd, 1917"] },
+    "soviets": { "name": "병사 대표의 정치화", "weight": 85, "narrative": "반란은 병사 대표가 소비에트 정치의 중요한 축이 되는 배경이 됐다. 노동자와 병사의 결합은 1917년 권력 구도를 바꾸었다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "provisional": { "name": "두마 정치의 기회", "weight": 65, "narrative": "구체제의 강제력이 무너지자 두마 인사들은 임시 권력 구성을 논의할 공간을 얻었다. 그러나 이 기회는 곧 소비에트와의 병존 문제로 이어졌다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "constituent-assembly-election",
+  "name": "제헌의회 선거",
+  "type": "political",
+  "date": "1917-11",
+  "location": { "lng": 30.31, "lat": 59.94 },
+  "perspectives": {
+    "masses": { "name": "전국적 대표성의 시험", "weight": 95, "narrative": "제헌의회 선거는 혁명기 러시아의 다양한 사회 집단과 지역 정치가 드러나는 전국적 투표였다. 농민 표심은 특히 사회혁명당의 강세로 나타났다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] },
+    "bolshevik": { "name": "소비에트 권력과 선거 결과의 충돌", "weight": 90, "narrative": "볼셰비키는 도시와 병영에서 강했지만 전국 선거에서는 단독 다수에 이르지 못했다. 선거 결과는 소비에트 권력론과 의회 대표성 사이의 긴장을 키웠다.", "sources": ["Sheila Fitzpatrick, The Russian Revolution", "Richard Pipes, The Russian Revolution"] },
+    "soviets": { "name": "대표성의 두 경로", "weight": 85, "narrative": "소비에트 대표 체계와 제헌의회 선거는 모두 혁명 대표성을 주장했다. 두 경로가 충돌하면서 새 권력의 정당성 문제가 더 날카로워졌다.", "sources": ["S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928", "Rex A. Wade, The Russian Revolution, 1917"] },
+    "provisional": { "name": "약속했던 선거의 뒤늦은 실현", "weight": 55, "narrative": "제헌의회 선거는 임시정부가 준비해 온 대표 권력 구상의 핵심이었다. 그러나 선거가 치러질 때 임시정부는 이미 무너져 있었다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Sheila Fitzpatrick, The Russian Revolution"] }
+  }
+}

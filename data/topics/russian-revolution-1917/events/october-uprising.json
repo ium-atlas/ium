@@ -1,0 +1,13 @@
+{
+  "id": "october-uprising",
+  "name": "10월 혁명",
+  "type": "political",
+  "date": "1917-11",
+  "location": { "lng": 30.31, "lat": 59.94 },
+  "perspectives": {
+    "bolshevik": { "name": "권력 장악", "weight": 100, "narrative": "볼셰비키는 구력 10월, 신력 11월 페트로그라드의 주요 거점을 장악하고 임시정부를 전복했다. 당은 소비에트 권력의 이름으로 국가 권력을 잡았다.", "sources": ["Alexander Rabinowitch, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "provisional": { "name": "임시정부의 종말", "weight": 100, "narrative": "임시정부는 전쟁, 토지, 생활 위기, 대표성 문제를 해결하지 못한 채 무너졌다. 겨울궁전의 함락은 이미 약해진 정부 권위의 마지막 장면이었다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] },
+    "soviets": { "name": "소비에트 명의의 새 권력", "weight": 95, "narrative": "제2차 전러시아 소비에트 대회는 새 권력의 형식적 정당성을 제공했다. 그러나 소비에트 권력과 볼셰비키 당 권력의 관계는 곧 핵심 문제가 됐다.", "sources": ["S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928", "Alexander Rabinowitch, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd"] },
+    "masses": { "name": "평화·토지·빵의 기대", "weight": 85, "narrative": "노동자, 병사, 농민은 새 권력이 전쟁과 토지 문제를 해결할지 주목했다. 10월 혁명은 대중 요구를 국가 권력의 즉각 과제로 끌어올렸다.", "sources": ["Sheila Fitzpatrick, The Russian Revolution", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] }
+  }
+}

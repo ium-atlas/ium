@@ -1,0 +1,20 @@
+{
+  "id": "russian-revolution-1917",
+  "title": "러시아 혁명",
+  "subtitle": "전쟁, 이중권력, 대중정치가 제국을 뒤흔든 1917년",
+  "period": [1917, 1917],
+  "start": "1917-03",
+  "end": "1917-12",
+  "bounds": [
+    [23.0, 49.0],
+    [31.0, 61.0]
+  ],
+  "card": [30.31, 59.94],
+  "perspectives": [
+    { "code": "oldregime", "label": "구체제", "color": "#475569" },
+    { "code": "provisional", "label": "임시정부", "color": "#2563eb" },
+    { "code": "bolshevik", "label": "볼셰비키", "color": "#dc2626" },
+    { "code": "soviets", "label": "소비에트", "color": "#16a34a" },
+    { "code": "masses", "label": "노동자·병사·농민", "color": "#f59e0b" }
+  ]
+}

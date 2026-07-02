@@ -1,0 +1,13 @@
+{
+  "id": "dual-power",
+  "name": "이중권력 형성",
+  "type": "political",
+  "date": "1917-03",
+  "location": { "lng": 30.36, "lat": 59.94 },
+  "perspectives": {
+    "provisional": { "name": "국가 권력의 책임", "weight": 100, "narrative": "임시정부는 국가 행정과 외교를 맡았지만 선거로 구성된 권력은 아니었다. 정통성과 실행력은 페트로그라드 소비에트의 영향과 계속 부딪혔다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "soviets": { "name": "노동자·병사 대표 권력", "weight": 100, "narrative": "페트로그라드 소비에트는 노동자와 병사 대표를 통해 거리와 병영의 힘을 대표했다. 이중권력은 정부 명령과 대중 대표 정치가 병존하는 불안정한 구조였다.", "sources": ["S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928", "Rex A. Wade, The Russian Revolution, 1917"] },
+    "bolshevik": { "name": "소수파의 관망과 기회", "weight": 50, "narrative": "초기 볼셰비키는 소비에트 내부에서 아직 지배적이지 않았다. 그러나 이중권력의 모순은 이후 '모든 권력을 소비에트로'라는 구호가 힘을 얻을 여지를 만들었다.", "sources": ["Alexander Rabinowitch, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "masses": { "name": "생활 요구의 대표 통로", "weight": 85, "narrative": "대중은 소비에트와 거리 정치를 통해 임금, 식량, 평화, 토지 요구를 제기했다. 제도 권력과 대중 요구 사이의 거리는 1917년 내내 긴장을 키웠다.", "sources": ["Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924", "S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928"] }
+  }
+}
