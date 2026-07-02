@@ -1,0 +1,14 @@
+{
+  "id": "new-york-draft-riots",
+  "name": "뉴욕 징병 폭동",
+  "type": "movement",
+  "date": "1863-07",
+  "location": { "lng": -73.99, "lat": 40.71 },
+  "perspectives": {
+    "union": { "name": "전시 동원의 균열", "weight": 90, "narrative": "뉴욕 징병 폭동은 연방의 병력 동원 정책이 북부 내부에서도 거센 반발을 낳을 수 있음을 보여 주었다. 정부는 전쟁 수행과 국내 질서를 동시에 관리해야 했다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "북부 분열의 기대", "weight": 55, "narrative": "남부연합은 북부의 징병 반발과 인종 폭력이 연방 전쟁 의지를 약화시키길 기대했다. 그러나 폭동은 전쟁의 흐름을 뒤집지는 못했다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "인종 폭력의 표적", "weight": 100, "narrative": "폭동은 흑인 뉴요커와 해방 정책을 향한 폭력으로 번졌다. 노예해방이 북부 노동·인종 갈등과 충돌하며 해방민과 자유 흑인의 안전을 위협했다.", "sources": ["Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "계급 갈등과 도시 폭력", "weight": 100, "narrative": "징병 폭동은 대체복무금, 노동 불안, 인종 편견이 한꺼번에 폭발한 도시 위기였다. 민간사회 내부의 균열도 전쟁의 일부가 됐다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War"] },
+    "international": { "name": "연방 내부 불안의 관찰", "weight": 35, "narrative": "외국 관찰자들은 북부 도시 폭력이 연방의 전쟁 지속 능력에 어떤 영향을 줄지 지켜보았다. 그러나 결정적 외교 변화로 이어지지는 않았다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

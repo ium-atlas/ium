@@ -1,0 +1,14 @@
+{
+  "id": "vicksburg",
+  "name": "빅스버그 함락",
+  "type": "siege",
+  "date": "1863-07",
+  "location": { "lng": -90.88, "lat": 32.35 },
+  "perspectives": {
+    "union": { "name": "미시시피강 장악", "weight": 100, "narrative": "빅스버그 함락으로 연방은 미시시피강 통제권을 확보하고 남부연합을 동서로 갈랐다. 그랜트의 승리는 서부 전선의 전략적 전환점이었다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "서부 연결의 단절", "weight": 100, "narrative": "남부연합은 빅스버그를 잃으며 텍사스와 미시시피 서쪽 지역과의 연결이 크게 약해졌다. 보급과 전략 이동이 더 어려워졌다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "강을 따라 넓어진 자유선", "weight": 80, "narrative": "미시시피강의 연방 통제는 노예들이 연방선으로 탈출하고 군 노동·흑인 병사 동원에 참여할 공간을 넓혔다. 군사 승리는 해방의 지리도 바꾸었다.", "sources": ["James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865", "Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877"] },
+    "civilians": { "name": "포위 도시의 굶주림", "weight": 100, "narrative": "빅스버그 주민은 장기 포위와 포격, 식량 부족을 겪었다. 전쟁은 군사 요새뿐 아니라 도시 주민의 생존을 압박했다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "international": { "name": "연방 전략 역량의 신호", "weight": 55, "narrative": "외국 관찰자들은 빅스버그와 게티즈버그의 동시 승리를 연방이 전쟁 주도권을 잡는 신호로 보았다. 남부의 외교적 전망은 더 어두워졌다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

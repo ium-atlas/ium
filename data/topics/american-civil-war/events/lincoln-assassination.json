@@ -1,0 +1,14 @@
+{
+  "id": "lincoln-assassination",
+  "name": "링컨 암살",
+  "type": "political",
+  "date": "1865-04",
+  "location": { "lng": -77.03, "lat": 38.9 },
+  "perspectives": {
+    "union": { "name": "승리 직후의 정치 충격", "weight": 100, "narrative": "링컨 암살은 연방 승리 직후 재건을 이끌 대통령을 잃게 만든 사건이었다. 전쟁 종결의 안도는 곧 정치적 불확실성으로 바뀌었다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877"] },
+    "confederacy": { "name": "패전 뒤의 더 큰 불신", "weight": 70, "narrative": "남부연합 패전 직후의 암살은 남부 전체에 대한 북부의 분노와 불신을 키웠다. 재건의 정치 환경은 더 거칠어졌다.", "sources": ["Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "재건 보호자의 상실", "weight": 85, "narrative": "해방민에게 링컨의 죽음은 자유를 제도적으로 보장할 전후 정치의 방향을 불확실하게 만들었다. 해방은 끝난 전쟁보다 긴 권리 투쟁으로 넘어갔다.", "sources": ["Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "국가적 애도의 폭발", "weight": 100, "narrative": "암살은 북부 민간사회에 충격과 애도를 불러왔다. 수많은 전사자의 죽음 위에 대통령의 죽음이 더해지며 전쟁 기억은 한층 비극화됐다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "international": { "name": "전후 미국 안정성의 우려", "weight": 45, "narrative": "외국 정부들은 승리 직후 미국 대통령이 암살된 사건을 전후 안정성의 시험으로 보았다. 그러나 연방의 외교적 승리는 뒤집히지 않았다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

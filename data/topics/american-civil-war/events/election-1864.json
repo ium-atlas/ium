@@ -1,0 +1,14 @@
+{
+  "id": "election-1864",
+  "name": "1864년 미국 대통령 선거",
+  "type": "political",
+  "date": "1864-11",
+  "location": { "lng": -77.04, "lat": 38.9 },
+  "perspectives": {
+    "union": { "name": "전쟁 지속의 민주적 승인", "weight": 100, "narrative": "링컨 재선은 연방 보존과 조건 없는 승리, 노예제 폐지 노선이 정치적으로 유지된다는 뜻이었다. 전쟁 중 선거는 북부 체제의 지속성을 보여 주었다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "평화 기대의 좌절", "weight": 90, "narrative": "남부연합은 북부의 전쟁 피로와 민주당 승리에 기대를 걸었지만 링컨 재선으로 그 전망은 크게 약해졌다. 독립을 위한 시간 벌기 전략도 어려워졌다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "해방 노선의 지속", "weight": 100, "narrative": "링컨 재선은 해방선언과 수정헌법 제13조 추진이 중단되지 않을 가능성을 높였다. 노예제 폐지는 전쟁의 임시 조치에서 헌정 변화로 나아갔다.", "sources": ["Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "전쟁 피로 속 선택", "weight": 80, "narrative": "북부 유권자들은 사상자와 세금, 징병 부담 속에서도 전쟁 지속을 선택했다. 민간사회는 전쟁의 고통을 정치 판단으로 다시 표현했다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "international": { "name": "연방 정책의 연속성", "weight": 55, "narrative": "외국 정부들은 링컨 재선으로 연방의 전쟁 지속 의지가 확인됐다고 보았다. 남부 승인이나 중재 가능성은 더 줄어들었다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

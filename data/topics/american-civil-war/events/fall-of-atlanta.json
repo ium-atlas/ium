@@ -1,0 +1,14 @@
+{
+  "id": "fall-of-atlanta",
+  "name": "애틀랜타 함락",
+  "type": "battle",
+  "date": "1864-09",
+  "location": { "lng": -84.39, "lat": 33.75 },
+  "perspectives": {
+    "union": { "name": "전쟁 지속 여론의 전환", "weight": 100, "narrative": "애틀랜타 함락은 셔먼의 공세가 남부 심장부를 관통할 수 있음을 보여 주었다. 승리는 1864년 링컨 재선 전망과 북부 사기에 큰 영향을 주었다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "남부 산업·교통 거점 상실", "weight": 100, "narrative": "남부연합은 애틀랜타를 잃으며 중요한 철도와 보급 거점을 상실했다. 전쟁 수행 능력과 민심은 모두 큰 압박을 받았다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "연방선 확대와 탈출", "weight": 75, "narrative": "연방군의 조지아 진격은 노예들이 탈출하거나 연방군 뒤를 따라 이동할 기회를 넓혔다. 군사 진격은 해방의 실제 경로가 됐다.", "sources": ["James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865", "Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877"] },
+    "civilians": { "name": "도시 피난과 파괴", "weight": 100, "narrative": "애틀랜타 주민은 포위, 피난, 군수 시설 파괴의 충격을 겪었다. 총력전은 남부 민간 생활의 기반을 직접 겨냥했다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "international": { "name": "연방 승리 가능성의 확인", "weight": 60, "narrative": "애틀랜타 함락은 외국 관찰자에게 연방이 전쟁을 끝까지 밀어붙일 능력이 있음을 보여 주었다. 남부의 외교적 기대는 더 약해졌다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

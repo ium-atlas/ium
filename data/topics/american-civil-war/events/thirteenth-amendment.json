@@ -1,0 +1,14 @@
+{
+  "id": "thirteenth-amendment",
+  "name": "수정헌법 제13조 비준",
+  "type": "political",
+  "date": "1865-12",
+  "location": { "lng": -77.04, "lat": 38.9 },
+  "perspectives": {
+    "union": { "name": "전쟁 성과의 헌법화", "weight": 100, "narrative": "수정헌법 제13조는 노예제 폐지를 헌법에 확정해 연방 승리의 핵심 성과를 제도화했다. 전쟁은 미국 헌정 질서를 근본적으로 바꾸었다.", "sources": ["Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "confederacy": { "name": "노예제 사회의 법적 종말", "weight": 100, "narrative": "남부연합이 지키려 했던 노예제 기반 사회 질서는 헌법 개정으로 법적 근거를 잃었다. 패전은 사회경제 질서의 강제 재편으로 이어졌다.", "sources": ["Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South", "Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877"] },
+    "enslaved": { "name": "자유의 헌법적 보장", "weight": 100, "narrative": "수정헌법 제13조는 노예였던 사람들에게 자유의 법적 토대를 제공했다. 그러나 토지, 노동계약, 시민권, 폭력 문제는 재건기의 새로운 투쟁으로 남았다.", "sources": ["Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "전후 사회 재편의 출발", "weight": 90, "narrative": "헌법 개정은 남부와 북부 민간사회 모두에 노동, 가족, 정치 참여의 규칙이 바뀌는 출발점이었다. 평화는 곧 새 사회질서를 둘러싼 갈등이었다.", "sources": ["Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877", "Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War"] },
+    "international": { "name": "노예제 폐지 국가로의 전환", "weight": 75, "narrative": "수정헌법 제13조는 미국이 노예제 국가라는 국제적 약점을 벗어나는 계기가 됐다. 전쟁 뒤 미국의 외교적 정체성도 달라졌다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations", "Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877"] }
+  }
+}
