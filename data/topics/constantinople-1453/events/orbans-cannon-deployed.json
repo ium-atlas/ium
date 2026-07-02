@@ -1,0 +1,38 @@
+{
+  "id": "orbans-cannon-deployed",
+  "name": "오르반 대포 배치",
+  "type": "siege",
+  "date": "1453-04",
+  "location": {
+    "lng": 28.938,
+    "lat": 41.012
+  },
+  "perspectives": {
+    "byz": {
+      "name": "성벽 방어의 압박",
+      "weight": 90,
+      "narrative": "비잔틴 수비대에게 대형 포격은 테오도시우스 성벽의 전통적 방어 우위를 흔드는 압박이었다. 수비는 파손된 성벽을 계속 보수하는 소모전이 됐다.",
+      "sources": [
+        "Steven Runciman, The Fall of Constantinople 1453",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    },
+    "ottoman": {
+      "name": "공성 화력의 과시",
+      "weight": 95,
+      "narrative": "오스만군에게 대포는 성벽 도시를 무너뜨릴 수 있다는 기술적·심리적 상징이었다. 포격은 최종 돌파를 위한 균열을 만드는 핵심 수단이었다.",
+      "sources": [
+        "Kritovoulos, History of Mehmed the Conqueror",
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West"
+      ]
+    },
+    "latin": {
+      "name": "공성전 변화의 목격",
+      "weight": 50,
+      "narrative": "라틴 방어 참여자들은 대포가 중세 성벽 방어의 계산을 바꾸는 장면을 직접 경험했다. 콘스탄티노플 포위는 유럽 공성전 기억에도 강하게 남았다.",
+      "sources": [
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West"
+      ]
+    }
+  }
+}

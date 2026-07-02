@@ -1,0 +1,42 @@
+{
+  "id": "constantinople-1453",
+  "title": "콘스탄티노플 함락",
+  "subtitle": "1452-1453",
+  "period": [
+    1452,
+    1453
+  ],
+  "start": "1452-08",
+  "end": "1453-05",
+  "bounds": [
+    [
+      28.8,
+      40.95
+    ],
+    [
+      29.15,
+      41.12
+    ]
+  ],
+  "card": [
+    28.98,
+    41.01
+  ],
+  "perspectives": [
+    {
+      "code": "byz",
+      "label": "비잔틴",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "ottoman",
+      "label": "오스만",
+      "color": "#d94a4a"
+    },
+    {
+      "code": "latin",
+      "label": "라틴권",
+      "color": "#d9b44a"
+    }
+  ]
+}

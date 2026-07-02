@@ -1,0 +1,38 @@
+{
+  "id": "ottoman-ships-overland",
+  "name": "오스만 선박의 육상 이동",
+  "type": "movement",
+  "date": "1453-04",
+  "location": {
+    "lng": 28.974,
+    "lat": 41.031
+  },
+  "perspectives": {
+    "byz": {
+      "name": "금각만 방어선 돌파",
+      "weight": 85,
+      "narrative": "비잔틴에게 오스만 선박의 금각만 진입은 안전하다고 믿었던 북쪽 항만 방어의 균열이었다. 수비대는 성벽과 항만을 동시에 의식해야 했다.",
+      "sources": [
+        "Steven Runciman, The Fall of Constantinople 1453",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    },
+    "ottoman": {
+      "name": "기동과 심리전",
+      "weight": 95,
+      "narrative": "오스만 관점에서 선박 육상 이동은 쇠사슬 방어를 우회하는 기동이자 수비대의 사기를 흔드는 심리전이었다. 포위망은 한층 조여졌다.",
+      "sources": [
+        "Kritovoulos, History of Mehmed the Conqueror",
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West"
+      ]
+    },
+    "latin": {
+      "name": "항만 방어 부담 증가",
+      "weight": 70,
+      "narrative": "라틴 선박과 수비대는 금각만 안쪽에서도 오스만 함선을 상대해야 했다. 제노바령 갈라타의 위치와 태도도 더 민감해졌다.",
+      "sources": [
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West"
+      ]
+    }
+  }
+}

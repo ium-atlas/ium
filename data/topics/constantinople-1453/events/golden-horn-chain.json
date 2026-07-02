@@ -1,0 +1,39 @@
+{
+  "id": "golden-horn-chain",
+  "name": "금각만 쇠사슬 방어",
+  "type": "siege",
+  "date": "1453-04",
+  "location": {
+    "lng": 28.969,
+    "lat": 41.025
+  },
+  "perspectives": {
+    "byz": {
+      "name": "해상 방어선 유지",
+      "weight": 85,
+      "narrative": "비잔틴과 동맹 선박에게 금각만 쇠사슬은 도시 북쪽 항만을 지키는 핵심 방어선이었다. 쇠사슬은 오스만 해군의 직접 진입을 막았다.",
+      "sources": [
+        "Steven Runciman, The Fall of Constantinople 1453",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    },
+    "ottoman": {
+      "name": "해상 봉쇄의 난점",
+      "weight": 75,
+      "narrative": "오스만군에게 금각만 쇠사슬은 도시를 완전히 포위하는 데 남은 장애물이었다. 해군력만으로는 항만 안쪽을 장악하기 어려웠다.",
+      "sources": [
+        "Kritovoulos, History of Mehmed the Conqueror",
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West"
+      ]
+    },
+    "latin": {
+      "name": "제노바·베네치아 선박의 방어",
+      "weight": 75,
+      "narrative": "라틴 선박과 수병은 금각만 방어에서 큰 역할을 했다. 항만 통제는 도시 방어에 참여한 서방 세력의 군사적 존재감을 보여 주었다.",
+      "sources": [
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West",
+        "Steven Runciman, The Fall of Constantinople 1453"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "constantine-xi-death",
+  "name": "콘스탄티노스 11세 사망",
+  "type": "battle",
+  "date": "1453-05",
+  "location": {
+    "lng": 28.936,
+    "lat": 41.016
+  },
+  "perspectives": {
+    "byz": {
+      "name": "마지막 황제",
+      "weight": 100,
+      "narrative": "콘스탄티노스 11세의 죽음은 비잔틴 제국의 종말을 상징한다. 그의 최후는 사료와 전승이 겹치는 영역이지만, 마지막 방어의 기억을 대표한다.",
+      "sources": [
+        "Steven Runciman, The Fall of Constantinople 1453",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    },
+    "ottoman": {
+      "name": "황제권의 교체",
+      "weight": 80,
+      "narrative": "오스만 관점에서 비잔틴 황제의 죽음은 옛 제국 수도의 군사적·상징적 저항이 끝났음을 뜻했다. 메흐메트 2세의 정복자 이미지는 이 순간 강화됐다.",
+      "sources": [
+        "Kritovoulos, History of Mehmed the Conqueror",
+        "Halil Inalcik, The Ottoman Empire: The Classical Age 1300-1600"
+      ]
+    },
+    "latin": {
+      "name": "동방 기독교 황제의 최후",
+      "weight": 70,
+      "narrative": "라틴권에서는 황제의 죽음이 기독교 세계의 동방 보루 상실로 받아들여졌다. 다만 실제 서방 군사 지원은 도시 방어에 충분하지 않았다.",
+      "sources": [
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West",
+        "Steven Runciman, The Fall of Constantinople 1453"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "rumeli-hisari-built",
+  "name": "루멜리 히사르 완성",
+  "type": "political",
+  "date": "1452-08",
+  "location": {
+    "lng": 29.056,
+    "lat": 41.084
+  },
+  "perspectives": {
+    "byz": {
+      "name": "보스포루스 봉쇄 압박",
+      "weight": 80,
+      "narrative": "비잔틴에게 루멜리 히사르는 콘스탄티노플의 해상 보급과 외교적 여지를 좁히는 직접 압박이었다. 도시는 포위 이전부터 고립을 체감했다.",
+      "sources": [
+        "Steven Runciman, The Fall of Constantinople 1453",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    },
+    "ottoman": {
+      "name": "공성 준비의 완성",
+      "weight": 95,
+      "narrative": "오스만 관점에서 요새는 보스포루스 통제와 콘스탄티노플 공략 준비를 제도화한 시설이었다. 메흐메트 2세는 포위 전에 해협과 교역로를 먼저 장악했다.",
+      "sources": [
+        "Halil Inalcik, The Ottoman Empire: The Classical Age 1300-1600",
+        "Kritovoulos, History of Mehmed the Conqueror"
+      ]
+    },
+    "latin": {
+      "name": "지원로 위협",
+      "weight": 55,
+      "narrative": "라틴권 상인과 원조 세력에게 루멜리 히사르는 흑해-지중해 항로의 위험 신호였다. 제노바와 베네치아의 계산도 더 복잡해졌다.",
+      "sources": [
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    }
+  }
+}
