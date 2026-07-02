@@ -1,0 +1,39 @@
+{
+  "id": "cyprus-captured",
+  "name": "키프로스 장악",
+  "type": "political",
+  "date": "1191-05",
+  "location": {
+    "lng": 33.3823,
+    "lat": 35.1856
+  },
+  "perspectives": {
+    "lat": {
+      "name": "리처드의 보급 거점 확보",
+      "weight": 90,
+      "narrative": "리처드 1세의 키프로스 장악은 십자군에게 동지중해 보급과 항해 거점을 제공했다. 이 섬은 이후 라틴 동방의 중요한 기반이 됐다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Malcolm Barber, The Crusader States"
+      ]
+    },
+    "is": {
+      "name": "해상 압박의 강화",
+      "weight": 45,
+      "narrative": "이슬람권 전선의 중심은 시리아 해안이었지만, 키프로스 확보는 라틴군의 해상 작전 지속력을 키웠다. 살라딘에게는 간접적 압박이었다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "제국권 섬의 상실",
+      "weight": 95,
+      "narrative": "키프로스는 비잔틴 세계와 연결된 섬이었으나 이사키오스 콤니노스의 독자 지배 아래 있었다. 리처드의 점령은 비잔틴권 해상 질서에 큰 손실로 남았다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Malcolm Barber, The Crusader States"
+      ]
+    }
+  }
+}

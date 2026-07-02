@@ -1,0 +1,38 @@
+{
+  "id": "jaffa-campaign",
+  "name": "야파 공방전",
+  "type": "siege",
+  "date": "1192-07",
+  "location": {
+    "lng": 34.752,
+    "lat": 32.052
+  },
+  "perspectives": {
+    "lat": {
+      "name": "해안 방어의 마지막 고비",
+      "weight": 90,
+      "narrative": "야파 공방전은 리처드가 예루살렘 직접 공략 대신 해안 거점 유지를 택한 흐름의 마지막 고비였다. 야파 방어는 협상에서 라틴 측 입지를 지켰다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Peter W. Edbury, The Conquest of Jerusalem and the Third Crusade: Sources in Translation"
+      ]
+    },
+    "is": {
+      "name": "해안 압박의 한계",
+      "weight": 85,
+      "narrative": "살라딘은 야파를 압박해 라틴 해안 거점을 흔들려 했지만 결정적으로 제거하지 못했다. 전쟁은 군사적 결말보다 협상으로 기울었다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "동지중해 균형의 지속",
+      "weight": 20,
+      "narrative": "야파 공방은 비잔틴 전선 밖의 일이었지만, 라틴 해안 거점 존속은 제국 주변 해상 정치가 단순히 이슬람권 우위로 정리되지 않았음을 뜻했다.",
+      "sources": [
+        "Malcolm Barber, The Crusader States"
+      ]
+    }
+  }
+}

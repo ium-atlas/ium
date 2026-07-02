@@ -1,0 +1,38 @@
+{
+  "id": "arsuf",
+  "name": "아르수프 전투",
+  "type": "battle",
+  "date": "1191-09",
+  "location": {
+    "lng": 34.806,
+    "lat": 32.194
+  },
+  "perspectives": {
+    "lat": {
+      "name": "해안 행군의 승리",
+      "weight": 95,
+      "narrative": "아르수프에서 리처드 1세는 해안 행군 중 살라딘의 공격을 격퇴했다. 이 승리는 라틴군의 사기와 야파 진출을 강화했다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Peter W. Edbury, The Conquest of Jerusalem and the Third Crusade: Sources in Translation"
+      ]
+    },
+    "is": {
+      "name": "살라딘의 전술적 패배",
+      "weight": 80,
+      "narrative": "이슬람권 입장에서 아르수프는 라틴군의 진격을 막지 못한 전술적 패배였다. 그러나 살라딘은 야전군을 보존하며 전쟁을 계속 끌고 갔다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "직접 관여 낮음",
+      "weight": 20,
+      "narrative": "아르수프 전투는 비잔틴의 직접 이해관계와는 거리가 있었다. 다만 라틴군의 존속은 동지중해 세력 균형에 계속 영향을 주었다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land"
+      ]
+    }
+  }
+}

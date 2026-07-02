@@ -1,0 +1,38 @@
+{
+  "id": "acre-siege-begins",
+  "name": "아크레 포위전 시작",
+  "type": "siege",
+  "date": "1189-08",
+  "location": {
+    "lng": 35.0818,
+    "lat": 32.923
+  },
+  "perspectives": {
+    "lat": {
+      "name": "반격의 교두보",
+      "weight": 95,
+      "narrative": "아크레 포위전은 하틴 이후 무너진 라틴 세력이 해안 거점을 회복하려 한 장기 작전이었다. 유럽의 증원군은 이 전선으로 모였다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Peter W. Edbury, The Conquest of Jerusalem and the Third Crusade: Sources in Translation"
+      ]
+    },
+    "is": {
+      "name": "해안 방어의 압박",
+      "weight": 90,
+      "narrative": "이슬람권 입장에서는 아크레 포위가 살라딘의 해안 통제를 시험한 사건이었다. 도시 안팎의 전투는 장기 소모전으로 번졌다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "서방 원정의 동지중해 집중",
+      "weight": 30,
+      "narrative": "아크레 전선은 서방 원정군이 동지중해에 장기간 머무는 계기가 됐다. 비잔틴은 통행과 외교 문제에서 원정의 여파를 계속 의식했다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land"
+      ]
+    }
+  }
+}
