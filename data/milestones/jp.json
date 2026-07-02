@@ -27,15 +27,6 @@
     ]
   },
   {
-    "range": [-800, -500],
-    "label": "유스 저지대 벼농사",
-    "note": "북부 규슈 저지대 농경 확산의 일부로 처리",
-    "sources": [
-      "Koji Mizoguchi, The Archaeology of Japan: From the Earliest Rice Farming Villages to the Rise of the State",
-      "Cambridge University Press, The Cambridge History of Japan, Vol. 1: Ancient Japan"
-    ]
-  },
-  {
     "range": [-700, -500],
     "label": "서일본 야요이 문화 확산",
     "note": "수전 농경·토기 양식·취락 변화의 지역 확산",
