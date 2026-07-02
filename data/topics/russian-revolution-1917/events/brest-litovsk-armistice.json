@@ -1,0 +1,13 @@
+{
+  "id": "brest-litovsk-armistice",
+  "name": "브레스트-리토프스크 휴전",
+  "type": "treaty",
+  "date": "1917-12",
+  "location": { "lng": 23.69, "lat": 52.10 },
+  "perspectives": {
+    "bolshevik": { "name": "전쟁 이탈의 현실화", "weight": 100, "narrative": "소비에트 정부는 브레스트-리토프스크에서 동맹국과 휴전에 들어가 전쟁 이탈을 현실화했다. 평화 약속은 새 정권 생존의 핵심 조건이었다.", "sources": ["Sheila Fitzpatrick, The Russian Revolution", "S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928"] },
+    "masses": { "name": "전선 병사와 후방의 기대", "weight": 95, "narrative": "휴전은 병사와 가족에게 전쟁이 끝날 수 있다는 신호였다. 그러나 실제 평화 협상은 영토와 권력 보존이라는 더 어려운 문제를 남겼다.", "sources": ["Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924", "Rex A. Wade, The Russian Revolution, 1917"] },
+    "provisional": { "name": "전쟁 지속 노선의 폐기", "weight": 70, "narrative": "임시정부가 유지하려 했던 전쟁 지속과 연합국 의무는 새 정권 아래 뒤집혔다. 1917년 혁명은 러시아의 국제전쟁 참여 방식까지 바꾸었다.", "sources": ["S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "soviets": { "name": "소비에트 외교의 첫 시험", "weight": 80, "narrative": "휴전 협상은 소비에트 권력이 국제정치에서 처음 맞은 큰 시험이었다. 혁명적 평화 구호는 군사 현실과 외교 조건 속에서 조정되어야 했다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Richard Pipes, The Russian Revolution"] }
+  }
+}

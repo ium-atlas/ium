@@ -1,0 +1,12 @@
+{
+  "id": "february-strikes",
+  "name": "2월 혁명 시위와 파업",
+  "type": "movement",
+  "date": "1917-03",
+  "location": { "lng": 30.31, "lat": 59.94 },
+  "perspectives": {
+    "masses": { "name": "식량난이 부른 대중 파업", "weight": 100, "narrative": "페트로그라드의 여성 노동자 시위와 식량난 항의는 대규모 파업으로 확대됐다. 거리의 요구는 전쟁 피로와 생활 위기를 한꺼번에 드러냈다.", "sources": ["Tsuyoshi Hasegawa, The February Revolution: Petrograd, 1917", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] },
+    "oldregime": { "name": "통제력 상실", "weight": 95, "narrative": "차르 정부는 시위가 빠르게 확산되는 속도를 따라잡지 못했다. 전시 행정과 수도 치안의 약점이 제국 권력의 위기로 바뀌었다.", "sources": ["Tsuyoshi Hasegawa, The February Revolution: Petrograd, 1917", "Richard Pipes, The Russian Revolution"] },
+    "soviets": { "name": "새 대표기구의 조건", "weight": 70, "narrative": "거리 동원은 노동자와 병사의 대표 조직이 다시 등장할 조건을 만들었다. 소비에트는 아직 완성되지 않았지만 대중정치의 공간이 열리고 있었다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928"] }
+  }
+}

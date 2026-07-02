@@ -1,0 +1,13 @@
+{
+  "id": "kornilov-affair",
+  "name": "코르닐로프 사건",
+  "type": "political",
+  "date": "1917-09",
+  "location": { "lng": 30.33, "lat": 53.90 },
+  "perspectives": {
+    "provisional": { "name": "케렌스키 정부의 취약성", "weight": 100, "narrative": "코르닐로프 사건은 임시정부가 군 지휘부와 혁명 세력 사이에서 얼마나 불안정한 위치에 있었는지 드러냈다. 케렌스키는 반혁명 위험을 막았지만 권위는 크게 약해졌다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] },
+    "oldregime": { "name": "질서 회복 요구의 정치화", "weight": 80, "narrative": "보수적 군사 질서와 강한 권위에 대한 요구는 혁명 이후 혼란을 배경으로 힘을 얻었다. 그러나 사건은 우파 질서 회복 구상을 의심의 대상으로 만들었다.", "sources": ["Richard Pipes, The Russian Revolution", "S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928"] },
+    "bolshevik": { "name": "방어자 이미지의 획득", "weight": 95, "narrative": "볼셰비키는 코르닐로프에 맞선 동원 과정에서 합법성과 대중적 신뢰를 회복했다. 7월의 후퇴 이후 당세를 재건하는 결정적 계기가 됐다.", "sources": ["Alexander Rabinowitch, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "soviets": { "name": "혁명 방어 동원", "weight": 90, "narrative": "소비에트와 노동자 조직은 철도, 병사, 도시 방어를 통해 코르닐로프 진군을 저지하는 데 참여했다. 혁명 방어는 대중 조직의 힘을 다시 확인시켰다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928"] }
+  }
+}

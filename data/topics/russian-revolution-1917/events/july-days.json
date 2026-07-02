@@ -1,0 +1,13 @@
+{
+  "id": "july-days",
+  "name": "7월 봉기",
+  "type": "movement",
+  "date": "1917-07",
+  "location": { "lng": 30.31, "lat": 59.94 },
+  "perspectives": {
+    "masses": { "name": "무장 시위의 압력", "weight": 100, "narrative": "페트로그라드 노동자와 병사 일부는 즉각적인 소비에트 권력을 요구하며 거리로 나섰다. 대중 행동은 지도부의 계산보다 빠르게 움직였다.", "sources": ["Alexander Rabinowitch, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] },
+    "bolshevik": { "name": "기회와 후퇴", "weight": 95, "narrative": "볼셰비키는 시위의 에너지를 활용하려 했지만 권력 장악 시점은 아직 불리했다. 진압 이후 당은 탄압을 받고 레닌은 은신했다.", "sources": ["Alexander Rabinowitch, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "provisional": { "name": "강경 대응과 불안정", "weight": 90, "narrative": "임시정부는 7월 봉기를 진압하며 질서 회복을 시도했다. 그러나 강경 대응은 정부가 대중의 평화와 생활 요구를 해결하지 못한다는 문제를 감추지 못했다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Richard Pipes, The Russian Revolution"] },
+    "soviets": { "name": "권력 이양 논쟁", "weight": 80, "narrative": "소비에트 지도부는 즉각 권력 장악을 주저했고, 이는 급진 대중과 온건 사회주의 지도부 사이의 간극을 드러냈다. 이 긴장은 10월까지 계속됐다.", "sources": ["S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928", "Rex A. Wade, The Russian Revolution, 1917"] }
+  }
+}

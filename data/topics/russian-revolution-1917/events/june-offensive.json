@@ -1,0 +1,13 @@
+{
+  "id": "june-offensive",
+  "name": "6월 공세 실패",
+  "type": "battle",
+  "date": "1917-07",
+  "location": { "lng": 24.03, "lat": 49.84 },
+  "perspectives": {
+    "provisional": { "name": "전쟁 지속 정책의 위기", "weight": 100, "narrative": "임시정부는 연합국과의 약속, 국가 신뢰, 군 기강 회복을 위해 공세를 추진했다. 실패는 정부가 전쟁을 통해 권위를 회복할 수 있다는 기대를 무너뜨렸다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928"] },
+    "masses": { "name": "병사 피로의 폭발", "weight": 95, "narrative": "전선 병사들은 공세 실패와 희생 속에서 전쟁 지속에 대한 불신을 키웠다. 군대의 사기와 복종은 더 약해졌고 후방의 평화 요구도 커졌다.", "sources": ["Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "bolshevik": { "name": "반전 구호의 강화", "weight": 80, "narrative": "공세 실패는 볼셰비키의 반전 주장을 더 설득력 있게 만들었다. 임시정부가 제국주의 전쟁을 계속한다는 비판은 도시와 병영에서 힘을 얻었다.", "sources": ["Alexander Rabinowitch, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd", "Rex A. Wade, The Russian Revolution, 1917"] },
+    "oldregime": { "name": "구군대 질서의 잔영", "weight": 55, "narrative": "공세는 옛 군사 규율과 전쟁 목표를 새 체제 아래 되살리려는 시도이기도 했다. 그러나 혁명 이후 병사 정치화는 예전 방식의 명령 체계를 어렵게 만들었다.", "sources": ["Richard Pipes, The Russian Revolution", "S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928"] }
+  }
+}

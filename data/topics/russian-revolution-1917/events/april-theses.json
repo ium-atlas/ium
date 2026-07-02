@@ -1,0 +1,13 @@
+{
+  "id": "april-theses",
+  "name": "레닌의 4월 테제",
+  "type": "political",
+  "date": "1917-04",
+  "location": { "lng": 30.31, "lat": 59.94 },
+  "perspectives": {
+    "bolshevik": { "name": "전쟁·토지·권력 노선 재정리", "weight": 100, "narrative": "레닌은 귀환 직후 임시정부 지지를 거부하고 전쟁 반대, 토지 문제, 소비에트 권력을 전면에 내세웠다. 4월 테제는 볼셰비키 전략을 더 급진적인 방향으로 밀었다.", "sources": ["Alexander Rabinowitch, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "provisional": { "name": "정부 지지 기반의 흔들림", "weight": 75, "narrative": "임시정부는 전쟁 수행과 동맹 의무를 유지하려 했지만, 레닌의 노선은 정부의 타협 정치를 정면으로 공격했다. 전쟁 지속은 정부의 가장 큰 취약점이 됐다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] },
+    "soviets": { "name": "소비에트 권력론의 부상", "weight": 85, "narrative": "4월 테제는 소비에트가 국가 권력의 중심이 되어야 한다는 주장을 분명히 했다. 당시 다수파는 신중했지만 구호는 대중 정치의 방향을 바꾸었다.", "sources": ["S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928", "Alexander Rabinowitch, The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd"] },
+    "masses": { "name": "평화와 토지 요구의 언어", "weight": 80, "narrative": "노동자, 병사, 농민에게 전쟁 중단과 토지 문제는 추상 이념이 아니라 생존의 문제였다. 볼셰비키는 이 요구를 간결한 정치 언어로 묶었다.", "sources": ["Sheila Fitzpatrick, The Russian Revolution", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] }
+  }
+}

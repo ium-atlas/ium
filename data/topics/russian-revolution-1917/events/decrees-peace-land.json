@@ -1,0 +1,13 @@
+{
+  "id": "decrees-peace-land",
+  "name": "평화 포고와 토지 포고",
+  "type": "political",
+  "date": "1917-11",
+  "location": { "lng": 30.31, "lat": 59.94 },
+  "perspectives": {
+    "bolshevik": { "name": "새 정권의 즉각 조치", "weight": 100, "narrative": "볼셰비키 정부는 평화 포고와 토지 포고로 전쟁 종식과 토지 문제를 최우선 의제로 삼았다. 이는 권력 장악을 대중 요구와 연결하는 핵심 조치였다.", "sources": ["Sheila Fitzpatrick, The Russian Revolution", "Rex A. Wade, The Russian Revolution, 1917"] },
+    "masses": { "name": "농민과 병사의 요구 반영", "weight": 100, "narrative": "토지 포고는 농민의 토지 재분배 요구를 인정했고, 평화 포고는 병사와 가족의 전쟁 피로에 응답했다. 새 권력은 대중 요구를 제도 언어로 받아들였다.", "sources": ["Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924", "S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928"] },
+    "soviets": { "name": "소비에트 권력의 정책화", "weight": 85, "narrative": "포고들은 소비에트 대회에서 새 정부의 첫 정책으로 제시됐다. 소비에트 권력은 이제 거리 구호가 아니라 국가 정책의 형식으로 나타났다.", "sources": ["Rex A. Wade, The Russian Revolution, 1917", "Sheila Fitzpatrick, The Russian Revolution"] },
+    "provisional": { "name": "미뤄진 과제의 상속", "weight": 70, "narrative": "임시정부가 제헌의회와 전쟁 수행을 이유로 미루었던 평화와 토지 문제가 새 정권의 즉각 조치가 됐다. 이는 임시정부 실패의 반사 효과이기도 했다.", "sources": ["S. A. Smith, Russia in Revolution: An Empire in Crisis, 1890 to 1928", "Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924"] }
+  }
+}
