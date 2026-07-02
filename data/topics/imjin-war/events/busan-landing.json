@@ -1,0 +1,38 @@
+{
+  "id": "busan-landing",
+  "name": "부산 상륙",
+  "type": "movement",
+  "date": "1592-04",
+  "location": {
+    "lng": 129.0756,
+    "lat": 35.1796
+  },
+  "perspectives": {
+    "kr": {
+      "name": "전쟁 발발의 충격",
+      "weight": 95,
+      "narrative": "부산 상륙은 조선이 일본의 대규모 침공을 실제 전면전으로 마주한 출발점이다. 남해안 방어선 붕괴와 피란, 의병, 수군 대응이 여기서 시작된다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "JaHyun Kim Haboush, The Great East Asian War and the Birth of the Korean Nation"
+      ]
+    },
+    "jp": {
+      "name": "대륙 원정의 교두보",
+      "weight": 90,
+      "narrative": "일본군에게 부산은 도요토미 히데요시의 조선 침공과 명 정복 구상을 실행하는 첫 교두보였다. 빠른 상륙과 진격은 초기 작전의 핵심이었다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "조선 위기의 시작",
+      "weight": 35,
+      "narrative": "명 조정에서 이 사건은 곧바로 전면 개입으로 이어지지는 않았지만, 조선 방어선 붕괴가 명의 동북 변경 안보와 연결된다는 우려를 키웠다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598"
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "haengju",
+  "name": "행주대첩",
+  "type": "battle",
+  "date": "1593-02",
+  "location": {
+    "lng": 126.823,
+    "lat": 37.6
+  },
+  "perspectives": {
+    "kr": {
+      "name": "수도권 방어의 상징",
+      "weight": 95,
+      "narrative": "행주대첩은 권율의 방어전으로 조선의 수도권 반격과 항전 기억에서 큰 비중을 차지한다. 조선군과 민간 동원의 결합도 강조된다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "JaHyun Kim Haboush, The Great East Asian War and the Birth of the Korean Nation"
+      ]
+    },
+    "jp": {
+      "name": "한성 주변 압박 실패",
+      "weight": 65,
+      "narrative": "일본군에게 행주 공격 실패는 한성 주변 통제와 조선 방어선 압박이 쉽지 않음을 보여 주었다. 평양 상실 뒤 일본군의 공세 탄력은 더 약해졌다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "조선 자체 항전의 성과",
+      "weight": 35,
+      "narrative": "명 관점에서는 평양성 탈환 직후 조선군이 한성 주변에서 일본군을 압박한 사례였다. 연합 반격의 지역적 효과를 보여 준다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598"
+      ]
+    }
+  }
+}

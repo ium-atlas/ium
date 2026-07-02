@@ -1,0 +1,39 @@
+{
+  "id": "noryang",
+  "name": "노량해전",
+  "type": "battle",
+  "date": "1598-12",
+  "location": {
+    "lng": 127.95,
+    "lat": 34.9
+  },
+  "perspectives": {
+    "kr": {
+      "name": "전쟁 종결의 해전",
+      "weight": 100,
+      "narrative": "노량해전은 철수하던 일본군을 조선·명 연합 수군이 공격한 전쟁 말기의 결정적 해전이다. 이순신의 전사와 함께 한국사 기억에서 전쟁 종결의 상징이 됐다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "JaHyun Kim Haboush, The Great East Asian War and the Birth of the Korean Nation"
+      ]
+    },
+    "jp": {
+      "name": "철수전의 손실",
+      "weight": 80,
+      "narrative": "일본군에게 노량은 히데요시 사후 철수 과정에서 발생한 큰 해상 손실이었다. 전쟁은 일본의 조선 장기 점령 실패로 마무리됐다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "명 수군의 종전 작전",
+      "weight": 85,
+      "narrative": "명 수군은 노량에서 조선 수군과 함께 일본군 철수를 압박했다. 명 관점에서는 조선 구원 전쟁의 마지막 군사 작전 중 하나였다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598",
+        "James B. Lewis, The East Asian War, 1592-1598: International Relations, Violence and Memory"
+      ]
+    }
+  }
+}

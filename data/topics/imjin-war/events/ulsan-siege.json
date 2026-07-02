@@ -1,0 +1,38 @@
+{
+  "id": "ulsan-siege",
+  "name": "울산성 전투",
+  "type": "siege",
+  "date": "1597-12",
+  "location": {
+    "lng": 129.314,
+    "lat": 35.535
+  },
+  "perspectives": {
+    "kr": {
+      "name": "왜성 공방전",
+      "weight": 75,
+      "narrative": "울산성 전투는 정유재란 후반 조선·명 연합군이 일본군의 남해안 왜성 체계를 압박한 대표 공방전이다. 전쟁은 축성 거점과 포위전 중심으로 장기화됐다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "James B. Lewis, The East Asian War, 1592-1598: International Relations, Violence and Memory"
+      ]
+    },
+    "jp": {
+      "name": "남해안 거점 방어",
+      "weight": 90,
+      "narrative": "일본군에게 울산성은 남해안 주둔망을 유지하는 핵심 거점이었다. 가토 기요마사 부대의 방어는 일본 측 전쟁 기억에서도 큰 비중을 가진다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "명군의 공성 작전",
+      "weight": 85,
+      "narrative": "명군은 울산성 공격을 통해 일본군의 남부 거점망을 무너뜨리려 했다. 이 전투는 명 원정군의 공세와 한계를 동시에 보여 준다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598"
+      ]
+    }
+  }
+}
