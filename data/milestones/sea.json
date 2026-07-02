@@ -1,0 +1,78 @@
+[
+  {
+    "year": 1019,
+    "label": "에어랑가 즉위",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "year": 1044,
+    "label": "아노라타 즉위",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "range": [1113, 1150],
+    "label": "수리야바르만 2세 치세",
+    "note": "앙코르 와트 건립기",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "range": [1181, 1218],
+    "label": "자야바르만 7세 치세",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "year": 1238,
+    "label": "수코타이 왕국 성립",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "year": 1293,
+    "label": "마자파힛 왕국 성립",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "year": 1351,
+    "label": "아유타야 왕국 성립",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "year": 1428,
+    "label": "후 레 왕조 성립",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "year": 1431,
+    "label": "아유타야의 앙코르 점령",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "year": 1471,
+    "label": "대월의 비자야 함락",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "year": 1511,
+    "label": "포르투갈의 말라카 점령",
+    "sources": ["Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680, Yale University Press"]
+  },
+  {
+    "year": 1565,
+    "label": "스페인의 세부 거점 수립",
+    "sources": ["Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680, Yale University Press"]
+  },
+  {
+    "year": 1569,
+    "label": "버마의 아유타야 점령",
+    "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
+  },
+  {
+    "year": 1619,
+    "label": "바타비아 건설",
+    "sources": ["Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680, Yale University Press"]
+  },
+  {
+    "year": 1641,
+    "label": "네덜란드의 말라카 점령",
+    "sources": ["Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680, Yale University Press"]
+  }
+]
