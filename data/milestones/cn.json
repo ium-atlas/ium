@@ -1,5 +1,69 @@
 [
   {
+    "year": -841,
+    "label": "공화 행정 시작",
+    "sources": [
+      "Michael Loewe and Edward L. Shaughnessy (eds.), The Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C.",
+      "Li Feng, Early China: A Social and Cultural History"
+    ]
+  },
+  {
+    "year": -771,
+    "label": "서주 멸망",
+    "sources": [
+      "Michael Loewe and Edward L. Shaughnessy (eds.), The Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C.",
+      "Edward L. Shaughnessy, Sources of Western Zhou History: Inscribed Bronze Vessels"
+    ]
+  },
+  {
+    "year": -770,
+    "label": "동주 시작",
+    "sources": [
+      "Michael Loewe and Edward L. Shaughnessy (eds.), The Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C.",
+      "Li Feng, Early China: A Social and Cultural History"
+    ]
+  },
+  {
+    "year": -722,
+    "label": "춘추시대 시작",
+    "sources": [
+      "Cho-yun Hsu, Ancient China in Transition: An Analysis of Social Mobility, 722-222 B.C.",
+      "Yuri Pines, Foundations of Confucian Thought: Intellectual Life in the Chunqiu Period, 722-453 B.C.E."
+    ]
+  },
+  {
+    "year": -651,
+    "label": "제 환공의 패권",
+    "sources": [
+      "Cho-yun Hsu, Ancient China in Transition: An Analysis of Social Mobility, 722-222 B.C.",
+      "Li Feng, Early China: A Social and Cultural History"
+    ]
+  },
+  {
+    "year": -632,
+    "label": "성복 전투",
+    "sources": [
+      "Cho-yun Hsu, Ancient China in Transition: An Analysis of Social Mobility, 722-222 B.C.",
+      "Li Feng, Early China: A Social and Cultural History"
+    ]
+  },
+  {
+    "year": -551,
+    "label": "공자 탄생",
+    "sources": [
+      "Yuri Pines, Foundations of Confucian Thought: Intellectual Life in the Chunqiu Period, 722-453 B.C.E.",
+      "Li Feng, Early China: A Social and Cultural History"
+    ]
+  },
+  {
+    "year": -506,
+    "label": "백거 전투",
+    "sources": [
+      "Cho-yun Hsu, Ancient China in Transition: An Analysis of Social Mobility, 722-222 B.C.",
+      "Li Feng, Early China: A Social and Cultural History"
+    ]
+  },
+  {
     "year": 1005,
     "label": "전연의 맹",
     "sources": ["Cambridge University Press, The Cambridge History of China, Vol. 5 Part 1: The Sung Dynasty and Its Precursors, 907-1279"]
