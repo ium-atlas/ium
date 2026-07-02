@@ -1,0 +1,13 @@
+{
+  "id": "ashura-demonstrations",
+  "name": "아슈라 대규모 시위",
+  "type": "movement",
+  "date": "1978-12",
+  "location": { "lng": 51.42, "lat": 35.69 },
+  "perspectives": {
+    "islamists": { "name": "종교 의례와 혁명 정치", "weight": 100, "narrative": "아슈라 시위는 시아파 의례와 반왕정 대중동원이 결합한 정점이었다. 호메이니의 상징적 권위는 거리의 집단 행동 속에서 강화됐다.", "sources": ["Nikki R. Keddie, Modern Iran: Roots and Results of Revolution", "Ervand Abrahamian, Iran Between Two Revolutions"] },
+    "bazaar": { "name": "바자르·성직 네트워크의 조직력", "weight": 90, "narrative": "바자르와 모스크 네트워크는 시위 조직, 파업 지원, 정보 전달에서 중요한 역할을 했다. 경제적 후원과 종교 권위가 결합했다.", "sources": ["Houchang E. Chehabi, Iranian Politics and Religious Modernism: The Liberation Movement of Iran under the Shah and Khomeini", "Ervand Abrahamian, Iran Between Two Revolutions"] },
+    "pahlavi": { "name": "왕정 고립의 가시화", "weight": 90, "narrative": "대규모 시위는 샤 정권이 더 이상 사회적 동의를 회복하기 어렵다는 신호가 됐다. 개혁, 군정, 타협 카드가 모두 약해졌다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Abbas Amanat, Iran: A Modern History"] },
+    "civilians": { "name": "거리의 다계층 연합", "weight": 95, "narrative": "테헤란과 여러 도시의 시민은 종교, 계층, 직업을 넘어 반왕정 행진에 참여했다. 혁명은 특정 조직 하나의 행동을 넘어 사회적 연합이 됐다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Nikki R. Keddie, Modern Iran: Roots and Results of Revolution"] }
+  }
+}

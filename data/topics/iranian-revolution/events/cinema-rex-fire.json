@@ -1,0 +1,12 @@
+{
+  "id": "cinema-rex-fire",
+  "name": "시네마 렉스 화재",
+  "type": "massacre",
+  "date": "1978-08",
+  "location": { "lng": 48.30, "lat": 30.34 },
+  "perspectives": {
+    "civilians": { "name": "대형 참사의 충격", "weight": 100, "narrative": "아바단 시네마 렉스 화재는 많은 민간인 희생을 낳은 참사로, 사회적 충격과 분노를 크게 키웠다. 책임을 둘러싼 불신은 정권 정당성 위기를 악화시켰다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Abbas Amanat, Iran: A Modern History"] },
+    "pahlavi": { "name": "불신을 돌파하지 못한 왕정", "weight": 90, "narrative": "왕정은 화재 책임 논란과 대중의 의심을 설득력 있게 해소하지 못했다. 정보와 치안에 대한 불신은 거리정치의 연료가 됐다.", "sources": ["Nikki R. Keddie, Modern Iran: Roots and Results of Revolution", "Charles Kurzman, The Unthinkable Revolution in Iran"] },
+    "islamists": { "name": "반왕정 분노의 확대", "weight": 75, "narrative": "이슬람 혁명세력은 참사를 왕정의 부패와 폭력성을 비판하는 정치적 장면으로 연결했다. 책임 논쟁은 반왕정 동원을 강화했다.", "sources": ["Abbas Amanat, Iran: A Modern History", "Michael Axworthy, Revolutionary Iran: A History of the Islamic Republic"] }
+  }
+}
