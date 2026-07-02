@@ -1,5 +1,68 @@
 [
   {
+    "year": -800,
+    "label": "그리스 알파벳 확산",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 1: The Prehistory of the Balkans; and the Middle East and the Aegean World, Tenth to Eighth Centuries B.C.",
+      "Robin Osborne, Greece in the Making, 1200-479 BC"
+    ]
+  },
+  {
+    "year": -776,
+    "label": "제1회 올림피아 전승",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C.",
+      "Oswyn Murray, Early Greece"
+    ]
+  },
+  {
+    "year": -753,
+    "label": "로마 건국 전승",
+    "sources": [
+      "T. J. Cornell, The Beginnings of Rome: Italy and Rome from the Bronze Age to the Punic Wars"
+    ]
+  },
+  {
+    "year": -734,
+    "label": "시라쿠사 건설",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C.",
+      "Robin Osborne, Greece in the Making, 1200-479 BC"
+    ]
+  },
+  {
+    "year": -621,
+    "label": "드라콘 성문법",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C.",
+      "Oswyn Murray, Early Greece"
+    ]
+  },
+  {
+    "year": -594,
+    "label": "솔론 개혁",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C.",
+      "Robin Osborne, Greece in the Making, 1200-479 BC"
+    ]
+  },
+  {
+    "year": -509,
+    "label": "로마 공화정 수립 전승",
+    "sources": [
+      "T. J. Cornell, The Beginnings of Rome: Italy and Rome from the Bronze Age to the Punic Wars",
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 4: Persia, Greece and the Western Mediterranean c. 525 to 479 B.C."
+    ]
+  },
+  {
+    "year": -508,
+    "label": "클레이스테네스 개혁",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 4: Persia, Greece and the Western Mediterranean c. 525 to 479 B.C.",
+      "Robin Osborne, Greece in the Making, 1200-479 BC"
+    ]
+  },
+  {
     "year": 1688,
     "label": "명예혁명",
     "sources": [
