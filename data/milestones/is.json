@@ -1,5 +1,85 @@
 [
   {
+    "year": -911,
+    "label": "신아시리아 팽창 재개",
+    "sources": [
+      "Amélie Kuhrt, The Ancient Near East: c. 3000-330 BC",
+      "Marc Van De Mieroop, A History of the Ancient Near East, ca. 3000-323 BC"
+    ]
+  },
+  {
+    "year": -879,
+    "label": "아슈르나시르팔 2세 칼후 정비",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 2: The Assyrian and Babylonian Empires and Other States of the Near East, from the Eighth to the Sixth Centuries B.C.",
+      "Amélie Kuhrt, The Ancient Near East: c. 3000-330 BC"
+    ]
+  },
+  {
+    "year": -745,
+    "label": "티글라트필레세르 3세 즉위",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 2: The Assyrian and Babylonian Empires and Other States of the Near East, from the Eighth to the Sixth Centuries B.C.",
+      "Marc Van De Mieroop, A History of the Ancient Near East, ca. 3000-323 BC"
+    ]
+  },
+  {
+    "year": -722,
+    "label": "사마리아 함락",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 2: The Assyrian and Babylonian Empires and Other States of the Near East, from the Eighth to the Sixth Centuries B.C.",
+      "Amélie Kuhrt, The Ancient Near East: c. 3000-330 BC"
+    ]
+  },
+  {
+    "year": -701,
+    "label": "산헤립의 예루살렘 원정",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 3 Part 2: The Assyrian and Babylonian Empires and Other States of the Near East, from the Eighth to the Sixth Centuries B.C.",
+      "Marc Van De Mieroop, A History of the Ancient Near East, ca. 3000-323 BC"
+    ]
+  },
+  {
+    "year": -612,
+    "label": "니네베 함락",
+    "sources": [
+      "Amélie Kuhrt, The Ancient Near East: c. 3000-330 BC",
+      "Marc Van De Mieroop, A History of the Ancient Near East, ca. 3000-323 BC"
+    ]
+  },
+  {
+    "year": -586,
+    "label": "바빌로니아의 예루살렘 함락",
+    "sources": [
+      "Amélie Kuhrt, The Ancient Near East: c. 3000-330 BC",
+      "Marc Van De Mieroop, A History of the Ancient Near East, ca. 3000-323 BC"
+    ]
+  },
+  {
+    "year": -539,
+    "label": "키루스 2세의 바빌론 입성",
+    "sources": [
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 4: Persia, Greece and the Western Mediterranean c. 525 to 479 B.C.",
+      "Pierre Briant, From Cyrus to Alexander: A History of the Persian Empire"
+    ]
+  },
+  {
+    "year": -522,
+    "label": "다리우스 1세 즉위",
+    "sources": [
+      "Pierre Briant, From Cyrus to Alexander: A History of the Persian Empire",
+      "Amélie Kuhrt, The Ancient Near East: c. 3000-330 BC"
+    ]
+  },
+  {
+    "year": -518,
+    "label": "아케메네스 행정 정비",
+    "sources": [
+      "Pierre Briant, From Cyrus to Alexander: A History of the Persian Empire",
+      "Cambridge University Press, The Cambridge Ancient History, Vol. 4: Persia, Greece and the Western Mediterranean c. 525 to 479 B.C."
+    ]
+  },
+  {
     "year": 1669,
     "label": "칸디아 함락",
     "sources": [
