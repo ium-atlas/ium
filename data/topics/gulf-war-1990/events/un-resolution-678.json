@@ -1,0 +1,39 @@
+{
+  "id": "un-resolution-678",
+  "name": "유엔 안보리 결의 678호",
+  "type": "political",
+  "date": "1990-11",
+  "location": {
+    "lng": -73.97,
+    "lat": 40.75
+  },
+  "perspectives": {
+    "un": {
+      "name": "무력 사용 승인과 최후통첩",
+      "weight": 100,
+      "narrative": "안보리는 결의 678호로 이라크가 기한 내 철수하지 않으면 필요한 모든 수단을 사용할 수 있다고 승인했다. 외교적 압박은 군사 작전의 법적 틀로 바뀌었다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    },
+    "coalition": {
+      "name": "전쟁 준비의 국제 승인",
+      "weight": 95,
+      "narrative": "미국 주도 다국적군은 결의를 군사 행동의 핵심 근거로 삼았다. 연합은 침공 저지에서 쿠웨이트 해방으로 목표를 좁혔다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf",
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War"
+      ]
+    },
+    "iraq": {
+      "name": "철수 거부와 시간 압박",
+      "weight": 85,
+      "narrative": "이라크는 결의가 제시한 압박에도 쿠웨이트 철수에 응하지 않았다. 이는 공습과 지상전으로 이어질 시한을 분명히 했다.",
+      "sources": [
+        "John Bulloch and Harvey Morris, Saddam's War: The Origins of the Kuwait Conflict and the International Response",
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order"
+      ]
+    }
+  }
+}

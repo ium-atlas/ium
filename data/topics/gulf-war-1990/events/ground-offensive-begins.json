@@ -1,0 +1,39 @@
+{
+  "id": "ground-offensive-begins",
+  "name": "지상전 개시",
+  "type": "battle",
+  "date": "1991-02",
+  "location": {
+    "lng": 47.65,
+    "lat": 29.00
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "쿠웨이트 해방 작전",
+      "weight": 100,
+      "narrative": "다국적군은 공습으로 약화된 이라크군을 상대로 지상전을 시작했다. 해병대의 쿠웨이트 방면 압박과 서쪽 우회 기동이 함께 전개됐다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf",
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War"
+      ]
+    },
+    "kuwait": {
+      "name": "해방의 군사 단계",
+      "weight": 95,
+      "narrative": "쿠웨이트에게 지상전은 점령 종식이 현실화되는 단계였다. 그러나 해방은 동시에 퇴각전, 방화, 포로 문제를 동반했다.",
+      "sources": [
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War",
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order"
+      ]
+    },
+    "iraq": {
+      "name": "전선 붕괴와 후퇴",
+      "weight": 90,
+      "narrative": "이라크군은 공중 우세와 기동전 앞에서 빠르게 방어선을 잃었다. 일부 부대는 쿠웨이트에서 철수하거나 포위 위기에 놓였다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    }
+  }
+}

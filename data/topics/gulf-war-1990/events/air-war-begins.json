@@ -1,0 +1,39 @@
+{
+  "id": "air-war-begins",
+  "name": "사막의 폭풍 공습 개시",
+  "type": "battle",
+  "date": "1991-01",
+  "location": {
+    "lng": 44.36,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "지휘통제와 방공망 타격",
+      "weight": 100,
+      "narrative": "다국적군은 사막의 폭풍 작전으로 이라크 지휘통제, 방공, 군수 기반을 집중 타격했다. 공중전은 지상전 개시 전에 이라크군을 약화시키는 데 초점을 맞췄다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf",
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War"
+      ]
+    },
+    "iraq": {
+      "name": "수도와 군사망의 충격",
+      "weight": 95,
+      "narrative": "이라크는 바그다드와 주요 군사 시설이 대규모 공습을 받으며 전쟁의 중심을 방어전으로 옮겼다. 정권은 미사일 공격과 선전전으로 대응했다.",
+      "sources": [
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War",
+        "John Bulloch and Harvey Morris, Saddam's War: The Origins of the Kuwait Conflict and the International Response"
+      ]
+    },
+    "civilians": {
+      "name": "공습 속 도시 생활",
+      "weight": 85,
+      "narrative": "이라크 민간인은 정전, 기반시설 파괴, 대피 생활 속에서 공습을 겪었다. 민간 피해의 범위와 책임은 전쟁 중과 전후에 계속 논쟁이 됐다.",
+      "sources": [
+        "Human Rights Watch, Needless Deaths in the Gulf War: Civilian Casualties During the Air Campaign and Violations of the Laws of War",
+        "Andrew J. Bacevich and Efraim Inbar, eds., The Gulf War of 1991 Reconsidered"
+      ]
+    }
+  }
+}

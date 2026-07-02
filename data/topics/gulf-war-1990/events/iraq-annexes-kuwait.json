@@ -1,0 +1,39 @@
+{
+  "id": "iraq-annexes-kuwait",
+  "name": "이라크의 쿠웨이트 병합 선언",
+  "type": "political",
+  "date": "1990-08",
+  "location": {
+    "lng": 47.98,
+    "lat": 29.38
+  },
+  "perspectives": {
+    "iraq": {
+      "name": "점령을 영토 편입으로 포장",
+      "weight": 100,
+      "narrative": "이라크는 쿠웨이트를 자국의 일부로 편입했다고 선언하며 침공을 되돌릴 외교적 공간을 좁혔다. 이 조치는 제재와 군사 대응을 더 강하게 불러왔다.",
+      "sources": [
+        "John Bulloch and Harvey Morris, Saddam's War: The Origins of the Kuwait Conflict and the International Response",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    },
+    "kuwait": {
+      "name": "국가 말소에 대한 저항",
+      "weight": 100,
+      "narrative": "쿠웨이트에게 병합 선언은 단순한 군사 점령을 넘어 국가 존재를 부정하는 조치였다. 망명 정부와 국내 저항은 국제 승인 회복에 매달렸다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War"
+      ]
+    },
+    "un": {
+      "name": "병합 불승인",
+      "weight": 95,
+      "narrative": "유엔과 다수 국가는 병합을 인정하지 않았다. 쿠웨이트 주권을 전제로 한 결의들은 이후 전쟁 목표를 분명히 했다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "F. Gregory Gause III, The International Relations of the Persian Gulf"
+      ]
+    }
+  }
+}

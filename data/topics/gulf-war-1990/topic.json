@@ -1,0 +1,57 @@
+{
+  "id": "gulf-war-1990",
+  "title": "걸프 전쟁",
+  "subtitle": "쿠웨이트 침공에서 사프완 정전까지",
+  "period": [
+    1990,
+    1991
+  ],
+  "start": "1990-08",
+  "end": "1991-03",
+  "bounds": [
+    [
+      -74.5,
+      25.5
+    ],
+    [
+      50.5,
+      41.0
+    ]
+  ],
+  "card": [
+    47.9,
+    29.5
+  ],
+  "perspectives": [
+    {
+      "code": "iraq",
+      "label": "이라크 바트 정권·이라크군",
+      "color": "#dc2626"
+    },
+    {
+      "code": "kuwait",
+      "label": "쿠웨이트 정부·저항",
+      "color": "#16a34a"
+    },
+    {
+      "code": "coalition",
+      "label": "미국 주도 다국적군",
+      "color": "#2563eb"
+    },
+    {
+      "code": "gulf",
+      "label": "사우디아라비아·걸프 왕정",
+      "color": "#f59e0b"
+    },
+    {
+      "code": "un",
+      "label": "유엔·국제 외교",
+      "color": "#7c3aed"
+    },
+    {
+      "code": "civilians",
+      "label": "민간인·포로·피난민",
+      "color": "#0891b2"
+    }
+  ]
+}

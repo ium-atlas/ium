@@ -1,0 +1,48 @@
+{
+  "id": "safwan-ceasefire",
+  "name": "사프완 정전 회담",
+  "type": "treaty",
+  "date": "1991-03",
+  "location": {
+    "lng": 47.71,
+    "lat": 30.12
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "전쟁 목표의 제한",
+      "weight": 95,
+      "narrative": "다국적군은 쿠웨이트 해방이라는 제한 목표를 달성한 뒤 사프완에서 정전 조건을 제시했다. 바그다드 점령이나 정권 교체는 이 전쟁의 공식 목표가 아니었다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf",
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order"
+      ]
+    },
+    "iraq": {
+      "name": "패전 뒤 체제 생존",
+      "weight": 90,
+      "narrative": "이라크는 군사적으로 패배했지만 사담 후세인 정권은 살아남았다. 정전 이후 제재, 무장 해제 문제, 국내 봉기가 새 위기의 축이 됐다.",
+      "sources": [
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War",
+        "Andrew J. Bacevich and Efraim Inbar, eds., The Gulf War of 1991 Reconsidered"
+      ]
+    },
+    "kuwait": {
+      "name": "해방 이후 복구의 시작",
+      "weight": 85,
+      "narrative": "쿠웨이트는 해방을 맞았지만 점령 피해, 유전 화재, 포로와 실종자 문제를 안고 복구를 시작했다. 전쟁 종결은 곧 전후 정리의 출발점이었다.",
+      "sources": [
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War",
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order"
+      ]
+    },
+    "un": {
+      "name": "전후 질서의 관리",
+      "weight": 80,
+      "narrative": "유엔은 정전 이후 제재와 무장 해제, 배상 문제를 다루는 전후 관리의 중심 기구가 됐다. 전쟁은 국제질서 재편 논의와 맞물렸다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "F. Gregory Gause III, The International Relations of the Persian Gulf"
+      ]
+    }
+  }
+}

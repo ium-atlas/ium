@@ -1,0 +1,39 @@
+{
+  "id": "kuwait-oil-well-fires",
+  "name": "쿠웨이트 유전 방화",
+  "type": "movement",
+  "date": "1991-02",
+  "location": {
+    "lng": 47.95,
+    "lat": 29.10
+  },
+  "perspectives": {
+    "iraq": {
+      "name": "퇴각하며 남긴 파괴",
+      "weight": 95,
+      "narrative": "퇴각하는 이라크군은 쿠웨이트 유전에 불을 질렀다. 이는 군사적 방해와 보복이 결합된 파괴 행위로 전쟁의 환경 피해를 크게 키웠다.",
+      "sources": [
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    },
+    "kuwait": {
+      "name": "해방 직후의 환경 재난",
+      "weight": 100,
+      "narrative": "쿠웨이트는 주권을 회복하는 순간 대규모 유전 화재와 오염을 마주했다. 전쟁 피해는 군사 시설을 넘어 경제와 생태계로 확장됐다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War"
+      ]
+    },
+    "civilians": {
+      "name": "연기와 오염 속의 귀환",
+      "weight": 80,
+      "narrative": "민간인은 검은 연기, 오염, 기반시설 피해 속에서 전후 생활을 다시 시작해야 했다. 환경 재난은 전쟁 후 복구 비용을 눈에 보이게 만들었다.",
+      "sources": [
+        "Human Rights Watch, Needless Deaths in the Gulf War: Civilian Casualties During the Air Campaign and Violations of the Laws of War",
+        "Andrew J. Bacevich and Efraim Inbar, eds., The Gulf War of 1991 Reconsidered"
+      ]
+    }
+  }
+}

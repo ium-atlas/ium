@@ -1,0 +1,39 @@
+{
+  "id": "amiriyah-shelter-bombing",
+  "name": "알 아미리야 방공호 폭격",
+  "type": "battle",
+  "date": "1991-02",
+  "location": {
+    "lng": 44.36,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "civilians": {
+      "name": "민간인 피해 논란의 중심",
+      "weight": 100,
+      "narrative": "바그다드의 알 아미리야 방공호 폭격은 민간인 사망 문제를 전쟁의 중심 쟁점으로 끌어올렸다. 피해 규모와 표적 성격을 둘러싼 논쟁은 전후에도 이어졌다.",
+      "sources": [
+        "Human Rights Watch, Needless Deaths in the Gulf War: Civilian Casualties During the Air Campaign and Violations of the Laws of War",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    },
+    "coalition": {
+      "name": "군사 표적 판단의 한계",
+      "weight": 80,
+      "narrative": "다국적군은 해당 시설을 군사 지휘 시설로 판단했다고 설명했다. 그러나 폭격은 정밀전 담론과 민간인 보호 원칙 사이의 긴장을 드러냈다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf",
+        "Human Rights Watch, Needless Deaths in the Gulf War: Civilian Casualties During the Air Campaign and Violations of the Laws of War"
+      ]
+    },
+    "iraq": {
+      "name": "전쟁 여론전의 소재",
+      "weight": 75,
+      "narrative": "이라크 정권은 방공호 폭격을 다국적군의 민간인 피해 책임을 보여주는 사례로 제시했다. 사건은 정보 통제와 선전전 속에서도 국제 여론에 영향을 주었다.",
+      "sources": [
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War",
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order"
+      ]
+    }
+  }
+}

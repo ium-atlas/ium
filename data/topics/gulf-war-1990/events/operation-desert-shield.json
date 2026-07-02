@@ -1,0 +1,39 @@
+{
+  "id": "operation-desert-shield",
+  "name": "사막의 방패 작전",
+  "type": "movement",
+  "date": "1990-08",
+  "location": {
+    "lng": 50.09,
+    "lat": 26.29
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "사우디 방어선 구축",
+      "weight": 100,
+      "narrative": "미국은 사우디아라비아 방어를 명분으로 대규모 병력을 걸프에 전개했다. 이는 방어 배치에서 쿠웨이트 해방 작전으로 이어지는 기반이 됐다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf",
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War"
+      ]
+    },
+    "gulf": {
+      "name": "왕정 안보의 급박함",
+      "weight": 95,
+      "narrative": "사우디아라비아와 걸프 왕정들은 이라크군이 쿠웨이트를 넘어올 수 있다는 공포 속에서 미군 주둔을 받아들였다. 이는 지역 정치에 긴 여파를 남겼다.",
+      "sources": [
+        "F. Gregory Gause III, The International Relations of the Persian Gulf",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    },
+    "iraq": {
+      "name": "전선의 국제화",
+      "weight": 75,
+      "narrative": "이라크에게 사우디 전개는 쿠웨이트 점령 문제가 미국 주도 군사 대결로 확대됐음을 뜻했다. 전쟁의 규모와 상대가 크게 바뀌었다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf"
+      ]
+    }
+  }
+}
