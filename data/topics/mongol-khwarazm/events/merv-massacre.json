@@ -1,0 +1,39 @@
+{
+  "id": "merv-massacre",
+  "name": "메르브 학살",
+  "type": "massacre",
+  "date": "1221-02",
+  "location": {
+    "lng": 62.18,
+    "lat": 37.66
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "저항 도시 처벌",
+      "weight": 95,
+      "narrative": "몽골군에게 메르브 함락은 저항 도시를 처벌하고 주변 도시의 항복을 압박하는 폭력적 전략의 일부였다. 공포는 군사 도구로 작동했다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Timothy May, The Mongol Conquests in World History"
+      ]
+    },
+    "khwarazm": {
+      "name": "방어 실패의 참극",
+      "weight": 100,
+      "narrative": "호라즘 관점에서 메르브의 참극은 국가 방어 실패가 도시 주민에게 전가된 장면이었다. 지방 도시들은 중앙의 보호 없이 각자 붕괴했다.",
+      "sources": [
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion",
+        "David Morgan, The Mongols"
+      ]
+    },
+    "islamic": {
+      "name": "도시 문명의 상처",
+      "weight": 100,
+      "narrative": "메르브 학살은 이슬람권 기억에서 몽골 원정의 파괴성을 상징하는 사건 중 하나였다. 연대기 숫자는 과장 논란이 있어도 도시 파괴의 충격 자체는 분명하다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    }
+  }
+}

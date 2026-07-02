@@ -1,0 +1,39 @@
+{
+  "id": "otrar-siege",
+  "name": "오트라르 포위전",
+  "type": "siege",
+  "date": "1219-09",
+  "location": {
+    "lng": 68.3,
+    "lat": 42.85
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "징벌의 첫 표적",
+      "weight": 95,
+      "narrative": "오트라르는 상단 사건의 현장으로서 몽골 원정의 상징적 표적이 됐다. 포위는 몽골이 국경 방어선을 하나씩 분쇄하는 출발점이었다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "David Morgan, The Mongols"
+      ]
+    },
+    "khwarazm": {
+      "name": "국경 요새의 고립",
+      "weight": 90,
+      "narrative": "호라즘에게 오트라르 포위는 국경 방어 체계가 각개 고립되는 위기였다. 도시의 저항은 오래 버텼지만 전체 전략을 되살리지는 못했다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    },
+    "islamic": {
+      "name": "학살 기억의 시작",
+      "weight": 80,
+      "narrative": "오트라르의 포위와 함락은 이후 도시들이 맞게 될 폭력의 전조가 됐다. 이슬람권 연대기에서 몽골 원정은 성벽과 주민을 함께 파괴하는 전쟁으로 기억됐다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    }
+  }
+}

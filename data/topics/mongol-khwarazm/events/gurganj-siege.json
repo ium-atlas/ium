@@ -1,0 +1,39 @@
+{
+  "id": "gurganj-siege",
+  "name": "구르간지 포위전",
+  "type": "siege",
+  "date": "1221-04",
+  "location": {
+    "lng": 59.15,
+    "lat": 42.33
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "난전 끝의 함락",
+      "weight": 95,
+      "narrative": "구르간지 포위는 몽골군에게도 어려운 도시전이었다. 물길과 성벽, 내부 저항은 기동전에 익숙한 몽골군을 장기 전투로 끌어들였다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "David Morgan, The Mongols"
+      ]
+    },
+    "khwarazm": {
+      "name": "왕조 중심지의 최후",
+      "weight": 100,
+      "narrative": "구르간지의 함락은 호라즘 왕조의 핵심 도시가 무너진 사건이었다. 격렬한 저항에도 국가 회복으로 이어질 지휘 체계는 남아 있지 않았다.",
+      "sources": [
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion",
+        "Timothy May, The Mongol Conquests in World History"
+      ]
+    },
+    "islamic": {
+      "name": "상업 도시의 파괴",
+      "weight": 95,
+      "narrative": "구르간지는 호라즘과 중앙아시아 상업망의 중요한 도시였다. 함락은 인명 피해뿐 아니라 관개·도시 기반의 붕괴로도 기억됐다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    }
+  }
+}

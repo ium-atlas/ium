@@ -1,0 +1,39 @@
+{
+  "id": "nishapur-massacre",
+  "name": "니샤푸르 학살",
+  "type": "massacre",
+  "date": "1221-04",
+  "location": {
+    "lng": 58.8,
+    "lat": 36.21
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "보복과 위압",
+      "weight": 90,
+      "narrative": "니샤푸르 함락은 몽골군 지휘관 전사에 대한 보복과 도시 위압이 결합된 사건으로 전해진다. 몽골의 폭력은 저항 비용을 극대화했다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Timothy May, The Mongol Conquests in World History"
+      ]
+    },
+    "khwarazm": {
+      "name": "호라산 방어의 붕괴",
+      "weight": 95,
+      "narrative": "호라즘 세력에게 니샤푸르의 파괴는 호라산 방어선이 무너졌음을 뜻했다. 남은 저항은 더 산발적이고 지역적인 형태로 밀려났다.",
+      "sources": [
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion",
+        "David Morgan, The Mongols"
+      ]
+    },
+    "islamic": {
+      "name": "호라산의 집단 기억",
+      "weight": 100,
+      "narrative": "니샤푸르는 호라산의 중요한 도시였고, 그 파괴는 이슬람권 도시 사회에 깊은 상처로 남았다. 메르브와 함께 몽골 원정의 공포를 구성했다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    }
+  }
+}

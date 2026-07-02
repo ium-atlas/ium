@@ -1,0 +1,39 @@
+{
+  "id": "otrar-caravan-incident",
+  "name": "오트라르 상단 사건",
+  "type": "political",
+  "date": "1218-00",
+  "location": {
+    "lng": 68.3,
+    "lat": 42.85
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "전쟁 명분의 형성",
+      "weight": 100,
+      "narrative": "오트라르에서 몽골 상단과 사절이 살해된 사건은 칭기즈 칸에게 호라즘 원정을 정당화하는 명분이 됐다. 몽골은 이를 외교 질서에 대한 모욕과 공격으로 보았다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "David Morgan, The Mongols"
+      ]
+    },
+    "khwarazm": {
+      "name": "국경 통제의 오판",
+      "weight": 95,
+      "narrative": "호라즘 측에서는 오트라르 총독의 조치와 무함마드 2세의 대응이 몽골과의 충돌을 되돌리기 어렵게 만들었다. 국경 사건은 제국 전체의 위기로 커졌다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    },
+    "islamic": {
+      "name": "상업로의 파열",
+      "weight": 85,
+      "narrative": "이슬람권 상업 도시의 관점에서 오트라르 사건은 초원과 중앙아시아 교역의 신뢰가 깨지는 순간이었다. 곧 도시 사회 전체가 전쟁의 압력을 받게 됐다.",
+      "sources": [
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion",
+        "Timothy May, The Mongol Conquests in World History"
+      ]
+    }
+  }
+}

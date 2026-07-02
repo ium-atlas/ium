@@ -1,0 +1,39 @@
+{
+  "id": "muhammad-ii-flight",
+  "name": "무함마드 2세의 도주",
+  "type": "movement",
+  "date": "1220-04",
+  "location": {
+    "lng": 53.0,
+    "lat": 36.8
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "추격전의 확대",
+      "weight": 85,
+      "narrative": "무함마드 2세의 도주는 몽골군에게 호라즘의 지휘부를 끝까지 추격할 기회를 주었다. 제베와 수부타이의 장거리 추격은 몽골 기동전의 특징을 드러냈다.",
+      "sources": [
+        "Rashid al-Din, Jami' al-Tawarikh: Compendium of Chronicles",
+        "Timothy May, The Mongol Conquests in World History"
+      ]
+    },
+    "khwarazm": {
+      "name": "중앙 지휘의 붕괴",
+      "weight": 100,
+      "narrative": "호라즘 샤의 도주는 군사적 후퇴를 넘어 국가 지휘 체계가 무너졌음을 뜻했다. 각 도시는 더 고립된 조건에서 몽골군을 맞게 됐다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    },
+    "islamic": {
+      "name": "보호자 없는 도시들",
+      "weight": 85,
+      "narrative": "이슬람권 도시민에게 통치자의 도주는 보호와 협상의 중심이 사라졌다는 의미였다. 전쟁은 도시별 생존 문제로 흩어졌다.",
+      "sources": [
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion",
+        "David Morgan, The Mongols"
+      ]
+    }
+  }
+}

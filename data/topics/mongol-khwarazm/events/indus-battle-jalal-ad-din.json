@@ -1,0 +1,39 @@
+{
+  "id": "indus-battle-jalal-ad-din",
+  "name": "인더스강 전투",
+  "type": "battle",
+  "date": "1221-11",
+  "location": {
+    "lng": 70.2,
+    "lat": 32.9
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "추격전의 완성",
+      "weight": 90,
+      "narrative": "인더스강 전투에서 몽골군은 잘랄 앗딘 망구베르디를 격파하고 호라즘 잔여 세력을 인도 방면으로 밀어냈다. 칭기즈 칸의 장거리 추격이 절정에 이르렀다.",
+      "sources": [
+        "Rashid al-Din, Jami' al-Tawarikh: Compendium of Chronicles",
+        "Timothy May, The Mongol Conquests in World History"
+      ]
+    },
+    "khwarazm": {
+      "name": "마지막 야전 저항",
+      "weight": 100,
+      "narrative": "잘랄 앗딘은 호라즘의 마지막 주요 야전 저항을 이끌었지만 인더스강에서 패했다. 그의 탈출은 생존이었지만 왕조 회복은 더 멀어졌다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    },
+    "islamic": {
+      "name": "전쟁의 남동쪽 확산",
+      "weight": 75,
+      "narrative": "인더스강 전투는 몽골-호라즘 전쟁이 중앙아시아를 넘어 인도 변경까지 파장을 미쳤음을 보여 준다. 이슬람권의 정치 난민과 군사 세력도 이동했다.",
+      "sources": [
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion",
+        "David Morgan, The Mongols"
+      ]
+    }
+  }
+}
