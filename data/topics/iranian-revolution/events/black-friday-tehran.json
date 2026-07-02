@@ -1,0 +1,13 @@
+{
+  "id": "black-friday-tehran",
+  "name": "테헤란 검은 금요일",
+  "type": "massacre",
+  "date": "1978-09",
+  "location": { "lng": 51.42, "lat": 35.69 },
+  "perspectives": {
+    "pahlavi": { "name": "군사 진압의 정치적 실패", "weight": 100, "narrative": "계엄과 발포는 왕정이 질서를 회복하려는 시도였지만, 실제로는 타협 가능성을 크게 줄였다. 정권은 공포와 불신의 상징이 됐다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Charles Kurzman, The Unthinkable Revolution in Iran"] },
+    "islamists": { "name": "순교 서사의 강화", "weight": 95, "narrative": "검은 금요일은 혁명세력에게 희생과 순교의 기억을 제공했다. 시위는 더 이상 개혁 요구가 아니라 왕정 종식 요구로 기울었다.", "sources": ["Nikki R. Keddie, Modern Iran: Roots and Results of Revolution", "Abbas Amanat, Iran: A Modern History"] },
+    "civilians": { "name": "거리 정치의 급진화", "weight": 100, "narrative": "테헤란 시민은 대규모 진압과 사망 소식을 통해 국가 폭력을 직접 체감했다. 피해 규모에 대한 해석은 엇갈렸지만, 정치적 충격은 컸다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Michael Axworthy, Revolutionary Iran: A History of the Islamic Republic"] },
+    "foreign": { "name": "동맹 정권의 불안정성", "weight": 75, "narrative": "미국과 서방은 샤 정권이 안정적으로 위기를 관리할 수 있는지 의심하게 됐다. 인권과 안보 동맹의 긴장이 커졌다.", "sources": ["Gary Sick, All Fall Down: America's Tragic Encounter with Iran", "Abbas Amanat, Iran: A Modern History"] }
+  }
+}

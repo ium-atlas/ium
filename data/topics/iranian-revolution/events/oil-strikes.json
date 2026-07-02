@@ -1,0 +1,13 @@
+{
+  "id": "oil-strikes",
+  "name": "석유 노동자 파업",
+  "type": "movement",
+  "date": "1978-10",
+  "location": { "lng": 49.08, "lat": 30.36 },
+  "perspectives": {
+    "leftists": { "name": "노동운동의 결정적 압박", "weight": 100, "narrative": "석유 노동자 파업은 왕정의 재정과 행정 능력을 직접 압박했다. 학생·좌파·노동운동의 참여는 혁명을 거리 시위에서 경제 권력의 문제로 확장했다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Charles Kurzman, The Unthinkable Revolution in Iran"] },
+    "pahlavi": { "name": "국가 수입의 마비", "weight": 95, "narrative": "왕정은 석유 산업 마비로 국가 운영과 외환 수입에 심각한 압박을 받았다. 치안 대응만으로는 위기를 풀 수 없었다.", "sources": ["Nikki R. Keddie, Modern Iran: Roots and Results of Revolution", "Abbas Amanat, Iran: A Modern History"] },
+    "islamists": { "name": "혁명 연합의 확대", "weight": 80, "narrative": "종교 지도부와 반왕정 세력은 파업을 혁명 압박의 핵심 수단으로 받아들였다. 노동 파업은 이슬람 세력과 세속 반왕정 세력의 공동 기반을 넓혔다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Michael Axworthy, Revolutionary Iran: A History of the Islamic Republic"] },
+    "foreign": { "name": "석유와 국제경제의 불안", "weight": 80, "narrative": "석유 생산 차질은 이란 국내 위기를 세계 에너지 시장과 서방 외교의 문제로 연결했다.", "sources": ["Gary Sick, All Fall Down: America's Tragic Encounter with Iran", "Abbas Amanat, Iran: A Modern History"] }
+  }
+}

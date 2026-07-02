@@ -1,0 +1,21 @@
+{
+  "id": "iranian-revolution",
+  "title": "이란 혁명",
+  "subtitle": "왕정, 종교정치, 파업, 대중동원이 겹친 1978-1979년",
+  "period": [1978, 1979],
+  "start": "1978-01",
+  "end": "1979-11",
+  "bounds": [
+    [1.5, 30.0],
+    [52.5, 49.5]
+  ],
+  "card": [51.42, 35.69],
+  "perspectives": [
+    { "code": "pahlavi", "label": "팔레비 왕정", "color": "#475569" },
+    { "code": "islamists", "label": "호메이니·이슬람 혁명세력", "color": "#16a34a" },
+    { "code": "leftists", "label": "좌파·학생·노동운동", "color": "#dc2626" },
+    { "code": "bazaar", "label": "바자르·상공인·성직 네트워크", "color": "#f59e0b" },
+    { "code": "foreign", "label": "미국·서방", "color": "#2563eb" },
+    { "code": "civilians", "label": "민간사회", "color": "#0891b2" }
+  ]
+}

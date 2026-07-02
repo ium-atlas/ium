@@ -1,0 +1,13 @@
+{
+  "id": "islamic-republic-referendum",
+  "name": "이슬람 공화국 국민투표",
+  "type": "political",
+  "date": "1979-03",
+  "location": { "lng": 51.42, "lat": 35.69 },
+  "perspectives": {
+    "islamists": { "name": "혁명 국가의 형식 확정", "weight": 100, "narrative": "국민투표는 왕정 이후 국가 형식을 이슬람 공화국으로 확정하는 핵심 절차였다. 호메이니 세력은 혁명 정당성을 제도 권력으로 옮겼다.", "sources": ["Michael Axworthy, Revolutionary Iran: A History of the Islamic Republic", "Abbas Amanat, Iran: A Modern History"] },
+    "leftists": { "name": "혁명 연합의 균열", "weight": 75, "narrative": "왕정을 함께 무너뜨린 세속 좌파와 자유주의 세력은 새 국가 형식과 정치 자유 문제에서 이슬람 세력과 긴장을 드러내기 시작했다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Nikki R. Keddie, Modern Iran: Roots and Results of Revolution"] },
+    "bazaar": { "name": "성직·상업 네트워크의 승리", "weight": 75, "narrative": "바자르와 성직 네트워크는 새 체제의 사회적 기반으로 남았다. 혁명 과정의 후원과 조직력은 제도화 국면에서도 의미를 가졌다.", "sources": ["Houchang E. Chehabi, Iranian Politics and Religious Modernism: The Liberation Movement of Iran under the Shah and Khomeini", "Ervand Abrahamian, Iran Between Two Revolutions"] },
+    "civilians": { "name": "새 질서 선택의 압박", "weight": 80, "narrative": "민간사회는 왕정 붕괴 뒤 빠르게 제시된 새 정치 형식에 참여해야 했다. 혁명 후 pluralism의 폭은 곧 논쟁이 됐다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Abbas Amanat, Iran: A Modern History"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "khomeini-returns",
+  "name": "호메이니 귀국",
+  "type": "movement",
+  "date": "1979-02",
+  "location": { "lng": 51.31, "lat": 35.69 },
+  "perspectives": {
+    "islamists": { "name": "혁명 지도력의 집중", "weight": 100, "narrative": "호메이니의 귀국은 망명 지도자의 상징 권위를 실제 권력투쟁의 중심으로 옮겼다. 이슬람 혁명세력은 거리 동원을 새 국가 질서로 연결하려 했다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Michael Axworthy, Revolutionary Iran: A History of the Islamic Republic"] },
+    "pahlavi": { "name": "임시정부의 압박", "weight": 80, "narrative": "바흐티아르 정부와 왕정 잔존 세력은 호메이니 귀국 뒤 정치적 공간을 급격히 잃었다. 합법 정부라는 주장만으로는 대중 동원을 이길 수 없었다.", "sources": ["Abbas Amanat, Iran: A Modern History", "Charles Kurzman, The Unthinkable Revolution in Iran"] },
+    "leftists": { "name": "공동 혁명과 이후 경쟁", "weight": 75, "narrative": "좌파와 학생 세력도 왕정 붕괴 과정에 참여했지만, 호메이니 귀국 뒤 혁명의 주도권은 이슬람 세력으로 빠르게 집중됐다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Nikki R. Keddie, Modern Iran: Roots and Results of Revolution"] },
+    "civilians": { "name": "대중 환영과 기대", "weight": 95, "narrative": "테헤란 시민과 전국의 지지자들은 귀국 장면을 왕정 이후 새 시대의 출발로 받아들였다. 기대와 불안이 동시에 커졌다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Michael Axworthy, Revolutionary Iran: A History of the Islamic Republic"] }
+  }
+}

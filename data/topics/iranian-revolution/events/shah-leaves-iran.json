@@ -1,0 +1,13 @@
+{
+  "id": "shah-leaves-iran",
+  "name": "샤의 출국",
+  "type": "political",
+  "date": "1979-01",
+  "location": { "lng": 51.31, "lat": 35.69 },
+  "perspectives": {
+    "pahlavi": { "name": "왕정 권력의 공백", "weight": 100, "narrative": "샤의 출국은 왕정이 더 이상 정치적 중심을 유지하지 못한다는 신호였다. 바흐티아르 정부는 권위와 시간 모두 부족한 상태에서 남았다.", "sources": ["Abbas Amanat, Iran: A Modern History", "Nikki R. Keddie, Modern Iran: Roots and Results of Revolution"] },
+    "islamists": { "name": "귀환을 앞둔 승리감", "weight": 90, "narrative": "호메이니 지지 세력은 샤의 출국을 혁명의 결정적 전환으로 받아들였다. 왕정 타도 요구는 이제 새 권력 구성 문제로 넘어갔다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Michael Axworthy, Revolutionary Iran: A History of the Islamic Republic"] },
+    "foreign": { "name": "서방 정책의 재계산", "weight": 85, "narrative": "미국은 오랜 동맹의 몰락 속에서 군부, 임시정부, 혁명세력 사이의 관계를 다시 계산해야 했다.", "sources": ["Gary Sick, All Fall Down: America's Tragic Encounter with Iran", "Abbas Amanat, Iran: A Modern History"] },
+    "civilians": { "name": "불확실한 해방감", "weight": 80, "narrative": "많은 시민에게 샤의 출국은 왕정 종식의 징표였지만, 거리의 환호 뒤에는 권력 공백과 충돌 가능성이 남아 있었다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Nikki R. Keddie, Modern Iran: Roots and Results of Revolution"] }
+  }
+}

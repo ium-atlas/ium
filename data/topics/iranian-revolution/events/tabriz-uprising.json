@@ -1,0 +1,13 @@
+{
+  "id": "tabriz-uprising",
+  "name": "타브리즈 봉기",
+  "type": "movement",
+  "date": "1978-02",
+  "location": { "lng": 46.29, "lat": 38.08 },
+  "perspectives": {
+    "civilians": { "name": "지방 도시로 번진 항의", "weight": 95, "narrative": "타브리즈 봉기는 쿰 희생자 추모가 지방 대도시의 항의로 확산되는 장면이었다. 혁명은 수도만이 아니라 도시 네트워크를 따라 움직였다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Charles Kurzman, The Unthinkable Revolution in Iran"] },
+    "islamists": { "name": "40일 추모 주기의 확산", "weight": 90, "narrative": "추모 의례는 종교적 시간표와 정치 동원을 결합했다. 이슬람 혁명세력은 억압과 추모를 반복되는 행동의 언어로 만들었다.", "sources": ["Nikki R. Keddie, Modern Iran: Roots and Results of Revolution", "Abbas Amanat, Iran: A Modern History"] },
+    "pahlavi": { "name": "지방 통제력의 균열", "weight": 85, "narrative": "왕정은 지방 도시의 분노가 빠르게 확대되는 것을 막지 못했다. 국가 폭력은 질서 회복보다 정권 불신을 키웠다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Ervand Abrahamian, Iran Between Two Revolutions"] },
+    "leftists": { "name": "학생·급진 세력의 접점", "weight": 65, "narrative": "타브리즈와 다른 도시의 항의는 종교 세력만이 아니라 학생, 좌파, 지역 급진 세력이 반왕정 행동에 합류할 공간을 만들었다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Nikki R. Keddie, Modern Iran: Roots and Results of Revolution"] }
+  }
+}

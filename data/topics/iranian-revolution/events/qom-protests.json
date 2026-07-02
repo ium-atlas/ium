@@ -1,0 +1,13 @@
+{
+  "id": "qom-protests",
+  "name": "쿰 시위",
+  "type": "movement",
+  "date": "1978-01",
+  "location": { "lng": 50.88, "lat": 34.64 },
+  "perspectives": {
+    "islamists": { "name": "성직 네트워크의 동원", "weight": 100, "narrative": "쿰 시위는 호메이니 비방 기사에 대한 항의에서 시작해 성직자와 신학생 네트워크의 정치 동원을 강화했다. 이후 추모 주기 시위의 리듬이 형성됐다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Nikki R. Keddie, Modern Iran: Roots and Results of Revolution"] },
+    "pahlavi": { "name": "통제 가능한 소요라는 오판", "weight": 85, "narrative": "왕정은 초기 시위를 질서 문제로 다루려 했지만, 진압은 반왕정 정서를 더 넓히는 계기가 됐다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Abbas Amanat, Iran: A Modern History"] },
+    "bazaar": { "name": "종교·상업망의 결합", "weight": 75, "narrative": "쿰의 항의는 모스크, 종교학교, 바자르 네트워크가 정치적 메시지를 전달하는 통로가 될 수 있음을 보여 주었다.", "sources": ["Nikki R. Keddie, Modern Iran: Roots and Results of Revolution", "Ervand Abrahamian, Iran Between Two Revolutions"] },
+    "civilians": { "name": "추모 정치의 시작", "weight": 80, "narrative": "시위와 진압 뒤 이어진 추모는 개인의 죽음을 전국적 정치 행동으로 연결했다. 민간사회는 애도와 저항을 함께 경험했다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Abbas Amanat, Iran: A Modern History"] }
+  }
+}

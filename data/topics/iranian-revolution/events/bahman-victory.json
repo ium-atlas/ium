@@ -1,0 +1,13 @@
+{
+  "id": "bahman-victory",
+  "name": "바흐만 혁명 승리",
+  "type": "political",
+  "date": "1979-02",
+  "location": { "lng": 51.42, "lat": 35.69 },
+  "perspectives": {
+    "islamists": { "name": "왕정 붕괴와 권력 장악", "weight": 100, "narrative": "군부 중립과 거리의 무장 충돌 속에서 왕정 체계는 붕괴했다. 이슬람 혁명세력은 혁명의 대표 권력으로 빠르게 부상했다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Michael Axworthy, Revolutionary Iran: A History of the Islamic Republic"] },
+    "pahlavi": { "name": "국가기구의 붕괴", "weight": 100, "narrative": "군과 관료제는 왕정 방어를 지속하지 못했고, 팔레비 체제의 핵심 기구는 단기간에 해체되거나 혁명 권력에 흡수됐다.", "sources": ["Abbas Amanat, Iran: A Modern History", "Nikki R. Keddie, Modern Iran: Roots and Results of Revolution"] },
+    "leftists": { "name": "다양한 반왕정 세력의 참여", "weight": 80, "narrative": "좌파, 학생, 게릴라 조직은 최종 국면의 거리정치와 무장 충돌에서 존재감을 보였다. 그러나 혁명 후 권력 배분에서는 새로운 갈등이 시작됐다.", "sources": ["Ervand Abrahamian, Iran Between Two Revolutions", "Charles Kurzman, The Unthinkable Revolution in Iran"] },
+    "civilians": { "name": "정권 교체의 체감", "weight": 95, "narrative": "테헤란 시민은 군부 중립, 무기고 장악, 방송 장악 같은 급격한 변화를 직접 목격했다. 혁명은 추상적 구호가 아니라 국가 권력의 실제 이동이었다.", "sources": ["Charles Kurzman, The Unthinkable Revolution in Iran", "Nikki R. Keddie, Modern Iran: Roots and Results of Revolution"] }
+  }
+}
