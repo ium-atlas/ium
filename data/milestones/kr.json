@@ -1,5 +1,59 @@
 [
   {
+    "range": [-850, -550],
+    "label": "중기 무문토기 문화 전개",
+    "note": "농경 정착과 취락 확대를 장기 문화 단계로 처리",
+    "sources": [
+      "Sarah M. Nelson, The Archaeology of Korea",
+      "Gina L. Barnes, State Formation in Korea: Historical and Archaeological Perspectives"
+    ]
+  },
+  {
+    "range": [-850, -550],
+    "label": "송국리 유형 문화권 형성",
+    "note": "중기 무문토기 문화의 대표 취락·묘제 유형",
+    "sources": [
+      "Sarah M. Nelson, The Archaeology of Korea",
+      "Joonho Son and Matthew Conte, A Review of the Songguk-ri Site"
+    ]
+  },
+  {
+    "range": [-800, -500],
+    "label": "무문 사회 벼농사 확대",
+    "note": "벼농사와 잡곡 농경이 함께 확대된 고고학적 단계",
+    "sources": [
+      "Gary W. Crawford and Gyoung-Ah Lee, Agricultural Origins in the Korean Peninsula",
+      "June-Jeong Lee, From Shellfish Gathering to Agriculture in Prehistoric Korea: The Chulmun to Mumun Transition"
+    ]
+  },
+  {
+    "range": [-800, -500],
+    "label": "고인돌·석관묘 위세화",
+    "note": "매장 양식과 부장품을 통한 사회 위계 표현",
+    "sources": [
+      "Sarah M. Nelson, The Archaeology of Korea",
+      "Gina L. Barnes, State Formation in Korea: Historical and Archaeological Perspectives"
+    ]
+  },
+  {
+    "range": [-700, -500],
+    "label": "랴오닝식 동검 전개",
+    "note": "청동 위세품 네트워크의 한반도 전개",
+    "sources": [
+      "Sarah M. Nelson, The Archaeology of Korea",
+      "Gina L. Barnes, State Formation in Korea: Historical and Archaeological Perspectives"
+    ]
+  },
+  {
+    "range": [-700, -500],
+    "label": "남부 대형 취락 위계화",
+    "note": "이금동·대평리 등 복합 취락을 통한 사회 복합화",
+    "sources": [
+      "Sarah M. Nelson, The Archaeology of Korea",
+      "Gina L. Barnes, State Formation in Korea: Historical and Archaeological Perspectives"
+    ]
+  },
+  {
     "year": 1019,
     "label": "귀주대첩",
     "sources": ["국사편찬위원회, 신편 한국사 15권 고려 전기의 사회와 대외관계"]
