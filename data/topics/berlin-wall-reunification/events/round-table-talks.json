@@ -1,0 +1,39 @@
+{
+  "id": "round-table-talks",
+  "name": "동독 원탁회의",
+  "type": "council",
+  "date": "1989-12",
+  "location": {
+    "lng": 13.40,
+    "lat": 52.52
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "시민운동의 제도 정치 진입",
+      "weight": 100,
+      "narrative": "원탁회의는 시민운동과 교회, 정당 세력이 동독 정치 전환을 논의하는 장이 됐다. 거리의 요구가 제도 개혁 논의로 들어왔다.",
+      "sources": [
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany",
+        "Konrad H. Jarausch, The Rush to German Unity"
+      ]
+    },
+    "east_germany": {
+      "name": "SED 권력 독점의 해체",
+      "weight": 90,
+      "narrative": "SED는 더 이상 정치 의제를 독점할 수 없었다. 원탁회의는 동독의 임시적 권력 재편과 자유선거 준비를 압박했다.",
+      "sources": [
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany",
+        "Mary Elise Sarotte, The Collapse: The Accidental Opening of the Berlin Wall"
+      ]
+    },
+    "civilians": {
+      "name": "개혁 기대와 생활 불안",
+      "weight": 75,
+      "narrative": "시민들은 자유와 참여 확대를 기대하면서도 경제 불안, 이주, 통일 속도 문제를 함께 걱정했다. 전환은 해방감과 불확실성을 동시에 가져왔다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Timothy Garton Ash, In Europe's Name: Germany and the Divided Continent"
+      ]
+    }
+  }
+}

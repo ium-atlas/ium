@@ -1,0 +1,39 @@
+{
+  "id": "monday-demonstrations-leipzig",
+  "name": "라이프치히 월요시위",
+  "type": "movement",
+  "date": "1989-09",
+  "location": {
+    "lng": 12.37,
+    "lat": 51.34
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "거리에서 커진 개혁 요구",
+      "weight": 100,
+      "narrative": "라이프치히의 월요시위는 여행의 자유, 선거 개혁, 표현의 자유 요구를 거리 정치로 확산시켰다. 반복되는 시위는 동독 반체제 네트워크를 대중 운동으로 키웠다.",
+      "sources": [
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany",
+        "Timothy Garton Ash, In Europe's Name: Germany and the Divided Continent"
+      ]
+    },
+    "east_germany": {
+      "name": "진압과 양보 사이의 동요",
+      "weight": 90,
+      "narrative": "동독 당국은 시위 진압을 검토했지만 대규모 폭력의 정치적 비용을 감당하기 어려웠다. 치안기구의 주저는 체제 권위의 균열을 드러냈다.",
+      "sources": [
+        "Mary Elise Sarotte, The Collapse: The Accidental Opening of the Berlin Wall",
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany"
+      ]
+    },
+    "civilians": {
+      "name": "두려움에서 참여로",
+      "weight": 85,
+      "narrative": "동독 시민들은 체포와 폭력의 위험을 알면서도 교회와 거리 집회를 통해 참여를 넓혔다. 일상의 불만이 공개적 정치 행동으로 바뀌었다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Timothy Garton Ash, In Europe's Name: Germany and the Divided Continent"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "honecker-resigns",
+  "name": "에리히 호네커 실각",
+  "type": "political",
+  "date": "1989-10",
+  "location": {
+    "lng": 13.40,
+    "lat": 52.52
+  },
+  "perspectives": {
+    "east_germany": {
+      "name": "지도부 교체로 위기 봉합 시도",
+      "weight": 100,
+      "narrative": "SED는 호네커를 물러나게 하며 체제 위기를 인물 교체로 수습하려 했다. 그러나 개혁 요구와 탈출 문제는 이미 지도부 교체만으로 가라앉지 않았다.",
+      "sources": [
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany",
+        "Mary Elise Sarotte, The Collapse: The Accidental Opening of the Berlin Wall"
+      ]
+    },
+    "protesters": {
+      "name": "부분 양보 이상의 요구",
+      "weight": 90,
+      "narrative": "시위대는 지도부 교체를 체제 변화의 시작으로 보았지만, 자유선거와 여행 자유 같은 요구를 계속 밀어붙였다. 거리의 압력은 더 커졌다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Timothy Garton Ash, In Europe's Name: Germany and the Divided Continent"
+      ]
+    },
+    "soviet": {
+      "name": "개혁 거부 노선의 퇴장",
+      "weight": 75,
+      "narrative": "호네커의 실각은 고르바초프식 개혁을 거부하던 동독 노선의 약화를 뜻했다. 소련은 위기를 직접 봉합하기보다 동독 내부 변화를 지켜보았다.",
+      "sources": [
+        "Mary Elise Sarotte, 1989: The Struggle to Create Post-Cold War Europe",
+        "Kristina Spohr, Post Wall, Post Square: Rebuilding the World after 1989"
+      ]
+    }
+  }
+}

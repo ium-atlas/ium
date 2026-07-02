@@ -1,0 +1,39 @@
+{
+  "id": "kohl-ten-point-plan",
+  "name": "헬무트 콜의 10개항 통일 구상",
+  "type": "political",
+  "date": "1989-11",
+  "location": {
+    "lng": 7.10,
+    "lat": 50.73
+  },
+  "perspectives": {
+    "west_germany": {
+      "name": "통일 로드맵 제시",
+      "weight": 100,
+      "narrative": "헬무트 콜은 10개항 구상으로 협력, 연방적 구조, 통일 가능성을 단계적으로 제시했다. 서독 정부는 예상보다 빠르게 독일 문제의 의제를 주도하기 시작했다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Philip Zelikow and Condoleezza Rice, Germany Unified and Europe Transformed: A Study in Statecraft"
+      ]
+    },
+    "east_germany": {
+      "name": "동독 주권 논의의 압박",
+      "weight": 75,
+      "narrative": "동독 지도부와 개혁 세력은 서독의 빠른 통일 구상이 동독 내부 개혁의 시간을 압박한다고 느꼈다. 통일 의제는 동독의 독자적 전환 논의를 흔들었다.",
+      "sources": [
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany",
+        "Konrad H. Jarausch, The Rush to German Unity"
+      ]
+    },
+    "allies": {
+      "name": "동맹국 협의의 필요성",
+      "weight": 80,
+      "narrative": "서방 동맹과 소련은 독일 통일 구상이 유럽 안보 질서와 직결된다는 점을 의식했다. 콜의 제안은 4대국 협의를 더 시급하게 만들었다.",
+      "sources": [
+        "Stephen F. Szabo, The Diplomacy of German Unification",
+        "Philip Zelikow and Condoleezza Rice, Germany Unified and Europe Transformed: A Study in Statecraft"
+      ]
+    }
+  }
+}

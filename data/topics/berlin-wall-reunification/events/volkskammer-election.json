@@ -1,0 +1,39 @@
+{
+  "id": "volkskammer-election",
+  "name": "동독 자유선거",
+  "type": "political",
+  "date": "1990-03",
+  "location": {
+    "lng": 13.40,
+    "lat": 52.52
+  },
+  "perspectives": {
+    "civilians": {
+      "name": "투표로 드러난 통일 선호",
+      "weight": 100,
+      "narrative": "동독 유권자들은 자유선거에서 빠른 통일과 서독식 제도 편입을 지지하는 흐름을 뚜렷하게 보였다. 시민의 선택은 통일 속도를 크게 앞당겼다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany"
+      ]
+    },
+    "west_germany": {
+      "name": "통일 협상의 정치적 동력",
+      "weight": 95,
+      "narrative": "서독 정부는 선거 결과를 빠른 통일 추진의 민주적 정당성으로 해석했다. 경제 통합과 국가 통합 논의가 속도를 냈다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Philip Zelikow and Condoleezza Rice, Germany Unified and Europe Transformed: A Study in Statecraft"
+      ]
+    },
+    "east_germany": {
+      "name": "전환 정부의 탄생",
+      "weight": 85,
+      "narrative": "동독에는 통일 협상을 수행할 새 정부가 들어섰다. SED 중심 체제는 선거를 통해 정치적으로 결정적 후퇴를 맞았다.",
+      "sources": [
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany",
+        "Mary Elise Sarotte, 1989: The Struggle to Create Post-Cold War Europe"
+      ]
+    }
+  }
+}
