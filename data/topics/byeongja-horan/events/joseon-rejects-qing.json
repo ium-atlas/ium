@@ -1,0 +1,38 @@
+{
+  "id": "joseon-rejects-qing",
+  "name": "청 사신 접대 거부",
+  "type": "political",
+  "date": "1636-11",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.5665
+  },
+  "perspectives": {
+    "joseon": {
+      "name": "척화와 주화의 충돌",
+      "weight": 95,
+      "narrative": "조선 조정의 청 사신 접대 문제는 단순 외교 의전이 아니라 명분과 생존 전략을 둘러싼 내부 논쟁이었다. 척화론은 강했지만 군사 대비는 충분하지 않았다.",
+      "sources": [
+        "National Institute of Korean History, Annals of the Joseon Dynasty: Injo Sillok",
+        "Na Man'gap, The Diary of 1636: The Second Manchu Invasion of Korea"
+      ]
+    },
+    "qing": {
+      "name": "복속 거부로 인식",
+      "weight": 85,
+      "narrative": "청에게 조선의 거부는 새 황제권을 인정하지 않는 행위로 읽혔다. 군사 압박은 조선을 명과 분리하고 후방을 안정시키려는 전략과 연결됐다.",
+      "sources": [
+        "Pamela Kyle Crossley, The Manchus",
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    },
+    "ming": {
+      "name": "조선의 명분적 동맹",
+      "weight": 70,
+      "narrative": "명 관점에서 조선의 대명 의리는 상징적으로 중요했지만, 명은 이미 내부 위기와 청 전선 압박으로 조선을 실질적으로 보호하기 어려웠다.",
+      "sources": [
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    }
+  }
+}

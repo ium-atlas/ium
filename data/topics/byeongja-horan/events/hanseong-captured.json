@@ -1,0 +1,38 @@
+{
+  "id": "hanseong-captured",
+  "name": "한성 함락",
+  "type": "movement",
+  "date": "1636-12",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.5665
+  },
+  "perspectives": {
+    "joseon": {
+      "name": "수도 포기의 위기",
+      "weight": 95,
+      "narrative": "한성 함락과 인조의 남한산성 피신은 조선 조정이 수도 통제력을 잃은 위기였다. 왕실과 백성의 피해, 강화도 방어 문제가 동시에 떠올랐다.",
+      "sources": [
+        "National Institute of Korean History, Annals of the Joseon Dynasty: Injo Sillok",
+        "Na Man'gap, The Diary of 1636: The Second Manchu Invasion of Korea"
+      ]
+    },
+    "qing": {
+      "name": "수도 압박 성공",
+      "weight": 90,
+      "narrative": "청군은 수도를 빠르게 압박함으로써 조선 조정의 협상 공간을 좁혔다. 전쟁의 목표는 완전 점령보다 항복 조건을 강제하는 데 가까웠다.",
+      "sources": [
+        "Pamela Kyle Crossley, The Manchus",
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    },
+    "ming": {
+      "name": "친명 조선의 고립",
+      "weight": 55,
+      "narrative": "한성 함락은 친명 노선을 유지하던 조선이 군사적으로 고립됐음을 보여 주었다. 명의 권위는 상징으로 남았지만 구원 능력은 약했다.",
+      "sources": [
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    }
+  }
+}

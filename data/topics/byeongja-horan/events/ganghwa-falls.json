@@ -1,0 +1,38 @@
+{
+  "id": "ganghwa-falls",
+  "name": "강화도 함락",
+  "type": "siege",
+  "date": "1637-01",
+  "location": {
+    "lng": 126.485,
+    "lat": 37.746
+  },
+  "perspectives": {
+    "joseon": {
+      "name": "왕실 피란처 붕괴",
+      "weight": 100,
+      "narrative": "강화도 함락은 조선 왕실과 종친, 피란민에게 큰 타격이었다. 남한산성의 항전 지속 가능성도 결정적으로 약화됐다.",
+      "sources": [
+        "National Institute of Korean History, Annals of the Joseon Dynasty: Injo Sillok",
+        "Na Man'gap, The Diary of 1636: The Second Manchu Invasion of Korea"
+      ]
+    },
+    "qing": {
+      "name": "항복 조건 강화",
+      "weight": 90,
+      "narrative": "청군은 강화도 장악으로 조선 조정의 마지막 협상 카드를 약화시켰다. 국왕의 항복을 끌어내는 압박은 더욱 커졌다.",
+      "sources": [
+        "Pamela Kyle Crossley, The Manchus",
+        "Evelyn S. Rawski, Early Modern China and Northeast Asia: Cross-Border Perspectives"
+      ]
+    },
+    "ming": {
+      "name": "친명 노선의 붕괴 압력",
+      "weight": 45,
+      "narrative": "강화도 함락은 조선이 명분을 앞세워 버틸 물적 기반을 잃어 간다는 신호였다. 명 중심 질서는 조선 현장에서 급격히 후퇴했다.",
+      "sources": [
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    }
+  }
+}

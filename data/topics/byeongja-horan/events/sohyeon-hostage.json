@@ -1,0 +1,38 @@
+{
+  "id": "sohyeon-hostage",
+  "name": "소현세자 심양 인질",
+  "type": "political",
+  "date": "1637-02",
+  "location": {
+    "lng": 123.4315,
+    "lat": 41.8057
+  },
+  "perspectives": {
+    "joseon": {
+      "name": "왕실 인질과 전후 정치",
+      "weight": 90,
+      "narrative": "소현세자와 봉림대군의 심양 인질 생활은 조선의 전후 정치와 대청 관계를 계속 압박했다. 항복은 전투 종료가 아니라 장기 외교 부담의 시작이었다.",
+      "sources": [
+        "National Institute of Korean History, Annals of the Joseon Dynasty: Injo Sillok",
+        "Na Man'gap, The Diary of 1636: The Second Manchu Invasion of Korea"
+      ]
+    },
+    "qing": {
+      "name": "복속 보장의 장치",
+      "weight": 85,
+      "narrative": "청에게 왕자 인질은 조선의 항복 조건 이행을 보장하는 정치 장치였다. 조선 왕실은 청 수도권 질서 안에 직접 묶였다.",
+      "sources": [
+        "Pamela Kyle Crossley, The Manchus",
+        "Evelyn S. Rawski, Early Modern China and Northeast Asia: Cross-Border Perspectives"
+      ]
+    },
+    "ming": {
+      "name": "조선 이탈의 확인",
+      "weight": 60,
+      "narrative": "명 관점에서 조선 왕자의 심양 체류는 조선이 청의 영향권으로 들어갔음을 보여 주는 신호였다. 명청 전환의 외교 지형도 바뀌었다.",
+      "sources": [
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    }
+  }
+}
