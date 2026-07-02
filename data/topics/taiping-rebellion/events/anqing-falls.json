@@ -1,0 +1,13 @@
+{
+  "id": "anqing-falls",
+  "name": "안칭 함락",
+  "type": "siege",
+  "date": "1861-09",
+  "location": { "lng": 117.05, "lat": 30.53 },
+  "perspectives": {
+    "qing": { "name": "천경 서쪽 방어선 붕괴", "weight": 100, "narrative": "안칭 함락은 상군이 태평천국의 서쪽 방어선을 무너뜨린 중대한 전환점이었다. 천경 포위로 가는 길이 열렸다.", "sources": ["Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874", "Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864"] },
+    "taiping": { "name": "전략 거점의 상실", "weight": 100, "narrative": "태평천국에게 안칭 상실은 양쯔강 중류 방어와 천경 외곽 방어가 크게 흔들렸음을 뜻했다. 정권 생존의 압박이 본격화됐다.", "sources": ["Franz Michael, The Taiping Rebellion: History and Documents", "Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "foreign": { "name": "청 우위 회복의 신호", "weight": 55, "narrative": "외국 세력은 안칭 함락을 청과 지방군이 내전 주도권을 되찾는 신호로 해석할 수 있었다. 조약항 방어 판단에도 영향을 주었다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War", "Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874"] },
+    "local": { "name": "포위전의 민간 피해", "weight": 100, "narrative": "안칭 포위와 함락은 주민에게 기근, 사망, 피난, 전후 복구의 고통을 남겼다. 강남 내전의 기억은 지역사회에 오래 남았다.", "sources": ["Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China", "Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864"] }
+  }
+}

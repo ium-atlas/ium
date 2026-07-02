@@ -1,0 +1,13 @@
+{
+  "id": "jintian-uprising",
+  "name": "금전봉기",
+  "type": "movement",
+  "date": "1851-01",
+  "location": { "lng": 110.08, "lat": 23.4 },
+  "perspectives": {
+    "qing": { "name": "광시 반란의 공개화", "weight": 95, "narrative": "금전봉기는 청 지방 당국이 종교 결사와 지역 불만을 단순 소요가 아니라 군사 반란으로 맞닥뜨리게 된 사건이었다.", "sources": ["Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "taiping": { "name": "천국 운동의 출발", "weight": 100, "narrative": "홍수전과 배상제회 세력에게 금전봉기는 태평천국이라는 새 질서를 공개적으로 세우는 출발점이었다. 종교적 구원과 반청 정치가 결합했다.", "sources": ["Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "foreign": { "name": "초기에는 주변 사건", "weight": 20, "narrative": "외국 세력에게 광시 내륙의 봉기는 아직 직접 개입할 대상이 아니었다. 그러나 아편전쟁 이후 중국 내 불안정이 커지고 있다는 신호였다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "local": { "name": "광시 지역 갈등의 폭발", "weight": 90, "narrative": "광시의 지역사회에는 이 봉기가 객가와 토착 집단 갈등, 생계 압박, 종교 결사가 뒤섞여 폭력으로 터진 사건이었다.", "sources": ["Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864", "Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan"] }
+  }
+}

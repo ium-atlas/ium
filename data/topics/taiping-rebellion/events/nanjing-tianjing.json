@@ -1,0 +1,13 @@
+{
+  "id": "nanjing-tianjing",
+  "name": "난징 점령과 천경 선포",
+  "type": "siege",
+  "date": "1853-03",
+  "location": { "lng": 118.8, "lat": 32.06 },
+  "perspectives": {
+    "qing": { "name": "강남 핵심 도시 상실", "weight": 100, "narrative": "난징 함락은 청에게 강남의 정치·경제 핵심 거점을 잃은 재앙이었다. 태평천국은 이 도시를 천경으로 삼아 장기 정권의 중심을 만들었다.", "sources": ["Franz Michael, The Taiping Rebellion: History and Documents", "Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874"] },
+    "taiping": { "name": "천경 수도의 탄생", "weight": 100, "narrative": "태평천국은 난징을 천경으로 개칭하고 새 왕국의 수도로 삼았다. 운동은 유랑하는 반란에서 영토와 수도를 가진 정권으로 변했다.", "sources": ["Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "foreign": { "name": "조약항 질서의 불안", "weight": 65, "narrative": "외국 세력은 양쯔강 하류의 대도시가 반란 정권의 수도가 되자 통상 질서와 선교 활동의 향방을 더 직접적으로 계산하게 됐다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "local": { "name": "학살과 재정착의 기억", "weight": 100, "narrative": "난징 점령은 주민에게 극심한 폭력과 인구 이동, 생활세계의 재편으로 남았다. 강남 사회는 긴 내전의 기억을 안고 살아가게 됐다.", "sources": ["Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China", "Franz Michael, The Taiping Rebellion: History and Documents"] }
+  }
+}

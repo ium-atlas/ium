@@ -1,0 +1,13 @@
+{
+  "id": "suzhou-captured",
+  "name": "소주 상실",
+  "type": "siege",
+  "date": "1863-12",
+  "location": { "lng": 120.58, "lat": 31.3 },
+  "perspectives": {
+    "qing": { "name": "강남 거점 회복", "weight": 100, "narrative": "소주 회복은 청과 지방군이 강남의 핵심 도시를 되찾는 과정이었다. 천경을 향한 포위망은 더 조여졌다.", "sources": ["Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874", "Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "taiping": { "name": "강남 기반의 축소", "weight": 100, "narrative": "태평천국에게 소주 상실은 천경 주변의 경제·군사 기반이 급격히 줄어드는 사건이었다. 방어는 점점 수도 중심으로 몰렸다.", "sources": ["Franz Michael, The Taiping Rebellion: History and Documents", "Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "foreign": { "name": "외국인 지휘부의 딜레마", "weight": 85, "narrative": "소주 전투와 항복 처리는 외국인 지휘 세력과 청 지방군의 협력, 그리고 포로 처리 문제를 둘러싼 긴장을 드러냈다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "local": { "name": "도시 회복 뒤의 상처", "weight": 95, "narrative": "소주 주민에게 도시의 재점령은 전쟁이 끝났다는 안도만이 아니라 보복, 약탈, 전후 생계 재건의 문제를 동반했다.", "sources": ["Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China", "Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874"] }
+  }
+}

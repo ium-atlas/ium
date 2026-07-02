@@ -1,0 +1,13 @@
+{
+  "id": "fall-of-tianjing",
+  "name": "천경 함락",
+  "type": "siege",
+  "date": "1864-07",
+  "location": { "lng": 118.8, "lat": 32.06 },
+  "perspectives": {
+    "qing": { "name": "내전 종결의 상징", "weight": 100, "narrative": "천경 함락은 청과 상군이 태평천국의 수도를 무너뜨린 사건이었다. 동치중흥의 정치적 정당성도 이 승리 위에서 강화됐다.", "sources": ["Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874", "Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864"] },
+    "taiping": { "name": "천국 정권의 붕괴", "weight": 100, "narrative": "천경 함락은 태평천국 국가 실험의 종말이었다. 홍수전 사후 수도가 무너지며 남은 세력도 분산 저항으로 밀려났다.", "sources": ["Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "foreign": { "name": "청 질서 회복의 확인", "weight": 75, "narrative": "외국 세력은 천경 함락을 청이 조약항과 강남 질서를 회복할 수 있다는 신호로 보았다. 내전 속 선택은 청 협력 쪽으로 굳어졌다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War", "Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874"] },
+    "local": { "name": "폐허와 기억의 시작", "weight": 100, "narrative": "난징과 강남 지역사회에는 함락 뒤 대규모 사망, 폐허, 실종자, 재건의 과제가 남았다. 내전은 정치적 승패보다 오래가는 상처로 기억됐다.", "sources": ["Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China", "Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "northern-expedition",
+  "name": "북벌군 파견",
+  "type": "movement",
+  "date": "1853-05",
+  "location": { "lng": 116.4, "lat": 39.9 },
+  "perspectives": {
+    "qing": { "name": "수도권 위협", "weight": 95, "narrative": "태평천국의 북벌은 청 수도권을 직접 압박하려는 시도였다. 청 조정은 강남 전선과 북중국 방어를 동시에 감당해야 했다.", "sources": ["Franz Michael, The Taiping Rebellion: History and Documents", "Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874"] },
+    "taiping": { "name": "전국 정복의 시도", "weight": 100, "narrative": "북벌군은 천경 수도화 이후 곧장 청 왕조의 심장부를 겨냥한 원정이었다. 태평천국은 남방 정권에 머물지 않고 왕조 교체를 노렸다.", "sources": ["Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "foreign": { "name": "전쟁 범위 확대 관찰", "weight": 40, "narrative": "외국 세력은 태평군이 북중국까지 움직이자 내전이 단순 남방 반란을 넘어 전국 질서를 흔들 수 있다고 보았다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "local": { "name": "이동 전쟁의 부담", "weight": 75, "narrative": "북벌 경로의 지역사회는 징발, 피난, 보복의 압력을 겪었다. 전선은 정해진 국경이 아니라 군대가 지나가는 길을 따라 움직였다.", "sources": ["Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864", "Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China"] }
+  }
+}

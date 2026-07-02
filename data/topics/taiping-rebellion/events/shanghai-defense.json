@@ -1,0 +1,13 @@
+{
+  "id": "shanghai-defense",
+  "name": "상하이 방어전",
+  "type": "battle",
+  "date": "1862-04",
+  "location": { "lng": 121.47, "lat": 31.23 },
+  "perspectives": {
+    "qing": { "name": "조약항 방어 협력", "weight": 90, "narrative": "상하이 주변 전투에서 청 지방군과 외국인 조직 군사력이 협력하며 태평군의 접근을 막았다. 청은 조약항 방어에 외부 역량을 활용했다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War", "Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874"] },
+    "taiping": { "name": "조약항 장악 실패", "weight": 85, "narrative": "태평천국은 상하이 주변으로 압박을 넓혔지만 외국 세력과 청 지방군의 결합을 넘지 못했다. 국제 통상 공간은 천국의 통제 밖에 남았다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "foreign": { "name": "통상권 방어의 개입", "weight": 100, "narrative": "외국 상인과 군사 세력은 상하이 조계와 통상 이익을 지키기 위해 태평군에 맞서는 쪽으로 움직였다. 중립은 점차 제한됐다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "local": { "name": "조계 주변의 피난과 동원", "weight": 90, "narrative": "상하이와 주변 주민은 피난, 방어 공사, 군사 동원의 압력을 겪었다. 조약항의 번영은 내전의 위험과 나란히 존재했다.", "sources": ["Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China", "Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] }
+  }
+}

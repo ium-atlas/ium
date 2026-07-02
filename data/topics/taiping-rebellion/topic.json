@@ -1,0 +1,17 @@
+{
+  "id": "taiping-rebellion",
+  "title": "태평천국 운동",
+  "period": [1851, 1864],
+  "start": "1851-01",
+  "end": "1864-07",
+  "bounds": [
+    [109.8, 22.8],
+    [121.8, 40.2]
+  ],
+  "perspectives": [
+    { "code": "qing", "label": "청 조정", "color": "#dc2626" },
+    { "code": "taiping", "label": "태평천국", "color": "#2563eb" },
+    { "code": "foreign", "label": "외국 세력", "color": "#7c3aed" },
+    { "code": "local", "label": "강남 지역사회", "color": "#16a34a" }
+  ]
+}
