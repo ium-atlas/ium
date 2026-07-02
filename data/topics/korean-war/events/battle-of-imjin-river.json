@@ -1,0 +1,13 @@
+{
+  "id": "battle-of-imjin-river",
+  "name": "임진강 전투",
+  "type": "battle",
+  "date": "1951-04",
+  "location": { "lng": 126.92, "lat": 37.93 },
+  "perspectives": {
+    "un": { "name": "방어선 유지", "weight": 100, "narrative": "임진강 전투에서 유엔군은 중국군의 공세를 지연시키며 서울 접근을 막는 데 기여했다. 다국적 병력의 방어는 전선 안정의 일부였다.", "sources": ["Max Hastings, The Korean War", "William Stueck, The Korean War: An International History"] },
+    "china": { "name": "춘계 공세의 압박", "weight": 95, "narrative": "중국군은 서울 방면 압박을 위해 대규모 공세를 벌였다. 그러나 방어선 돌파는 제한적이었고 소모가 커졌다.", "sources": ["Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation", "Max Hastings, The Korean War"] },
+    "south": { "name": "수도 방어의 긴장", "weight": 80, "narrative": "임진강 전선은 서울 방어와 직접 연결됐다. 대한민국은 수도가 다시 위협받는 상황에서 전선 유지에 큰 의미를 두었다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Max Hastings, The Korean War"] },
+    "civilians": { "name": "접경 지역의 군사화", "weight": 65, "narrative": "임진강 일대 주민은 전투, 포격, 피난, 군사 통제의 영향을 받았다. 접경 지역은 장기적인 군사 공간으로 바뀌어 갔다.", "sources": ["Bruce Cumings, The Korean War: A History", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] }
+  }
+}

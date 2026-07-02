@@ -1,0 +1,13 @@
+{
+  "id": "armistice-talks-begin",
+  "name": "정전회담 시작",
+  "type": "political",
+  "date": "1951-07",
+  "location": { "lng": 126.56, "lat": 37.97 },
+  "perspectives": {
+    "un": { "name": "협상과 전투의 병행", "weight": 100, "narrative": "정전회담 시작은 전쟁이 군사 승리보다 정치적 타협을 향해 가고 있음을 보여 주었다. 그러나 협상 중에도 전투는 계속됐다.", "sources": ["William Stueck, The Korean War: An International History", "Max Hastings, The Korean War"] },
+    "north": { "name": "체제 보존과 협상", "weight": 85, "narrative": "북한은 중국의 지원 속에 정전 협상에 들어가 정권 보존과 전선 고착을 모색했다. 전쟁 목표는 현실적 타협으로 조정됐다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "William Stueck, The Korean War: An International History"] },
+    "china": { "name": "확전 회피와 체면", "weight": 85, "narrative": "중국은 전쟁을 계속 감당하면서도 미국과의 전면 확전을 피해야 했다. 협상은 군사적 성과와 외교적 부담 사이의 균형이었다.", "sources": ["Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation", "William Stueck, The Korean War: An International History"] },
+    "civilians": { "name": "끝나지 않은 전쟁", "weight": 80, "narrative": "회담 시작은 평화의 기대를 만들었지만 전쟁은 곧 끝나지 않았다. 민간인은 협상 지연 속에서도 피난, 징집, 포격 피해를 계속 겪었다.", "sources": ["Bruce Cumings, The Korean War: A History", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] }
+  }
+}

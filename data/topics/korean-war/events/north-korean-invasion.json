@@ -1,0 +1,13 @@
+{
+  "id": "north-korean-invasion",
+  "name": "북한군 남침",
+  "type": "movement",
+  "date": "1950-06",
+  "location": { "lng": 127.00, "lat": 38.00 },
+  "perspectives": {
+    "north": { "name": "무력 통일 시도", "weight": 100, "narrative": "북한군의 38선 전면 공격은 분단을 군사력으로 해결하려는 시도였다. 초기 공세는 빠르게 남쪽으로 밀고 내려갔다.", "sources": ["Allan R. Millett, The War for Korea, 1950-1951: They Came from the North", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] },
+    "south": { "name": "국가 생존의 위기", "weight": 100, "narrative": "대한민국은 갑작스러운 전면 공격으로 수도와 국가 체제의 생존을 위협받았다. 전쟁은 분단 정권의 경쟁을 넘어 주민의 삶을 뒤흔들었다.", "sources": ["Max Hastings, The Korean War", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] },
+    "soviet": { "name": "냉전 계산의 배경", "weight": 75, "narrative": "소련은 북한의 군사 역량 형성과 전쟁 결정의 배경에 있었다. 한반도 전쟁은 초기 냉전 질서 속 강대국 계산과 맞물렸다.", "sources": ["William Stueck, The Korean War: An International History", "Bruce Cumings, The Origins of the Korean War, Volume II: The Roaring of the Cataract, 1947-1950"] },
+    "civilians": { "name": "분단선이 전장이 되다", "weight": 100, "narrative": "38선 주변 주민은 전쟁 발발과 함께 피난, 징발, 폭격의 위험에 노출됐다. 전쟁은 국경선이 아니라 생활 공간을 가르며 시작됐다.", "sources": ["Bruce Cumings, The Korean War: A History", "Max Hastings, The Korean War"] }
+  }
+}

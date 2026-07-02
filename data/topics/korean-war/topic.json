@@ -1,0 +1,21 @@
+{
+  "id": "korean-war",
+  "title": "한국전쟁",
+  "subtitle": "분단 전쟁에서 국제 냉전 전장으로",
+  "period": [1950, 1953],
+  "start": "1950-06",
+  "end": "1953-07",
+  "bounds": [
+    [-74.5, 35.0],
+    [129.5, 41.0]
+  ],
+  "card": [127.2, 38.0],
+  "perspectives": [
+    { "code": "south", "label": "대한민국", "color": "#2563eb" },
+    { "code": "north", "label": "북한", "color": "#dc2626" },
+    { "code": "un", "label": "유엔군·미국", "color": "#1d4ed8" },
+    { "code": "china", "label": "중국", "color": "#16a34a" },
+    { "code": "soviet", "label": "소련", "color": "#f59e0b" },
+    { "code": "civilians", "label": "민간인", "color": "#0891b2" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "busan-perimeter",
+  "name": "낙동강·부산 교두보 방어",
+  "type": "battle",
+  "date": "1950-08",
+  "location": { "lng": 128.60, "lat": 35.87 },
+  "perspectives": {
+    "south": { "name": "마지막 방어선", "weight": 100, "narrative": "대한민국군과 유엔군은 낙동강 방어선에서 후퇴를 멈추고 부산 교두보를 지켰다. 이 방어는 국가 생존과 반격 준비의 최소 조건이었다.", "sources": ["Allan R. Millett, The War for Korea, 1950-1951: They Came from the North", "Max Hastings, The Korean War"] },
+    "un": { "name": "전력 집결과 시간 벌기", "weight": 100, "narrative": "유엔군은 부산 교두보에서 병력과 보급을 모으며 전황을 안정시켰다. 방어 성공은 인천상륙작전과 반격의 시간을 벌었다.", "sources": ["Max Hastings, The Korean War", "William Stueck, The Korean War: An International History"] },
+    "north": { "name": "공세 한계의 노출", "weight": 90, "narrative": "북한군은 빠른 남진 뒤 보급과 병력 소모의 한계에 부딪혔다. 부산 교두보를 돌파하지 못하면서 초기 승리의 흐름이 멈췄다.", "sources": ["Allan R. Millett, The War for Korea, 1950-1951: They Came from the North", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] },
+    "civilians": { "name": "피난민의 남쪽 끝", "weight": 100, "narrative": "부산과 낙동강 일대는 피난민과 군수 이동이 몰린 공간이 됐다. 전선 후방의 도시와 농촌은 생활난과 군사 동원을 함께 겪었다.", "sources": ["Bruce Cumings, The Korean War: A History", "Max Hastings, The Korean War"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "crossing-38th-parallel",
+  "name": "유엔군 38선 이북 진격",
+  "type": "movement",
+  "date": "1950-10",
+  "location": { "lng": 127.00, "lat": 38.00 },
+  "perspectives": {
+    "un": { "name": "전쟁 목표 확대", "weight": 100, "narrative": "유엔군의 38선 이북 진격은 방어와 원상회복을 넘어 북한 정권 붕괴 가능성까지 염두에 둔 선택이었다. 전쟁 목표가 확대되며 위험도 커졌다.", "sources": ["William Stueck, The Korean War: An International History", "Max Hastings, The Korean War"] },
+    "south": { "name": "북진 통일의 기대", "weight": 90, "narrative": "대한민국 정부는 북진을 분단 극복의 기회로 보았다. 그러나 군사적 성공은 중국과 소련의 반응이라는 더 큰 문제를 불러왔다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "William Stueck, The Korean War: An International History"] },
+    "china": { "name": "안보 경계선의 접근", "weight": 85, "narrative": "중국 지도부는 유엔군의 북진을 자국 변경 안보에 대한 위협으로 보았다. 압록강에 가까워지는 전선은 중국 참전 결정의 핵심 배경이 됐다.", "sources": ["Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation", "William Stueck, The Korean War: An International History"] },
+    "north": { "name": "정권 생존의 위기", "weight": 100, "narrative": "북한은 유엔군 북진으로 정권 존립 자체를 위협받았다. 전쟁은 남침 실패를 넘어 체제 생존 싸움으로 변했다.", "sources": ["Allan R. Millett, The War for Korea, 1950-1951: They Came from the North", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] }
+  }
+}

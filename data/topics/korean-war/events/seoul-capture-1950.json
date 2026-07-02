@@ -1,0 +1,13 @@
+{
+  "id": "seoul-capture-1950",
+  "name": "서울 함락",
+  "type": "battle",
+  "date": "1950-06",
+  "location": { "lng": 126.98, "lat": 37.57 },
+  "perspectives": {
+    "north": { "name": "초기 공세의 성과", "weight": 100, "narrative": "북한군은 전쟁 발발 며칠 만에 서울을 점령하며 초기 작전 목표를 빠르게 달성했다. 그러나 남한 정부와 군을 완전히 붕괴시키지는 못했다.", "sources": ["Allan R. Millett, The War for Korea, 1950-1951: They Came from the North", "Max Hastings, The Korean War"] },
+    "south": { "name": "수도 상실과 후퇴", "weight": 100, "narrative": "서울 함락은 대한민국 정부와 군에 큰 충격이었다. 정부와 피난민은 남쪽으로 이동했고 전쟁은 전국적 재난으로 확대됐다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Max Hastings, The Korean War"] },
+    "civilians": { "name": "피난과 한강의 혼란", "weight": 100, "narrative": "서울 시민은 급박한 피난과 도시 점령의 공포를 겪었다. 다리 폭파와 교통 마비는 민간인 피해와 가족 이산을 키웠다.", "sources": ["Bruce Cumings, The Korean War: A History", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] },
+    "un": { "name": "개입 압박의 증가", "weight": 75, "narrative": "서울의 빠른 함락은 미국과 유엔이 군사 개입을 서두르게 만든 배경이 됐다. 한반도 전쟁은 국제 안보 문제로 빠르게 전환됐다.", "sources": ["William Stueck, The Korean War: An International History", "Max Hastings, The Korean War"] }
+  }
+}

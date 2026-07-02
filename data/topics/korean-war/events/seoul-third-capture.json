@@ -1,0 +1,13 @@
+{
+  "id": "seoul-third-capture",
+  "name": "1·4 후퇴와 서울 재점령",
+  "type": "movement",
+  "date": "1951-01",
+  "location": { "lng": 126.98, "lat": 37.57 },
+  "perspectives": {
+    "china": { "name": "공세의 남하", "weight": 95, "narrative": "중국군과 북한군은 겨울 공세로 서울을 다시 점령했다. 이는 중국 참전 뒤 전쟁의 균형이 완전히 바뀌었음을 보여 주었다.", "sources": ["Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation", "Max Hastings, The Korean War"] },
+    "south": { "name": "두 번째 수도 상실", "weight": 100, "narrative": "대한민국은 서울을 다시 잃고 대규모 후퇴와 피난을 겪었다. 수도의 반복된 점령은 국가와 시민 모두에게 깊은 충격을 남겼다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Bruce Cumings, The Korean War: A History"] },
+    "un": { "name": "전선 안정화의 과제", "weight": 90, "narrative": "유엔군은 중국군 공세를 막고 전선을 재정비해야 했다. 지휘와 전략은 북진보다 확전 통제와 방어 회복으로 이동했다.", "sources": ["William Stueck, The Korean War: An International History", "Max Hastings, The Korean War"] },
+    "civilians": { "name": "반복 피난의 고통", "weight": 100, "narrative": "서울 시민과 피난민은 다시 남쪽으로 움직여야 했다. 반복된 점령과 후퇴는 가족 이산, 생계 붕괴, 정치적 보복의 공포를 키웠다.", "sources": ["Bruce Cumings, The Korean War: A History", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] }
+  }
+}

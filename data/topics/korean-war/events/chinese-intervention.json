@@ -1,0 +1,13 @@
+{
+  "id": "chinese-intervention",
+  "name": "중국 인민지원군 참전",
+  "type": "movement",
+  "date": "1950-10",
+  "location": { "lng": 124.40, "lat": 40.10 },
+  "perspectives": {
+    "china": { "name": "변경 안보와 혁명 국가의 참전", "weight": 100, "narrative": "중국은 유엔군의 북진을 압록강 변경 안보와 새 정권의 위신 문제로 받아들였다. 인민지원군 참전은 전쟁의 규모와 성격을 다시 바꾸었다.", "sources": ["Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation", "William Stueck, The Korean War: An International History"] },
+    "un": { "name": "예상 밖의 확전", "weight": 100, "narrative": "유엔군은 중국군의 대규모 참전으로 북진 승리의 전망을 잃었다. 전쟁은 다시 후퇴와 방어, 확전 통제의 문제로 바뀌었다.", "sources": ["Max Hastings, The Korean War", "William Stueck, The Korean War: An International History"] },
+    "north": { "name": "정권 보존의 지원", "weight": 95, "narrative": "북한은 중국 참전으로 정권 붕괴 위기를 넘길 군사적 지원을 얻었다. 전쟁 주도권은 중국군과 함께 재편됐다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation"] },
+    "soviet": { "name": "후방 지원과 제한된 개입", "weight": 80, "narrative": "소련은 직접 미군과 전면 충돌하기보다 지원과 조율을 통해 전쟁에 관여했다. 냉전의 핵심은 확전과 회피가 동시에 작동했다는 점이었다.", "sources": ["William Stueck, The Korean War: An International History", "Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "chosin-reservoir",
+  "name": "장진호 전투",
+  "type": "battle",
+  "date": "1950-11",
+  "location": { "lng": 127.25, "lat": 40.48 },
+  "perspectives": {
+    "china": { "name": "혹한 속 포위전", "weight": 100, "narrative": "중국군은 장진호 일대에서 유엔군을 포위하며 북진 흐름을 끊었다. 참전 초반 중국군의 결의와 희생을 보여 준 전투였다.", "sources": ["Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation", "Max Hastings, The Korean War"] },
+    "un": { "name": "철수와 전투력 보존", "weight": 100, "narrative": "유엔군은 장진호에서 혹한과 포위 속에 철수하며 큰 손실을 입었지만 전투력을 보존했다. 북진은 끝났고 전쟁은 새 국면으로 들어갔다.", "sources": ["Max Hastings, The Korean War", "William Stueck, The Korean War: An International History"] },
+    "north": { "name": "북부 전선 회복", "weight": 80, "narrative": "중국 참전과 장진호 전투는 북한 북부의 군사적 위기를 완화했다. 전선은 다시 남쪽으로 밀려 내려가기 시작했다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation"] },
+    "civilians": { "name": "북부 피난과 혹한", "weight": 85, "narrative": "함경도와 북부 지역 주민은 전선 이동, 피난, 혹한, 폭격의 압박을 겪었다. 군사 작전은 민간인의 생존 조건을 극도로 어렵게 만들었다.", "sources": ["Bruce Cumings, The Korean War: A History", "Max Hastings, The Korean War"] }
+  }
+}
