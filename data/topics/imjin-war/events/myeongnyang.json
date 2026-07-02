@@ -1,0 +1,38 @@
+{
+  "id": "myeongnyang",
+  "name": "명량해전",
+  "type": "battle",
+  "date": "1597-09",
+  "location": {
+    "lng": 126.308,
+    "lat": 34.57
+  },
+  "perspectives": {
+    "kr": {
+      "name": "수군 재건의 상징",
+      "weight": 100,
+      "narrative": "명량해전은 칠천량 패전 뒤 조선 수군이 무너지지 않았음을 보여 준 대표 사건이다. 이순신의 복귀와 해상 방어 회복의 상징성이 크다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "JaHyun Kim Haboush, The Great East Asian War and the Birth of the Korean Nation"
+      ]
+    },
+    "jp": {
+      "name": "서해 진출의 좌절",
+      "weight": 75,
+      "narrative": "일본군에게 명량 패전은 정유재란에서 해상 통로를 넓히려는 계획에 제약을 걸었다. 조선 수군의 잔존 전력이 계속 위협으로 남았다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "연합 방어의 해상 축",
+      "weight": 45,
+      "narrative": "명 관점에서는 조선 수군이 일본군 보급과 해상 이동을 제약하는 역할을 계속 수행한다는 점이 중요했다. 육상 전선과 해상 전선은 서로 맞물렸다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598"
+      ]
+    }
+  }
+}

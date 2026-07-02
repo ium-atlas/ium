@@ -1,0 +1,38 @@
+{
+  "id": "pyongyang-falls",
+  "name": "평양 함락",
+  "type": "siege",
+  "date": "1592-06",
+  "location": {
+    "lng": 125.7625,
+    "lat": 39.0392
+  },
+  "perspectives": {
+    "kr": {
+      "name": "전쟁의 북상",
+      "weight": 90,
+      "narrative": "평양 함락은 일본군 진격이 한반도 남부에 머물지 않고 조선 왕조의 생존 문제로 확대됐음을 보여 준다. 조선 조정은 북쪽으로 피란하며 명 지원을 더 절박하게 요청했다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "James B. Lewis, The East Asian War, 1592-1598: International Relations, Violence and Memory"
+      ]
+    },
+    "jp": {
+      "name": "속전의 정점",
+      "weight": 85,
+      "narrative": "일본군에게 평양 점령은 초기 속공의 정점이었다. 그러나 보급선과 수군 제해권 문제가 누적되면서 점령 유지의 부담도 커졌다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "명 개입의 직접 계기",
+      "weight": 80,
+      "narrative": "평양 함락은 명에게 조선 전쟁이 변경 안보 문제라는 점을 분명히 했다. 명 조정은 제한적 지원을 넘어 본격 개입을 검토하게 된다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598"
+      ]
+    }
+  }
+}

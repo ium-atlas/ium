@@ -1,0 +1,39 @@
+{
+  "id": "second-invasion",
+  "name": "정유재란 재침",
+  "type": "movement",
+  "date": "1597-08",
+  "location": {
+    "lng": 129.0756,
+    "lat": 35.1796
+  },
+  "perspectives": {
+    "kr": {
+      "name": "전쟁 재개",
+      "weight": 90,
+      "narrative": "정유재란은 강화 교섭이 결렬된 뒤 조선이 다시 대규모 침공을 맞은 사건이다. 전쟁 피해는 남부 지역을 중심으로 재확대됐다.",
+      "sources": [
+        "James B. Lewis, The East Asian War, 1592-1598: International Relations, Violence and Memory",
+        "JaHyun Kim Haboush, The Great East Asian War and the Birth of the Korean Nation"
+      ]
+    },
+    "jp": {
+      "name": "협상 결렬 뒤의 재원정",
+      "weight": 90,
+      "narrative": "일본군에게 정유재란은 명과의 협상이 실패한 뒤 다시 군사 압박을 선택한 재원정이었다. 초기 침공과 달리 남부 장기 점유와 축성전이 두드러졌다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "명-일 협상 실패의 결과",
+      "weight": 80,
+      "narrative": "명 관점에서는 정유재란이 일본과의 책봉·강화 협상이 실패한 결과였다. 전쟁은 다시 명군 파병과 조선 방어 지원 문제로 돌아갔다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598",
+        "James B. Lewis, The East Asian War, 1592-1598: International Relations, Violence and Memory"
+      ]
+    }
+  }
+}

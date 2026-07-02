@@ -1,0 +1,38 @@
+{
+  "id": "ming-intervention",
+  "name": "명군 참전과 평양성 탈환",
+  "type": "battle",
+  "date": "1593-01",
+  "location": {
+    "lng": 125.7625,
+    "lat": 39.0392
+  },
+  "perspectives": {
+    "kr": {
+      "name": "연합 반격의 시작",
+      "weight": 85,
+      "narrative": "조선에게 명군 참전과 평양성 탈환은 전쟁의 일방적 후퇴 국면을 멈추는 계기였다. 조선군·의병·명군의 관계는 이후 전쟁 운영의 핵심 문제가 됐다.",
+      "sources": [
+        "James B. Lewis, The East Asian War, 1592-1598: International Relations, Violence and Memory",
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598"
+      ]
+    },
+    "jp": {
+      "name": "점령선 후퇴",
+      "weight": 70,
+      "narrative": "일본군은 평양을 잃으며 북방 점령선을 유지하기 어려워졌다. 전쟁은 빠른 정복전에서 협상과 장기 주둔이 뒤섞인 국면으로 바뀌었다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "명 원정군의 핵심 승리",
+      "weight": 100,
+      "narrative": "명 관점에서 평양성 탈환은 조선 파병의 정당성과 군사적 효과를 보여 준 핵심 승리였다. 전쟁은 명-일 충돌로도 성격이 확대됐다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598"
+      ]
+    }
+  }
+}

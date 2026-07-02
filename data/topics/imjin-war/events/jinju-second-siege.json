@@ -1,0 +1,38 @@
+{
+  "id": "jinju-second-siege",
+  "name": "제2차 진주성 전투",
+  "type": "siege",
+  "date": "1593-07",
+  "location": {
+    "lng": 128.0847,
+    "lat": 35.18
+  },
+  "perspectives": {
+    "kr": {
+      "name": "대규모 희생의 기억",
+      "weight": 95,
+      "narrative": "제2차 진주성 전투는 조선에서 대규모 희생과 항전의 기억으로 남았다. 남부 내륙 방어와 민간 피해가 함께 드러나는 사건이다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "JaHyun Kim Haboush, The Great East Asian War and the Birth of the Korean Nation"
+      ]
+    },
+    "jp": {
+      "name": "남부 거점 응징전",
+      "weight": 80,
+      "narrative": "일본군은 진주성을 남부 조선의 주요 저항 거점으로 보았다. 1593년 공격은 이전 실패를 만회하고 후방을 안정시키려는 성격이 강했다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "남부 전선의 소모",
+      "weight": 30,
+      "narrative": "명 관점에서 진주성 전투는 평양·한성 축의 작전보다 비중은 낮지만, 일본군이 남부에 거점을 유지하며 전쟁을 지속했음을 보여 주는 사례였다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598"
+      ]
+    }
+  }
+}

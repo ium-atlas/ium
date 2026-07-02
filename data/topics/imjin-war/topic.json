@@ -1,0 +1,42 @@
+{
+  "id": "imjin-war",
+  "title": "임진왜란",
+  "subtitle": "1592-1598",
+  "period": [
+    1592,
+    1598
+  ],
+  "start": "1592-04",
+  "end": "1598-12",
+  "bounds": [
+    [
+      123,
+      33.5
+    ],
+    [
+      131,
+      41
+    ]
+  ],
+  "card": [
+    127.5,
+    36.5
+  ],
+  "perspectives": [
+    {
+      "code": "kr",
+      "label": "조선",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "jp",
+      "label": "일본",
+      "color": "#d94a4a"
+    },
+    {
+      "code": "cn",
+      "label": "명",
+      "color": "#d9b44a"
+    }
+  ]
+}

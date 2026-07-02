@@ -1,0 +1,38 @@
+{
+  "id": "dongnae-falls",
+  "name": "동래성 함락",
+  "type": "siege",
+  "date": "1592-04",
+  "location": {
+    "lng": 129.087,
+    "lat": 35.205
+  },
+  "perspectives": {
+    "kr": {
+      "name": "남부 방어선 붕괴",
+      "weight": 95,
+      "narrative": "동래성 전투는 조선 남부 관방 체계가 일본군의 속공 앞에서 빠르게 무너진 상징적 사건이다. 송상현의 항전은 이후 조선 기억에서 충절의 장면으로 남았다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "JaHyun Kim Haboush, The Great East Asian War and the Birth of the Korean Nation"
+      ]
+    },
+    "jp": {
+      "name": "초기 진격로 확보",
+      "weight": 85,
+      "narrative": "일본군은 부산과 동래를 잇달아 장악하면서 경상도 내륙 진격로를 열었다. 초기 승리는 조선 조정의 대응 시간을 크게 줄였다.",
+      "sources": [
+        "Samuel Hawley, The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+        "Stephen Turnbull, Samurai Invasion: Japan's Korean War 1592-98"
+      ]
+    },
+    "cn": {
+      "name": "전황 관망 단계",
+      "weight": 20,
+      "narrative": "명 관점에서는 아직 조선 내부 전황으로 파악되던 단계였다. 그러나 부산·동래의 함락은 이후 명군 파견 논의의 배경이 된다.",
+      "sources": [
+        "Kenneth M. Swope, A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War, 1592-1598"
+      ]
+    }
+  }
+}
