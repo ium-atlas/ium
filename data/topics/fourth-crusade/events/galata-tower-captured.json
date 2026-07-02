@@ -1,0 +1,12 @@
+{
+  "id": "galata-tower-captured",
+  "name": "갈라타 장악",
+  "type": "siege",
+  "date": "1203-07",
+  "location": { "lng": 28.974, "lat": 41.025 },
+  "perspectives": {
+    "lat": { "name": "금각만 방어선 돌파", "weight": 90, "narrative": "갈라타 장악은 금각만 사슬과 항만 방어를 흔들어 도시 공략의 실마리를 만들었다.", "sources": ["Geoffrey de Villehardouin, The Conquest of Constantinople", "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople"] },
+    "byz": { "name": "수도 방어의 균열", "weight": 95, "narrative": "비잔틴에게 갈라타 상실은 콘스탄티노폴리스의 해상 방어가 뚫리는 심각한 위기였다.", "sources": ["Niketas Choniates, O City of Byzantium: Annals of Niketas Choniates", "Michael Angold, The Fourth Crusade: Event and Context"] },
+    "ven": { "name": "항만 접근 확보", "weight": 95, "narrative": "베네치아 관점에서 갈라타 장악은 함대가 금각만으로 진입할 수 있는 전략적 성과였다.", "sources": ["Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople"] }
+  }
+}

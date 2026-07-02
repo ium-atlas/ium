@@ -1,0 +1,12 @@
+{
+  "id": "latin-empire-founded",
+  "name": "라틴 제국 수립",
+  "type": "political",
+  "date": "1204-05",
+  "location": { "lng": 28.9784, "lat": 41.0082 },
+  "perspectives": {
+    "lat": { "name": "라틴 동방 지배의 제도화", "weight": 95, "narrative": "라틴 제국 수립은 원정군의 정복을 정치 체제로 굳히려는 시도였다. 하지만 통치 기반은 취약했다.", "sources": ["Geoffrey de Villehardouin, The Conquest of Constantinople", "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople"] },
+    "byz": { "name": "수도 상실과 분열", "weight": 100, "narrative": "비잔틴 세계는 수도를 잃고 망명 정권들로 흩어졌다. 1204년 이후 제국의 회복은 장기 과제가 됐다.", "sources": ["Niketas Choniates, O City of Byzantium: Annals of Niketas Choniates", "Michael Angold, The Fourth Crusade: Event and Context"] },
+    "ven": { "name": "분할 질서의 수혜자", "weight": 100, "narrative": "베네치아는 라틴 제국 질서 속에서 항구와 섬, 상업 특권을 확보했다. 정치 정복보다 해상 네트워크 이익이 컸다.", "sources": ["Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople"] }
+  }
+}

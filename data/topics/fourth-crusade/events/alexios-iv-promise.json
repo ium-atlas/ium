@@ -1,0 +1,12 @@
+{
+  "id": "alexios-iv-promise",
+  "name": "알렉시오스 4세의 약속",
+  "type": "political",
+  "date": "1203-05",
+  "location": { "lng": 19.922, "lat": 39.6243 },
+  "perspectives": {
+    "lat": { "name": "원정 자금의 유혹", "weight": 90, "narrative": "알렉시오스 앙겔로스의 약속은 원정군에게 돈과 병력, 동방 교회 복속이라는 보상을 제시했다.", "sources": ["Geoffrey de Villehardouin, The Conquest of Constantinople", "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople"] },
+    "byz": { "name": "왕위 분쟁의 외세화", "weight": 100, "narrative": "비잔틴 관점에서 이 약속은 내부 왕위 분쟁을 라틴 군사력에 넘기는 위험한 선택이었다.", "sources": ["Niketas Choniates, O City of Byzantium: Annals of Niketas Choniates", "Michael Angold, The Fourth Crusade: Event and Context"] },
+    "ven": { "name": "채무 회수의 새 길", "weight": 80, "narrative": "베네치아에는 콘스탄티노폴리스행이 미지급 운송 대금과 동방 상업권을 회수할 기회로 보였다.", "sources": ["Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople"] }
+  }
+}

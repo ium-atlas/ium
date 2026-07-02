@@ -1,0 +1,12 @@
+{
+  "id": "constantinople-arrival-1203",
+  "name": "원정군의 콘스탄티노폴리스 도착",
+  "type": "movement",
+  "date": "1203-06",
+  "location": { "lng": 28.9784, "lat": 41.0082 },
+  "perspectives": {
+    "lat": { "name": "성지 대신 제국 수도로", "weight": 95, "narrative": "원정군은 예루살렘으로 가기 전 비잔틴 왕위 문제를 해결하겠다는 명분으로 제국 수도 앞에 섰다.", "sources": ["Geoffrey de Villehardouin, The Conquest of Constantinople", "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople"] },
+    "byz": { "name": "수도 앞의 외국 군대", "weight": 100, "narrative": "콘스탄티노폴리스 시민에게 라틴 함대의 도착은 왕위 분쟁을 넘어 도시 생존의 문제였다.", "sources": ["Niketas Choniates, O City of Byzantium: Annals of Niketas Choniates", "Michael Angold, The Fourth Crusade: Event and Context"] },
+    "ven": { "name": "해상 통제력 과시", "weight": 95, "narrative": "베네치아 함대는 원정의 이동과 포위 능력을 좌우했다. 수도 앞 도착은 해상 공화국의 힘을 드러냈다.", "sources": ["Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople"] }
+  }
+}
