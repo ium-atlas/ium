@@ -1,0 +1,12 @@
+{
+  "id": "convention-of-chuenpi",
+  "name": "천비 가협정",
+  "type": "treaty",
+  "date": "1841-01",
+  "location": { "lng": 113.78, "lat": 22.75 },
+  "perspectives": {
+    "qing": { "name": "불안정한 양보", "weight": 90, "narrative": "천비 가협정은 청 조정 내부에서 받아들이기 어려운 양보로 보였고, 기산의 책임 문제가 뒤따랐다.", "sources": ["Julia Lovell, The Opium War: Drugs, Dreams and the Making of China", "Jonathan D. Spence, The Search for Modern China"] },
+    "british": { "name": "홍콩과 배상의 협상", "weight": 95, "narrative": "영국 측에는 홍콩 할양과 배상 논의가 전쟁 목표를 제도화하는 첫 협상 성과로 보였다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "John K. Fairbank, Trade and Diplomacy on the China Coast"] },
+    "canton": { "name": "현장 협상의 불확실성", "weight": 85, "narrative": "광둥 현장에서는 협정이 전쟁을 끝낼지, 더 큰 충돌을 부를지 불확실했다.", "sources": ["Stephen R. Platt, Imperial Twilight: The Opium War and the End of China's Last Golden Age"] }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "first-opium-war",
+  "title": "제1차 아편전쟁",
+  "period": [1839, 1842],
+  "start": "1839-06",
+  "end": "1842-08",
+  "bounds": [
+    [112.8, 21.8],
+    [122.6, 32.6]
+  ],
+  "perspectives": [
+    { "code": "qing", "label": "청 조정", "color": "#d94a4a" },
+    { "code": "british", "label": "영국", "color": "#4a90d9" },
+    { "code": "canton", "label": "광둥 현장", "color": "#3eb489" }
+  ]
+}

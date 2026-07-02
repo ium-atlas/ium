@@ -1,0 +1,12 @@
+{
+  "id": "lin-destroys-opium",
+  "name": "임칙서의 아편 폐기",
+  "type": "political",
+  "date": "1839-06",
+  "location": { "lng": 113.65, "lat": 22.82 },
+  "perspectives": {
+    "qing": { "name": "도덕·재정 위기의 단속", "weight": 100, "narrative": "임칙서의 아편 폐기는 청 조정이 아편 유통을 국가 기강과 은 유출 문제로 본 대응이었다.", "sources": ["Julia Lovell, The Opium War: Drugs, Dreams and the Making of China", "Stephen R. Platt, Imperial Twilight: The Opium War and the End of China's Last Golden Age"] },
+    "british": { "name": "재산권 침해와 무역 위기", "weight": 95, "narrative": "영국 상인과 정부는 압수와 폐기를 무역권과 재산권 침해로 해석했다. 이 사건은 군사 개입 명분으로 커졌다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "John K. Fairbank, Trade and Diplomacy on the China Coast"] },
+    "canton": { "name": "광둥 무역 현장의 긴장", "weight": 95, "narrative": "광둥 현장에서는 외국 상관, 행상, 지방 관리, 주민이 모두 봉쇄와 압수의 긴장을 직접 겪었다.", "sources": ["Stephen R. Platt, Imperial Twilight: The Opium War and the End of China's Last Golden Age", "Julia Lovell, The Opium War: Drugs, Dreams and the Making of China"] }
+  }
+}

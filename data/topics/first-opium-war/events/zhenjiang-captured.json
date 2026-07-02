@@ -1,0 +1,12 @@
+{
+  "id": "zhenjiang-captured",
+  "name": "전장 함락",
+  "type": "siege",
+  "date": "1842-07",
+  "location": { "lng": 119.45, "lat": 32.2 },
+  "perspectives": {
+    "qing": { "name": "대운하 요충지 상실", "weight": 100, "narrative": "전장 함락은 장강과 대운하 교통을 위협해 청 조정에 결정적 압박을 가했다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "Jonathan D. Spence, The Search for Modern China"] },
+    "british": { "name": "난징 압박의 완성", "weight": 100, "narrative": "영국군은 전장을 장악해 난징으로 향하는 전략적 문을 열었다. 협상은 더 이상 광둥 문제에 머물지 않았다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "John K. Fairbank, Trade and Diplomacy on the China Coast"] },
+    "canton": { "name": "먼 전선의 결정타", "weight": 55, "narrative": "광둥에서 시작된 전쟁은 전장 함락으로 제국의 물류와 수도권 안보까지 흔드는 전쟁이 됐다.", "sources": ["Julia Lovell, The Opium War: Drugs, Dreams and the Making of China"] }
+  }
+}

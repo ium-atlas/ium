@@ -1,0 +1,12 @@
+{
+  "id": "canton-ransom",
+  "name": "광저우 배상 협상",
+  "type": "treaty",
+  "date": "1841-05",
+  "location": { "lng": 113.2644, "lat": 23.1291 },
+  "perspectives": {
+    "qing": { "name": "도시 보전을 위한 양보", "weight": 90, "narrative": "청 관리들은 광저우 점령을 피하기 위해 배상과 협상을 선택했다. 이는 체면과 실리 사이의 고통스러운 절충이었다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "Jonathan D. Spence, The Search for Modern China"] },
+    "british": { "name": "군사 압박의 배상화", "weight": 95, "narrative": "영국군은 광저우 압박을 배상금과 협상 성과로 전환했다. 군사력은 무역 외교의 직접 수단이 됐다.", "sources": ["John K. Fairbank, Trade and Diplomacy on the China Coast", "Peter Ward Fay, The Opium War, 1840-1842"] },
+    "canton": { "name": "도시 주민의 부담", "weight": 100, "narrative": "광저우 현장에서는 배상금 부담, 치안 불안, 외국군 위협이 모두 지역 사회에 전가됐다.", "sources": ["Stephen R. Platt, Imperial Twilight: The Opium War and the End of China's Last Golden Age", "Julia Lovell, The Opium War: Drugs, Dreams and the Making of China"] }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "kowloon-skirmish",
+  "name": "구룡 충돌",
+  "type": "battle",
+  "date": "1839-09",
+  "location": { "lng": 114.17, "lat": 22.32 },
+  "perspectives": {
+    "qing": { "name": "해안 질서 방어", "weight": 85, "narrative": "청 당국에게 구룡 일대 충돌은 외국 선박과 상인을 통제해야 하는 해안 치안 문제였다.", "sources": ["Julia Lovell, The Opium War: Drugs, Dreams and the Making of China", "Jonathan D. Spence, The Search for Modern China"] },
+    "british": { "name": "교전 확대의 전조", "weight": 90, "narrative": "영국 측에는 구룡 충돌이 광둥 봉쇄와 외교 실패가 군사 충돌로 넘어가는 신호였다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "John K. Fairbank, Trade and Diplomacy on the China Coast"] },
+    "canton": { "name": "항구 주변의 불안", "weight": 80, "narrative": "광둥과 홍콩 주변 주민에게 충돌은 무역 분쟁이 해안의 실제 전투와 생계 불안으로 번지는 과정이었다.", "sources": ["Stephen R. Platt, Imperial Twilight: The Opium War and the End of China's Last Golden Age"] }
+  }
+}
