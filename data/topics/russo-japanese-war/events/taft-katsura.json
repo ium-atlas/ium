@@ -1,0 +1,13 @@
+{
+  "id": "taft-katsura",
+  "name": "가쓰라-태프트 대화",
+  "type": "political",
+  "date": "1905-07",
+  "location": { "lng": 139.6917, "lat": 35.6895 },
+  "perspectives": {
+    "japan": { "name": "조선 우위의 외교 확인", "weight": 100, "narrative": "가쓰라-태프트 대화는 일본이 조선에서 가진 우월적 지위를 미국이 사실상 인정하는 배경으로 작용했다. 전쟁 승리는 외교적 승인망으로 이어졌다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "russia": { "name": "전후 협상 고립", "weight": 45, "narrative": "러시아와 직접 맺은 조약은 아니었지만, 일본의 조선 우위가 다른 강대국과 조율되는 흐름은 러시아의 극동 영향력 축소를 보여 주었다.", "sources": ["Ian Nish, The Origins of the Russo-Japanese War", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] },
+    "korea": { "name": "당사자 없는 승인", "weight": 100, "narrative": "대한제국은 조선 문제를 둘러싼 강대국 대화의 당사자가 아니었다. 일본의 보호권 주장이 국제적으로 용인되는 과정에서 한국의 외교 공간은 더 좁아졌다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "동아시아 권익 교환의 주변화", "weight": 35, "narrative": "청 역시 만주와 조선을 둘러싼 강대국 협상에서 주변화됐다. 러일전쟁 이후 동아시아 질서는 당사국보다 제국 간 승인과 교환으로 움직였다.", "sources": ["Ian Nish, The Origins of the Russo-Japanese War", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "treaty-portsmouth",
+  "name": "포츠머스 조약",
+  "type": "treaty",
+  "date": "1905-09",
+  "location": { "lng": -70.7626, "lat": 43.0718 },
+  "perspectives": {
+    "japan": { "name": "승리와 불만이 겹친 강화", "weight": 100, "narrative": "포츠머스 조약은 일본의 조선 우위, 남만주 권익, 사할린 남부 등을 인정받게 했다. 그러나 배상금 부재는 일본 국내 불만도 불러왔다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] },
+    "russia": { "name": "패전 속 손실 제한", "weight": 95, "narrative": "러시아는 패배를 인정하되 영토와 배상 문제에서 손실을 제한하려 했다. 조약은 극동 후퇴와 국내 위기 속에서 타협한 결과였다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] },
+    "korea": { "name": "보호국화의 외교적 길", "weight": 100, "narrative": "포츠머스 조약은 일본의 조선 우위를 국제적으로 더 분명하게 만들었다. 대한제국의 외교권 박탈은 곧 현실의 다음 단계로 다가왔다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "만주 권익의 재배분", "weight": 100, "narrative": "조약은 남만주 철도와 랴오둥 반도 조차권 등 청 영토 안의 권익을 러시아에서 일본으로 넘기는 효과를 냈다. 청은 자국 영토의 재편을 외부 조약으로 맞았다.", "sources": ["Ian Nish, The Origins of the Russo-Japanese War", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] }
+  }
+}

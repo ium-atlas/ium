@@ -1,0 +1,13 @@
+{
+  "id": "eulsa-treaty",
+  "name": "을사늑약",
+  "type": "treaty",
+  "date": "1905-11",
+  "location": { "lng": 126.978, "lat": 37.5665 },
+  "perspectives": {
+    "japan": { "name": "보호국 체제의 확립", "weight": 100, "narrative": "일본은 을사늑약을 통해 대한제국의 외교권을 장악하고 통감부 설치로 보호국 체제를 제도화했다. 러일전쟁 승리는 식민지화의 발판이 됐다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "russia": { "name": "조선 영향력 상실의 확인", "weight": 60, "narrative": "러시아는 포츠머스 조약 뒤 조선 문제에서 일본의 우위를 사실상 받아들인 상태였다. 을사늑약은 러시아가 조선에서 밀려난 결과를 확인시켰다.", "sources": ["Ian Nish, The Origins of the Russo-Japanese War", "J. N. Westwood, Russia Against Japan, 1904-05"] },
+    "korea": { "name": "외교권 박탈", "weight": 100, "narrative": "대한제국에게 을사늑약은 강압 속에서 외교권을 빼앗긴 사건이었다. 전쟁의 결말은 독립국가의 외교적 생존을 무너뜨리는 방향으로 이어졌다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "구질서 붕괴의 확인", "weight": 35, "narrative": "청의 관점에서 조선의 보호국화는 청일전쟁 이후 동아시아 구질서 붕괴가 되돌릴 수 없게 되었음을 보여 주었다. 일본은 조선과 남만주 모두에서 영향력을 넓혔다.", "sources": ["Ian Nish, The Origins of the Russo-Japanese War", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] }
+  }
+}

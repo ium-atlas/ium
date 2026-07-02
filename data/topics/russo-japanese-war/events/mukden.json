@@ -1,0 +1,13 @@
+{
+  "id": "mukden",
+  "name": "봉천 전투",
+  "type": "battle",
+  "date": "1905-03",
+  "location": { "lng": 123.4315, "lat": 41.8057 },
+  "perspectives": {
+    "japan": { "name": "만주 전선의 결정적 압박", "weight": 100, "narrative": "봉천 전투는 일본군이 만주 전선에서 러시아군을 크게 밀어낸 대규모 육상전이었다. 승리에도 일본의 인적·재정적 소모는 한계에 가까웠다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] },
+    "russia": { "name": "대후퇴와 전쟁 피로", "weight": 100, "narrative": "러시아군은 봉천에서 후퇴하며 극동 전쟁을 결정적으로 반전시키기 어려워졌다. 패배는 국내 혁명 상황과 전쟁 피로를 더 악화시켰다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] },
+    "korea": { "name": "승전 뒤 조선 처리의 그림자", "weight": 60, "narrative": "봉천의 결과는 일본이 전후 협상에서 조선에 대한 우위를 주장할 여지를 키웠다. 대한제국의 운명은 만주 전장의 승패와 분리되지 않았다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "성경 장군 관할지의 전장화", "weight": 100, "narrative": "봉천은 청 만주의 중심 도시권이었다. 중립을 표방한 청 영토에서 벌어진 거대 전투는 지역 행정과 주민에게 큰 부담을 남겼다.", "sources": ["Rotem Kowner, Historical Dictionary of the Russo-Japanese War", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] }
+  }
+}

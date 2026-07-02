@@ -1,0 +1,13 @@
+{
+  "id": "liaoyang",
+  "name": "랴오양 전투",
+  "type": "battle",
+  "date": "1904-09",
+  "location": { "lng": 123.237, "lat": 41.267 },
+  "perspectives": {
+    "japan": { "name": "대규모 육전의 전진", "weight": 95, "narrative": "랴오양 전투 뒤 러시아군이 후퇴하면서 일본군은 만주 남부에서 전략적 압박을 이어 갔다. 승리는 컸지만 소모도 커 장기전의 부담이 드러났다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] },
+    "russia": { "name": "후퇴 속 보존 전략", "weight": 95, "narrative": "러시아군은 랴오양에서 큰 전투를 치른 뒤 병력을 완전히 잃지 않고 후퇴했다. 그러나 주도권 상실과 지휘 문제는 더 뚜렷해졌다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] },
+    "korea": { "name": "조선 후방화 심화", "weight": 55, "narrative": "전선이 만주로 깊어질수록 대한제국은 일본군 보급과 병참의 후방으로 더 강하게 묶였다. 전쟁의 중심은 만주였지만 조선의 자율성도 함께 축소됐다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "만주 도시권의 압박", "weight": 90, "narrative": "랴오양 주변의 전투는 청의 만주 도시와 철도망이 외국 군대의 작전 공간으로 변했음을 보여 준다. 지역 사회는 중립국 영토 안의 전쟁을 감당해야 했다.", "sources": ["Rotem Kowner, Historical Dictionary of the Russo-Japanese War", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] }
+  }
+}
