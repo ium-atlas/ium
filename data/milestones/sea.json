@@ -1,5 +1,51 @@
 [
   {
+    "range": [-1000, -500],
+    "label": "반 논 왓 후기 청동기 사회",
+    "note": "후기 청동기 매장과 사회 위계의 장기 전개",
+    "sources": [
+      "Charles Higham, The Bronze Age of Southeast Asia",
+      "Charles Higham and Rachanie Thosarat, Prehistoric Thailand: From Early Settlement to Sukhothai"
+    ]
+  },
+  {
+    "range": [-1000, -500],
+    "label": "반치앙 금속기·토기 전통",
+    "note": "정확한 단일 연도보다 장기 문화 전통으로 처리",
+    "sources": [
+      "Charles Higham, The Bronze Age of Southeast Asia",
+      "Charles Higham and Rachanie Thosarat, Prehistoric Thailand: From Early Settlement to Sukhothai"
+    ]
+  },
+  {
+    "range": [-1000, -500],
+    "label": "사후인 문화권 형성",
+    "note": "베트남 중부 연안의 철기 전환 전후 문화권",
+    "sources": [
+      "Ian Glover and Peter Bellwood (eds.), Southeast Asia: From Prehistory to History",
+      "Peter Bellwood, Prehistory of the Indo-Malaysian Archipelago"
+    ]
+  },
+  {
+    "range": [-700, -500],
+    "label": "동선 청동기 전통 전개",
+    "note": "홍강 유역 청동기 전통의 초기 전개",
+    "sources": [
+      "Ian Glover and Peter Bellwood (eds.), Southeast Asia: From Prehistory to History",
+      "Peter Bellwood, Prehistory of the Indo-Malaysian Archipelago"
+    ]
+  },
+  {
+    "year": -500,
+    "label": "대륙 동남아 철기 전환",
+    "note": "기원전 500년 무렵 이후 지역별 철기 전환과 사회 복합화",
+    "sources": [
+      "Charles Higham, Early Cultures of Mainland Southeast Asia",
+      "Ian Glover and Peter Bellwood (eds.), Southeast Asia: From Prehistory to History",
+      "Miriam T. Stark (ed.), Archaeology of Asia"
+    ]
+  },
+  {
     "year": 1019,
     "label": "에어랑가 즉위",
     "sources": ["Cambridge University Press, The Cambridge History of Southeast Asia, Vol. 1: From Early Times to c.1800"]
