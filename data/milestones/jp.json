@@ -1,5 +1,68 @@
 [
   {
+    "range": [-1000, -500],
+    "label": "조몬 말기 지역 문화권",
+    "note": "열도 각지의 조몬 말기 사회를 장기 문화 단계로 처리",
+    "sources": [
+      "Junko Habu, Ancient Jomon of Japan",
+      "C. Melvin Aikens and Takayasu Higuchi, Prehistory of Japan"
+    ]
+  },
+  {
+    "range": [-900, -500],
+    "label": "북부 규슈 야요이 전환",
+    "note": "야요이 시작 연대는 편년과 지역에 따라 차이가 있음",
+    "sources": [
+      "Koji Mizoguchi, The Archaeology of Japan: From the Earliest Rice Farming Villages to the Rise of the State",
+      "Cambridge University Press, The Cambridge History of Japan, Vol. 1: Ancient Japan"
+    ]
+  },
+  {
+    "range": [-800, -500],
+    "label": "이타즈케 수전 농경 취락",
+    "note": "초기 수전 농경과 취락 형성을 범위형으로 처리",
+    "sources": [
+      "Koji Mizoguchi, The Archaeology of Japan: From the Earliest Rice Farming Villages to the Rise of the State",
+      "C. Melvin Aikens and Takayasu Higuchi, Prehistory of Japan"
+    ]
+  },
+  {
+    "range": [-800, -500],
+    "label": "유스 저지대 벼농사",
+    "note": "북부 규슈 저지대 농경 확산의 일부로 처리",
+    "sources": [
+      "Koji Mizoguchi, The Archaeology of Japan: From the Earliest Rice Farming Villages to the Rise of the State",
+      "Cambridge University Press, The Cambridge History of Japan, Vol. 1: Ancient Japan"
+    ]
+  },
+  {
+    "range": [-700, -500],
+    "label": "서일본 야요이 문화 확산",
+    "note": "수전 농경·토기 양식·취락 변화의 지역 확산",
+    "sources": [
+      "Mark J. Hudson, Ruins of Identity: Ethnogenesis in the Japanese Islands",
+      "Koji Mizoguchi, The Archaeology of Japan: From the Earliest Rice Farming Villages to the Rise of the State"
+    ]
+  },
+  {
+    "range": [-600, -500],
+    "label": "초기 환호 취락 성장",
+    "note": "농경 공동체와 방어·경계 시설의 성장",
+    "sources": [
+      "Koji Mizoguchi, The Archaeology of Japan: From the Earliest Rice Farming Villages to the Rise of the State",
+      "Cambridge University Press, The Cambridge History of Japan, Vol. 1: Ancient Japan"
+    ]
+  },
+  {
+    "year": -500,
+    "label": "긴키 야요이 전환 시작",
+    "note": "기원전 5세기 전후의 지역 전환으로 보수 표기",
+    "sources": [
+      "Mark J. Hudson, Ruins of Identity: Ethnogenesis in the Japanese Islands",
+      "Cambridge University Press, The Cambridge History of Japan, Vol. 1: Ancient Japan"
+    ]
+  },
+  {
     "year": 1016,
     "label": "후지와라 미치나가 섭정",
     "sources": ["Cambridge University Press, The Cambridge History of Japan, Vol. 2: Heian Japan"]
