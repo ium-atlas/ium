@@ -1,0 +1,39 @@
+{
+  "id": "libya-air-campaign-begins",
+  "name": "리비아 국제 군사개입 개시",
+  "type": "battle",
+  "date": "2011-03",
+  "location": {
+    "lng": 13.19,
+    "lat": 32.89
+  },
+  "perspectives": {
+    "international": {
+      "name": "공습으로 바뀐 내전 균형",
+      "weight": 100,
+      "narrative": "서방과 나토 주도의 공습은 카다피 정권군의 진격을 억제하고 반군의 생존 공간을 넓혔다. 개입은 보호와 정권 교체 논쟁을 동시에 낳았다.",
+      "sources": [
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    },
+    "regimes": {
+      "name": "외부 공습을 받은 정권",
+      "weight": 90,
+      "narrative": "카다피 정권은 국제 공습 속에서 수도와 주요 군사 거점을 방어해야 했다. 내전은 국내 반란을 넘어 국제화된 전쟁이 됐다.",
+      "sources": [
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    },
+    "civilians": {
+      "name": "보호와 전쟁의 양면",
+      "weight": 80,
+      "narrative": "리비아 민간인은 정권군, 반군, 공습이 겹치는 전쟁 환경 속에 놓였다. 보호 명분의 개입은 민간인 안전을 둘러싼 어려운 질문을 남겼다.",
+      "sources": [
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    }
+  }
+}

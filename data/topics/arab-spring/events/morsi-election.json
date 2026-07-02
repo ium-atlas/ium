@@ -1,0 +1,39 @@
+{
+  "id": "morsi-election",
+  "name": "무함마드 무르시 당선",
+  "type": "political",
+  "date": "2012-06",
+  "location": {
+    "lng": 31.24,
+    "lat": 30.04
+  },
+  "perspectives": {
+    "islamists": {
+      "name": "대통령직에 오른 무슬림형제단",
+      "weight": 100,
+      "narrative": "무함마드 무르시의 당선은 무슬림형제단이 이집트 국가권력의 중심에 들어간 순간이었다. 그러나 권력 장악은 곧 군, 사법부, 세속 세력과의 갈등을 동반했다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Steven A. Cook, The Struggle for Egypt: From Nasser to Tahrir Square"
+      ]
+    },
+    "militaries": {
+      "name": "민간 대통령과 군의 공존",
+      "weight": 85,
+      "narrative": "무르시 당선은 군정에서 민간 대통령으로의 전환처럼 보였지만 군의 자율성과 정치적 영향력은 계속 남았다. 권력 이양은 완결된 민주화가 아니었다.",
+      "sources": [
+        "Steven A. Cook, The Struggle for Egypt: From Nasser to Tahrir Square",
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East"
+      ]
+    },
+    "civilians": {
+      "name": "선거 이후의 기대와 불신",
+      "weight": 80,
+      "narrative": "이집트 시민들은 선거를 통해 새 정치 질서를 기대했지만 경제난과 제도 갈등, 치안 불안은 계속됐다. 혁명 이후의 국가는 아직 방향이 정해지지 않았다.",
+      "sources": [
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    }
+  }
+}

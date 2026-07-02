@@ -1,0 +1,39 @@
+{
+  "id": "sanaa-change-square",
+  "name": "사나 변화광장 시위",
+  "type": "movement",
+  "date": "2011-03",
+  "location": {
+    "lng": 44.21,
+    "lat": 15.35
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "장기 집권 반대의 광장",
+      "weight": 100,
+      "narrative": "예멘의 시위대는 사나 변화광장을 중심으로 살레 대통령의 장기 집권과 부패에 항의했다. 부족, 정당, 청년 세력이 복잡하게 얽힌 전환이 시작됐다.",
+      "sources": [
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    },
+    "regimes": {
+      "name": "분열된 통치 연합",
+      "weight": 90,
+      "narrative": "살레 정권은 군, 부족, 여당 네트워크의 균열 속에서 시위를 상대했다. 정권 내부 분열은 예멘 전환을 더 불안정하게 만들었다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising"
+      ]
+    },
+    "regional": {
+      "name": "걸프 중재의 배경",
+      "weight": 80,
+      "narrative": "예멘 위기는 사우디아라비아와 걸프협력회의가 직접 중재하는 지역 안보 문제가 됐다. 지역 행위자들은 정권 붕괴보다 관리된 이양을 선호했다.",
+      "sources": [
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    }
+  }
+}

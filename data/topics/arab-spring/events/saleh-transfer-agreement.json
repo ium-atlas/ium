@@ -1,0 +1,39 @@
+{
+  "id": "saleh-transfer-agreement",
+  "name": "살레 권력 이양 합의",
+  "type": "treaty",
+  "date": "2011-11",
+  "location": {
+    "lng": 46.71,
+    "lat": 24.71
+  },
+  "perspectives": {
+    "regional": {
+      "name": "걸프협력회의의 관리된 전환",
+      "weight": 100,
+      "narrative": "걸프협력회의 중재로 살레 대통령의 권력 이양 합의가 이루어졌다. 이는 혁명적 단절보다 지역 행위자가 관리한 제한적 전환에 가까웠다.",
+      "sources": [
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    },
+    "regimes": {
+      "name": "체제 네트워크의 잔존",
+      "weight": 85,
+      "narrative": "살레의 퇴진 합의에도 예멘의 군사·부족·정당 네트워크는 그대로 남았다. 전환은 권력 구조의 깊은 개편을 미루었다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising"
+      ]
+    },
+    "protesters": {
+      "name": "광장의 요구와 협상의 간극",
+      "weight": 80,
+      "narrative": "시위대 일부는 합의를 정권 핵심부가 책임을 피하는 절충으로 보았다. 거리의 요구와 엘리트 협상 사이의 간극이 커졌다.",
+      "sources": [
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    }
+  }
+}

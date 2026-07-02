@@ -1,0 +1,39 @@
+{
+  "id": "egypt-parliamentary-election",
+  "name": "이집트 총선",
+  "type": "political",
+  "date": "2011-11",
+  "location": {
+    "lng": 31.24,
+    "lat": 30.04
+  },
+  "perspectives": {
+    "islamists": {
+      "name": "이슬람주의 세력의 선거 승리",
+      "weight": 100,
+      "narrative": "무슬림형제단과 살라피 세력은 총선에서 강한 조직력을 보였다. 거리 항의 이후 제도권 경쟁에서 이슬람주의 세력이 두드러졌다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Steven A. Cook, The Struggle for Egypt: From Nasser to Tahrir Square"
+      ]
+    },
+    "militaries": {
+      "name": "군정 아래의 선거",
+      "weight": 85,
+      "narrative": "총선은 군최고위원회가 권력을 쥔 상태에서 진행됐다. 선거는 대표성을 넓혔지만 군의 정치적 지위를 곧바로 해소하지 못했다.",
+      "sources": [
+        "Steven A. Cook, The Struggle for Egypt: From Nasser to Tahrir Square",
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East"
+      ]
+    },
+    "protesters": {
+      "name": "혁명 세력의 분산",
+      "weight": 75,
+      "narrative": "광장의 시민연합은 선거 정치에서 여러 흐름으로 갈라졌다. 혁명적 에너지를 제도권 권력으로 옮기는 일은 쉽지 않았다.",
+      "sources": [
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring",
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform"
+      ]
+    }
+  }
+}

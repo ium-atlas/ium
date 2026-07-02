@@ -1,0 +1,39 @@
+{
+  "id": "benghazi-uprising",
+  "name": "벵가지 봉기",
+  "type": "movement",
+  "date": "2011-02",
+  "location": {
+    "lng": 20.07,
+    "lat": 32.12
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "지역 봉기에서 내전으로",
+      "weight": 100,
+      "narrative": "벵가지의 항의는 카다피 정권에 대한 공개적 도전으로 커졌고, 곧 무장 충돌과 내전으로 이어졌다. 리비아의 전환은 튀니지·이집트와 다른 길을 걷기 시작했다.",
+      "sources": [
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era",
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East"
+      ]
+    },
+    "regimes": {
+      "name": "카다피 정권의 강경 대응",
+      "weight": 95,
+      "narrative": "카다피 정권은 봉기를 체제 전복 시도로 보고 강경하게 대응했다. 국가기관과 지도자 충성 네트워크는 평화적 전환의 가능성을 빠르게 좁혔다.",
+      "sources": [
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    },
+    "civilians": {
+      "name": "도시 안전의 붕괴",
+      "weight": 85,
+      "narrative": "벵가지 주민은 시위, 무장 충돌, 보복 공포 속에서 급격히 불안정해진 도시 생활을 겪었다. 민간 공간은 전장의 출발점이 됐다.",
+      "sources": [
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era",
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring"
+      ]
+    }
+  }
+}

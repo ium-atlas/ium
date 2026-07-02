@@ -1,0 +1,62 @@
+{
+  "id": "arab-spring",
+  "title": "아랍의 봄",
+  "subtitle": "튀니지에서 이집트, 리비아, 시리아, 예멘으로 번진 2010~2012년 봉기",
+  "period": [
+    2010,
+    2012
+  ],
+  "start": "2010-12",
+  "end": "2012-06",
+  "bounds": [
+    [
+      -74.5,
+      14.5
+    ],
+    [
+      51.5,
+      41.0
+    ]
+  ],
+  "card": [
+    31.24,
+    30.04
+  ],
+  "perspectives": [
+    {
+      "code": "protesters",
+      "label": "시위대·시민운동",
+      "color": "#16a34a"
+    },
+    {
+      "code": "regimes",
+      "label": "기존 정권",
+      "color": "#dc2626"
+    },
+    {
+      "code": "militaries",
+      "label": "군·치안기구",
+      "color": "#475569"
+    },
+    {
+      "code": "islamists",
+      "label": "이슬람주의 세력",
+      "color": "#7c3aed"
+    },
+    {
+      "code": "regional",
+      "label": "걸프·주변국",
+      "color": "#f59e0b"
+    },
+    {
+      "code": "international",
+      "label": "유엔·서방·국제사회",
+      "color": "#2563eb"
+    },
+    {
+      "code": "civilians",
+      "label": "민간인",
+      "color": "#0891b2"
+    }
+  ]
+}
