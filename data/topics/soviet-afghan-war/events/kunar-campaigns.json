@@ -1,0 +1,12 @@
+{
+  "id": "kunar-campaigns",
+  "name": "쿠나르 계곡 작전",
+  "type": "battle",
+  "date": "1980-05",
+  "location": { "lng": 71.15, "lat": 34.85 },
+  "perspectives": {
+    "soviet": { "name": "산악 반군 거점 압박", "weight": 95, "narrative": "쿠나르와 동부 산악 지역 작전은 소련군이 험준한 지형과 분산된 반군 거점을 상대해야 했음을 보여 주었다.", "sources": ["The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] },
+    "mujahideen": { "name": "국경 지형의 활용", "weight": 100, "narrative": "무자헤딘은 산악 지형과 파키스탄 접경 후방을 활용해 소련·정부군 작전을 견뎠다. 전쟁은 선형 전선보다 이동과 은신의 전쟁이었다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001"] },
+    "civilians": { "name": "작전 지역의 피난", "weight": 85, "narrative": "군사작전은 마을 이동, 피난, 농업 생계 붕괴를 낳았다. 민간인은 국가군과 반군 사이에서 생존 전략을 찾아야 했다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Thomas Barfield, Afghanistan: A Cultural and Political History"] }
+  }
+}

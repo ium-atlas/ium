@@ -1,0 +1,14 @@
+{
+  "id": "withdrawal-complete-friendship-bridge",
+  "name": "우정의 다리 철수 완료",
+  "type": "movement",
+  "date": "1989-02",
+  "location": { "lng": 67.43, "lat": 37.21 },
+  "perspectives": {
+    "soviet": { "name": "전쟁의 공식 종결", "weight": 100, "narrative": "마지막 소련군이 우정의 다리를 건너며 소련의 직접 전쟁은 공식적으로 끝났다. 전쟁은 소련 사회와 군 내부에 깊은 상처를 남겼다.", "sources": ["Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89", "Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan"] },
+    "pdpa": { "name": "소련군 없는 생존", "weight": 90, "narrative": "카불 정부는 철수 뒤에도 즉시 무너지지 않았지만, 외부 군사 후견 없이 전쟁을 지속해야 했다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Diego Cordovez and Selig S. Harrison, Out of Afghanistan: The Inside Story of the Soviet Withdrawal"] },
+    "mujahideen": { "name": "점령 종식 이후의 경쟁", "weight": 90, "narrative": "무자헤딘에게 철수 완료는 큰 상징적 승리였지만, 이후 정치 질서를 둘러싼 정파 경쟁을 해결하지는 못했다.", "sources": ["Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001", "Thomas Barfield, Afghanistan: A Cultural and Political History"] },
+    "regional": { "name": "냉전 대리전의 잔여 구조", "weight": 85, "narrative": "소련군이 떠난 뒤에도 미국, 파키스탄, 지역 행위자의 영향력과 무기 흐름은 아프가니스탄 정치에 남았다.", "sources": ["Odd Arne Westad, The Global Cold War: Third World Interventions and the Making of Our Times", "Bruce Riedel, What We Won: America's Secret War in Afghanistan, 1979-89"] },
+    "civilians": { "name": "끝나지 않은 귀환 문제", "weight": 85, "narrative": "철수 완료는 난민과 민간인에게 귀환의 희망을 주었지만, 내전과 파괴된 지역사회는 긴 회복 과제로 남았다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Thomas Barfield, Afghanistan: A Cultural and Political History"] }
+  }
+}

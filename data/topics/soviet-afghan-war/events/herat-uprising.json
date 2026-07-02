@@ -1,0 +1,13 @@
+{
+  "id": "herat-uprising",
+  "name": "헤라트 봉기",
+  "type": "movement",
+  "date": "1979-03",
+  "location": { "lng": 62.20, "lat": 34.35 },
+  "perspectives": {
+    "pdpa": { "name": "혁명 정권의 취약성", "weight": 95, "narrative": "헤라트 봉기는 PDPA 개혁과 강압 통치가 지방 사회에서 거센 반발을 불러왔음을 보여 주었다. 정권은 도시와 군 내부의 충성도까지 의심해야 했다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] },
+    "mujahideen": { "name": "반정권 저항의 확산", "weight": 85, "narrative": "봉기는 다양한 반정권 세력이 무장 저항으로 결집할 수 있음을 보여 주었다. 이후 전쟁은 지역 반란과 이슬람 저항의 결합으로 전개됐다.", "sources": ["Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89", "Thomas Barfield, Afghanistan: A Cultural and Political History"] },
+    "soviet": { "name": "개입 논의의 압박", "weight": 80, "narrative": "소련 지도부는 헤라트 봉기를 보며 PDPA 정권이 자력으로 버티기 어렵다고 판단하기 시작했다. 직접 개입의 비용과 위험도 함께 커졌다.", "sources": ["Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89", "Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan"] },
+    "civilians": { "name": "도시 폭력과 보복의 공포", "weight": 90, "narrative": "헤라트 주민은 봉기, 진압, 보복의 폭력 속에 놓였다. 전쟁 전부터 민간사회는 국가와 반란 사이의 위험을 감당해야 했다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] }
+  }
+}

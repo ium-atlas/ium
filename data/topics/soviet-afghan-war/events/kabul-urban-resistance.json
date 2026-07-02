@@ -1,0 +1,12 @@
+{
+  "id": "kabul-urban-resistance",
+  "name": "카불 도시 저항",
+  "type": "movement",
+  "date": "1980-02",
+  "location": { "lng": 69.17, "lat": 34.53 },
+  "perspectives": {
+    "civilians": { "name": "점령 초기의 도시 불안", "weight": 95, "narrative": "카불의 항의와 저항은 소련 개입 직후 수도 시민사회가 느낀 불안과 반발을 드러냈다. 도시도 전쟁의 후방이 아니라 정치적 전장이 됐다.", "sources": ["Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89", "Thomas Barfield, Afghanistan: A Cultural and Political History"] },
+    "pdpa": { "name": "수도 통치의 시험", "weight": 85, "narrative": "PDPA 정부는 수도의 치안과 행정 통제를 회복해야 했지만, 그 과정은 소련군과 보안기관 의존을 더 키웠다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan"] },
+    "soviet": { "name": "안정화 임무의 확대", "weight": 80, "narrative": "소련군은 정권 방어뿐 아니라 도시 질서 유지에도 끌려 들어갔다. 제한 개입의 경계는 빠르게 흐려졌다.", "sources": ["The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] }
+  }
+}

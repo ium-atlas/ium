@@ -1,0 +1,13 @@
+{
+  "id": "geneva-accords-afghanistan",
+  "name": "아프가니스탄 제네바 협정",
+  "type": "treaty",
+  "date": "1988-04",
+  "location": { "lng": 6.14, "lat": 46.20 },
+  "perspectives": {
+    "regional": { "name": "외교적 철군 틀", "weight": 100, "narrative": "제네바 협정은 아프가니스탄, 파키스탄, 소련, 미국이 얽힌 철군과 불간섭의 외교적 틀을 만들었다.", "sources": ["Diego Cordovez and Selig S. Harrison, Out of Afghanistan: The Inside Story of the Soviet Withdrawal", "Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan"] },
+    "soviet": { "name": "출구 전략의 제도화", "weight": 95, "narrative": "소련은 협정을 통해 장기전에서 빠져나올 국제적 형식을 얻었다. 군사 승리보다 손실 제한과 체면 있는 철군이 목표가 됐다.", "sources": ["Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] },
+    "pdpa": { "name": "철군 이후 생존 문제", "weight": 80, "narrative": "카불 정부에게 협정은 소련군 없는 생존 시험의 시작이었다. 국제 합의가 내전의 즉각 종료를 뜻하지는 않았다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Diego Cordovez and Selig S. Harrison, Out of Afghanistan: The Inside Story of the Soviet Withdrawal"] },
+    "mujahideen": { "name": "협정 밖의 전쟁 주체", "weight": 75, "narrative": "무자헤딘은 전쟁의 핵심 행위자였지만 협정 구조에서 제한적으로만 반영됐다. 철군 뒤 권력투쟁은 계속될 조건을 남겼다.", "sources": ["Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] }
+  }
+}

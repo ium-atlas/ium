@@ -1,0 +1,13 @@
+{
+  "id": "stinger-introduction",
+  "name": "스팅어 미사일 투입",
+  "type": "movement",
+  "date": "1986-09",
+  "location": { "lng": 70.45, "lat": 34.43 },
+  "perspectives": {
+    "us_pakistan": { "name": "지원의 질적 전환", "weight": 100, "narrative": "스팅어 미사일 투입은 미국·파키스탄 지원망이 무자헤딘의 방공 능력을 강화하는 상징적 전환점이었다.", "sources": ["Bruce Riedel, What We Won: America's Secret War in Afghanistan, 1979-89", "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001"] },
+    "mujahideen": { "name": "공중전 균형의 변화", "weight": 95, "narrative": "무자헤딘은 휴대용 방공무기로 소련 항공 전력에 더 큰 비용을 강요할 수 있게 됐다. 산악 게릴라전과 외부 기술 지원이 결합했다.", "sources": ["Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001", "Bruce Riedel, What We Won: America's Secret War in Afghanistan, 1979-89"] },
+    "soviet": { "name": "항공 우위의 비용 증가", "weight": 90, "narrative": "소련군에게 스팅어는 헬리콥터와 수송기의 위험을 키웠다. 전쟁 수행 비용과 병사들의 불안도 커졌다.", "sources": ["The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] },
+    "regional": { "name": "냉전 대리전의 심화", "weight": 85, "narrative": "무기 지원은 아프가니스탄 전쟁을 초강대국과 지역 정보기관이 얽힌 대리전으로 더 깊게 만들었다.", "sources": ["Odd Arne Westad, The Global Cold War: Third World Interventions and the Making of Our Times", "Bruce Riedel, What We Won: America's Secret War in Afghanistan, 1979-89"] }
+  }
+}

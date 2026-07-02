@@ -1,0 +1,13 @@
+{
+  "id": "refugee-crisis-peshawar",
+  "name": "페샤와르 난민·후방 거점",
+  "type": "movement",
+  "date": "1983-01",
+  "location": { "lng": 71.52, "lat": 34.02 },
+  "perspectives": {
+    "civilians": { "name": "대규모 난민화", "weight": 100, "narrative": "전쟁은 수많은 아프가니스탄 주민을 파키스탄 접경 난민 캠프로 밀어냈다. 난민 생활은 전쟁의 가장 긴 사회적 결과 중 하나가 됐다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Thomas Barfield, Afghanistan: A Cultural and Political History"] },
+    "us_pakistan": { "name": "후방 지원망의 형성", "weight": 100, "narrative": "페샤와르는 파키스탄 정보기관, 미국 지원, 아프간 정파가 만나는 후방 거점이 됐다. 무기와 자금, 정치적 승인도 이 경로를 따라 움직였다.", "sources": ["Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001", "Bruce Riedel, What We Won: America's Secret War in Afghanistan, 1979-89"] },
+    "mujahideen": { "name": "망명 정치와 전장 연결", "weight": 90, "narrative": "무자헤딘 정파들은 페샤와르에서 조직과 외부 지원을 확보하며 아프가니스탄 내부 전장과 망명 정치 공간을 연결했다.", "sources": ["Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] },
+    "regional": { "name": "파키스탄의 전략적 깊이", "weight": 85, "narrative": "파키스탄은 난민 수용국이면서 동시에 무자헤딘 지원의 핵심 중개자가 됐다. 전쟁은 국경 너머 지역 안보 문제로 확장됐다.", "sources": ["Bruce Riedel, What We Won: America's Secret War in Afghanistan, 1979-89", "Odd Arne Westad, The Global Cold War: Third World Interventions and the Making of Our Times"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "zhawar-battle",
+  "name": "자와르 전투",
+  "type": "battle",
+  "date": "1986-04",
+  "location": { "lng": 69.87, "lat": 33.34 },
+  "perspectives": {
+    "mujahideen": { "name": "동부 기지 방어", "weight": 100, "narrative": "자와르 일대는 무자헤딘 보급과 상징의 거점이었다. 기지 방어는 국경 후방과 내부 전장을 잇는 능력을 보여 주었다.", "sources": ["Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001", "The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost"] },
+    "soviet": { "name": "기지 파괴 작전의 한계", "weight": 90, "narrative": "소련과 정부군은 동부 반군 기지를 압박했지만, 산악 지형과 국경 후방 지원망을 완전히 끊기 어려웠다.", "sources": ["The Russian General Staff, The Soviet-Afghan War: How a Superpower Fought and Lost", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] },
+    "us_pakistan": { "name": "접경 지원망의 중요성", "weight": 85, "narrative": "자와르 전투는 파키스탄 접경 지원망이 전쟁 지속에 얼마나 중요한지 보여 주었다. 지원은 전술 현장과 전략 계산을 연결했다.", "sources": ["Bruce Riedel, What We Won: America's Secret War in Afghanistan, 1979-89", "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001"] },
+    "civilians": { "name": "접경 지역의 군사화", "weight": 70, "narrative": "기지와 보급로가 집중된 접경 지역 주민은 폭격, 이동 제한, 피난 압력을 겪었다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] }
+  }
+}

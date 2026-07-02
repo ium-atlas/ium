@@ -1,0 +1,13 @@
+{
+  "id": "soviet-withdrawal-begins",
+  "name": "소련군 철수 개시",
+  "type": "movement",
+  "date": "1988-05",
+  "location": { "lng": 70.45, "lat": 34.43 },
+  "perspectives": {
+    "soviet": { "name": "장기전에서의 후퇴", "weight": 100, "narrative": "철수 개시는 소련이 아프가니스탄 전쟁의 군사적 해법을 포기하고 정치적 출구를 택했음을 보여 주었다.", "sources": ["Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan", "Rodric Braithwaite, Afgantsy: The Russians in Afghanistan, 1979-89"] },
+    "pdpa": { "name": "남겨진 정부의 시험", "weight": 90, "narrative": "PDPA 정부는 소련군 철수와 동시에 자체 군사·행정 역량을 증명해야 했다. 나지불라 체제의 생존 전략이 시험대에 올랐다.", "sources": ["Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System", "Artemy M. Kalinovsky, A Long Goodbye: The Soviet Withdrawal from Afghanistan"] },
+    "mujahideen": { "name": "승리 기대의 상승", "weight": 90, "narrative": "무자헤딘은 철수를 외세 점령에 대한 승리로 해석했다. 그러나 다음 국면은 카불 정권과 정파 간 권력투쟁이었다.", "sources": ["Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001", "Thomas Barfield, Afghanistan: A Cultural and Political History"] },
+    "civilians": { "name": "평화 기대와 불안", "weight": 80, "narrative": "민간인과 난민에게 철수는 전쟁이 끝날 수 있다는 기대를 주었지만, 내전 지속 가능성도 뚜렷했다.", "sources": ["Thomas Barfield, Afghanistan: A Cultural and Political History", "Barnett R. Rubin, The Fragmentation of Afghanistan: State Formation and Collapse in the International System"] }
+  }
+}
