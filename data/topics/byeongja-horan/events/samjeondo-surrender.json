@@ -1,0 +1,38 @@
+{
+  "id": "samjeondo-surrender",
+  "name": "삼전도 항복",
+  "type": "treaty",
+  "date": "1637-01",
+  "location": {
+    "lng": 127.104,
+    "lat": 37.511
+  },
+  "perspectives": {
+    "joseon": {
+      "name": "치욕과 생존의 선택",
+      "weight": 100,
+      "narrative": "삼전도 항복은 조선에게 치욕적 기억이자 국가 생존을 위한 강제 선택이었다. 조선은 청에 대한 군신 관계를 받아들이고 외교 질서를 재편해야 했다.",
+      "sources": [
+        "National Institute of Korean History, Annals of the Joseon Dynasty: Injo Sillok",
+        "Na Man'gap, The Diary of 1636: The Second Manchu Invasion of Korea"
+      ]
+    },
+    "qing": {
+      "name": "조선 복속의 제도화",
+      "weight": 100,
+      "narrative": "청에게 삼전도 항복은 조선을 명에서 떼어내고 새 질서에 편입시킨 성과였다. 이는 명 공략을 앞둔 동북 전략의 중요한 안정화였다.",
+      "sources": [
+        "Pamela Kyle Crossley, The Manchus",
+        "Evelyn S. Rawski, Early Modern China and Northeast Asia: Cross-Border Perspectives"
+      ]
+    },
+    "ming": {
+      "name": "조공 질서의 후퇴",
+      "weight": 85,
+      "narrative": "명 관점에서 조선의 항복은 동아시아 조공 질서가 청 중심으로 재편되는 상징적 후퇴였다. 명의 국제적 권위도 타격을 입었다.",
+      "sources": [
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    }
+  }
+}

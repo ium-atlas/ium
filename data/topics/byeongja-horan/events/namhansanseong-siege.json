@@ -1,0 +1,38 @@
+{
+  "id": "namhansanseong-siege",
+  "name": "남한산성 농성",
+  "type": "siege",
+  "date": "1636-12",
+  "location": {
+    "lng": 127.1846,
+    "lat": 37.4787
+  },
+  "perspectives": {
+    "joseon": {
+      "name": "조정 논쟁의 압축",
+      "weight": 100,
+      "narrative": "남한산성 농성은 척화와 주화, 생존과 명분 논쟁이 극도로 압축된 공간이었다. 식량과 군사 여건은 시간이 갈수록 조선에 불리해졌다.",
+      "sources": [
+        "National Institute of Korean History, Annals of the Joseon Dynasty: Injo Sillok",
+        "Na Man'gap, The Diary of 1636: The Second Manchu Invasion of Korea"
+      ]
+    },
+    "qing": {
+      "name": "항복 강제의 포위",
+      "weight": 90,
+      "narrative": "청군은 남한산성을 포위해 조선 국왕을 직접 압박했다. 포위는 조선의 독자 외교 선택을 꺾는 정치적 군사 작전이었다.",
+      "sources": [
+        "Pamela Kyle Crossley, The Manchus",
+        "Evelyn S. Rawski, Early Modern China and Northeast Asia: Cross-Border Perspectives"
+      ]
+    },
+    "ming": {
+      "name": "명분의 마지막 의지처",
+      "weight": 55,
+      "narrative": "명 관점에서 조선의 농성은 대명 의리를 지키려는 상징으로 보일 수 있었지만, 명군 지원이 현실화되기는 어려웠다.",
+      "sources": [
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    }
+  }
+}

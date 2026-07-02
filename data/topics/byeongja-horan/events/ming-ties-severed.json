@@ -1,0 +1,38 @@
+{
+  "id": "ming-ties-severed",
+  "name": "대명 외교 단절 압박",
+  "type": "political",
+  "date": "1637-02",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.5665
+  },
+  "perspectives": {
+    "joseon": {
+      "name": "대명 의리와 현실 외교",
+      "weight": 95,
+      "narrative": "조선은 항복 뒤에도 대명 의리와 대청 현실 외교 사이에서 긴장을 겪었다. 공식 외교 단절 압박은 조선 정치 문화에 깊은 상처를 남겼다.",
+      "sources": [
+        "National Institute of Korean History, Annals of the Joseon Dynasty: Injo Sillok",
+        "Na Man'gap, The Diary of 1636: The Second Manchu Invasion of Korea"
+      ]
+    },
+    "qing": {
+      "name": "명 고립 전략",
+      "weight": 90,
+      "narrative": "청은 조선과 명의 관계를 끊어 명을 외교적으로 고립시키려 했다. 조선 복속은 중원 정복 전 동북 후방을 정리하는 과정이었다.",
+      "sources": [
+        "Pamela Kyle Crossley, The Manchus",
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    },
+    "ming": {
+      "name": "동맹 상실",
+      "weight": 90,
+      "narrative": "명에게 조선의 이탈은 상징적 동맹의 상실이었다. 이는 명청 전환기 동아시아 질서가 청 중심으로 이동하는 한 장면이다.",
+      "sources": [
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    }
+  }
+}

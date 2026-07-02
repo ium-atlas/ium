@@ -1,0 +1,42 @@
+{
+  "id": "byeongja-horan",
+  "title": "병자호란",
+  "subtitle": "1636-1637",
+  "period": [
+    1636,
+    1637
+  ],
+  "start": "1636-05",
+  "end": "1637-02",
+  "bounds": [
+    [
+      123,
+      36.8
+    ],
+    [
+      128,
+      42.2
+    ]
+  ],
+  "card": [
+    126.9,
+    37.7
+  ],
+  "perspectives": [
+    {
+      "code": "joseon",
+      "label": "조선",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "qing",
+      "label": "청",
+      "color": "#d94a4a"
+    },
+    {
+      "code": "ming",
+      "label": "명",
+      "color": "#d9b44a"
+    }
+  ]
+}

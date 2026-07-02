@@ -1,0 +1,38 @@
+{
+  "id": "qing-crosses-yalu",
+  "name": "청군 압록강 도하",
+  "type": "movement",
+  "date": "1636-12",
+  "location": {
+    "lng": 124.531,
+    "lat": 40.199
+  },
+  "perspectives": {
+    "joseon": {
+      "name": "기습 남하의 충격",
+      "weight": 95,
+      "narrative": "청군의 빠른 남하는 조선 방어 계획을 크게 흔들었다. 조정은 산성 방어와 왕실 피란을 급히 선택해야 했다.",
+      "sources": [
+        "National Institute of Korean History, Annals of the Joseon Dynasty: Injo Sillok",
+        "Na Man'gap, The Diary of 1636: The Second Manchu Invasion of Korea"
+      ]
+    },
+    "qing": {
+      "name": "속전 압박",
+      "weight": 100,
+      "narrative": "청군은 장기 공성보다 빠른 기동으로 조선 조정을 압박했다. 이는 조선을 명 전선에서 떼어내려는 전략적 목표와 맞물렸다.",
+      "sources": [
+        "Pamela Kyle Crossley, The Manchus",
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    },
+    "ming": {
+      "name": "동북 완충지대의 붕괴",
+      "weight": 65,
+      "narrative": "명에게 청군의 조선 침공은 동북 완충지대가 흔들리는 사건이었다. 그러나 명은 직접 개입할 여력이 부족했다.",
+      "sources": [
+        "Kenneth M. Swope, The Military Collapse of China's Ming Dynasty, 1618-44"
+      ]
+    }
+  }
+}
