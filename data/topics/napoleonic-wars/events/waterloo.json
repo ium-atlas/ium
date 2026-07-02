@@ -1,0 +1,13 @@
+{
+  "id": "waterloo",
+  "name": "워털루 전투",
+  "type": "battle",
+  "date": "1815-06",
+  "location": { "lng": 4.4, "lat": 50.68 },
+  "perspectives": {
+    "french": { "name": "백일천하의 종결", "weight": 100, "narrative": "워털루 패배는 엘바에서 돌아온 나폴레옹의 백일천하를 끝냈다. 프랑스군은 영국·프로이센 연합군을 돌파하지 못하고 제국 복귀의 가능성을 잃었다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "british": { "name": "웰링턴의 결정적 방어", "weight": 100, "narrative": "영국에게 워털루는 웰링턴이 이끄는 연합군이 나폴레옹을 최종 저지한 전투였다. 영국은 전후 유럽 균형 논의에서 더 강한 발언권을 얻었다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "coalition": { "name": "프로이센 합류와 최종 승리", "weight": 100, "narrative": "프로이센군의 도착은 워털루 전투의 균형을 결정적으로 바꾸었다. 대프랑스 동맹은 나폴레옹의 복귀를 군사적으로 봉쇄했다.", "sources": ["Alexander Mikaberidze, The Napoleonic Wars: A Global History", "Charles Esdaile, Napoleon's Wars: An International History"] },
+    "occupied": { "name": "벨기에 전장의 민간 부담", "weight": 70, "narrative": "벨기에 지역 주민은 다시 한 번 유럽 대군의 이동과 전투를 감당했다. 전후에는 부상병, 매장, 보급 부담이 지역사회에 남았다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] }
+  }
+}

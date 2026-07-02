@@ -1,0 +1,13 @@
+{
+  "id": "continental-system",
+  "name": "베를린 칙령과 대륙 봉쇄",
+  "type": "political",
+  "date": "1806-11",
+  "location": { "lng": 13.4, "lat": 52.52 },
+  "perspectives": {
+    "french": { "name": "경제전으로 영국 압박", "weight": 100, "narrative": "베를린 칙령은 영국 상품과 무역을 대륙에서 차단하려는 나폴레옹의 경제전이었다. 프랑스는 해상 열세를 대륙 통제력으로 보완하려 했다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Michael Broers, Europe Under Napoleon, 1799-1815"] },
+    "british": { "name": "봉쇄에 맞선 해상 봉쇄", "weight": 100, "narrative": "영국은 대륙 봉쇄에 해상 봉쇄와 세계 무역망으로 대응했다. 경제전은 영국을 굴복시키기보다 유럽 전역의 통상 갈등을 키웠다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "coalition": { "name": "동맹국까지 압박한 체제", "weight": 75, "narrative": "프랑스 동맹국과 종속국도 대륙 봉쇄를 지켜야 했고, 이는 러시아 등 동맹 관계에 장기 균열을 만들었다. 경제 질서는 외교 질서의 약점이 됐다.", "sources": ["Alexander Mikaberidze, The Napoleonic Wars: A Global History", "Dominic Lieven, Russia Against Napoleon: The True Story of the Campaigns of War and Peace"] },
+    "occupied": { "name": "밀수와 생계 압박", "weight": 95, "narrative": "항구 도시와 상인, 소비자는 봉쇄와 단속, 밀수의 확대를 겪었다. 프랑스 제국의 경제전은 점령지 민간사회에 세금과 물가, 생계 압박으로 내려왔다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] }
+  }
+}

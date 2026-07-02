@@ -1,0 +1,13 @@
+{
+  "id": "leipzig",
+  "name": "라이프치히 전투",
+  "type": "battle",
+  "date": "1813-10",
+  "location": { "lng": 12.37, "lat": 51.34 },
+  "perspectives": {
+    "french": { "name": "독일 지배의 붕괴", "weight": 100, "narrative": "라이프치히 패배는 프랑스가 독일 지역에서 유지하던 군사·정치 우위를 무너뜨렸다. 나폴레옹은 라인강 서쪽으로 후퇴할 수밖에 없었다.", "sources": ["Alexander Mikaberidze, The Napoleonic Wars: A Global History", "Charles Esdaile, Napoleon's Wars: An International History"] },
+    "british": { "name": "보조금과 동맹 전략의 결실", "weight": 70, "narrative": "영국은 직접 주전장이 아니었지만 대륙 동맹을 재정적으로 뒷받침했다. 라이프치히는 영국의 봉쇄·보조금 전략이 대륙 반격과 만난 결과였다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "coalition": { "name": "결정적 반격", "weight": 100, "narrative": "러시아, 프로이센, 오스트리아 등 동맹군은 라이프치히에서 프랑스군을 압도하며 전쟁 주도권을 잡았다. 제6차 동맹은 프랑스 본토 진격의 길을 열었다.", "sources": ["Alexander Mikaberidze, The Napoleonic Wars: A Global History", "Dominic Lieven, Russia Against Napoleon: The True Story of the Campaigns of War and Peace"] },
+    "occupied": { "name": "전장이 된 독일 도시", "weight": 90, "narrative": "라이프치히 주변 주민은 대규모 병력 이동, 사상자, 징발과 질병을 감당했다. 해방의 언어와 전쟁 피해는 같은 공간에서 겹쳤다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] }
+  }
+}

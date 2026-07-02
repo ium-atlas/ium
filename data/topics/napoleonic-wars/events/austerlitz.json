@@ -1,0 +1,13 @@
+{
+  "id": "austerlitz",
+  "name": "아우스터리츠 전투",
+  "type": "battle",
+  "date": "1805-12",
+  "location": { "lng": 16.76, "lat": 49.14 },
+  "perspectives": {
+    "french": { "name": "대육군의 정점", "weight": 100, "narrative": "아우스터리츠에서 나폴레옹은 오스트리아·러시아 연합군을 격파하며 대육군의 기동과 지휘 능력을 과시했다. 프랑스 제국은 중부유럽 주도권을 크게 넓혔다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "british": { "name": "해상 승리와 대륙 패배의 대비", "weight": 60, "narrative": "영국은 트라팔가 승리에도 불구하고 대륙 동맹이 아우스터리츠에서 무너지는 장면을 보았다. 프랑스를 견제하려면 새 동맹과 장기 재정 지원이 필요했다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "coalition": { "name": "제3차 동맹의 붕괴", "weight": 100, "narrative": "아우스터리츠 패배는 제3차 대프랑스 동맹을 사실상 무너뜨렸고 오스트리아를 강화로 몰았다. 러시아도 후퇴하며 다음 전쟁을 준비해야 했다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Dominic Lieven, Russia Against Napoleon: The True Story of the Campaigns of War and Peace"] },
+    "occupied": { "name": "중부유럽 질서 재편", "weight": 70, "narrative": "전투 뒤 중부유럽의 여러 지역은 프랑스 영향권과 새 위성국 질서에 더 깊이 편입됐다. 주민은 행정 개편과 군사 부담을 함께 맞았다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] }
+  }
+}

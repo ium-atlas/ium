@@ -1,0 +1,19 @@
+{
+  "id": "napoleonic-wars",
+  "title": "나폴레옹 전쟁",
+  "subtitle": "프랑스 제국과 대프랑스 동맹의 유럽 재편",
+  "period": [1803, 1815],
+  "start": "1803-05",
+  "end": "1815-06",
+  "bounds": [
+    [-7.5, 35.5],
+    [38.5, 56.2]
+  ],
+  "card": [10.5, 48.7],
+  "perspectives": [
+    { "code": "french", "label": "프랑스 제국", "color": "#dc2626" },
+    { "code": "british", "label": "영국", "color": "#2563eb" },
+    { "code": "coalition", "label": "대프랑스 동맹", "color": "#7c3aed" },
+    { "code": "occupied", "label": "점령지·민간사회", "color": "#16a34a" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "trafalgar",
+  "name": "트라팔가 해전",
+  "type": "battle",
+  "date": "1805-10",
+  "location": { "lng": -6.25, "lat": 36.18 },
+  "perspectives": {
+    "french": { "name": "영국 침공 구상의 좌절", "weight": 95, "narrative": "트라팔가 해전 패배는 프랑스와 스페인 함대가 영국 해군을 압도하기 어렵다는 사실을 확인시켰다. 나폴레옹의 영국 침공 구상은 현실성을 잃었다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "british": { "name": "해상 우위의 확립", "weight": 100, "narrative": "영국은 트라팔가에서 결정적 해상 우위를 확보했다. 이후 영국은 대륙에 직접 대군을 보내기보다 봉쇄와 보조금, 원정군을 조합하는 전략을 강화했다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "coalition": { "name": "대륙전과 해전의 분리", "weight": 65, "narrative": "대프랑스 동맹에게 영국 해상 우위는 재정과 보급의 버팀목이었다. 그러나 대륙 전장에서 프랑스군을 막는 과제는 여전히 오스트리아와 러시아군에 남았다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "occupied": { "name": "봉쇄와 무역 압박", "weight": 35, "narrative": "해상 우위는 유럽 항구와 상인에게 봉쇄, 밀수, 물가 변동으로 나타났다. 해전의 결과는 바다에서 끝나지 않고 민간 경제를 흔들었다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] }
+  }
+}

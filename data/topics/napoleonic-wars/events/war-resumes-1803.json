@@ -1,0 +1,13 @@
+{
+  "id": "war-resumes-1803",
+  "name": "아미앵 평화 붕괴와 전쟁 재개",
+  "type": "political",
+  "date": "1803-05",
+  "location": { "lng": 2.35, "lat": 48.86 },
+  "perspectives": {
+    "french": { "name": "평화 뒤의 제국 압박", "weight": 90, "narrative": "아미앵 평화가 무너지자 나폴레옹의 프랑스는 다시 영국과 전쟁 상태에 들어갔다. 프랑스는 대륙 지배와 영국 침공 준비를 함께 압박했다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "british": { "name": "안보 불신의 재전쟁", "weight": 100, "narrative": "영국은 프랑스의 유럽 영향력 확대와 몰타 문제를 안보 위협으로 보았다. 전쟁 재개는 해상 봉쇄와 재정 지원을 통한 장기 대결의 출발점이었다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "coalition": { "name": "새 동맹의 전조", "weight": 40, "narrative": "1803년에는 대륙 동맹이 즉시 완성되지 않았지만, 영국-프랑스 전쟁 재개는 오스트리아와 러시아 등 대륙 강국이 다시 계산하게 만든 배경이었다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Michael Broers, Europe Under Napoleon, 1799-1815"] },
+    "occupied": { "name": "전쟁 경제의 귀환", "weight": 35, "narrative": "평화가 짧게 끝나면서 항구와 국경 지역의 민간사회는 징발, 봉쇄, 물가 압박을 다시 맞았다. 전쟁은 외교 사건이 아니라 생활 조건의 변화로 돌아왔다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] }
+  }
+}

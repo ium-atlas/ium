@@ -1,0 +1,13 @@
+{
+  "id": "moscow-retreat",
+  "name": "모스크바 점령 뒤 퇴각",
+  "type": "movement",
+  "date": "1812-10",
+  "location": { "lng": 37.62, "lat": 55.75 },
+  "perspectives": {
+    "french": { "name": "승리처럼 보인 붕괴", "weight": 100, "narrative": "프랑스군은 모스크바에 들어갔지만 러시아의 항복을 얻지 못했다. 보급 부족, 화재, 혹한 속 퇴각은 대육군 붕괴로 이어졌다.", "sources": ["Adam Zamoyski, 1812: Napoleon's Fatal March on Moscow", "Dominic Lieven, Russia Against Napoleon: The True Story of the Campaigns of War and Peace"] },
+    "british": { "name": "프랑스 약화의 전환점", "weight": 60, "narrative": "영국은 러시아 원정 실패를 나폴레옹 체제를 약화시킬 결정적 기회로 보았다. 이후 대륙 동맹을 되살릴 전략적 공간이 넓어졌다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "coalition": { "name": "러시아 전략의 성과", "weight": 100, "narrative": "러시아는 결정적 항복을 피하고 시간과 공간, 보급 파괴를 활용해 프랑스군을 소모시켰다. 모스크바 퇴각은 반프랑스 동맹 재건의 신호가 됐다.", "sources": ["Dominic Lieven, Russia Against Napoleon: The True Story of the Campaigns of War and Peace", "Adam Zamoyski, 1812: Napoleon's Fatal March on Moscow"] },
+    "occupied": { "name": "도시와 농촌의 파괴", "weight": 90, "narrative": "모스크바 화재와 퇴각로의 파괴는 민간사회에도 큰 손실을 남겼다. 병사와 주민 모두 식량, 피난, 약탈, 질병의 위험 속에 놓였다.", "sources": ["Adam Zamoyski, 1812: Napoleon's Fatal March on Moscow", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] }
+  }
+}
