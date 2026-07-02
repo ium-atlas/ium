@@ -1,0 +1,72 @@
+[
+  {
+    "year": 1688,
+    "label": "갈단의 할하 침공",
+    "sources": [
+      "Peter C. Perdue, China Marches West: The Qing Conquest of Central Eurasia",
+      "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire"
+    ]
+  },
+  {
+    "year": 1691,
+    "label": "돌론노르 회맹",
+    "sources": [
+      "Johan Elverskog, Our Great Qing: The Mongols, Buddhism, and the State in Late Imperial China",
+      "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire"
+    ]
+  },
+  {
+    "year": 1696,
+    "label": "자오모도 전투",
+    "sources": [
+      "Peter C. Perdue, China Marches West: The Qing Conquest of Central Eurasia",
+      "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire"
+    ]
+  },
+  {
+    "year": 1727,
+    "label": "캬흐타 조약",
+    "sources": [
+      "Peter C. Perdue, China Marches West: The Qing Conquest of Central Eurasia",
+      "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire"
+    ]
+  },
+  {
+    "year": 1755,
+    "label": "청의 준가르 정복",
+    "sources": [
+      "Peter C. Perdue, China Marches West: The Qing Conquest of Central Eurasia",
+      "James A. Millward, Eurasian Crossroads: A History of Xinjiang"
+    ]
+  },
+  {
+    "range": [1755, 1757],
+    "label": "아무르사나 반란",
+    "sources": [
+      "Peter C. Perdue, China Marches West: The Qing Conquest of Central Eurasia",
+      "James A. Millward, Eurasian Crossroads: A History of Xinjiang"
+    ]
+  },
+  {
+    "year": 1771,
+    "label": "토르구트 귀환",
+    "sources": [
+      "Michael Khodarkovsky, Where Two Worlds Met: The Russian State and the Kalmyk Nomads, 1600-1771",
+      "James A. Millward, Eurasian Crossroads: A History of Xinjiang"
+    ]
+  },
+  {
+    "year": 1864,
+    "label": "타르바가타이 조약",
+    "sources": [
+      "James A. Millward, Eurasian Crossroads: A History of Xinjiang"
+    ]
+  },
+  {
+    "year": 1881,
+    "label": "상트페테르부르크 조약",
+    "sources": [
+      "James A. Millward, Eurasian Crossroads: A History of Xinjiang"
+    ]
+  }
+]
