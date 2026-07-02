@@ -1,0 +1,39 @@
+{
+  "id": "deng-meets-martial-law-troops",
+  "name": "덩샤오핑의 계엄군 치하",
+  "type": "political",
+  "date": "1989-06",
+  "location": {
+    "lng": 116.40,
+    "lat": 39.90
+  },
+  "perspectives": {
+    "hardliners": {
+      "name": "강경 노선의 사후 정당화",
+      "weight": 100,
+      "narrative": "덩샤오핑은 계엄군을 치하하며 진압을 국가 안정과 당 통치 보존의 선택으로 정당화했다. 지도부는 이후 정치 개혁보다 안정과 통제에 무게를 두었다.",
+      "sources": [
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition",
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers"
+      ]
+    },
+    "pla": {
+      "name": "군의 정치적 충성 확인",
+      "weight": 85,
+      "narrative": "계엄군 치하는 인민해방군이 당의 명령을 수행한 조직으로 자리매김하는 정치적 의례였다. 군과 당의 관계는 사건 이후 더 민감한 문제가 됐다.",
+      "sources": [
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    },
+    "reformers": {
+      "name": "개혁파의 퇴조",
+      "weight": 80,
+      "narrative": "자오쯔양 등 완화 노선을 주장한 인물들은 정치적으로 밀려났다. 사건 이후 당내 권력 균형은 강경 안정 노선 쪽으로 이동했다.",
+      "sources": [
+        "Zhao Ziyang, Prisoner of the State: The Secret Journal of Premier Zhao Ziyang",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    }
+  }
+}

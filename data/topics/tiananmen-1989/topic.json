@@ -1,0 +1,57 @@
+{
+  "id": "tiananmen-1989",
+  "title": "천안문 사건",
+  "subtitle": "후야오방 추모에서 6월 유혈 진압과 기억 정치까지",
+  "period": [
+    1989,
+    1989
+  ],
+  "start": "1989-04",
+  "end": "1989-06",
+  "bounds": [
+    [
+      116.20,
+      39.75
+    ],
+    [
+      116.55,
+      40.05
+    ]
+  ],
+  "card": [
+    116.39,
+    39.91
+  ],
+  "perspectives": [
+    {
+      "code": "students",
+      "label": "학생 시위대",
+      "color": "#2563eb"
+    },
+    {
+      "code": "reformers",
+      "label": "당내 개혁파",
+      "color": "#16a34a"
+    },
+    {
+      "code": "hardliners",
+      "label": "당 지도부 강경파",
+      "color": "#dc2626"
+    },
+    {
+      "code": "pla",
+      "label": "인민해방군·무장경찰",
+      "color": "#475569"
+    },
+    {
+      "code": "workers_citizens",
+      "label": "노동자·베이징 시민",
+      "color": "#f59e0b"
+    },
+    {
+      "code": "foreign",
+      "label": "해외 언론·외교·망명자",
+      "color": "#7c3aed"
+    }
+  ]
+}

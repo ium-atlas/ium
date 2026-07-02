@@ -1,0 +1,39 @@
+{
+  "id": "hunger-strike-begins",
+  "name": "학생 단식 농성 시작",
+  "type": "movement",
+  "date": "1989-05",
+  "location": {
+    "lng": 116.39,
+    "lat": 39.91
+  },
+  "perspectives": {
+    "students": {
+      "name": "도덕적 압박의 선택",
+      "weight": 100,
+      "narrative": "학생들은 단식 농성으로 대화와 사설 재평가를 요구했다. 몸을 건 항의는 광장 운동의 도덕적 호소력을 크게 높였다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    },
+    "workers_citizens": {
+      "name": "대중 지지의 확대",
+      "weight": 95,
+      "narrative": "단식 소식은 베이징 시민의 동정과 지원을 불러왔다. 광장 주변에는 학생들을 돕는 시민 네트워크와 더 넓은 참여가 생겨났다.",
+      "sources": [
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    },
+    "reformers": {
+      "name": "대화 압박",
+      "weight": 80,
+      "narrative": "개혁파는 사태 악화를 막기 위해 학생들과의 대화 필요성을 더 강하게 느꼈다. 그러나 지도부 내부 합의는 쉽게 만들어지지 않았다.",
+      "sources": [
+        "Zhao Ziyang, Prisoner of the State: The Secret Journal of Premier Zhao Ziyang",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    }
+  }
+}

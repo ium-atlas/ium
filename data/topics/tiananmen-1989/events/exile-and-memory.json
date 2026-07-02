@@ -1,0 +1,39 @@
+{
+  "id": "exile-and-memory",
+  "name": "체포·망명과 기억 정치",
+  "type": "movement",
+  "date": "1989-06",
+  "location": {
+    "lng": 116.40,
+    "lat": 39.90
+  },
+  "perspectives": {
+    "foreign": {
+      "name": "해외 망명과 증언",
+      "weight": 100,
+      "narrative": "진압 이후 일부 참여자와 지식인은 체포를 피하거나 해외로 망명해 사건의 기억과 증언을 이어갔다. 해외 네트워크는 천안문 기억 정치의 중요한 축이 됐다.",
+      "sources": [
+        "Rowena Xiaoqing He, Tiananmen Exiles: Voices of the Struggle for Democracy in China",
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited"
+      ]
+    },
+    "hardliners": {
+      "name": "검열과 공식 서사의 고착",
+      "weight": 90,
+      "narrative": "중국 당국은 사건의 공개 토론을 제한하고 공식 서사를 관리했다. 검열은 사건을 국내 공론장에서 지우는 장기적 통치 방식이 됐다.",
+      "sources": [
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    },
+    "students": {
+      "name": "참여자의 긴 후유증",
+      "weight": 85,
+      "narrative": "학생 참여자들은 체포, 감시, 경력 단절, 망명이라는 서로 다른 결과를 겪었다. 운동의 기억은 개인 생애와 정치적 정체성에 오래 남았다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Rowena Xiaoqing He, Tiananmen Exiles: Voices of the Struggle for Democracy in China"
+      ]
+    }
+  }
+}

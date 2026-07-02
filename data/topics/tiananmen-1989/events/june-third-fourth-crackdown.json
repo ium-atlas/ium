@@ -1,0 +1,48 @@
+{
+  "id": "june-third-fourth-crackdown",
+  "name": "6월 3~4일 유혈 진압",
+  "type": "massacre",
+  "date": "1989-06",
+  "location": {
+    "lng": 116.37,
+    "lat": 39.91
+  },
+  "perspectives": {
+    "pla": {
+      "name": "무력 진입과 광장 접근",
+      "weight": 100,
+      "narrative": "계엄군은 베이징 주요 진입로와 장안가를 따라 무력으로 진입했다. 시위대와 시민을 향한 발포와 충돌은 사망자 수를 둘러싼 논쟁을 남긴 유혈 진압으로 이어졌다.",
+      "sources": [
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement",
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers"
+      ]
+    },
+    "workers_citizens": {
+      "name": "도로와 동네에서의 피해",
+      "weight": 100,
+      "narrative": "피해는 광장 자체만이 아니라 장안가와 서부 진입로, 주거 지역 주변에서 크게 발생했다. 베이징 시민과 노동자도 진압의 직접 피해자가 됐다.",
+      "sources": [
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement",
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited"
+      ]
+    },
+    "students": {
+      "name": "운동의 폭력적 종결",
+      "weight": 95,
+      "narrative": "학생운동은 군 진입과 광장 해산으로 폭력적으로 끝났다. 생존자와 참여자들은 이후 체포, 침묵, 망명, 기억 투쟁의 길로 흩어졌다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Rowena Xiaoqing He, Tiananmen Exiles: Voices of the Struggle for Democracy in China"
+      ]
+    },
+    "foreign": {
+      "name": "국제적 충격과 제재 논의",
+      "weight": 85,
+      "narrative": "해외 언론과 외교권은 유혈 진압을 중국 개혁의 방향을 바꾼 사건으로 보도하고 대응을 논의했다. 국제 인식은 급격히 악화됐다.",
+      "sources": [
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    }
+  }
+}

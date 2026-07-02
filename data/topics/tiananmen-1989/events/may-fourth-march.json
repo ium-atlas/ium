@@ -1,0 +1,39 @@
+{
+  "id": "may-fourth-march",
+  "name": "5·4 기념 행진",
+  "type": "movement",
+  "date": "1989-05",
+  "location": {
+    "lng": 116.39,
+    "lat": 39.91
+  },
+  "perspectives": {
+    "students": {
+      "name": "애국과 민주 요구의 결합",
+      "weight": 100,
+      "narrative": "학생들은 5·4 운동의 역사적 기억을 빌려 애국과 민주 요구를 결합했다. 행진은 조직화된 학생운동의 규모와 상징성을 보여주었다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Rowena Xiaoqing He, Tiananmen Exiles: Voices of the Struggle for Democracy in China"
+      ]
+    },
+    "workers_citizens": {
+      "name": "공감의 확산",
+      "weight": 80,
+      "narrative": "시민과 노동자들은 물가, 부패, 특권 문제를 학생들의 구호와 연결해 보았다. 운동은 대학 울타리를 넘어 도시 사회로 퍼졌다.",
+      "sources": [
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement",
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited"
+      ]
+    },
+    "foreign": {
+      "name": "해외 언론의 주목 증가",
+      "weight": 65,
+      "narrative": "운동 규모가 커지면서 해외 언론의 관심도 늘었다. 이후 고르바초프 방중을 앞둔 국제 보도 환경은 광장의 영향력을 더 키웠다.",
+      "sources": [
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited",
+        "Rowena Xiaoqing He, Tiananmen Exiles: Voices of the Struggle for Democracy in China"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "goddess-of-democracy",
+  "name": "민주여신상 설치",
+  "type": "culture",
+  "date": "1989-05",
+  "location": {
+    "lng": 116.39,
+    "lat": 39.91
+  },
+  "perspectives": {
+    "students": {
+      "name": "광장의 상징 정치",
+      "weight": 100,
+      "narrative": "학생들은 민주여신상을 세워 광장의 요구를 시각적 상징으로 만들었다. 조형물은 애국, 자유, 민주 요구가 결합된 운동의 이미지를 강화했다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Rowena Xiaoqing He, Tiananmen Exiles: Voices of the Struggle for Democracy in China"
+      ]
+    },
+    "workers_citizens": {
+      "name": "참여와 관람의 중심",
+      "weight": 80,
+      "narrative": "민주여신상은 시민들이 광장 운동을 기억하고 참여하는 시각적 중심이 됐다. 광장은 정치 토론과 상징 생산의 장소가 됐다.",
+      "sources": [
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    },
+    "hardliners": {
+      "name": "권위 도전의 상징",
+      "weight": 75,
+      "narrative": "당 지도부 강경파에게 광장의 상징물은 국가 중심 공간에서 당 권위에 도전하는 장면으로 보였다. 진압 논리는 더 강해졌다.",
+      "sources": [
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    }
+  }
+}

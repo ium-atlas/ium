@@ -1,0 +1,39 @@
+{
+  "id": "gorbachev-visit-beijing",
+  "name": "고르바초프 방중",
+  "type": "political",
+  "date": "1989-05",
+  "location": {
+    "lng": 116.40,
+    "lat": 39.90
+  },
+  "perspectives": {
+    "foreign": {
+      "name": "국제 언론의 집중",
+      "weight": 100,
+      "narrative": "중소 정상화 방문은 해외 언론을 베이징으로 끌어들였고, 광장의 시위는 전 세계에 크게 보도됐다. 국제적 시선은 지도부의 부담을 키웠다.",
+      "sources": [
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    },
+    "students": {
+      "name": "광장의 가시성 확대",
+      "weight": 90,
+      "narrative": "학생들은 정상 외교 일정이 운동의 가시성을 높일 수 있음을 알았다. 광장은 국내 청원 공간이자 국제 보도의 무대가 됐다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    },
+    "hardliners": {
+      "name": "국가 체면과 통제 논리",
+      "weight": 80,
+      "narrative": "강경파는 정상 외교가 시위로 흔들리는 상황을 당과 국가의 권위 문제로 보았다. 국제적 노출은 질서 회복 논리를 강화했다.",
+      "sources": [
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    }
+  }
+}
