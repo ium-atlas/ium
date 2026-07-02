@@ -1,0 +1,13 @@
+{
+  "id": "pyongyang-battle-1894",
+  "name": "평양 전투",
+  "type": "battle",
+  "date": "1894-09",
+  "location": { "lng": 125.75, "lat": 39.03 },
+  "perspectives": {
+    "japan": { "name": "조선 전장의 결정적 승리", "weight": 100, "narrative": "일본군은 평양에서 청군을 격파하며 조선 북부의 주요 거점을 장악했다. 승리는 한반도 전장에서 일본 우위를 사실상 확정했다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "James L. McClain, Japan: A Modern History"] },
+    "qing": { "name": "한반도 방어선 붕괴", "weight": 100, "narrative": "청군에게 평양 패배는 조선에서의 군사 기반이 무너졌음을 뜻했다. 병력은 압록강 너머로 후퇴했고 전쟁은 중국 본토 방어 문제로 옮겨 갔다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "북부 도시의 전장화", "weight": 85, "narrative": "평양 주민과 조선 관료에게 전투는 조선 영토가 청일 양군의 작전 공간으로 완전히 편입됐음을 보여 주었다. 전쟁의 피해와 정치 개입은 동시에 깊어졌다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "일본 승세의 확인", "weight": 50, "narrative": "서구 관찰자들은 평양 승리로 일본군의 조직력과 청군의 취약성을 더 분명히 보았다. 전쟁의 결과가 동아시아 위계 변화를 낳을 가능성이 커졌다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] }
+  }
+}

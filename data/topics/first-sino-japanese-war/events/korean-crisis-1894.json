@@ -1,0 +1,13 @@
+{
+  "id": "korean-crisis-1894",
+  "name": "조선 위기와 청·일 파병",
+  "type": "political",
+  "date": "1894-06",
+  "location": { "lng": 126.98, "lat": 37.57 },
+  "perspectives": {
+    "japan": { "name": "개입의 기회", "weight": 90, "narrative": "일본은 조선 내 동학농민운동과 청군 파병을 조선 문제에 개입할 기회로 보았다. 조선 개혁과 일본의 이익 보호가 군사 행동의 명분으로 결합했다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910"] },
+    "qing": { "name": "종주권 질서의 방어", "weight": 100, "narrative": "청은 조선 정부의 요청과 전통적 종주권 질서를 근거로 병력을 보냈다. 그러나 파병은 일본과의 경쟁을 피하기보다 더 직접적인 충돌로 끌고 갔다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "내란 진압과 주권 압박", "weight": 100, "narrative": "조선 조정은 동학농민운동 진압을 위해 외부 군사 지원에 기대었지만, 청과 일본의 동시 파병은 조선의 외교적 선택지를 좁혔다. 내정 위기는 국제전의 출발점이 됐다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "조약항 안정의 관찰", "weight": 55, "narrative": "서구 열강은 조선 위기가 조약항과 동아시아 통상 질서에 미칠 영향을 주시했다. 아직 직접 군사 개입보다 양국 경쟁의 향방을 관찰하는 단계였다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "James L. McClain, Japan: A Modern History"] }
+  }
+}

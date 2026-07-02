@@ -1,0 +1,13 @@
+{
+  "id": "treaty-of-shimonoseki",
+  "name": "시모노세키 조약",
+  "type": "treaty",
+  "date": "1895-04",
+  "location": { "lng": 130.94, "lat": 33.95 },
+  "perspectives": {
+    "japan": { "name": "승전과 제국 팽창", "weight": 100, "narrative": "시모노세키 조약은 일본에게 배상금, 타이완과 펑후, 랴오둥 할양, 조선 독립 인정을 가져왔다. 일본은 승전을 제국 팽창의 제도적 성과로 바꾸었다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "Marius B. Jansen, The Making of Modern Japan"] },
+    "qing": { "name": "패전의 조약화", "weight": 100, "narrative": "청은 조선에 대한 전통적 지위를 포기하고 영토와 배상금을 내주는 강화 조건을 받아들였다. 조약은 청 제국의 국제적 위신을 크게 손상시켰다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "독립 승인과 새 종속 위험", "weight": 100, "narrative": "조약은 조선이 청의 종주권에서 벗어난 독립국임을 인정했지만, 실제로는 일본의 영향력 확대를 막지 못했다. 조선의 외교적 생존은 더 불안정해졌다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "열강 개입의 조건", "weight": 85, "narrative": "조약의 랴오둥 할양과 배상 조건은 러시아·프랑스·독일 등 열강이 전후 질서에 개입할 명분을 만들었다. 일본의 승리는 곧 열강 외교의 시험대가 됐다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "James L. McClain, Japan: A Modern History"] }
+  }
+}

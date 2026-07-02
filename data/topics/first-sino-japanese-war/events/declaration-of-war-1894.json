@@ -1,0 +1,13 @@
+{
+  "id": "declaration-of-war-1894",
+  "name": "청일 양국 선전포고",
+  "type": "political",
+  "date": "1894-08",
+  "location": { "lng": 139.69, "lat": 35.69 },
+  "perspectives": {
+    "japan": { "name": "전면전의 공식화", "weight": 100, "narrative": "일본은 이미 시작된 군사 충돌을 공식 전쟁으로 전환하며 조선 개혁과 청의 영향력 배제를 내세웠다. 전쟁은 일본의 국가 역량을 시험하는 무대가 됐다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "Marius B. Jansen, The Making of Modern Japan"] },
+    "qing": { "name": "조선 질서 수호의 전쟁", "weight": 100, "narrative": "청은 조선에서의 전통적 지위와 체면을 지키기 위해 일본과의 전쟁을 공식화했다. 그러나 군사·행정 동원은 일본의 속도와 조직력에 뒤처졌다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "주권 밖에서 확정된 전쟁", "weight": 90, "narrative": "전쟁은 조선 문제에서 시작됐지만 청과 일본의 공식 선전포고로 조선의 통제 밖에서 확정됐다. 조선은 전쟁 당사국 사이의 명분과 군사 압박에 끼였다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "국제전으로의 인식", "weight": 60, "narrative": "선전포고는 조선 위기를 공식적인 청일전쟁으로 만들었다. 서구 열강은 통상 이익과 동아시아 균형에 미칠 결과를 더 직접적으로 계산했다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "James L. McClain, Japan: A Modern History"] }
+  }
+}

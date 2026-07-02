@@ -1,0 +1,13 @@
+{
+  "id": "yalu-river-naval-1894",
+  "name": "황해 해전",
+  "type": "battle",
+  "date": "1894-09",
+  "location": { "lng": 124.0, "lat": 39.8 },
+  "perspectives": {
+    "japan": { "name": "제해권 경쟁의 전환", "weight": 95, "narrative": "압록강 하구와 황해의 해전에서 일본 연합함대는 북양함대와 충돌해 해상 주도권을 넓혔다. 이는 이후 랴오둥과 산둥 작전을 가능하게 하는 조건이 됐다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "Marius B. Jansen, The Making of Modern Japan"] },
+    "qing": { "name": "북양함대의 손상", "weight": 100, "narrative": "청의 북양함대는 완전히 사라지지는 않았지만 전투 뒤 작전 능력과 사기가 크게 흔들렸다. 해군 근대화의 한계가 전쟁 속에서 드러났다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "압록강 너머로 밀린 전쟁", "weight": 55, "narrative": "해전은 조선 전장이 압록강과 황해를 넘어 청 본토 방어로 확대되는 흐름을 보여 주었다. 조선은 전쟁의 원인이자 통과 지점으로 남았다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "western": { "name": "근대 해군력의 비교", "weight": 70, "narrative": "서구 열강은 황해 해전을 동아시아 해군 근대화의 실제 시험으로 보았다. 일본의 해군 운용은 국제적 평가를 바꾸는 계기가 됐다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "James L. McClain, Japan: A Modern History"] }
+  }
+}

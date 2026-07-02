@@ -1,0 +1,13 @@
+{
+  "id": "pungdo-battle",
+  "name": "풍도 해전",
+  "type": "battle",
+  "date": "1894-07",
+  "location": { "lng": 126.35, "lat": 36.67 },
+  "perspectives": {
+    "japan": { "name": "해상 선제권 확보", "weight": 100, "narrative": "풍도 해전에서 일본 해군은 조선 해역으로 들어오는 청 함선과 수송을 공격하며 전쟁의 주도권을 잡았다. 해상 우위는 한반도 전장의 보급과 이동을 좌우했다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "James L. McClain, Japan: A Modern History"] },
+    "qing": { "name": "수송로의 충격", "weight": 95, "narrative": "청은 조선에 병력을 보강하려 했지만 풍도 앞바다의 충돌로 수송과 해군 운용의 취약성을 드러냈다. 전쟁은 공식 선전포고 전에 이미 불리하게 시작됐다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "조선 해역의 전쟁화", "weight": 75, "narrative": "조선에게 풍도 해전은 자국 해역이 청일 양국의 전장으로 바뀌는 순간이었다. 내란 진압의 위기는 조선이 통제하기 어려운 국제 군사 충돌로 변했다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "고승호 사건의 국제 논란", "weight": 85, "narrative": "풍도 해전과 고승호 침몰은 서구 선박·선원과 국제법 문제를 불러왔다. 서구 관찰자들은 일본의 해군 행동과 전쟁 명분을 더 면밀히 보게 됐다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "liaodong-campaign-1894",
+  "name": "랴오둥 진격",
+  "type": "movement",
+  "date": "1894-10",
+  "location": { "lng": 121.7, "lat": 39.05 },
+  "perspectives": {
+    "japan": { "name": "중국 본토로의 확대", "weight": 100, "narrative": "일본군은 한반도 승리 뒤 랴오둥반도로 전장을 확대했다. 청의 전략 거점을 직접 압박해 강화 협상의 군사적 조건을 만들려 했다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "qing": { "name": "만주 남부 방어의 위기", "weight": 100, "narrative": "청에게 랴오둥 진격은 조선 문제를 넘어 만주 남부와 보하이 방어가 위협받는 상황이었다. 전쟁은 제국의 핵심 방어권으로 다가왔다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "조선 전장의 뒤쪽화", "weight": 45, "narrative": "전장이 랴오둥으로 옮겨가면서 조선은 주요 결전지에서 후방과 병참 공간으로 바뀌었다. 하지만 일본의 조선 내 영향력은 계속 강화됐다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "만주 권익의 경계", "weight": 65, "narrative": "랴오둥 진격은 러시아를 비롯한 서구 열강이 만주와 보하이만의 전략 균형을 더 민감하게 보게 만들었다. 전후 개입의 씨앗이 여기서 커졌다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] }
+  }
+}

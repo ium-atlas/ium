@@ -1,0 +1,13 @@
+{
+  "id": "triple-intervention",
+  "name": "삼국간섭",
+  "type": "political",
+  "date": "1895-04",
+  "location": { "lng": 139.69, "lat": 35.69 },
+  "perspectives": {
+    "japan": { "name": "승전 뒤의 굴욕", "weight": 100, "narrative": "일본은 러시아·프랑스·독일의 압박으로 랴오둥반도를 반환해야 했다. 승전의 성과가 열강 외교에 제한되면서 일본 내 불만과 대러 경계가 커졌다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "Marius B. Jansen, The Making of Modern Japan"] },
+    "qing": { "name": "열강 압박의 역설적 완충", "weight": 75, "narrative": "청은 삼국간섭 덕분에 랴오둥을 되찾았지만, 이는 자국의 힘보다 열강의 이해관계에 따른 결과였다. 패전 뒤 청의 주권 취약성은 오히려 더 분명해졌다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "열강 경쟁 속의 조선", "weight": 60, "narrative": "삼국간섭은 조선 주변 질서가 일본과 청의 양자 관계를 넘어 러시아 등 열강 경쟁으로 확대됐음을 보여 주었다. 조선의 선택지는 더 복잡해졌다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "러시아 주도 견제", "weight": 100, "narrative": "러시아·프랑스·독일은 일본의 랴오둥 보유가 동아시아 균형을 흔든다고 보았다. 개입은 전후 질서를 열강의 힘으로 다시 조정한 사건이었다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "James L. McClain, Japan: A Modern History"] }
+  }
+}
