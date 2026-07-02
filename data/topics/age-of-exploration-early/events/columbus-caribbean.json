@@ -1,0 +1,48 @@
+{
+  "id": "columbus-caribbean",
+  "name": "콜럼버스의 카리브해 도착",
+  "type": "movement",
+  "date": "1492-10",
+  "location": {
+    "lng": -74.479,
+    "lat": 24.046
+  },
+  "perspectives": {
+    "eu": {
+      "name": "서쪽 항로의 오인과 확장",
+      "weight": 95,
+      "narrative": "콜럼버스의 카리브해 도착은 유럽의 서쪽 항해가 아시아가 아니라 아메리카 세계와 접촉하게 된 사건이었다. 발견이라는 단어보다 접촉과 오인의 확대가 더 정확한 설명이다.",
+      "sources": [
+        "J. H. Parry, The Age of Reconnaissance",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "is": {
+      "name": "인도양과는 다른 축",
+      "weight": 10,
+      "narrative": "카리브해 접촉은 인도양 이슬람권의 직접 사건은 아니었다. 다만 유럽 왕권의 해상 경쟁이 동서 양쪽으로 넓어졌다는 점에서 간접 의미가 있었다.",
+      "sources": [
+        "J. H. Parry, The Age of Reconnaissance",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "sea": {
+      "name": "동남아 교역권 밖의 사건",
+      "weight": 5,
+      "narrative": "동남아시아 항구 사회에는 당장의 영향이 거의 없었다. 그러나 유럽의 세계 항해 경쟁이 장기적으로 향신료 해역까지 이어지는 흐름의 한 축이었다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "am": {
+      "name": "원주민 세계와의 파괴적 접촉",
+      "weight": 100,
+      "narrative": "카리브해 원주민에게 이 도착은 교역보다 정복, 강제 노동, 질병, 인구 붕괴로 이어지는 접촉의 시작이었다. 아메리카 관점의 비중이 가장 크다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    }
+  }
+}

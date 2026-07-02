@@ -1,0 +1,48 @@
+{
+  "id": "dias-cape",
+  "name": "디아스의 희망봉 항로 확인",
+  "type": "movement",
+  "date": "1488-02",
+  "location": {
+    "lng": 18.474,
+    "lat": -34.358
+  },
+  "perspectives": {
+    "eu": {
+      "name": "인도양 항로의 가능성",
+      "weight": 90,
+      "narrative": "바르톨로메우 디아스의 희망봉 통과는 대서양과 인도양이 해상으로 이어진다는 전략적 가능성을 확인했다. 포르투갈의 목표는 우회 항로로 향신료 교역에 접근하는 것이었다.",
+      "sources": [
+        "J. H. Parry, The Age of Reconnaissance",
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825"
+      ]
+    },
+    "is": {
+      "name": "기존 인도양 교역망의 장기 압박",
+      "weight": 45,
+      "narrative": "이 순간 인도양 상인들이 즉각 충격을 받은 것은 아니지만, 희망봉 항로 확인은 무슬림 상인과 홍해·페르시아만 교역로에 대한 유럽의 장기 압박을 예고했다.",
+      "sources": [
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    },
+    "sea": {
+      "name": "아직 먼 변화",
+      "weight": 15,
+      "narrative": "동남아시아 항구들은 아직 포르투갈 선단과 직접 맞닥뜨리지 않았다. 다만 향후 말라카와 향신료 해역으로 이어질 항로의 출발점이 마련됐다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825"
+      ]
+    },
+    "am": {
+      "name": "직접 접촉 전",
+      "weight": 5,
+      "narrative": "아메리카 세계와는 직접 관련이 거의 없었다. 그러나 대서양 항해 기술과 왕실 후원이 확대되는 흐름은 곧 서쪽 항해와도 연결됐다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    }
+  }
+}

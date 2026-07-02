@@ -1,0 +1,33 @@
+{
+  "id": "age-of-exploration-early",
+  "title": "대항해시대 초기 접촉",
+  "period": [1488, 1522],
+  "start": "1488-02",
+  "end": "1522-09",
+  "bounds": [
+    [-82.0, -36.0],
+    [125.0, 43.0]
+  ],
+  "perspectives": [
+    {
+      "code": "eu",
+      "label": "유럽",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "is",
+      "label": "인도양 이슬람권",
+      "color": "#d9b44a"
+    },
+    {
+      "code": "sea",
+      "label": "동남아시아",
+      "color": "#3eb489"
+    },
+    {
+      "code": "am",
+      "label": "아메리카",
+      "color": "#d94a4a"
+    }
+  ]
+}

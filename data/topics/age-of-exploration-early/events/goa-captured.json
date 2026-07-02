@@ -1,0 +1,48 @@
+{
+  "id": "goa-captured",
+  "name": "포르투갈의 고아 점령",
+  "type": "battle",
+  "date": "1510-11",
+  "location": {
+    "lng": 73.8278,
+    "lat": 15.4909
+  },
+  "perspectives": {
+    "eu": {
+      "name": "아시아 거점 국가의 출발",
+      "weight": 95,
+      "narrative": "고아 점령은 포르투갈이 단순 항해자가 아니라 인도양의 영토 거점 보유 세력으로 변하는 계기였다. 이후 고아는 포르투갈 아시아 제국의 핵심이 됐다.",
+      "sources": [
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825",
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700"
+      ]
+    },
+    "is": {
+      "name": "서인도 무슬림 권력의 타격",
+      "weight": 95,
+      "narrative": "고아는 비자푸르 술탄국과 인도양 무슬림 교역망에 연결된 요충지였다. 포르투갈의 점령은 기존 항구 권력과 해상 상업 질서에 군사적 충격을 주었다.",
+      "sources": [
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700",
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825"
+      ]
+    },
+    "sea": {
+      "name": "말라카 이전의 전진 기지",
+      "weight": 55,
+      "narrative": "동남아시아 관점에서 고아는 포르투갈이 말라카와 향신료 해역으로 나아가기 전 확보한 서쪽 전진 기지였다. 인도양과 동남아 교역망을 잇는 군사 기반이 됐다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700"
+      ]
+    },
+    "am": {
+      "name": "대서양 식민화와 다른 전선",
+      "weight": 10,
+      "narrative": "아메리카 세계와 직접 연결되지는 않았지만, 포르투갈 제국이 브라질과 인도양 거점을 동시에 넓혀 갔다는 점에서 같은 팽창 구조에 놓였다.",
+      "sources": [
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    }
+  }
+}

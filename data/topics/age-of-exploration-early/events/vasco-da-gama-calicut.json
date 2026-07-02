@@ -1,0 +1,48 @@
+{
+  "id": "vasco-da-gama-calicut",
+  "name": "바스쿠 다 가마의 캘리컷 도착",
+  "type": "movement",
+  "date": "1498-05",
+  "location": {
+    "lng": 75.7804,
+    "lat": 11.2588
+  },
+  "perspectives": {
+    "eu": {
+      "name": "인도양 직접 진입",
+      "weight": 100,
+      "narrative": "바스쿠 다 가마의 캘리컷 도착은 포르투갈이 희망봉 항로를 통해 인도양 교역권에 직접 들어간 사건이었다. 유럽에게는 향신료 무역 접근의 획기적 돌파구였다.",
+      "sources": [
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    },
+    "is": {
+      "name": "무슬림 상인의 경쟁자 등장",
+      "weight": 95,
+      "narrative": "캘리컷의 기존 교역은 아랍·구자라트 등 무슬림 상인 네트워크와 깊게 연결돼 있었다. 포르투갈의 도착은 무역 경쟁과 폭력적 압박의 시작이 됐다.",
+      "sources": [
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700",
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825"
+      ]
+    },
+    "sea": {
+      "name": "향신료 해역으로 이어질 전조",
+      "weight": 45,
+      "narrative": "캘리컷 도착은 아직 동남아 항구의 직접 사건은 아니었지만, 포르투갈이 곧 말라카와 향신료 교역망으로 진입할 경로를 열었다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700"
+      ]
+    },
+    "am": {
+      "name": "대서양 접촉과 병행",
+      "weight": 10,
+      "narrative": "아메리카 세계와는 직접 관련이 낮았다. 다만 같은 시기 유럽의 대서양과 인도양 팽창이 서로 경쟁하며 전 지구 항로를 넓혔다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    }
+  }
+}

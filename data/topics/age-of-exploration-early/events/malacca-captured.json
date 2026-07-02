@@ -1,0 +1,48 @@
+{
+  "id": "malacca-captured",
+  "name": "포르투갈의 말라카 점령",
+  "type": "siege",
+  "date": "1511-08",
+  "location": {
+    "lng": 102.2501,
+    "lat": 2.1896
+  },
+  "perspectives": {
+    "eu": {
+      "name": "향신료 해역의 관문 장악",
+      "weight": 100,
+      "narrative": "말라카 점령은 포르투갈이 인도양을 넘어 동남아 향신료 교역의 관문에 군사적으로 개입한 사건이었다. 유럽 측에는 해상 제국의 동쪽 확장이었다.",
+      "sources": [
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825",
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700"
+      ]
+    },
+    "is": {
+      "name": "무슬림 상업 네트워크의 압박",
+      "weight": 90,
+      "narrative": "말라카는 무슬림 상인과 말레이 술탄국이 연결된 핵심 항구였다. 포르투갈의 점령은 홍해·구자라트·말레이 세계의 상업 네트워크를 압박했다.",
+      "sources": [
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700",
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680"
+      ]
+    },
+    "sea": {
+      "name": "동남아 교역 질서의 충격",
+      "weight": 100,
+      "narrative": "동남아시아 관점에서 말라카 함락은 지역 교역 질서의 큰 균열이었다. 포르투갈의 요새와 통행 압박은 상인들의 항로와 항구 선택을 바꾸게 했다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825"
+      ]
+    },
+    "am": {
+      "name": "직접 관련 낮음",
+      "weight": 5,
+      "narrative": "아메리카 세계와 직접 접촉한 사건은 아니었다. 그러나 유럽의 동서 해상 팽창이 같은 제국 경쟁 속에서 진행됐다는 간접 의미는 있었다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    }
+  }
+}
