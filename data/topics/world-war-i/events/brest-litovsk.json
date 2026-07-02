@@ -1,0 +1,13 @@
+{
+  "id": "brest-litovsk",
+  "name": "브레스트-리토프스크 조약",
+  "type": "treaty",
+  "date": "1918-03",
+  "location": { "lng": 23.69, "lat": 52.1 },
+  "perspectives": {
+    "russia": { "name": "혁명 정부의 전쟁 이탈", "weight": 100, "narrative": "볼셰비키 정부는 브레스트-리토프스크 조약으로 전쟁에서 이탈했다. 막대한 영토 손실은 감수했지만, 내부 혁명 권력 보존을 우선했다.", "sources": ["David Stevenson, Cataclysm: The First World War as Political Tragedy", "Hew Strachan, The First World War"] },
+    "central": { "name": "동부전선 승리와 마지막 기회", "weight": 100, "narrative": "독일과 동맹국은 러시아 이탈로 동부전선의 부담을 줄였다. 그러나 얻은 병력과 자원을 서부에서 결정적 승리로 바꾸기에는 시간이 촉박했다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "entente": { "name": "서부전선 압박 증가", "weight": 85, "narrative": "러시아 이탈은 협상국에게 독일 병력이 서부로 이동할 수 있다는 위협이었다. 미국 병력이 본격 도착하기 전의 시간 싸움이 중요해졌다.", "sources": ["Hew Strachan, The First World War", "John Keegan, The First World War"] },
+    "civilians": { "name": "동유럽 경계의 재편", "weight": 80, "narrative": "조약은 폴란드, 발트, 우크라이나 등 동유럽 주민의 정치 소속과 점령 현실을 급격히 바꾸었다. 전쟁 이탈은 평화보다 새 불안을 낳았다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] }
+  }
+}

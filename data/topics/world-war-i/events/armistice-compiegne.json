@@ -1,0 +1,14 @@
+{
+  "id": "armistice-compiegne",
+  "name": "콩피에뉴 정전협정",
+  "type": "treaty",
+  "date": "1918-11",
+  "location": { "lng": 2.82, "lat": 49.42 },
+  "perspectives": {
+    "entente": { "name": "전투 중단과 승전", "weight": 100, "narrative": "콩피에뉴 정전협정은 서부전선의 전투를 중단시키고 협상국 승리를 확인했다. 이제 문제는 강화 조건과 전후 질서 설계로 옮겨 갔다.", "sources": ["David Stevenson, Cataclysm: The First World War as Political Tragedy", "Hew Strachan, The First World War"] },
+    "central": { "name": "패전과 국내 붕괴", "weight": 100, "narrative": "독일은 군사 후퇴와 국내 혁명 속에서 정전을 받아들였다. 오스트리아-헝가리와 오스만도 이미 붕괴하거나 전쟁에서 이탈했다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "Eugene Rogan, The Fall of the Ottomans: The Great War in the Middle East"] },
+    "russia": { "name": "승전 밖의 혁명 국가", "weight": 45, "narrative": "러시아는 이미 전쟁에서 이탈해 승전국 협상 바깥에 있었다. 전후 질서는 러시아 내전과 동유럽 경계 문제를 남겼다.", "sources": ["David Stevenson, Cataclysm: The First World War as Political Tragedy", "Jay Winter, The Great War and the Shaping of the 20th Century"] },
+    "ottoman": { "name": "제국 해체의 문턱", "weight": 70, "narrative": "오스만은 정전 이전에 무드로스 휴전으로 전쟁에서 빠졌고, 중동 제국 질서는 해체와 점령의 단계로 들어갔다.", "sources": ["Eugene Rogan, The Fall of the Ottomans: The Great War in the Middle East"] },
+    "civilians": { "name": "끝난 전투, 남은 상처", "weight": 100, "narrative": "정전은 전투의 끝이었지만 전사자, 부상자, 난민, 식량난, 인플루엔자와 같은 전후 고통은 계속됐다. 민간사회는 평화를 복구해야 했다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] }
+  }
+}

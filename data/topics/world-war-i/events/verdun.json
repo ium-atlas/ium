@@ -1,0 +1,13 @@
+{
+  "id": "verdun",
+  "name": "베르됭 전투",
+  "type": "battle",
+  "date": "1916-02",
+  "location": { "lng": 5.39, "lat": 49.16 },
+  "perspectives": {
+    "central": { "name": "프랑스 소모 압박", "weight": 100, "narrative": "독일은 베르됭에서 프랑스군을 소모시키려 했다. 그러나 전투는 독일 자신에게도 막대한 손실을 낳는 장기 소모전이 됐다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "John Keegan, The First World War"] },
+    "entente": { "name": "프랑스 방어 의지의 상징", "weight": 100, "narrative": "프랑스에게 베르됭은 물러설 수 없는 방어전이었다. 전투는 국민적 인내와 희생의 상징이 됐고 서부전선 전체의 소모를 심화했다.", "sources": ["Hew Strachan, The First World War", "John Keegan, The First World War"] },
+    "civilians": { "name": "포화 속 지역사회", "weight": 85, "narrative": "베르됭 주변 마을과 주민은 포격, 피난, 폐허의 현실을 겪었다. 전투의 기억은 병사뿐 아니라 지역사회에도 깊게 남았다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "John Keegan, The First World War"] },
+    "colonial": { "name": "제국 병력의 서부전선", "weight": 45, "narrative": "프랑스 제국 병력도 서부전선의 방어와 보급 체계 안에 포함됐다. 베르됭의 소모전은 유럽 밖 인력 동원의 배경 위에 있었다.", "sources": ["Hew Strachan, The First World War", "Jay Winter, The Great War and the Shaping of the 20th Century"] }
+  }
+}

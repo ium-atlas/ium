@@ -1,0 +1,13 @@
+{
+  "id": "hundred-days-offensive",
+  "name": "백일 공세",
+  "type": "movement",
+  "date": "1918-08",
+  "location": { "lng": 2.3, "lat": 49.89 },
+  "perspectives": {
+    "entente": { "name": "연속 공세와 돌파", "weight": 100, "narrative": "백일 공세에서 협상국은 아미앵 이후 연속 공격으로 독일군을 후퇴시켰다. 영국, 프랑스, 미국과 제국 병력이 함께 전쟁 종결을 압박했다.", "sources": ["Hew Strachan, The First World War", "John Keegan, The First World War"] },
+    "central": { "name": "전선과 후방의 붕괴", "weight": 100, "narrative": "독일군은 더 이상 서부전선의 주도권을 회복하지 못했다. 군사 후퇴와 후방 피로, 동맹국 붕괴가 동시에 진행됐다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "colonial": { "name": "제국 병력의 마지막 공세", "weight": 75, "narrative": "영국과 프랑스 제국 병력은 마지막 공세에도 참여했다. 승리의 비용과 기억은 유럽 밖 여러 사회에도 남았다.", "sources": ["Hew Strachan, The First World War", "Jay Winter, The Great War and the Shaping of the 20th Century"] },
+    "civilians": { "name": "종전 기대와 폐허", "weight": 80, "narrative": "전선이 움직이면서 점령지 주민은 해방의 기대와 전투 피해를 동시에 겪었다. 전쟁이 끝나가도 폐허와 피난의 문제는 남았다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "John Keegan, The First World War"] }
+  }
+}

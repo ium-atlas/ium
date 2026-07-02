@@ -1,0 +1,13 @@
+{
+  "id": "united-states-entry",
+  "name": "미국 참전",
+  "type": "political",
+  "date": "1917-04",
+  "location": { "lng": -77.04, "lat": 38.9 },
+  "perspectives": {
+    "entente": { "name": "새 병력과 자원의 약속", "weight": 100, "narrative": "미국 참전은 협상국에게 막대한 인력, 물자, 금융 지원이 추가될 것임을 뜻했다. 전쟁의 장기 균형은 협상국 쪽으로 기울었다.", "sources": ["David Stevenson, Cataclysm: The First World War as Political Tragedy", "Hew Strachan, The First World War"] },
+    "central": { "name": "무제한 잠수함전의 역효과", "weight": 95, "narrative": "독일은 무제한 잠수함전으로 영국을 굴복시키려 했지만, 미국 참전을 불러오는 전략적 위험을 감수했다. 시간과 보급의 싸움이 더 불리해졌다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "colonial": { "name": "세계 전쟁의 확대", "weight": 55, "narrative": "미국 참전은 전쟁이 유럽과 제국 전선만이 아니라 대서양 전체의 물자와 병력 체계로 확대됐음을 보여 주었다.", "sources": ["Hew Strachan, The First World War", "Jay Winter, The Great War and the Shaping of the 20th Century"] },
+    "civilians": { "name": "민주주의 전쟁의 언어", "weight": 70, "narrative": "미국 정부는 참전을 민주주의와 국제 질서의 문제로 설명했다. 민간사회는 징병, 전시 생산, 선전 속으로 빠르게 동원됐다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] }
+  }
+}

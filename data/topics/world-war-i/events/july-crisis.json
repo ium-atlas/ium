@@ -1,0 +1,13 @@
+{
+  "id": "july-crisis",
+  "name": "7월 위기",
+  "type": "political",
+  "date": "1914-07",
+  "location": { "lng": 16.37, "lat": 48.21 },
+  "perspectives": {
+    "central": { "name": "최후통첩과 독일 보증", "weight": 100, "narrative": "오스트리아-헝가리는 세르비아에 강경 최후통첩을 보냈고, 독일의 지지는 위기 확대를 가능하게 했다. 동맹국의 계산은 제한전보다 대륙전으로 기울었다.", "sources": ["Christopher Clark, The Sleepwalkers: How Europe Went to War in 1914", "Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918"] },
+    "entente": { "name": "동맹 연쇄의 압박", "weight": 90, "narrative": "프랑스와 영국은 러시아, 독일, 오스트리아-헝가리의 동원과 외교 압박이 빠르게 얽히는 것을 보았다. 위기는 외교 조정보다 군사 시간표에 종속됐다.", "sources": ["David Stevenson, Cataclysm: The First World War as Political Tragedy", "Margaret MacMillan, The War That Ended Peace: The Road to 1914"] },
+    "russia": { "name": "동원 결정의 문턱", "weight": 100, "narrative": "러시아는 세르비아를 포기하지 않으면서도 독일과의 전면전을 피하려 했다. 부분 동원과 총동원의 선택은 위기를 돌이키기 어렵게 만들었다.", "sources": ["Christopher Clark, The Sleepwalkers: How Europe Went to War in 1914", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "civilians": { "name": "전쟁이 된 외교", "weight": 70, "narrative": "7월 위기 동안 시민들은 신문, 동원령, 애국 집회를 통해 외교 위기가 전쟁으로 바뀌는 과정을 체감했다. 민간사회는 아직 전쟁의 규모를 알지 못했다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "Margaret MacMillan, The War That Ended Peace: The Road to 1914"] }
+  }
+}

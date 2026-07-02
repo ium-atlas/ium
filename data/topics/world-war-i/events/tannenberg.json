@@ -1,0 +1,13 @@
+{
+  "id": "tannenberg",
+  "name": "타넨베르크 전투",
+  "type": "battle",
+  "date": "1914-08",
+  "location": { "lng": 20.49, "lat": 53.78 },
+  "perspectives": {
+    "central": { "name": "동프로이센 방어 승리", "weight": 100, "narrative": "독일은 타넨베르크에서 러시아군을 크게 격파해 동프로이센 위기를 넘겼다. 승리는 힌덴부르크와 루덴도르프의 군사적 위상을 높였다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "John Keegan, The First World War"] },
+    "russia": { "name": "초기 공세의 재앙", "weight": 100, "narrative": "러시아군은 빠른 동원으로 독일을 압박하려 했지만 지휘와 통신 문제 속에서 큰 손실을 입었다. 동부전선의 부담은 시작부터 무거웠다.", "sources": ["David Stevenson, Cataclysm: The First World War as Political Tragedy", "Hew Strachan, The First World War"] },
+    "entente": { "name": "서부전선 압박 완화의 대가", "weight": 60, "narrative": "러시아의 조기 공세는 독일의 일부 주의를 동쪽으로 돌렸지만, 타넨베르크 패배는 협상국의 동부 기대를 약화시켰다.", "sources": ["Hew Strachan, The First World War", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "civilians": { "name": "동부 변경의 전쟁화", "weight": 55, "narrative": "동프로이센과 폴란드 변경의 주민들은 이동전, 피난, 군사 점령의 불안을 겪었다. 동부전선은 서부와 다른 형태의 민간 피해를 낳았다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "John Keegan, The First World War"] }
+  }
+}

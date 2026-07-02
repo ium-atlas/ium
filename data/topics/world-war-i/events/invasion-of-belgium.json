@@ -1,0 +1,13 @@
+{
+  "id": "invasion-of-belgium",
+  "name": "독일의 벨기에 침공",
+  "type": "movement",
+  "date": "1914-08",
+  "location": { "lng": 5.57, "lat": 50.63 },
+  "perspectives": {
+    "central": { "name": "서부전선 돌파 계획", "weight": 100, "narrative": "독일은 프랑스를 빠르게 제압하기 위해 중립국 벨기에를 통과했다. 전략적 시간표는 국제법과 중립 보장을 밀어냈다.", "sources": ["Holger H. Herwig, The First World War: Germany and Austria-Hungary 1914-1918", "John Keegan, The First World War"] },
+    "entente": { "name": "영국 참전의 명분", "weight": 100, "narrative": "벨기에 침공은 영국이 독일에 선전포고하는 중요한 명분이 됐다. 프랑스와 영국은 서부전선에서 독일 진격을 막아야 했다.", "sources": ["Hew Strachan, The First World War", "David Stevenson, Cataclysm: The First World War as Political Tragedy"] },
+    "civilians": { "name": "점령과 난민", "weight": 100, "narrative": "벨기에 민간인은 침공, 보복, 피난, 점령 행정의 첫 피해자가 됐다. 전쟁은 시작부터 군사 작전과 민간 고통이 분리되지 않았다.", "sources": ["Jay Winter, The Great War and the Shaping of the 20th Century", "John Keegan, The First World War"] },
+    "colonial": { "name": "제국 전쟁의 동원 시작", "weight": 35, "narrative": "영국 참전은 곧 제국 전역의 병력과 자원이 유럽 전쟁에 동원될 수 있음을 뜻했다. 전쟁의 영향은 벨기에 국경을 넘어 제국으로 확장됐다.", "sources": ["Hew Strachan, The First World War", "Jay Winter, The Great War and the Shaping of the 20th Century"] }
+  }
+}
