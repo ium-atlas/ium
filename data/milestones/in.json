@@ -1,5 +1,80 @@
 [
   {
+    "range": [-1000, -600],
+    "label": "후기 베다 시대",
+    "sources": [
+      "Romila Thapar, Early India: From the Origins to AD 1300",
+      "Upinder Singh, A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century"
+    ]
+  },
+  {
+    "range": [-900, -600],
+    "label": "채색회색토기 문화",
+    "sources": [
+      "Upinder Singh, A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century",
+      "Hermann Kulke and Dietmar Rothermund, A History of India"
+    ]
+  },
+  {
+    "year": -700,
+    "label": "자나파다 성장",
+    "sources": [
+      "Romila Thapar, Early India: From the Origins to AD 1300",
+      "Hermann Kulke and Dietmar Rothermund, A History of India"
+    ]
+  },
+  {
+    "range": [-700, -500],
+    "label": "초기 우파니샤드 형성",
+    "sources": [
+      "Patrick Olivelle, The Early Upanishads: Annotated Text and Translation",
+      "Upinder Singh, A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century"
+    ]
+  },
+  {
+    "year": -600,
+    "label": "16대국 시대 전개",
+    "sources": [
+      "Romila Thapar, Early India: From the Origins to AD 1300",
+      "Upinder Singh, A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century"
+    ]
+  },
+  {
+    "year": -563,
+    "label": "고타마 붓다 탄생 전승",
+    "note": "전통 연대이며 학계 추정에는 이견이 있음.",
+    "sources": [
+      "A. L. Basham, The Wonder That Was India",
+      "Johannes Bronkhorst, Greater Magadha: Studies in the Culture of Early India"
+    ]
+  },
+  {
+    "year": -543,
+    "label": "빔비사라 즉위 전승",
+    "note": "전통 연대이며 학계 추정에는 이견이 있음.",
+    "sources": [
+      "Romila Thapar, Early India: From the Origins to AD 1300",
+      "Johannes Bronkhorst, Greater Magadha: Studies in the Culture of Early India"
+    ]
+  },
+  {
+    "year": -540,
+    "label": "마하비라 활동 전승",
+    "note": "전통 연대이며 학계 추정에는 이견이 있음.",
+    "sources": [
+      "A. L. Basham, The Wonder That Was India",
+      "Johannes Bronkhorst, Greater Magadha: Studies in the Culture of Early India"
+    ]
+  },
+  {
+    "year": -518,
+    "label": "아케메네스 인더스 편입",
+    "sources": [
+      "Romila Thapar, Early India: From the Origins to AD 1300",
+      "Upinder Singh, A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century"
+    ]
+  },
+  {
     "year": 1674,
     "label": "시바지 즉위",
     "sources": [
