@@ -1,0 +1,18 @@
+{
+  "id": "thirty-years-war",
+  "title": "30년 전쟁",
+  "period": [1618, 1648],
+  "start": "1618-05",
+  "end": "1648-10",
+  "bounds": [
+    [4.4, 48.0],
+    [16.9, 52.6]
+  ],
+  "perspectives": [
+    { "code": "imperial", "label": "제국·합스부르크", "color": "#dc2626" },
+    { "code": "protestant", "label": "개신교 제후", "color": "#2563eb" },
+    { "code": "swedish", "label": "스웨덴", "color": "#0f766e" },
+    { "code": "french", "label": "프랑스", "color": "#7c3aed" },
+    { "code": "civilians", "label": "민간사회", "color": "#f59e0b" }
+  ]
+}

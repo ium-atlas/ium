@@ -1,0 +1,14 @@
+{
+  "id": "breitenfeld",
+  "name": "브라이텐펠트 전투",
+  "type": "battle",
+  "date": "1631-09",
+  "location": { "lng": 12.43, "lat": 51.39 },
+  "perspectives": {
+    "imperial": { "name": "틸리 군의 대패", "weight": 100, "narrative": "브라이텐펠트에서 제국·가톨릭군은 스웨덴-작센 연합군에 크게 패했다. 황제 측의 북독일 우세는 결정적으로 흔들렸다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "protestant": { "name": "개신교 반격의 시작", "weight": 100, "narrative": "개신교 제후들에게 브라이텐펠트 승리는 황제권과 가톨릭 동맹을 이길 수 있다는 증거였다. 작센의 참전과 함께 전쟁 균형이 바뀌었다.", "sources": ["Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "swedish": { "name": "구스타브 아돌프의 결정적 승리", "weight": 100, "narrative": "스웨덴은 브라이텐펠트에서 전술과 화력 운용의 우위를 과시했다. 구스타브 아돌프는 독일 전쟁의 핵심 행위자로 부상했다.", "sources": ["C. V. Wedgwood, The Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "french": { "name": "반합스부르크 기회의 확대", "weight": 60, "narrative": "프랑스에는 스웨덴 승리가 합스부르크를 견제할 유용한 균형추로 보였다. 보조금 외교와 간접 개입의 효과가 확인됐다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "civilians": { "name": "전선 이동의 확대", "weight": 80, "narrative": "승리 뒤 전선이 독일 내부로 다시 크게 움직이며 민간사회는 새로운 숙영, 징발, 보복의 위험을 맞았다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}

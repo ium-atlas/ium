@@ -1,0 +1,14 @@
+{
+  "id": "white-mountain",
+  "name": "백산 전투",
+  "type": "battle",
+  "date": "1620-11",
+  "location": { "lng": 14.34, "lat": 50.08 },
+  "perspectives": {
+    "imperial": { "name": "보헤미아 반란 진압", "weight": 100, "narrative": "백산 전투의 승리는 황제와 가톨릭 동맹이 보헤미아 반란을 결정적으로 꺾은 사건이었다. 합스부르크 권위 회복과 보복 재편이 이어졌다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "C. V. Wedgwood, The Thirty Years War"] },
+    "protestant": { "name": "보헤미아 명분의 패배", "weight": 100, "narrative": "개신교 제후와 보헤미아 반란 세력에게 백산 패배는 선출 왕 프리드리히의 실험이 무너진 순간이었다. 망명과 재산 몰수가 뒤따랐다.", "sources": ["Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "swedish": { "name": "개입 전 균형 변화", "weight": 25, "narrative": "스웨덴에는 아직 직접 전투가 아니었지만, 제국 안에서 합스부르크가 우세해지는 흐름은 발트 안보와 연결될 수 있었다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "french": { "name": "합스부르크 강화의 우려", "weight": 35, "narrative": "프랑스는 보헤미아 패배를 합스부르크 세력 확대의 일부로 볼 수 있었다. 아직 조심스러운 외교 단계였지만 견제 논리는 더 강해졌다.", "sources": ["Geoffrey Parker (ed.), The Thirty Years' War", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "civilians": { "name": "보복과 몰수의 시작", "weight": 95, "narrative": "전투 뒤 보헤미아 사회는 처형, 재산 몰수, 강제 종교 재편을 겪었다. 전쟁은 전장 승패보다 긴 사회 재편으로 남았다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}

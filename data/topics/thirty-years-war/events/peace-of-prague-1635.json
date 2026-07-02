@@ -1,0 +1,14 @@
+{
+  "id": "peace-of-prague-1635",
+  "name": "프라하 화약",
+  "type": "treaty",
+  "date": "1635-05",
+  "location": { "lng": 14.42, "lat": 50.09 },
+  "perspectives": {
+    "imperial": { "name": "제국 내부 타협", "weight": 100, "narrative": "프라하 화약은 황제와 일부 개신교 제후가 제국 내부 전쟁을 수습하려 한 타협이었다. 황제는 독일 제후들을 외국 세력과 분리하려 했다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648"] },
+    "protestant": { "name": "분열된 개신교 진영", "weight": 90, "narrative": "일부 개신교 제후는 전쟁 피로 속에서 황제와 타협했지만, 다른 세력은 이를 충분한 보장으로 보지 않았다. 개신교 진영은 갈라졌다.", "sources": ["Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "swedish": { "name": "외국군 배제의 위협", "weight": 95, "narrative": "스웨덴에게 프라하 화약은 독일 동맹을 약화시키고 스웨덴군을 외부자로 만들려는 시도였다. 전쟁 지속의 조건이 어려워졌다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "french": { "name": "직접 참전의 전환점", "weight": 95, "narrative": "프라하 화약은 반합스부르크 균형이 무너질 수 있음을 보여 주었고, 프랑스가 더 직접적으로 전쟁에 뛰어드는 배경이 됐다.", "sources": ["Geoffrey Parker (ed.), The Thirty Years' War", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "civilians": { "name": "끝나지 않은 평화", "weight": 80, "narrative": "화약은 일부 지역에 전쟁 종식 기대를 주었지만 외국군과 남은 전선 때문에 민간사회가 곧바로 안정되지는 않았다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "jankau",
+  "name": "얀카우 전투",
+  "type": "battle",
+  "date": "1645-03",
+  "location": { "lng": 14.73, "lat": 49.65 },
+  "perspectives": {
+    "imperial": { "name": "빈을 향한 압박", "weight": 100, "narrative": "얀카우 전투의 패배는 황제권 중심지인 빈을 향한 압박을 크게 키웠다. 제국군은 전쟁 후반의 방어 한계를 드러냈다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "protestant": { "name": "제국 권위 약화 확인", "weight": 70, "narrative": "개신교 제후들은 얀카우 이후 황제가 단독으로 전쟁 질서를 회복하기 어렵다는 점을 더 분명히 보았다. 평화 협상 압력도 커졌다.", "sources": ["Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "swedish": { "name": "독일 전선의 후반 승리", "weight": 100, "narrative": "스웨덴군에게 얀카우 승리는 독일 전쟁 후반에도 여전히 결정적 군사력을 행사할 수 있음을 보여 주었다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "C. V. Wedgwood, The Thirty Years War"] },
+    "french": { "name": "협상 지렛대 강화", "weight": 65, "narrative": "프랑스는 스웨덴의 동부 압박과 자국의 서부 전선을 결합해 합스부르크를 협상으로 몰아넣는 효과를 기대할 수 있었다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "civilians": { "name": "보헤미아 전장의 재소모", "weight": 85, "narrative": "얀카우 주변 보헤미아 지역사회는 다시 대규모 군대 이동과 전투의 피해를 겪었다. 전쟁 말기에도 민간 고통은 줄지 않았다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}

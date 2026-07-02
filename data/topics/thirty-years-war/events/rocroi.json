@@ -1,0 +1,14 @@
+{
+  "id": "rocroi",
+  "name": "로크루아 전투",
+  "type": "battle",
+  "date": "1643-05",
+  "location": { "lng": 4.52, "lat": 49.93 },
+  "perspectives": {
+    "imperial": { "name": "합스부르크권 타격", "weight": 75, "narrative": "로크루아는 직접 제국군보다 스페인 합스부르크군의 패배였지만, 합스부르크 권역 전체의 군사적 위신에 큰 타격을 주었다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "protestant": { "name": "동맹 구도의 변화", "weight": 45, "narrative": "개신교 제후에게 로크루아는 종교 진영보다 프랑스-합스부르크 세력 균형이 전쟁 후반을 주도한다는 신호였다.", "sources": ["Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "swedish": { "name": "반합스부르크 압박의 분담", "weight": 60, "narrative": "스웨덴은 프랑스의 서부 전선 압박 덕분에 독일 전선에서 합스부르크 세력을 분산시킬 수 있었다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "french": { "name": "프랑스 군사 위상의 상승", "weight": 100, "narrative": "로크루아 전투는 프랑스가 스페인 합스부르크의 정예군을 꺾은 상징적 승리였다. 프랑스는 전쟁 후반의 주도 세력으로 부상했다.", "sources": ["Geoffrey Parker (ed.), The Thirty Years' War", "C. V. Wedgwood, The Thirty Years War"] },
+    "civilians": { "name": "국경지대 전쟁의 확대", "weight": 70, "narrative": "프랑스-스페인 전선의 확대는 국경 지역 민간사회에 숙영, 약탈, 세금 부담을 더했다. 전쟁은 독일 내부를 넘어 서유럽 전선으로 번졌다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}

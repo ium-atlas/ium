@@ -1,0 +1,14 @@
+{
+  "id": "battle-of-lutter",
+  "name": "루터 전투",
+  "type": "battle",
+  "date": "1626-08",
+  "location": { "lng": 10.27, "lat": 51.99 },
+  "perspectives": {
+    "imperial": { "name": "덴마크 개입 격퇴", "weight": 100, "narrative": "루터 전투에서 틸리의 제국·가톨릭 동맹군은 덴마크 왕 크리스티안 4세의 개입을 크게 꺾었다. 황제 측은 북독일에서 우위를 넓혔다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "protestant": { "name": "북독일 방어의 실패", "weight": 100, "narrative": "개신교 제후들에게 루터 패배는 덴마크 지원에 기대어 제국 압박을 막으려던 구상이 무너지는 사건이었다.", "sources": ["Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648", "C. V. Wedgwood, The Thirty Years War"] },
+    "swedish": { "name": "발트 개입 명분의 성장", "weight": 45, "narrative": "덴마크 패배는 발트와 북독일의 권력 공백을 스웨덴이 더 심각하게 보게 만들었다. 구스타브 아돌프의 훗날 개입 배경이 커졌다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "french": { "name": "간접 견제의 필요", "weight": 35, "narrative": "프랑스는 합스부르크 우세가 북독일까지 확대되는 상황을 경계했다. 직접 개입 전에도 보조금과 외교적 견제가 중요해졌다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "civilians": { "name": "북독일 전장화", "weight": 85, "narrative": "루터 전투 전후 북독일 지역사회는 군대 이동, 숙영, 징발의 압력을 겪었다. 민간 생활은 전선의 이동과 함께 흔들렸다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}
