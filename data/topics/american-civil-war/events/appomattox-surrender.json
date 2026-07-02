@@ -1,0 +1,14 @@
+{
+  "id": "appomattox-surrender",
+  "name": "애포매톡스 항복",
+  "type": "political",
+  "date": "1865-04",
+  "location": { "lng": -78.8, "lat": 37.38 },
+  "perspectives": {
+    "union": { "name": "연방 승리의 확인", "weight": 100, "narrative": "애포매톡스에서 리가 그랜트에게 항복하면서 남부 주력군의 저항은 사실상 끝났다. 연방 보존이라는 전쟁 목표는 군사적으로 달성됐다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "독립 전쟁의 붕괴", "weight": 100, "narrative": "남부연합에게 애포매톡스는 독립 국가 건설 시도의 결정적 패배였다. 남은 부대들이 차례로 항복하면서 전쟁은 종결 국면으로 들어갔다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "해방의 군사적 조건", "weight": 100, "narrative": "남부 주력군 붕괴는 노예제 회복 가능성을 크게 낮췄다. 해방민은 이제 자유의 법적·사회적 의미를 둘러싼 재건의 문제로 들어갔다.", "sources": ["Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "전쟁 끝과 귀환의 시작", "weight": 90, "narrative": "항복은 가족들에게 전투 종료의 희망을 주었지만, 죽음과 부상, 파괴된 지역사회, 귀환병 문제는 남았다. 평화는 곧 재건의 어려움이었다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877"] },
+    "international": { "name": "남부 승인 문제의 종결", "weight": 70, "narrative": "애포매톡스 항복은 외국 정부가 남부연합을 별도 국가로 인정할 가능성을 끝냈다. 미국은 전후 다시 하나의 외교 주체로 정리됐다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gettysburg-address",
+  "name": "게티즈버그 연설",
+  "type": "culture",
+  "date": "1863-11",
+  "location": { "lng": -77.23, "lat": 39.83 },
+  "perspectives": {
+    "union": { "name": "민주주의 전쟁의 재정의", "weight": 100, "narrative": "링컨은 게티즈버그 연설에서 전쟁 희생을 민주주의와 연방의 새 탄생으로 연결했다. 연방 보존은 자유와 국민주권의 언어로 다시 정의됐다.", "sources": ["Gary W. Gallagher, The Union War", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "confederacy": { "name": "남부 독립 명분과의 충돌", "weight": 55, "narrative": "연설은 남부연합의 주권·독립 명분과 정면으로 충돌하는 북부의 국민적 언어를 제시했다. 전쟁의 이념적 간격은 더 넓어졌다.", "sources": ["James M. McPherson, For Cause and Comrades: Why Men Fought in the Civil War", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "자유의 새 탄생", "weight": 80, "narrative": "연설의 '새로운 자유의 탄생'은 해방 정책과 연결되어 노예제 없는 공화국이라는 전망을 강화했다. 자유는 전쟁의 기억과 결합했다.", "sources": ["Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "죽음의 의미 부여", "weight": 95, "narrative": "전사자 묘지에서 열린 연설은 가족과 지역사회가 겪은 죽음에 정치적 의미를 부여했다. 애도와 국가 목적이 한 장면에 묶였다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "international": { "name": "공화정의 자기 설명", "weight": 45, "narrative": "게티즈버그 연설은 외국의 시선 앞에서도 연방이 전쟁을 민주주의 생존 문제로 설명하는 언어가 됐다. 전쟁은 단순한 영토 분쟁을 넘어섰다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

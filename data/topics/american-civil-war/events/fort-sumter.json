@@ -1,0 +1,14 @@
+{
+  "id": "fort-sumter",
+  "name": "섬터 요새 포격",
+  "type": "siege",
+  "date": "1861-04",
+  "location": { "lng": -79.87, "lat": 32.75 },
+  "perspectives": {
+    "union": { "name": "연방 보존 전쟁의 시작", "weight": 100, "narrative": "섬터 요새 포격은 링컨 정부가 연방 보존을 위해 병력을 소집할 명분을 만들었다. 전쟁은 헌정 위기에서 무장 충돌로 넘어갔다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "분리 독립의 무력화", "weight": 100, "narrative": "남부연합은 찰스턴 항의 연방 요새를 자국 영토 안의 위협으로 보았다. 공격은 새 국가의 주권을 무력으로 입증하려는 선택이었다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "아직 열리지 않은 해방 의제", "weight": 45, "narrative": "전쟁 시작 순간 연방의 공식 목표는 노예해방보다 연방 보존이었다. 그러나 노예제 위기는 전쟁의 원인과 향방을 이미 깊게 규정하고 있었다.", "sources": ["Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "항구 도시의 전쟁화", "weight": 70, "narrative": "찰스턴 주민은 포격과 봉쇄, 병력 동원을 통해 전쟁이 일상 공간으로 들어오는 장면을 보았다. 전쟁 열기는 곧 생활의 불확실성으로 바뀌었다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "international": { "name": "분쟁 성격의 관찰", "weight": 55, "narrative": "영국과 프랑스 등 외국 정부는 충돌이 내전인지, 남부연합을 교전단체로 볼지 판단해야 했다. 초기 외교는 승인보다 관망에 가까웠다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "emancipation-proclamation",
+  "name": "노예해방선언",
+  "type": "political",
+  "date": "1863-01",
+  "location": { "lng": -77.04, "lat": 38.9 },
+  "perspectives": {
+    "union": { "name": "전쟁 목표의 확대", "weight": 100, "narrative": "노예해방선언은 연방 보존 전쟁을 노예제 파괴와 결합시켰다. 링컨 정부는 반란 지역의 노예해방을 군사정책이자 도덕적 목표로 제시했다.", "sources": ["Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "노예 노동 질서의 위협", "weight": 100, "narrative": "남부연합에게 선언은 노예제 사회의 경제와 권위에 대한 직접 공격이었다. 전쟁은 독립 전쟁이자 노예제 방어 전쟁이라는 성격을 더 분명히 드러냈다.", "sources": ["Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "enslaved": { "name": "해방을 향한 연방 정책", "weight": 100, "narrative": "선언은 노예와 도망자, 흑인 병사에게 연방 승리가 자유와 연결될 수 있음을 공식화했다. 해방은 위에서 내려온 법령이면서 아래로부터의 탈출과 저항으로 현실화됐다.", "sources": ["James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865", "Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery"] },
+    "civilians": { "name": "북부와 남부 여론의 재편", "weight": 80, "narrative": "선언은 북부 안에서도 지지와 반발을 동시에 불러왔고, 남부 민간사회에는 사회 질서 붕괴의 공포로 다가왔다. 전쟁의 의미가 더 날카로워졌다.", "sources": ["James M. McPherson, For Cause and Comrades: Why Men Fought in the Civil War", "Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War"] },
+    "international": { "name": "반노예제 외교의 강화", "weight": 90, "narrative": "해방선언은 영국과 프랑스가 노예제를 지키는 남부연합을 공개 지원하기 어렵게 만들었다. 연방 외교는 전쟁을 자유의 문제로 제시할 수 있게 됐다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations", "Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery"] }
+  }
+}

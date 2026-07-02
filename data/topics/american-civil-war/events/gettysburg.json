@@ -1,0 +1,14 @@
+{
+  "id": "gettysburg",
+  "name": "게티즈버그 전투",
+  "type": "battle",
+  "date": "1863-07",
+  "location": { "lng": -77.23, "lat": 39.83 },
+  "perspectives": {
+    "union": { "name": "북부 침공 저지", "weight": 100, "narrative": "게티즈버그에서 북군은 리의 두 번째 북부 침공을 막아 동부 전선의 흐름을 바꾸었다. 승리는 연방 전쟁 의지를 크게 강화했다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "공세 전략의 실패", "weight": 100, "narrative": "남부연합은 북부 영토에서 결정적 승리를 얻어 여론과 외교를 흔들려 했지만 실패했다. 막대한 손실은 리의 군대가 다시 전략 공세를 펴기 어렵게 만들었다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "연방 승리와 해방의 연결", "weight": 75, "narrative": "게티즈버그 승리는 해방선언 이후의 연방 전쟁 목표가 군사적으로도 지속될 수 있음을 보여 주었다. 남부 침공 실패는 노예제 방어 국가의 전망을 약화시켰다.", "sources": ["Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "마을에 남은 전쟁", "weight": 100, "narrative": "게티즈버그 주민은 전투 뒤 부상병, 매장, 파괴된 농지와 집을 감당해야 했다. 전장은 군대가 떠난 뒤에도 민간사회에 남았다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "international": { "name": "남부 외교의 후퇴", "weight": 70, "narrative": "게티즈버그 패배는 남부연합이 결정적 승리로 외국 승인을 끌어낼 가능성을 줄였다. 외국 정부들은 연방 승세를 더 진지하게 고려했다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

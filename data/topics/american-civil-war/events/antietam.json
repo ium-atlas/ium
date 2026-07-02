@@ -1,0 +1,14 @@
+{
+  "id": "antietam",
+  "name": "앤티텀 전투",
+  "type": "battle",
+  "date": "1862-09",
+  "location": { "lng": -77.74, "lat": 39.47 },
+  "perspectives": {
+    "union": { "name": "전략적 기회", "weight": 100, "narrative": "앤티텀에서 북군은 리의 북부 진격을 막고 워싱턴에 필요한 정치적 승리를 얻었다. 링컨은 이 기회를 예비 노예해방선언 발표로 연결했다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery"] },
+    "confederacy": { "name": "북부 침공의 좌절", "weight": 100, "narrative": "남부연합은 메릴랜드 진격으로 북부 여론과 외교를 흔들려 했지만 결정적 승리를 얻지 못했다. 리의 군대는 버지니아로 물러나야 했다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "해방선언의 문턱", "weight": 100, "narrative": "앤티텀 뒤 예비 노예해방선언이 발표되면서 전쟁은 노예제 파괴와 공개적으로 연결됐다. 노예와 도망자들의 선택은 연방 전쟁 목표의 일부가 됐다.", "sources": ["Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "사상자의 충격", "weight": 95, "narrative": "앤티텀의 막대한 사상자는 전쟁의 참혹함을 북부와 남부 민간사회에 각인시켰다. 가족들은 전장 소식과 부상자, 시신 수습의 현실을 마주했다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "international": { "name": "남부 승인 가능성의 후퇴", "weight": 85, "narrative": "앤티텀 뒤 영국과 프랑스가 남부연합 승인이나 중재로 나아갈 가능성은 약해졌다. 해방 의제가 더해지며 외교적 지형도 바뀌었다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

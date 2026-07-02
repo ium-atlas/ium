@@ -1,0 +1,14 @@
+{
+  "id": "first-bull-run",
+  "name": "제1차 불런 전투",
+  "type": "battle",
+  "date": "1861-07",
+  "location": { "lng": -77.52, "lat": 38.81 },
+  "perspectives": {
+    "union": { "name": "단기전 기대의 붕괴", "weight": 100, "narrative": "제1차 불런 패배는 북부가 짧은 전쟁으로 반란을 끝낼 수 있다는 기대를 무너뜨렸다. 연방은 장기 동원과 군 조직 재편을 피할 수 없게 됐다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "초기 사기 상승", "weight": 95, "narrative": "남부연합은 불런 승리로 자신들의 군사 능력과 독립 가능성을 확신했다. 그러나 승리는 전쟁이 곧 끝난다는 착각도 키웠다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "enslaved": { "name": "전쟁 장기화의 가능성", "weight": 45, "narrative": "전쟁이 장기화될수록 노예제와 노동력 문제가 전쟁 수행의 핵심으로 떠오를 가능성도 커졌다. 불런은 해방 정치가 열릴 시간을 만들었다.", "sources": ["Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "관전에서 공포로", "weight": 80, "narrative": "워싱턴 인근 주민과 구경꾼들은 전투가 낭만적 장면이 아니라 혼란과 사상자의 현실임을 보았다. 민간사회는 수도 방어 불안을 직접 느꼈다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "international": { "name": "남부 역량의 신호", "weight": 60, "narrative": "외국 관찰자들은 남부연합이 단순한 일시 반란이 아니라 전쟁을 지속할 군사 능력을 지녔는지 살폈다. 불런 승리는 남부의 외교적 기대를 키웠다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}

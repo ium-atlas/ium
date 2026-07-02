@@ -1,0 +1,14 @@
+{
+  "id": "shermans-march",
+  "name": "셔먼의 바다로의 행군",
+  "type": "movement",
+  "date": "1864-11",
+  "location": { "lng": -81.09, "lat": 32.08 },
+  "perspectives": {
+    "union": { "name": "남부 전쟁 기반 파괴", "weight": 100, "narrative": "셔먼의 행군은 남부의 철도, 창고, 농업 기반을 파괴해 전쟁 지속 능력을 약화시키려 했다. 연방 전략은 군대뿐 아니라 전쟁 경제를 겨냥했다.", "sources": ["James M. McPherson, Battle Cry of Freedom: The Civil War Era", "Gary W. Gallagher, The Union War"] },
+    "confederacy": { "name": "후방 붕괴의 공포", "weight": 100, "narrative": "남부연합에게 셔먼의 행군은 군사 전선 뒤의 후방도 안전하지 않다는 충격이었다. 주 정부와 주민의 전쟁 지지 기반이 흔들렸다.", "sources": ["Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South", "James M. McPherson, Battle Cry of Freedom: The Civil War Era"] },
+    "enslaved": { "name": "행군을 따라온 자유", "weight": 90, "narrative": "많은 노예들은 연방군 행군을 해방의 기회로 보고 뒤따르거나 정보를 제공했다. 그러나 이동과 생존은 군사 전략 안에서 늘 안전하게 보장되지는 않았다.", "sources": ["Eric Foner, Reconstruction: America's Unfinished Revolution, 1863-1877", "James Oakes, Freedom National: The Destruction of Slavery in the United States, 1861-1865"] },
+    "civilians": { "name": "총력전의 민간 피해", "weight": 100, "narrative": "조지아 주민은 징발, 재산 파괴, 피난을 겪었다. 셔먼의 행군은 전쟁의 부담을 민간사회가 직접 체감하게 만든 대표적 사건이었다.", "sources": ["Drew Gilpin Faust, This Republic of Suffering: Death and the American Civil War", "Stephanie McCurry, Confederate Reckoning: Power and Politics in the Civil War South"] },
+    "international": { "name": "전쟁 수행 방식의 관찰", "weight": 40, "narrative": "외국 관찰자들은 연방이 남부 사회의 기반을 겨냥하는 방식으로 전쟁을 끝내려 한다는 점을 보았다. 이는 산업전과 총력전의 한 양상을 보여 주었다.", "sources": ["Howard Jones, Blue and Gray Diplomacy: A History of Union and Confederate Foreign Relations"] }
+  }
+}
