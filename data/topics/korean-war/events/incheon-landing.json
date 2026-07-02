@@ -1,0 +1,13 @@
+{
+  "id": "incheon-landing",
+  "name": "인천상륙작전",
+  "type": "battle",
+  "date": "1950-09",
+  "location": { "lng": 126.63, "lat": 37.47 },
+  "perspectives": {
+    "un": { "name": "전선 역전의 도박", "weight": 100, "narrative": "인천상륙작전은 유엔군이 북한군 후방을 절단하려 한 대담한 작전이었다. 성공은 전황을 빠르게 뒤집었다.", "sources": ["Max Hastings, The Korean War", "William Stueck, The Korean War: An International History"] },
+    "south": { "name": "수도 탈환의 길", "weight": 95, "narrative": "상륙 성공은 대한민국이 서울을 되찾고 북진할 수 있는 군사적 조건을 만들었다. 패전 직전의 분위기는 반격의 기대감으로 바뀌었다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Max Hastings, The Korean War"] },
+    "north": { "name": "후방 붕괴", "weight": 100, "narrative": "북한군은 인천 상륙으로 보급선과 후방이 위협받았다. 남쪽 전선의 병력은 급속히 고립과 후퇴 압박을 받았다.", "sources": ["Allan R. Millett, The War for Korea, 1950-1951: They Came from the North", "Max Hastings, The Korean War"] },
+    "civilians": { "name": "상륙전의 도시 피해", "weight": 70, "narrative": "인천과 서울 주변 민간인은 상륙전과 시가전, 폭격의 위험 속에 놓였다. 전선 역전은 민간인에게도 또 다른 이동과 피해를 뜻했다.", "sources": ["Bruce Cumings, The Korean War: A History", "Max Hastings, The Korean War"] }
+  }
+}

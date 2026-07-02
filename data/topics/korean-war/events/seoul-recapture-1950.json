@@ -1,0 +1,13 @@
+{
+  "id": "seoul-recapture-1950",
+  "name": "서울 재탈환",
+  "type": "battle",
+  "date": "1950-09",
+  "location": { "lng": 126.98, "lat": 37.57 },
+  "perspectives": {
+    "south": { "name": "수도 회복", "weight": 100, "narrative": "서울 재탈환은 대한민국 정부와 군에 상징적·정치적 승리였다. 그러나 도시는 전투와 점령, 재점령을 거치며 큰 피해를 입었다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Max Hastings, The Korean War"] },
+    "un": { "name": "반격의 가속", "weight": 95, "narrative": "유엔군은 서울 탈환으로 인천상륙작전의 전략 효과를 확인했다. 이제 전쟁 목표는 38선 회복을 넘어 북진 문제로 확대됐다.", "sources": ["William Stueck, The Korean War: An International History", "Max Hastings, The Korean War"] },
+    "north": { "name": "후퇴와 재편", "weight": 90, "narrative": "북한군은 서울을 잃고 북쪽으로 후퇴했다. 초기 공세의 성과는 무너졌고 전쟁 주도권도 상실했다.", "sources": ["Allan R. Millett, The War for Korea, 1950-1951: They Came from the North", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] },
+    "civilians": { "name": "점령이 반복된 도시", "weight": 100, "narrative": "서울 시민은 북한 점령, 유엔군 재진입, 정치적 보복과 피난의 압박을 겪었다. 수도 탈환은 해방감과 불안이 뒤섞인 사건이었다.", "sources": ["Bruce Cumings, The Korean War: A History", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] }
+  }
+}

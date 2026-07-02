@@ -1,0 +1,14 @@
+{
+  "id": "armistice-panmunjom",
+  "name": "판문점 정전협정",
+  "type": "treaty",
+  "date": "1953-07",
+  "location": { "lng": 126.68, "lat": 37.96 },
+  "perspectives": {
+    "un": { "name": "전투 중지와 제한전의 결말", "weight": 100, "narrative": "정전협정은 전투를 중지시켰지만 평화조약은 아니었다. 유엔군과 미국은 확전 없는 전쟁 종결이라는 제한전의 결말을 받아들였다.", "sources": ["William Stueck, The Korean War: An International History", "Max Hastings, The Korean War"] },
+    "south": { "name": "분단 고착의 현실", "weight": 95, "narrative": "대한민국은 전투 중지로 생존을 확보했지만 통일 전쟁의 목표는 달성하지 못했다. 군사분계선은 분단의 장기 구조가 됐다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Bruce Cumings, The Korean War: A History"] },
+    "north": { "name": "체제 생존과 폐허", "weight": 95, "narrative": "북한은 정권 생존을 확보했지만 전쟁은 막대한 파괴를 남겼다. 정전은 승리보다 분단 체제의 지속을 뜻했다.", "sources": ["Bruce Cumings, The Korean War: A History", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] },
+    "china": { "name": "참전 성과와 비용", "weight": 85, "narrative": "중국은 유엔군을 압록강에서 밀어내고 변경 안보를 확보했다고 보았지만 큰 인명·물자 비용을 치렀다. 참전은 냉전 아시아에서 중국의 위치를 바꾸었다.", "sources": ["Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation", "William Stueck, The Korean War: An International History"] },
+    "civilians": { "name": "끝나지 않은 이산", "weight": 100, "narrative": "정전은 총성을 멈췄지만 가족 이산, 포로 문제, 폐허 복구, 실향의 고통을 끝내지 못했다. 민간사회는 전쟁 뒤에도 분단을 살아야 했다.", "sources": ["Bruce Cumings, The Korean War: A History", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] }
+  }
+}

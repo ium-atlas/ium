@@ -1,0 +1,13 @@
+{
+  "id": "triangle-hill",
+  "name": "삼각고지 전투",
+  "type": "battle",
+  "date": "1952-10",
+  "location": { "lng": 127.48, "lat": 38.33 },
+  "perspectives": {
+    "un": { "name": "고지전의 소모", "weight": 95, "narrative": "삼각고지 전투는 정전회담 중에도 고지 하나를 둘러싼 치열한 소모전이 계속됐음을 보여 준다. 제한된 지형 이득에 큰 비용이 따랐다.", "sources": ["Max Hastings, The Korean War", "William Stueck, The Korean War: An International History"] },
+    "china": { "name": "방어와 반격의 지속", "weight": 95, "narrative": "중국군은 고지 방어와 반격을 통해 전선을 유지하려 했다. 전쟁 후반의 핵심은 대규모 돌파보다 소모와 협상 압박이었다.", "sources": ["Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation", "Max Hastings, The Korean War"] },
+    "south": { "name": "전선 고착 속 참여", "weight": 75, "narrative": "대한민국군도 고지전과 전선 유지에 깊이 참여했다. 전쟁은 더 이상 빠르게 움직이지 않았지만 병력 피해는 계속됐다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Max Hastings, The Korean War"] },
+    "civilians": { "name": "분단선 주변의 장기 피해", "weight": 70, "narrative": "고지전은 전선 주변 지역을 장기간 파괴와 군사 통제 속에 묶었다. 민간사회는 전쟁이 끝나기 전부터 분단의 지형을 체감했다.", "sources": ["Bruce Cumings, The Korean War: A History", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] }
+  }
+}

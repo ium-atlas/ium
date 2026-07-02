@@ -1,0 +1,13 @@
+{
+  "id": "un-security-council-intervention",
+  "name": "유엔 안보리 개입 결의",
+  "type": "political",
+  "date": "1950-06",
+  "location": { "lng": -73.97, "lat": 40.75 },
+  "perspectives": {
+    "un": { "name": "다국적 개입의 틀", "weight": 100, "narrative": "유엔 안전보장이사회 결의는 미국 주도의 다국적 군사 개입에 국제적 틀을 제공했다. 소련의 안보리 불참은 결의 채택의 중요한 조건이었다.", "sources": ["William Stueck, The Korean War: An International History", "Max Hastings, The Korean War"] },
+    "south": { "name": "국제 지원의 확보", "weight": 95, "narrative": "대한민국은 유엔 결의를 통해 생존을 위한 국제 지원을 얻게 됐다. 전쟁은 남북한 사이의 내전적 성격을 넘어 국제전으로 확대됐다.", "sources": ["William Stueck, The Korean War: An International History", "Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea"] },
+    "north": { "name": "국제전으로 번진 공세", "weight": 80, "narrative": "북한의 남침은 유엔 개입을 불러오며 예상보다 큰 국제 전쟁으로 변했다. 초기 군사 우위는 외부 개입이라는 새 조건과 맞닥뜨렸다.", "sources": ["Allan R. Millett, The War for Korea, 1950-1951: They Came from the North", "William Stueck, The Korean War: An International History"] },
+    "soviet": { "name": "외교 공백의 대가", "weight": 65, "narrative": "소련의 안보리 불참은 미국 주도의 결의를 막지 못하는 결과를 낳았다. 냉전 외교의 빈틈이 전쟁의 국제적 형식을 바꾸었다.", "sources": ["William Stueck, The Korean War: An International History", "Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation"] }
+  }
+}

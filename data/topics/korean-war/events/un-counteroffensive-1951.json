@@ -1,0 +1,13 @@
+{
+  "id": "un-counteroffensive-1951",
+  "name": "유엔군 1951년 반격",
+  "type": "battle",
+  "date": "1951-02",
+  "location": { "lng": 127.92, "lat": 37.34 },
+  "perspectives": {
+    "un": { "name": "리지웨이의 전선 회복", "weight": 100, "narrative": "리지웨이 지휘 아래 유엔군은 중부전선에서 반격해 전선을 안정시켰다. 전쟁은 기동전에서 제한전과 소모전으로 이동했다.", "sources": ["Max Hastings, The Korean War", "William Stueck, The Korean War: An International History"] },
+    "south": { "name": "수도 회복으로 가는 길", "weight": 85, "narrative": "반격은 대한민국이 다시 전선을 북쪽으로 밀고 서울 회복을 기대할 수 있게 했다. 그러나 전쟁의 빠른 종결은 여전히 멀었다.", "sources": ["Sheila Miyoshi Jager, Brothers at War: The Unending Conflict in Korea", "Max Hastings, The Korean War"] },
+    "china": { "name": "공세 한계와 소모", "weight": 85, "narrative": "중국군은 초기 공세의 성과 뒤 보급과 화력의 한계를 드러냈다. 전쟁은 장기 소모와 협상 가능성의 방향으로 기울었다.", "sources": ["Chen Jian, China's Road to the Korean War: The Making of the Sino-American Confrontation", "William Stueck, The Korean War: An International History"] },
+    "civilians": { "name": "전선 이동의 반복", "weight": 75, "narrative": "중부전선 주민은 후퇴와 반격이 반복되는 가운데 피난과 귀환을 오갔다. 전선 안정은 민간 생활 안정과는 다른 속도로 진행됐다.", "sources": ["Bruce Cumings, The Korean War: A History", "Max Hastings, The Korean War"] }
+  }
+}
