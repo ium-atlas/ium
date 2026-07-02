@@ -1,0 +1,14 @@
+{
+  "id": "hakodate-goryokaku",
+  "name": "하코다테·고료카쿠 전투",
+  "type": "siege",
+  "date": "1869-05",
+  "location": { "lng": 140.75, "lat": 41.8 },
+  "perspectives": {
+    "imperial": { "name": "보신전쟁의 종결", "weight": 100, "narrative": "하코다테와 고료카쿠의 항복은 보신전쟁의 마지막 대규모 저항을 끝냈다. 신정부는 군사적으로도 일본 전역의 통치권을 주장할 수 있게 됐다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "bakufu": { "name": "구 막부 해군의 최후", "weight": 100, "narrative": "에노모토 다케아키 등 구 막부 해군 세력은 에조치에서 마지막 거점을 만들었지만 결국 항복했다. 막부 체제 복원의 군사적 가능성은 사실상 사라졌다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "domains": { "name": "번병에서 중앙군으로", "weight": 65, "narrative": "고료카쿠 공격은 여러 번 출신 병력이 신정부의 이름 아래 움직인 사례였다. 이후 군사력은 번별 병력보다 중앙 국가의 지휘로 재편되어 갔다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "foreign": { "name": "외국 고문과 중립 문제", "weight": 70, "narrative": "하코다테의 구 막부 세력은 프랑스식 군사 지식과 해군력을 활용하려 했고, 외국 세력은 내전 속 중립과 조약항 안전을 계산했다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "W. G. Beasley, The Meiji Restoration"] },
+    "commoners": { "name": "북방 거점의 동요", "weight": 45, "narrative": "전투는 하코다테의 상업과 주민 생활을 흔들었다. 유신의 마지막 전장은 홋카이도 남부의 항구와 성곽 주변을 군사 공간으로 바꾸었다.", "sources": ["Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present", "W. G. Beasley, The Meiji Restoration"] }
+  }
+}

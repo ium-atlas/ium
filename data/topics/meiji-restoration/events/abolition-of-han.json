@@ -1,0 +1,14 @@
+{
+  "id": "abolition-of-han",
+  "name": "폐번치현",
+  "type": "political",
+  "date": "1871-08",
+  "location": { "lng": 139.76, "lat": 35.68 },
+  "perspectives": {
+    "imperial": { "name": "현제 국가의 확립", "weight": 100, "narrative": "폐번치현은 번을 폐지하고 현을 설치해 중앙 정부가 지방관을 임명하는 체제로 바꾸었다. 신정부는 분권적 번 질서를 넘어 중앙집권 국가의 골격을 세웠다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "bakufu": { "name": "도쿠가와 시대 제도의 종언", "weight": 20, "narrative": "막부는 이미 무너졌지만, 폐번치현은 도쿠가와 시대의 영지와 다이묘 통치 구조를 제도적으로 끝냈다. 구체제의 지역 권력은 중앙 관료제로 흡수됐다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "domains": { "name": "다이묘 권력의 해체", "weight": 100, "narrative": "번주들은 지번사 자리에서도 물러나고, 무사층의 봉록 문제는 중앙 정부의 재정 문제로 넘어갔다. 번 정치의 군사·재정 기반은 크게 해체됐다.", "sources": ["Albert M. Craig, Choshu in the Meiji Restoration", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "foreign": { "name": "조약 개정 국가의 준비", "weight": 45, "narrative": "중앙집권은 외국과의 교섭에서 일본을 하나의 책임 주체로 세우는 데 필요했다. 신정부는 지방권력보다 국가 단위의 법과 제도를 내세우려 했다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "commoners": { "name": "행정과 부담의 재편", "weight": 90, "narrative": "폐번치현 뒤 민중은 새 현 행정과 중앙 정부의 조세·병역 개혁을 맞게 됐다. 지역 지배자는 바뀌었지만 국가가 생활을 직접 파악하는 힘은 더 커졌다.", "sources": ["Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present", "W. G. Beasley, The Meiji Restoration"] }
+  }
+}

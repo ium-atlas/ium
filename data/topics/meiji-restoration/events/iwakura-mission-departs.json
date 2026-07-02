@@ -1,0 +1,14 @@
+{
+  "id": "iwakura-mission-departs",
+  "name": "이와쿠라 사절단 출발",
+  "type": "movement",
+  "date": "1871-12",
+  "location": { "lng": 139.64, "lat": 35.45 },
+  "perspectives": {
+    "imperial": { "name": "개혁 국가의 학습 외교", "weight": 100, "narrative": "이와쿠라 사절단은 조약 개정 가능성을 찾고 서구 제도와 산업을 조사하기 위해 출발했다. 신정부는 국내 중앙집권을 대외 학습과 연결했다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "bakufu": { "name": "막부 외교의 대체", "weight": 20, "narrative": "사절단은 막부가 체결했던 불평등 조약을 새 정부가 다시 다루겠다는 선언이기도 했다. 외교의 주체는 도쿠가와 막부에서 메이지 정부로 바뀌었다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "domains": { "name": "번 출신 지도자의 국가 외교", "weight": 55, "narrative": "사절단과 유수정부에는 사쓰마·조슈 등 번 출신 지도자들이 나뉘어 참여했다. 번 정치의 인맥은 중앙 국가의 외교와 내정 운영으로 재배치됐다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "foreign": { "name": "서구 제도와 조약 개정의 벽", "weight": 100, "narrative": "미국과 유럽의 정부들은 일본의 조약 개정 요구를 곧바로 받아들이지 않았다. 사절단은 서구 제도를 관찰하며 근대 국가로 인정받기 위한 조건을 확인했다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "commoners": { "name": "개혁의 다음 파장", "weight": 40, "narrative": "사절단의 학습은 당장 민중 부담을 줄이기보다 이후 교육, 군제, 조세 개혁의 방향을 강화했다. 해외 시찰의 결과는 곧 일상 제도의 변화로 돌아왔다.", "sources": ["Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present", "W. G. Beasley, The Meiji Restoration"] }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "charter-oath",
+  "name": "오개조의 서약",
+  "type": "political",
+  "date": "1868-04",
+  "location": { "lng": 135.76, "lat": 35.02 },
+  "perspectives": {
+    "imperial": { "name": "개혁 정부의 원칙 제시", "weight": 100, "narrative": "오개조의 서약은 공론, 신분 협력, 세계 지식 수용을 내세워 신정부의 개혁 방향을 선언했다. 천황 정부는 내전 중에도 새 통치 이념을 제시했다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "bakufu": { "name": "막부 정치의 대체", "weight": 35, "narrative": "서약은 막부가 독점하던 정치 결정을 새 중앙 정부와 공론의 언어로 대체하려 했다. 구 막부 세력의 제도적 자리는 점점 좁아졌다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "domains": { "name": "번 엘리트의 참여 명분", "weight": 75, "narrative": "서약은 유력 번 출신 엘리트가 새 정부 안에서 정책을 논의하고 권력을 나눌 명분을 제공했다. 중앙집권은 아직 번 정치와 타협하며 진행됐다.", "sources": ["Albert M. Craig, Choshu in the Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "foreign": { "name": "세계 지식 수용의 선언", "weight": 55, "narrative": "서약의 마지막 조항은 세계에서 지식을 구하겠다는 방향을 밝혔다. 이는 불평등 조약을 고치기 위해 서구 제도와 기술을 배우려는 국가 전략으로 이어졌다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "commoners": { "name": "개혁 약속과 현실의 거리", "weight": 60, "narrative": "서약은 낡은 관습을 깨고 사회를 새롭게 하겠다고 말했지만, 민중에게 즉시 부담 완화를 보장하지는 않았다. 전쟁과 조세 부담은 여전히 일상의 문제였다.", "sources": ["Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present", "W. G. Beasley, The Meiji Restoration"] }
+  }
+}

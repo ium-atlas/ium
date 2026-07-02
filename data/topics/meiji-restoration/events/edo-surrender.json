@@ -1,0 +1,14 @@
+{
+  "id": "edo-surrender",
+  "name": "에도성 무혈 개성",
+  "type": "political",
+  "date": "1868-04",
+  "location": { "lng": 139.75, "lat": 35.68 },
+  "perspectives": {
+    "imperial": { "name": "동국 진입의 정당화", "weight": 100, "narrative": "에도성 개성은 신정부가 일본 최대 도시를 대규모 시가전 없이 장악하게 했다. 천황 정부는 교토의 선언을 동국 통치로 확장할 수 있었다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "bakufu": { "name": "도쿠가와 가문 보존의 협상", "weight": 100, "narrative": "구 막부 측은 에도 파괴를 피하고 도쿠가와 가문의 생존 여지를 남기려 했다. 가쓰 가이슈와 신정부 측 협상은 패전 속 손실 제한이었다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "domains": { "name": "사이고의 절충", "weight": 80, "narrative": "사쓰마 출신 사이고 다카모리는 강경 진압과 협상 사이에서 에도 개성을 받아들였다. 번 출신 지도자들은 군사 승리를 정치적 수습으로 바꾸어야 했다.", "sources": ["Mark Ravina, The Last Samurai: The Life and Battles of Saigo Takamori", "Marius B. Jansen, The Making of Modern Japan"] },
+    "foreign": { "name": "조약항 주변 안정", "weight": 45, "narrative": "에도가 전면전으로 불타지 않으면서 요코하마와 외국 거류지의 상업 질서도 큰 충격을 피했다. 외국 세력은 새 정부의 통제력을 더 현실적으로 보게 됐다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "commoners": { "name": "도시 참화를 피한 주민", "weight": 85, "narrative": "에도 주민에게 무혈 개성은 시가전과 방화, 대규모 피난을 피하게 한 사건이었다. 정권은 바뀌었지만 도시 생활의 물리적 파괴는 크게 줄었다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] }
+  }
+}

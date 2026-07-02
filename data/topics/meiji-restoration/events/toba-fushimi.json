@@ -1,0 +1,14 @@
+{
+  "id": "toba-fushimi",
+  "name": "도바·후시미 전투",
+  "type": "battle",
+  "date": "1868-01",
+  "location": { "lng": 135.74, "lat": 34.94 },
+  "perspectives": {
+    "imperial": { "name": "관군 명분의 승리", "weight": 100, "narrative": "도바·후시미 전투에서 신정부군은 천황의 깃발을 내세워 자신들을 관군으로 정당화했다. 승리는 보신전쟁 초반의 정치적 주도권을 신정부 쪽으로 돌렸다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "bakufu": { "name": "막부군의 결정적 후퇴", "weight": 100, "narrative": "구 막부군은 병력 규모에도 불구하고 패배했고, 요시노부는 오사카를 떠나 에도로 물러났다. 패전은 도쿠가와 세력의 결속과 명분을 크게 약화시켰다.", "sources": ["Conrad Totman, The Collapse of the Tokugawa Bakufu, 1862-1868", "W. G. Beasley, The Meiji Restoration"] },
+    "domains": { "name": "사쓰마·조슈 군사력의 시험", "weight": 100, "narrative": "사쓰마·조슈 중심의 신정부군은 근대식 무기와 조직을 활용해 전장 우위를 보였다. 다른 번들은 승패를 보며 어느 쪽에 설지 선택해야 했다.", "sources": ["Albert M. Craig, Choshu in the Meiji Restoration", "Mark Ravina, The Last Samurai: The Life and Battles of Saigo Takamori"] },
+    "foreign": { "name": "근대 무기의 효과 확인", "weight": 45, "narrative": "전투는 외국산 무기와 훈련이 일본 국내 권력 투쟁의 결과를 바꾸는 장면이었다. 외국 공사관은 내전 속에서도 조약항과 교역의 안전을 주시했다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "commoners": { "name": "교토 남쪽의 전쟁 피해", "weight": 75, "narrative": "도바와 후시미 일대의 전투는 마을과 교통로를 전장으로 만들었다. 민중은 병력 이동, 징발, 화재와 치안 붕괴를 직접 겪었다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] }
+  }
+}

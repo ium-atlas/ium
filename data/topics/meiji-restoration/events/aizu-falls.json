@@ -1,0 +1,14 @@
+{
+  "id": "aizu-falls",
+  "name": "아이즈 함락",
+  "type": "siege",
+  "date": "1868-11",
+  "location": { "lng": 139.93, "lat": 37.49 },
+  "perspectives": {
+    "imperial": { "name": "동북 저항 진압", "weight": 95, "narrative": "아이즈 함락은 신정부가 동북의 구 막부 지지 세력을 제압하는 결정적 단계였다. 중앙 정부는 관군 명분을 전장 승리로 굳혔다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "bakufu": { "name": "충성파 번의 패배", "weight": 95, "narrative": "아이즈는 막부에 대한 충성과 교토 수호직의 기억을 안고 저항했다. 함락은 구 막부 세력의 동북 거점이 무너졌음을 뜻했다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Mark Ravina, The Last Samurai: The Life and Battles of Saigo Takamori"] },
+    "domains": { "name": "동북 번 연합의 붕괴", "weight": 100, "narrative": "오우에쓰 열번동맹은 신정부에 맞서 지역 번들의 자율성과 명예를 지키려 했다. 아이즈 패배는 번 연합 저항의 한계를 드러냈다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "W. G. Beasley, The Meiji Restoration"] },
+    "foreign": { "name": "제한적 관심의 내전", "weight": 25, "narrative": "아이즈 전투는 외국 조약항에서 멀리 떨어진 내전이었지만, 일본의 새 권력이 전국을 실제로 통제할 수 있는지 보여 주는 시험이었다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "commoners": { "name": "성하마을의 포위 피해", "weight": 85, "narrative": "아이즈의 포위와 함락은 성하마을 주민에게 피난, 약탈, 가족 상실의 기억을 남겼다. 유신의 중앙집권은 지역 사회에는 전쟁 피해로 도착했다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] }
+  }
+}

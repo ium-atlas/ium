@@ -1,0 +1,14 @@
+{
+  "id": "taisei-hokan",
+  "name": "대정봉환",
+  "type": "political",
+  "date": "1867-11",
+  "location": { "lng": 135.75, "lat": 35.01 },
+  "perspectives": {
+    "imperial": { "name": "왕정 명분의 회수", "weight": 80, "narrative": "대정봉환은 정권 반환을 천황 중심 질서의 회복으로 해석할 수 있는 공간을 열었다. 다만 새 정부의 실제 권력 배분은 아직 확정되지 않았다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "bakufu": { "name": "권한 반환을 통한 생존 시도", "weight": 100, "narrative": "도쿠가와 요시노부는 정권을 조정에 반환하되 도쿠가와 가문의 정치적 영향력을 새 체제 안에 남기려 했다. 이는 항복이라기보다 위기 속 재편 구상이었다.", "sources": ["Conrad Totman, The Collapse of the Tokugawa Bakufu, 1862-1868", "W. G. Beasley, The Meiji Restoration"] },
+    "domains": { "name": "번 연합 정치의 압박", "weight": 90, "narrative": "사쓰마·조슈와 도사 등 유력 번은 막부 단독 지배를 끝내고 더 넓은 정치 회의를 만들려 했다. 대정봉환은 번 정치가 중앙 권력 재편을 압박한 결과였다.", "sources": ["Albert M. Craig, Choshu in the Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "foreign": { "name": "조약 체제의 불확실성", "weight": 40, "narrative": "외국 공사관과 상인은 누가 조약과 개항 질서를 책임질지 지켜보았다. 정권 반환은 외교 상대가 막부에서 새 중앙 권력으로 옮겨갈 가능성을 만들었다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "commoners": { "name": "먼 정치 변화", "weight": 45, "narrative": "도시와 농촌의 민중에게 대정봉환은 즉각적인 생활 개선보다 권력층의 재편으로 먼저 다가왔다. 세금, 물가, 치안 불안은 여전히 지역 사회의 현실이었다.", "sources": ["Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present", "W. G. Beasley, The Meiji Restoration"] }
+  }
+}

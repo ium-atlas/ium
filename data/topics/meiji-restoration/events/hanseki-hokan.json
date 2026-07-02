@@ -1,0 +1,14 @@
+{
+  "id": "hanseki-hokan",
+  "name": "판적봉환",
+  "type": "political",
+  "date": "1869-06",
+  "location": { "lng": 139.76, "lat": 35.68 },
+  "perspectives": {
+    "imperial": { "name": "토지와 인민의 중앙 귀속", "weight": 100, "narrative": "판적봉환은 번주들이 토지와 인민의 지배권을 천황에게 반환한다는 형식을 취했다. 신정부는 중앙집권 국가를 만들 제도적 발판을 얻었다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "bakufu": { "name": "봉건 질서의 추가 해체", "weight": 25, "narrative": "막부는 이미 사라졌지만, 판적봉환은 도쿠가와 시대의 영지 지배 원리를 더 깊게 흔들었다. 구 막부 질서의 제도적 토대가 계속 해체됐다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "domains": { "name": "유력 번의 선제적 반환", "weight": 100, "narrative": "사쓰마·조슈·도사·히젠 등 유력 번은 먼저 반환을 제안해 새 정부 안에서 주도권을 유지하려 했다. 번주들은 형식상 지배권을 내놓고 지번사로 재임명됐다.", "sources": ["Albert M. Craig, Choshu in the Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "foreign": { "name": "강한 중앙정부의 조건", "weight": 35, "narrative": "외국과의 조약 개정과 대외 교섭을 위해서는 지역별 권한보다 중앙 정부의 일관된 통치가 필요했다. 판적봉환은 그런 국가 역량을 키우는 단계였다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "commoners": { "name": "소속의 재정의", "weight": 80, "narrative": "농민과 도시민은 번주의 사적 지배 아래 있던 사람에서 국가가 파악하는 인민으로 다시 분류되기 시작했다. 다만 조세와 부역 부담은 곧바로 사라지지 않았다.", "sources": ["Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present", "W. G. Beasley, The Meiji Restoration"] }
+  }
+}
