@@ -1,0 +1,13 @@
+{
+  "id": "stalingrad",
+  "name": "스탈린그라드 전투",
+  "type": "battle",
+  "date": "1942-08",
+  "location": { "lng": 44.51, "lat": 48.71 },
+  "perspectives": {
+    "soviet": { "name": "동부전선의 전환", "weight": 100, "narrative": "스탈린그라드 전투는 소련이 독일군의 공세를 꺾고 전략적 주도권을 되찾는 전환점이 됐다. 도시 방어와 포위전은 소련 동원의 상징이 됐다.", "sources": ["Evan Mawdsley, World War II: A New History", "Richard Overy, Why the Allies Won"] },
+    "axis": { "name": "제6군의 붕괴", "weight": 100, "narrative": "독일은 스탈린그라드에서 거대한 병력과 장비를 잃었다. 패배는 동부전선에서 독일의 승리 가능성을 크게 약화시켰다.", "sources": ["Antony Beevor, The Second World War", "Gerhard L. Weinberg, A World at Arms: A Global History of World War II"] },
+    "allies": { "name": "연합국 사기의 상승", "weight": 80, "narrative": "스탈린그라드 승리는 서방 연합국에게도 독일이 패배할 수 있다는 신호였다. 독일군의 주력은 동부에서 계속 소모됐다.", "sources": ["Richard Overy, Why the Allies Won", "Max Hastings, Inferno: The World at War, 1939-1945"] },
+    "civilians": { "name": "도시 소모전의 참상", "weight": 100, "narrative": "스탈린그라드의 민간인은 포격, 굶주림, 도시 파괴 속에서 전투와 함께 갇혔다. 도시 자체가 전쟁의 전장이자 피해 공간이 됐다.", "sources": ["Antony Beevor, The Second World War", "Max Hastings, Inferno: The World at War, 1939-1945"] }
+  }
+}

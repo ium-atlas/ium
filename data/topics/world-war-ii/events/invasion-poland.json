@@ -1,0 +1,13 @@
+{
+  "id": "invasion-poland",
+  "name": "독일의 폴란드 침공",
+  "type": "movement",
+  "date": "1939-09",
+  "location": { "lng": 21.01, "lat": 52.23 },
+  "perspectives": {
+    "axis": { "name": "전격전과 영토 팽창", "weight": 100, "narrative": "독일의 폴란드 침공은 유럽 전쟁을 열고 나치 독일의 영토 팽창 정책을 군사 행동으로 바꾸었다. 빠른 기동전은 초기 승리의 기반이 됐다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Antony Beevor, The Second World War"] },
+    "allies": { "name": "영국·프랑스 참전", "weight": 95, "narrative": "영국과 프랑스는 폴란드 침공 뒤 독일에 선전포고했다. 그러나 초기 대응은 폴란드를 구할 만큼 빠르지 못했고 전쟁은 장기화의 길로 들어섰다.", "sources": ["Richard Overy, Why the Allies Won", "Evan Mawdsley, World War II: A New History"] },
+    "soviet": { "name": "동부 분할의 현실", "weight": 90, "narrative": "소련은 독소 불가침조약의 비밀 합의에 따라 동부 폴란드로 들어갔다. 전쟁 초반 동유럽은 두 강대국의 분할 정치에 놓였다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Evan Mawdsley, World War II: A New History"] },
+    "civilians": { "name": "점령과 난민의 시작", "weight": 100, "narrative": "폴란드 민간인은 침공, 폭격, 피난, 점령 통치의 첫 충격을 겪었다. 전쟁은 시작부터 군사 작전과 민간 피해가 분리되지 않았다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "Antony Beevor, The Second World War"] }
+  }
+}

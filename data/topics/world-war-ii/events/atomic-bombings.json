@@ -1,0 +1,13 @@
+{
+  "id": "atomic-bombings",
+  "name": "히로시마·나가사키 원폭 투하",
+  "type": "massacre",
+  "date": "1945-08",
+  "location": { "lng": 132.46, "lat": 34.39 },
+  "perspectives": {
+    "allies": { "name": "일본 항복 압박", "weight": 95, "narrative": "미국은 원폭 투하를 일본 항복을 앞당기고 침공 비용을 피하기 위한 수단으로 판단했다. 이 결정은 전쟁 종결과 핵 시대의 시작을 함께 만들었다.", "sources": ["Richard B. Frank, Downfall: The End of the Imperial Japanese Empire", "Gerhard L. Weinberg, A World at Arms: A Global History of World War II"] },
+    "axis": { "name": "일본 지도부의 결단 압박", "weight": 90, "narrative": "히로시마와 나가사키의 파괴, 소련 참전, 봉쇄와 공습은 일본 지도부에 항복 결정을 압박했다. 제국의 전쟁 지속 가능성은 무너지고 있었다.", "sources": ["Richard B. Frank, Downfall: The End of the Imperial Japanese Empire", "John W. Dower, War Without Mercy: Race and Power in the Pacific War"] },
+    "civilians": { "name": "민간인 피해와 핵폭력", "weight": 100, "narrative": "원폭 투하는 도시 민간인에게 즉각적 파괴와 장기적 고통을 남겼다. 피해자 관점은 전쟁 종결 논쟁과 별개로 반드시 중심에 놓여야 한다.", "sources": ["John W. Dower, War Without Mercy: Race and Power in the Pacific War", "Max Hastings, Inferno: The World at War, 1939-1945"] },
+    "colonial": { "name": "아시아 전후 질서의 문턱", "weight": 55, "narrative": "일본 패전이 가까워지면서 아시아의 식민지와 점령지는 권력 공백과 독립 운동의 새 국면을 맞았다. 전쟁 종결은 제국 질서 재편의 시작이기도 했다.", "sources": ["Evan Mawdsley, World War II: A New History", "Gerhard L. Weinberg, A World at Arms: A Global History of World War II"] }
+  }
+}

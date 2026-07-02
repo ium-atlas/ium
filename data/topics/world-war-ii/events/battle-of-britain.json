@@ -1,0 +1,13 @@
+{
+  "id": "battle-of-britain",
+  "name": "영국 본토 항공전",
+  "type": "battle",
+  "date": "1940-07",
+  "location": { "lng": -0.13, "lat": 51.51 },
+  "perspectives": {
+    "allies": { "name": "침공 저지와 생존", "weight": 100, "narrative": "영국은 항공전에서 독일의 제공권 장악을 막아 본토 침공 가능성을 낮췄다. 이는 연합국이 서유럽 반격의 기반을 보존하는 데 중요했다.", "sources": ["Richard Overy, Why the Allies Won", "Antony Beevor, The Second World War"] },
+    "axis": { "name": "해협을 넘지 못한 공세", "weight": 95, "narrative": "독일 공군은 영국을 굴복시키고 침공 조건을 만들려 했지만 결정적 우위를 얻지 못했다. 서부에서 빠른 승리를 이어 가려던 계획은 막혔다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Evan Mawdsley, World War II: A New History"] },
+    "civilians": { "name": "공습 속 도시 생활", "weight": 90, "narrative": "런던과 영국 도시의 주민은 공습, 대피, 야간 경보 속에서 전쟁을 일상으로 견뎌야 했다. 민간인의 인내는 전쟁 수행의 일부가 됐다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "Antony Beevor, The Second World War"] },
+    "colonial": { "name": "제국 방어망의 유지", "weight": 55, "narrative": "영국이 버틴 것은 제국의 해상·식민 기반이 연합국 편에 계속 남는다는 뜻이기도 했다. 본토 방어는 전 지구적 전쟁 자원의 연결과 맞물렸다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Richard Overy, Why the Allies Won"] }
+  }
+}

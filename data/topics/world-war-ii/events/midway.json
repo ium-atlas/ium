@@ -1,0 +1,13 @@
+{
+  "id": "midway",
+  "name": "미드웨이 해전",
+  "type": "battle",
+  "date": "1942-06",
+  "location": { "lng": -177.36, "lat": 28.21 },
+  "perspectives": {
+    "allies": { "name": "태평양 주도권 전환", "weight": 100, "narrative": "미드웨이 해전은 미국 해군이 일본의 확장 흐름을 꺾은 전환점이었다. 이후 태평양 전쟁은 점차 연합국의 반격으로 이동했다.", "sources": ["Richard B. Frank, Downfall: The End of the Imperial Japanese Empire", "Evan Mawdsley, World War II: A New History"] },
+    "axis": { "name": "일본 항모전력의 손실", "weight": 100, "narrative": "일본은 미드웨이에서 핵심 항공모함 전력을 잃고 전략적 주도권을 유지하기 어려워졌다. 초기 공세의 기세는 이 전투 뒤 크게 약해졌다.", "sources": ["John W. Dower, War Without Mercy: Race and Power in the Pacific War", "Richard B. Frank, Downfall: The End of the Imperial Japanese Empire"] },
+    "colonial": { "name": "섬과 해상로의 전쟁", "weight": 60, "narrative": "태평양 전쟁은 섬, 항로, 기지를 둘러싼 전쟁이었다. 미드웨이의 결과는 일본 점령지와 식민지 해상 질서에도 영향을 미쳤다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Evan Mawdsley, World War II: A New History"] },
+    "civilians": { "name": "총력전의 후방 동원", "weight": 45, "narrative": "해전의 승패는 조선소, 항공기 생산, 암호 해독, 보급망 같은 후방 역량과 연결됐다. 민간 산업과 노동은 태평양 전쟁의 숨은 기반이었다.", "sources": ["Richard Overy, Why the Allies Won", "Max Hastings, Inferno: The World at War, 1939-1945"] }
+  }
+}

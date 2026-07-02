@@ -1,0 +1,21 @@
+{
+  "id": "world-war-ii",
+  "title": "제2차 세계대전",
+  "subtitle": "전 지구 전쟁, 절멸전, 제국 질서의 붕괴",
+  "period": [1939, 1945],
+  "start": "1939-09",
+  "end": "1945-09",
+  "bounds": [
+    [-178.0, 1.0],
+    [140.0, 54.5]
+  ],
+  "card": [21.0, 52.0],
+  "perspectives": [
+    { "code": "allies", "label": "연합국", "color": "#2563eb" },
+    { "code": "axis", "label": "추축국", "color": "#dc2626" },
+    { "code": "soviet", "label": "소련", "color": "#16a34a" },
+    { "code": "china", "label": "중국", "color": "#f59e0b" },
+    { "code": "colonial", "label": "식민지·피지배지", "color": "#7c3aed" },
+    { "code": "civilians", "label": "민간사회", "color": "#0891b2" }
+  ]
+}

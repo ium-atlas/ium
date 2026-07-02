@@ -1,0 +1,13 @@
+{
+  "id": "fall-of-france",
+  "name": "프랑스 항복",
+  "type": "battle",
+  "date": "1940-06",
+  "location": { "lng": 2.35, "lat": 48.86 },
+  "perspectives": {
+    "axis": { "name": "서부전격전의 성공", "weight": 100, "narrative": "독일은 저지대와 프랑스를 빠르게 돌파해 서유럽의 전략 균형을 뒤집었다. 프랑스 항복은 나치 독일의 군사적 위세를 크게 키웠다.", "sources": ["Antony Beevor, The Second World War", "Richard Overy, Why the Allies Won"] },
+    "allies": { "name": "대륙 기반 상실", "weight": 100, "narrative": "프랑스의 붕괴로 영국은 유럽 대륙에서 고립된 채 전쟁을 계속해야 했다. 연합국은 후퇴와 재편의 시간을 버텨야 했다.", "sources": ["Richard Overy, Why the Allies Won", "Evan Mawdsley, World War II: A New History"] },
+    "colonial": { "name": "프랑스 제국의 갈림길", "weight": 75, "narrative": "프랑스 항복은 식민지와 해외 영토가 비시 프랑스, 자유 프랑스, 현지 권력 사이에서 선택을 강요받는 상황을 만들었다. 유럽 패배는 제국 질서에도 균열을 냈다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Max Hastings, Inferno: The World at War, 1939-1945"] },
+    "civilians": { "name": "피난과 점령", "weight": 95, "narrative": "프랑스 민간인은 독일 진격과 대규모 피난, 점령 행정의 충격을 겪었다. 패전은 전선의 붕괴만이 아니라 일상 질서의 붕괴였다.", "sources": ["Antony Beevor, The Second World War", "Max Hastings, Inferno: The World at War, 1939-1945"] }
+  }
+}

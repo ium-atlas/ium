@@ -1,0 +1,13 @@
+{
+  "id": "fall-of-singapore",
+  "name": "싱가포르 함락",
+  "type": "battle",
+  "date": "1942-02",
+  "location": { "lng": 103.85, "lat": 1.29 },
+  "perspectives": {
+    "axis": { "name": "일본 남방 진출의 성과", "weight": 100, "narrative": "일본군은 말레이 반도를 빠르게 돌파해 싱가포르를 함락시켰다. 이는 일본 제국이 남방 자원지대로 팽창하는 핵심 성과였다.", "sources": ["Antony Beevor, The Second World War", "Evan Mawdsley, World War II: A New History"] },
+    "allies": { "name": "영국 제국 방어선 붕괴", "weight": 100, "narrative": "싱가포르 함락은 영국 제국의 아시아 방어 신화를 무너뜨렸다. 연합국은 동남아시아에서 큰 전략적 후퇴를 겪었다.", "sources": ["Richard Overy, Why the Allies Won", "Gerhard L. Weinberg, A World at Arms: A Global History of World War II"] },
+    "colonial": { "name": "식민지 질서의 충격", "weight": 100, "narrative": "싱가포르와 말레이의 주민은 일본 점령과 기존 식민 권력 붕괴를 동시에 경험했다. 유럽 제국의 권위는 전쟁 뒤 회복되기 어려운 타격을 입었다.", "sources": ["John W. Dower, War Without Mercy: Race and Power in the Pacific War", "Max Hastings, Inferno: The World at War, 1939-1945"] },
+    "civilians": { "name": "점령과 폭력의 시작", "weight": 90, "narrative": "싱가포르 민간사회는 항복 이후 군정, 공포, 보복, 생활난을 마주했다. 도시 함락은 전투 종결이 아니라 점령 통치의 시작이었다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "John W. Dower, War Without Mercy: Race and Power in the Pacific War"] }
+  }
+}

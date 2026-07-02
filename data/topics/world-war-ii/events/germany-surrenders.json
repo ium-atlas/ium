@@ -1,0 +1,13 @@
+{
+  "id": "germany-surrenders",
+  "name": "독일 항복",
+  "type": "treaty",
+  "date": "1945-05",
+  "location": { "lng": 13.40, "lat": 52.52 },
+  "perspectives": {
+    "allies": { "name": "유럽 전쟁 종결", "weight": 100, "narrative": "독일 항복은 유럽 전쟁의 끝을 뜻했다. 서방 연합국은 전후 독일 점령과 유럽 질서 재건이라는 새 과제로 옮겨 갔다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Richard Overy, Why the Allies Won"] },
+    "soviet": { "name": "베를린 승리와 동유럽 영향권", "weight": 100, "narrative": "소련은 베를린 함락과 독일 항복을 대전쟁 승리의 핵심으로 기억했다. 동시에 동유럽의 전후 정치 질서에서 결정적 영향력을 확보했다.", "sources": ["Evan Mawdsley, World War II: A New History", "Antony Beevor, The Second World War"] },
+    "axis": { "name": "나치 체제의 붕괴", "weight": 100, "narrative": "독일 항복은 나치 체제와 유럽 추축 전쟁의 붕괴를 공식화했다. 군사 패배는 전쟁범죄와 점령 책임을 피할 수 없게 만들었다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Max Hastings, Inferno: The World at War, 1939-1945"] },
+    "civilians": { "name": "폐허 속 전후", "weight": 100, "narrative": "유럽 민간사회는 전쟁 종료 뒤에도 폐허, 난민, 식량난, 실종자와 학살의 기억을 감당해야 했다. 평화는 곧 복구의 시작이었다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "Antony Beevor, The Second World War"] }
+  }
+}
