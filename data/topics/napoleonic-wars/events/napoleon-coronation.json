@@ -1,0 +1,13 @@
+{
+  "id": "napoleon-coronation",
+  "name": "나폴레옹 황제 대관",
+  "type": "political",
+  "date": "1804-12",
+  "location": { "lng": 2.35, "lat": 48.85 },
+  "perspectives": {
+    "french": { "name": "혁명 권력의 제국화", "weight": 100, "narrative": "나폴레옹의 황제 대관은 프랑스 혁명 이후의 군사·행정 권력을 세습 제국의 형식으로 굳혔다. 프랑스는 공화정의 전쟁에서 제국의 전쟁으로 이동했다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] },
+    "british": { "name": "개인 독재와 유럽 위협", "weight": 70, "narrative": "영국은 대관을 나폴레옹 개인 지배와 프랑스 팽창이 결합한 신호로 읽었다. 전쟁은 정권 교체 기대보다 장기 억제 전략으로 기울었다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "coalition": { "name": "군주국 질서의 긴장", "weight": 70, "narrative": "오스트리아와 러시아 등 유럽 군주국은 나폴레옹의 황제 칭호를 혁명과 군사력이 낳은 새 왕조의 도전으로 보았다. 기존 질서와 새 제국의 충돌은 더 뚜렷해졌다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Michael Broers, Europe Under Napoleon, 1799-1815"] },
+    "occupied": { "name": "제국 행정의 확장", "weight": 50, "narrative": "프랑스 영향권의 주민에게 대관은 법과 행정, 징병, 세금이 황제의 이름으로 더 깊게 들어오는 계기였다. 혁명적 해방의 언어는 제국적 통제와 함께 움직였다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] }
+  }
+}

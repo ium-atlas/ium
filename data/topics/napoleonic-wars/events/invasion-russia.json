@@ -1,0 +1,13 @@
+{
+  "id": "invasion-russia",
+  "name": "러시아 원정 개시",
+  "type": "movement",
+  "date": "1812-06",
+  "location": { "lng": 23.9, "lat": 54.9 },
+  "perspectives": {
+    "french": { "name": "대륙 봉쇄 강제의 원정", "weight": 100, "narrative": "나폴레옹은 러시아를 다시 대륙 봉쇄와 프랑스 질서 안에 묶기 위해 대육군을 네만강 너머로 진군시켰다. 원정은 제국 동원의 최대 규모를 보여 주었다.", "sources": ["Dominic Lieven, Russia Against Napoleon: The True Story of the Campaigns of War and Peace", "Adam Zamoyski, 1812: Napoleon's Fatal March on Moscow"] },
+    "british": { "name": "동부 전선에 건 기대", "weight": 60, "narrative": "영국은 러시아가 프랑스 군사력을 대륙 깊숙이 묶어 두기를 기대했다. 해상 봉쇄와 재정 지원의 전략은 러시아 전선의 소모와 연결됐다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "coalition": { "name": "러시아의 생존 전쟁", "weight": 100, "narrative": "러시아에게 1812년 원정은 국경 방어를 넘어 제국 생존의 문제였다. 후퇴와 지연, 보급 파괴는 프랑스군을 러시아 내륙으로 끌어들였다.", "sources": ["Dominic Lieven, Russia Against Napoleon: The True Story of the Campaigns of War and Peace", "Adam Zamoyski, 1812: Napoleon's Fatal March on Moscow"] },
+    "occupied": { "name": "동원된 제국의 병사들", "weight": 75, "narrative": "대육군에는 프랑스인만이 아니라 프랑스 영향권의 여러 지역 병사들이 포함됐다. 점령지와 동맹국 주민은 제국 전쟁의 병력과 보급 부담을 떠안았다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] }
+  }
+}

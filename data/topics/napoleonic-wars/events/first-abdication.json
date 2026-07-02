@@ -1,0 +1,13 @@
+{
+  "id": "first-abdication",
+  "name": "나폴레옹 첫 퇴위와 엘바 유배",
+  "type": "political",
+  "date": "1814-04",
+  "location": { "lng": 2.7, "lat": 48.4 },
+  "perspectives": {
+    "french": { "name": "제국 권력의 붕괴", "weight": 100, "narrative": "파리 함락 뒤 나폴레옹은 퇴위하고 엘바로 유배됐다. 프랑스 제국은 군사 패배와 내부 정치 압력 속에서 첫 종말을 맞았다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Alexander Mikaberidze, The Napoleonic Wars: A Global History"] },
+    "british": { "name": "프랑스 억제의 성과", "weight": 75, "narrative": "영국은 나폴레옹 퇴위를 프랑스 팽창을 억제한 장기 전략의 성과로 보았다. 그러나 전후 질서와 프랑스 처리 문제는 여전히 남아 있었다.", "sources": ["Charles Esdaile, Napoleon's Wars: An International History", "Michael Broers, Europe Under Napoleon, 1799-1815"] },
+    "coalition": { "name": "파리 진격의 결말", "weight": 100, "narrative": "대프랑스 동맹은 프랑스 본토로 진격해 나폴레옹 체제를 끝냈다. 러시아, 프로이센, 오스트리아는 이제 전후 유럽 질서의 주도권을 놓고 협상해야 했다.", "sources": ["Alexander Mikaberidze, The Napoleonic Wars: A Global History", "Dominic Lieven, Russia Against Napoleon: The True Story of the Campaigns of War and Peace"] },
+    "occupied": { "name": "해방과 복원 사이", "weight": 70, "narrative": "프랑스 영향권에 있던 지역 주민은 점령 행정의 약화와 옛 권력의 복귀를 동시에 맞았다. 전쟁 종결은 곧바로 안정이 아니라 새 경계와 보복, 재정 부담의 문제였다.", "sources": ["Michael Broers, Europe Under Napoleon, 1799-1815", "David A. Bell, The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It"] }
+  }
+}
