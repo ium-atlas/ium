@@ -1,0 +1,39 @@
+{
+  "id": "hu-yaobang-death",
+  "name": "후야오방 사망",
+  "type": "political",
+  "date": "1989-04",
+  "location": {
+    "lng": 116.40,
+    "lat": 39.90
+  },
+  "perspectives": {
+    "students": {
+      "name": "개혁 상징을 향한 추모",
+      "weight": 95,
+      "narrative": "후야오방의 사망은 학생들에게 정치 개혁과 관료 부패 문제를 공개적으로 말할 계기가 됐다. 추모는 빠르게 청원과 시위로 이어졌다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    },
+    "reformers": {
+      "name": "개혁 노선의 기억",
+      "weight": 80,
+      "narrative": "후야오방은 당내 개혁의 상징으로 기억됐다. 그의 죽음은 지도부 안팎에서 개혁과 안정의 우선순위를 다시 묻게 만들었다.",
+      "sources": [
+        "Zhao Ziyang, Prisoner of the State: The Secret Journal of Premier Zhao Ziyang",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    },
+    "hardliners": {
+      "name": "추모의 정치화 우려",
+      "weight": 70,
+      "narrative": "강경파는 추모가 당의 권위에 대한 공개적 도전으로 번질 가능성을 경계했다. 초기 대응의 불신은 이후 대립을 키웠다.",
+      "sources": [
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    }
+  }
+}

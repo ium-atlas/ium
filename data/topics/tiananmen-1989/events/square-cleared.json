@@ -1,0 +1,39 @@
+{
+  "id": "square-cleared",
+  "name": "천안문 광장 해산",
+  "type": "movement",
+  "date": "1989-06",
+  "location": {
+    "lng": 116.39,
+    "lat": 39.91
+  },
+  "perspectives": {
+    "students": {
+      "name": "철수와 체포의 갈림길",
+      "weight": 95,
+      "narrative": "광장의 학생들은 군 진입 속에서 철수와 잔류를 두고 갈라졌다. 해산 이후 참여자들은 체포 위험과 정치적 낙인을 마주했다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    },
+    "pla": {
+      "name": "광장 통제 회복",
+      "weight": 90,
+      "narrative": "계엄군은 광장과 주변 공간을 통제하며 운동의 중심지를 해산했다. 이후 베이징의 공공 공간은 강력한 감시와 통제 아래 놓였다.",
+      "sources": [
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement",
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers"
+      ]
+    },
+    "hardliners": {
+      "name": "정치 질서 회복의 주장",
+      "weight": 85,
+      "narrative": "강경파는 광장 해산을 질서 회복과 당 권위 수호로 설명했다. 이 해석은 이후 공식 서사와 검열 체계의 바탕이 됐다.",
+      "sources": [
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition",
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited"
+      ]
+    }
+  }
+}

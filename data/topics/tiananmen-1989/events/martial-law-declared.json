@@ -1,0 +1,48 @@
+{
+  "id": "martial-law-declared",
+  "name": "베이징 계엄 선포",
+  "type": "political",
+  "date": "1989-05",
+  "location": {
+    "lng": 116.40,
+    "lat": 39.90
+  },
+  "perspectives": {
+    "hardliners": {
+      "name": "질서 회복을 위한 강제력 선택",
+      "weight": 100,
+      "narrative": "지도부 강경파는 운동을 정치적 혼란으로 보고 계엄을 선택했다. 이 결정은 대화보다 군과 무장경찰을 통한 통제에 무게를 실었다.",
+      "sources": [
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    },
+    "pla": {
+      "name": "수도 진입 명령",
+      "weight": 95,
+      "narrative": "인민해방군은 베이징 진입과 광장 통제 임무를 받았다. 초기 진입은 시민과 학생의 저지, 병력 이동의 난점 속에서 지연됐다.",
+      "sources": [
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement",
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers"
+      ]
+    },
+    "workers_citizens": {
+      "name": "군 진입을 막은 시민들",
+      "weight": 90,
+      "narrative": "베이징 시민과 노동자들은 도로와 교차로에서 병력 이동을 막거나 설득하려 했다. 운동은 광장 안팎의 도시 저항으로 넓어졌다.",
+      "sources": [
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement",
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited"
+      ]
+    },
+    "reformers": {
+      "name": "노선 패배의 신호",
+      "weight": 80,
+      "narrative": "계엄 선포는 대화와 완화를 주장한 개혁파의 영향력이 밀렸음을 보여주었다. 자오쯔양의 입지는 급격히 좁아졌다.",
+      "sources": [
+        "Zhao Ziyang, Prisoner of the State: The Secret Journal of Premier Zhao Ziyang",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    }
+  }
+}

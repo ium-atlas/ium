@@ -1,0 +1,39 @@
+{
+  "id": "student-mourning-tiananmen",
+  "name": "천안문 광장 학생 추모 집회",
+  "type": "movement",
+  "date": "1989-04",
+  "location": {
+    "lng": 116.39,
+    "lat": 39.91
+  },
+  "perspectives": {
+    "students": {
+      "name": "추모에서 청원으로",
+      "weight": 100,
+      "narrative": "학생들은 천안문 광장에 모여 후야오방을 추모하고 정치 개혁, 언론 자유, 부패 문제를 제기했다. 추모 의례는 조직적 청원 행동으로 바뀌었다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    },
+    "workers_citizens": {
+      "name": "도시 시민의 관심 확대",
+      "weight": 75,
+      "narrative": "베이징 시민과 노동자 일부는 학생들의 요구를 지켜보며 동조하거나 생활 불만을 연결했다. 광장은 학생만의 공간에서 도시 정치의 무대로 넓어졌다.",
+      "sources": [
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement",
+        "Louisa Lim, The People's Republic of Amnesia: Tiananmen Revisited"
+      ]
+    },
+    "hardliners": {
+      "name": "질서 회복 압박",
+      "weight": 70,
+      "narrative": "당 지도부 강경파는 광장 집회가 장기화될 경우 통제 불능의 정치 운동으로 확대될 수 있다고 보았다. 안정 유지 논리가 대응의 중심으로 떠올랐다.",
+      "sources": [
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    }
+  }
+}

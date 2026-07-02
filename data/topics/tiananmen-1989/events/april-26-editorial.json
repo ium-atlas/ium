@@ -1,0 +1,39 @@
+{
+  "id": "april-26-editorial",
+  "name": "인민일보 4·26 사설",
+  "type": "political",
+  "date": "1989-04",
+  "location": {
+    "lng": 116.40,
+    "lat": 39.90
+  },
+  "perspectives": {
+    "hardliners": {
+      "name": "운동 성격의 강경 규정",
+      "weight": 100,
+      "narrative": "4·26 사설은 시위를 질서와 당 권위에 대한 위협으로 규정하는 강경한 언어를 사용했다. 이 규정은 지도부와 학생 사이의 타협 공간을 좁혔다.",
+      "sources": [
+        "Andrew J. Nathan and Perry Link, eds., The Tiananmen Papers",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    },
+    "students": {
+      "name": "명예 회복 요구",
+      "weight": 95,
+      "narrative": "학생들은 사설이 운동을 왜곡했다고 보고 철회를 요구했다. 사설은 시위의 동력을 꺾기보다 더 큰 행진과 항의의 명분이 됐다.",
+      "sources": [
+        "Craig Calhoun, Neither Gods nor Emperors: Students and the Struggle for Democracy in China",
+        "Timothy Brook, Quelling the People: The Military Suppression of the Beijing Democracy Movement"
+      ]
+    },
+    "reformers": {
+      "name": "대화 가능성의 약화",
+      "weight": 75,
+      "narrative": "개혁 성향 지도자에게 사설은 대화와 완화의 여지를 줄이는 부담이었다. 이후 지도부 내부의 노선 차이는 더 선명해졌다.",
+      "sources": [
+        "Zhao Ziyang, Prisoner of the State: The Secret Journal of Premier Zhao Ziyang",
+        "Joseph Fewsmith, China Since Tiananmen: The Politics of Transition"
+      ]
+    }
+  }
+}
