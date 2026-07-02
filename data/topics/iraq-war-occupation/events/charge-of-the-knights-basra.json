@@ -1,0 +1,39 @@
+{
+  "id": "charge-of-the-knights-basra",
+  "name": "바스라 기사들의 돌격 작전",
+  "type": "battle",
+  "date": "2008-03",
+  "location": {
+    "lng": 47.78,
+    "lat": 30.51
+  },
+  "perspectives": {
+    "iraqi_government": {
+      "name": "정부군의 독자적 권위 과시",
+      "weight": 100,
+      "narrative": "이라크 정부는 바스라에서 무장세력 진압 작전을 벌이며 국가 권위를 회복하려 했다. 작전은 말리키 정부의 치안 주도 의지를 보여주었다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama"
+      ]
+    },
+    "shia_parties_militias": {
+      "name": "시아파 내부 권력 경쟁",
+      "weight": 95,
+      "narrative": "바스라 전투는 시아파 내부 정당과 민병대의 영향력 경쟁을 드러냈다. 전후 이라크 권력은 종파 구도 안에서도 다시 나뉘었다.",
+      "sources": [
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    },
+    "coalition": {
+      "name": "이라크화의 불안한 진전",
+      "weight": 75,
+      "narrative": "연합군은 이라크 정부가 치안을 주도하는 방향을 지지했지만, 작전 수행의 혼란과 외부 지원 필요도 확인했다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",
+        "Toby Dodge, Iraq: From War to a New Authoritarianism"
+      ]
+    }
+  }
+}

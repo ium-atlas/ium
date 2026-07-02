@@ -1,0 +1,39 @@
+{
+  "id": "baghdad-surge-security-plan",
+  "name": "미군 증파와 바그다드 치안 작전",
+  "type": "battle",
+  "date": "2007-02",
+  "location": {
+    "lng": 44.37,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "증파 전략의 실행",
+      "weight": 100,
+      "narrative": "미국은 병력을 증파하고 바그다드 치안 작전을 강화했다. 전략은 주민 보호, 지역 동맹, 반군 압박을 결합하려 했다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    },
+    "iraqi_government": {
+      "name": "국가 치안 역량 시험",
+      "weight": 85,
+      "narrative": "이라크 정부는 종파 폭력과 민병대 영향력 속에서 수도 치안을 회복해야 했다. 증파는 이라크 국가 역량을 시험하는 계기가 됐다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Phebe Marr, The Modern History of Iraq"
+      ]
+    },
+    "civilians": {
+      "name": "검문과 폭력 감소의 양면",
+      "weight": 85,
+      "narrative": "바그다드 주민은 검문, 장벽, 병력 주둔을 일상적으로 겪었다. 일부 지역의 폭력은 줄었지만 도시의 종파적 분리는 이미 깊어져 있었다.",
+      "sources": [
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "iraq-january-election",
+  "name": "이라크 2005년 1월 선거",
+  "type": "political",
+  "date": "2005-01",
+  "location": {
+    "lng": 44.37,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "iraqi_government": {
+      "name": "새 정치 질서의 제도화",
+      "weight": 100,
+      "narrative": "점령 이후 첫 전국 선거는 새 헌정 질서와 대표 정치의 출발점으로 제시됐다. 이라크 정치 세력은 선거를 통해 새 국가 권력에 진입했다.",
+      "sources": [
+        "Phebe Marr, The Modern History of Iraq",
+        "Toby Dodge, Iraq: From War to a New Authoritarianism"
+      ]
+    },
+    "shia_parties_militias": {
+      "name": "시아파 정당의 제도권 부상",
+      "weight": 95,
+      "narrative": "시아파 정당과 종교 네트워크는 선거를 통해 다수 정치의 중심에 섰다. 이는 사담 정권 이후 권력 균형이 크게 바뀌었음을 보여주었다.",
+      "sources": [
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity",
+        "Phebe Marr, The Modern History of Iraq"
+      ]
+    },
+    "sunni_insurgents": {
+      "name": "불참과 배제의 악순환",
+      "weight": 80,
+      "narrative": "수니파 지역의 낮은 참여와 반군 폭력은 새 정치 질서에 대한 불신을 드러냈다. 대표성 문제는 이후 종파 갈등의 핵심 쟁점으로 남았다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity"
+      ]
+    },
+    "civilians": {
+      "name": "투표와 폭력의 공존",
+      "weight": 85,
+      "narrative": "민간인은 공격 위험 속에서도 투표 참여와 보이콧 사이에서 선택해야 했다. 선거는 희망의 장면이면서 동시에 불안한 치안 현실을 드러냈다.",
+      "sources": [
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq",
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace"
+      ]
+    }
+  }
+}

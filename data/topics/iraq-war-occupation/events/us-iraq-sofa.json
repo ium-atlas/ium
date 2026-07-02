@@ -1,0 +1,39 @@
+{
+  "id": "us-iraq-sofa",
+  "name": "미-이라크 지위협정 승인",
+  "type": "treaty",
+  "date": "2008-11",
+  "location": {
+    "lng": 44.37,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "iraqi_government": {
+      "name": "주권 회복 일정의 확보",
+      "weight": 100,
+      "narrative": "이라크 정부는 미군 주둔의 법적 틀과 철수 일정을 담은 지위협정을 승인했다. 협정은 점령 이후 주권 회복을 제도적으로 표시했다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Phebe Marr, The Modern History of Iraq"
+      ]
+    },
+    "coalition": {
+      "name": "철수 조건의 제도화",
+      "weight": 95,
+      "narrative": "미국은 협정을 통해 군사 작전과 주둔의 법적 기반을 정리했다. 전쟁은 무기한 점령에서 단계적 철수 국면으로 옮겨갔다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    },
+    "regional": {
+      "name": "주변국이 보는 전후 질서",
+      "weight": 70,
+      "narrative": "주변국은 미군 철수 일정이 이라크 권력 균형과 지역 안보에 미칠 영향을 주시했다. 이라크 전쟁은 여전히 지역 정치의 변수였다.",
+      "sources": [
+        "Charles Tripp, A History of Iraq",
+        "Phebe Marr, The Modern History of Iraq"
+      ]
+    }
+  }
+}

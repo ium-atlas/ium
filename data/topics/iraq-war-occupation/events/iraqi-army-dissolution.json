@@ -1,0 +1,39 @@
+{
+  "id": "iraqi-army-dissolution",
+  "name": "이라크군 해산 결정",
+  "type": "political",
+  "date": "2003-05",
+  "location": {
+    "lng": 44.37,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "구군대 해체와 보안 공백",
+      "weight": 100,
+      "narrative": "연합임시행정처는 기존 이라크군 해산을 결정했다. 구정권 군사 기반을 제거하려는 선택은 동시에 무장 경험자와 치안 공백 문제를 키웠다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, Cobra II: The Inside Story of the Invasion and Occupation of Iraq",
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace"
+      ]
+    },
+    "sunni_insurgents": {
+      "name": "배제된 무장 인력의 분노",
+      "weight": 90,
+      "narrative": "많은 전직 군인과 보안 인력은 생계와 지위를 잃었다. 이들 중 일부는 이후 점령 반대 무장 저항의 인적 기반으로 흘러갔다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama"
+      ]
+    },
+    "civilians": {
+      "name": "치안 부재의 일상화",
+      "weight": 85,
+      "narrative": "경찰과 군의 공백은 약탈, 납치, 무장세력 확산을 막기 어렵게 만들었다. 민간인은 국가 없는 안전이라는 가장 직접적인 문제를 겪었다.",
+      "sources": [
+        "Phebe Marr, The Modern History of Iraq",
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cpa-debaathification-order",
+  "name": "연합임시행정처 탈바트당화 명령",
+  "type": "political",
+  "date": "2003-05",
+  "location": {
+    "lng": 44.37,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "구정권 제거 정책",
+      "weight": 95,
+      "narrative": "연합임시행정처는 바트당 고위층을 국가기관에서 배제하는 탈바트당화 명령을 발표했다. 구정권 청산은 새 질서 구축의 핵심 수단으로 제시됐다.",
+      "sources": [
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace",
+        "Toby Dodge, Iraq: From War to a New Authoritarianism"
+      ]
+    },
+    "baath": {
+      "name": "관료·전문직 배제",
+      "weight": 85,
+      "narrative": "정책은 정권 충성파 처벌을 넘어 관료, 교사, 기술직의 생계와 지위를 흔들었다. 일부는 새 체제에서 배제됐다는 분노를 키웠다.",
+      "sources": [
+        "Charles Tripp, A History of Iraq",
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace"
+      ]
+    },
+    "iraqi_government": {
+      "name": "새 국가 건설의 난제",
+      "weight": 80,
+      "narrative": "이라크 과도 정치 세력은 구정권 청산과 행정 능력 유지 사이에서 어려운 균형을 맞춰야 했다. 국가기관 재건은 시작부터 인력 공백을 안았다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Phebe Marr, The Modern History of Iraq"
+      ]
+    }
+  }
+}

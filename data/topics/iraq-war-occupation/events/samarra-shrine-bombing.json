@@ -1,0 +1,39 @@
+{
+  "id": "samarra-shrine-bombing",
+  "name": "사마라 알아스카리 사원 폭파",
+  "type": "political",
+  "date": "2006-02",
+  "location": {
+    "lng": 43.88,
+    "lat": 34.20
+  },
+  "perspectives": {
+    "shia_parties_militias": {
+      "name": "성지 공격과 보복 동원",
+      "weight": 100,
+      "narrative": "사마라 알아스카리 사원 폭파는 시아파 공동체에 깊은 충격을 주었고, 민병대 보복과 종파 동원의 계기가 됐다.",
+      "sources": [
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity",
+        "Toby Dodge, Iraq: From War to a New Authoritarianism"
+      ]
+    },
+    "sunni_insurgents": {
+      "name": "종파전으로 기울어진 반군 폭력",
+      "weight": 90,
+      "narrative": "알카에다계 세력과 수니파 반군 일부의 폭력은 점령 반대를 넘어 종파전의 성격을 강화했다. 사건 이후 공동체 간 보복 폭력이 급격히 커졌다.",
+      "sources": [
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity",
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama"
+      ]
+    },
+    "civilians": {
+      "name": "동네 단위의 공포",
+      "weight": 100,
+      "narrative": "민간인은 납치, 암살, 강제 이주, 검문과 보복의 공포를 일상에서 겪었다. 종파 폭력은 바그다드와 여러 도시의 사회 지도를 바꾸었다.",
+      "sources": [
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    }
+  }
+}

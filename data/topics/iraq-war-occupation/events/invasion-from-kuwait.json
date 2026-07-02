@@ -1,0 +1,39 @@
+{
+  "id": "invasion-from-kuwait",
+  "name": "쿠웨이트 방면 침공 개시",
+  "type": "battle",
+  "date": "2003-03",
+  "location": {
+    "lng": 47.70,
+    "lat": 30.00
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "정권 교체 전쟁의 시작",
+      "weight": 100,
+      "narrative": "미국 주도 연합군은 쿠웨이트 방면에서 이라크를 침공하며 사담 후세인 정권 제거를 목표로 삼았다. 신속한 기동전은 바그다드 진격의 출발점이 됐다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, Cobra II: The Inside Story of the Invasion and Occupation of Iraq",
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace"
+      ]
+    },
+    "baath": {
+      "name": "체제 방어의 붕괴 시작",
+      "weight": 95,
+      "narrative": "바트당 정권은 침공을 외세 공격으로 규정했지만, 남부 전선에서 연합군의 기동을 막기 어려웠다. 정규군과 정권 충성 조직은 방어 태세에 들어갔다.",
+      "sources": [
+        "Charles Tripp, A History of Iraq",
+        "Michael R. Gordon and Bernard E. Trainor, Cobra II: The Inside Story of the Invasion and Occupation of Iraq"
+      ]
+    },
+    "civilians": {
+      "name": "전쟁 재개와 피난 불안",
+      "weight": 75,
+      "narrative": "민간인은 1990년대 제재와 전쟁의 기억 위에서 또 다른 침공을 맞았다. 남부와 도시 지역에는 피난, 생필품, 치안 불안이 빠르게 커졌다.",
+      "sources": [
+        "Phebe Marr, The Modern History of Iraq",
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace"
+      ]
+    }
+  }
+}

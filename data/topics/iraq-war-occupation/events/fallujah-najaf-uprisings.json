@@ -1,0 +1,48 @@
+{
+  "id": "fallujah-najaf-uprisings",
+  "name": "팔루자·나자프 봉기",
+  "type": "battle",
+  "date": "2004-04",
+  "location": {
+    "lng": 43.78,
+    "lat": 33.35
+  },
+  "perspectives": {
+    "sunni_insurgents": {
+      "name": "팔루자 저항의 확대",
+      "weight": 95,
+      "narrative": "팔루자는 수니파 지역의 점령 반대 무장 저항을 상징하는 공간이 됐다. 충돌은 지역 분노와 점령 통치의 한계를 드러냈다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",
+        "Toby Dodge, Iraq: From War to a New Authoritarianism"
+      ]
+    },
+    "shia_parties_militias": {
+      "name": "나자프와 사드르 흐름",
+      "weight": 90,
+      "narrative": "나자프에서는 시아파 민병대와 점령 당국의 갈등이 격화됐다. 시아파 정치가 선거 제도와 거리 무장력 사이에서 움직인다는 점이 분명해졌다.",
+      "sources": [
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity",
+        "Phebe Marr, The Modern History of Iraq"
+      ]
+    },
+    "coalition": {
+      "name": "동시다발 점령 위기",
+      "weight": 90,
+      "narrative": "연합군은 팔루자와 나자프에서 서로 다른 성격의 무장 저항을 동시에 맞았다. 점령 안정화가 단순 군사 승리로 해결되지 않는다는 점이 드러났다.",
+      "sources": [
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace",
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama"
+      ]
+    },
+    "civilians": {
+      "name": "도시 전투의 피해",
+      "weight": 85,
+      "narrative": "팔루자와 나자프 주민은 시가전, 검문, 피난, 생업 붕괴의 피해를 겪었다. 점령 전쟁은 도시 생활 깊숙이 들어왔다.",
+      "sources": [
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    }
+  }
+}

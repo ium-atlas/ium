@@ -1,0 +1,48 @@
+{
+  "id": "us-withdrawal-2011",
+  "name": "미군 최종 철수",
+  "type": "movement",
+  "date": "2011-12",
+  "location": {
+    "lng": 44.37,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "장기 점령의 종결",
+      "weight": 100,
+      "narrative": "2011년 말 미군은 이라크에서 최종 철수했다. 미국에게 이는 2003년 침공 이후 장기 점령과 안정화 전쟁의 공식적 마무리였다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    },
+    "iraqi_government": {
+      "name": "주권과 취약성의 동시 도래",
+      "weight": 95,
+      "narrative": "이라크 정부는 외국군 철수로 더 큰 주권을 얻었지만, 정치적 분열과 치안 취약성도 함께 떠안았다. 전후 국가는 아직 안정되지 않았다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Phebe Marr, The Modern History of Iraq"
+      ]
+    },
+    "civilians": {
+      "name": "전쟁 이후의 삶",
+      "weight": 85,
+      "narrative": "민간인에게 철수는 폭력의 즉각적 종식을 뜻하지 않았다. 가족 상실, 이주, 종파 분리, 생활 기반 회복이 전후 일상의 과제로 남았다.",
+      "sources": [
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq",
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity"
+      ]
+    },
+    "regional": {
+      "name": "지역 권력 공백의 우려",
+      "weight": 75,
+      "narrative": "미군 철수는 이라크 내부 권력 균형뿐 아니라 이란, 걸프 국가, 터키가 보는 지역 질서에도 영향을 주었다. 전쟁의 파장은 국경 밖으로 이어졌다.",
+      "sources": [
+        "Charles Tripp, A History of Iraq",
+        "Toby Dodge, Iraq: From War to a New Authoritarianism"
+      ]
+    }
+  }
+}
