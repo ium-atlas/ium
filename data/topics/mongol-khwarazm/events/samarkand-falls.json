@@ -1,0 +1,39 @@
+{
+  "id": "samarkand-falls",
+  "name": "사마르칸트 함락",
+  "type": "siege",
+  "date": "1220-03",
+  "location": {
+    "lng": 66.97,
+    "lat": 39.65
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "호라즘 수도권 압도",
+      "weight": 100,
+      "narrative": "사마르칸트 함락은 몽골군이 호라즘의 핵심 정치·군사 거점을 압도했음을 보여 주었다. 항복과 처벌의 조합은 다른 도시에도 압박이 됐다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "David Morgan, The Mongols"
+      ]
+    },
+    "khwarazm": {
+      "name": "제국 심장의 붕괴",
+      "weight": 100,
+      "narrative": "호라즘에게 사마르칸트의 상실은 지휘와 상징의 붕괴였다. 무함마드 2세는 도시를 지키기보다 이동과 회피에 의존하게 됐다.",
+      "sources": [
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion",
+        "Timothy May, The Mongol Conquests in World History"
+      ]
+    },
+    "islamic": {
+      "name": "중앙아시아 도시망의 파열",
+      "weight": 95,
+      "narrative": "사마르칸트는 중앙아시아 이슬람 도시망의 핵심이었다. 함락은 상업·학문·정치 중심지가 연쇄적으로 무너지는 과정의 큰 장면이었다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    }
+  }
+}

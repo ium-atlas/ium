@@ -1,0 +1,28 @@
+{
+  "id": "mongol-khwarazm",
+  "title": "몽골의 호라즘 원정",
+  "period": [1218, 1221],
+  "start": "1218-00",
+  "end": "1221-11",
+  "bounds": [
+    [52.0, 32.0],
+    [72.0, 44.0]
+  ],
+  "perspectives": [
+    {
+      "code": "mongol",
+      "label": "몽골",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "khwarazm",
+      "label": "호라즘",
+      "color": "#d94a4a"
+    },
+    {
+      "code": "islamic",
+      "label": "이슬람권",
+      "color": "#3eb489"
+    }
+  ]
+}

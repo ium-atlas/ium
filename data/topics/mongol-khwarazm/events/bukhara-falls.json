@@ -1,0 +1,39 @@
+{
+  "id": "bukhara-falls",
+  "name": "부하라 함락",
+  "type": "siege",
+  "date": "1220-02",
+  "location": {
+    "lng": 64.43,
+    "lat": 39.77
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "중심부 돌파",
+      "weight": 100,
+      "narrative": "부하라 함락은 몽골군이 호라즘 중심부 깊숙이 들어왔음을 보여 주었다. 칭기즈 칸의 기동은 방어선 우회와 도시 공포를 결합했다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Timothy May, The Mongol Conquests in World History"
+      ]
+    },
+    "khwarazm": {
+      "name": "핵심 도시의 상실",
+      "weight": 100,
+      "narrative": "호라즘에게 부하라 함락은 국가 중심부가 더 이상 보호받지 못한다는 신호였다. 무함마드 2세의 방어 전략은 급격히 무너졌다.",
+      "sources": [
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion",
+        "David Morgan, The Mongols"
+      ]
+    },
+    "islamic": {
+      "name": "학문·상업 도시의 충격",
+      "weight": 100,
+      "narrative": "부하라는 이슬람권의 중요한 학문·상업 도시였다. 함락은 단순 군사 패배가 아니라 도시 문명과 종교 공동체가 받은 충격으로 기억됐다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    }
+  }
+}

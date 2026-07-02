@@ -1,0 +1,39 @@
+{
+  "id": "mongol-campaign-begins",
+  "name": "몽골 원정 개시",
+  "type": "movement",
+  "date": "1219-09",
+  "location": {
+    "lng": 68.0,
+    "lat": 43.0
+  },
+  "perspectives": {
+    "mongol": {
+      "name": "분진 진격",
+      "weight": 100,
+      "narrative": "칭기즈 칸은 여러 군단을 나누어 호라즘 방어선을 압박했다. 몽골의 기동전은 국경 요새와 대도시를 동시에 흔드는 방식으로 전개됐다.",
+      "sources": [
+        "Rashid al-Din, Jami' al-Tawarikh: Compendium of Chronicles",
+        "David Morgan, The Mongols"
+      ]
+    },
+    "khwarazm": {
+      "name": "분산 방어의 위기",
+      "weight": 95,
+      "narrative": "호라즘은 광대한 영토와 도시 방어에 의존했지만 몽골의 분산 진격에 주도권을 빼앗겼다. 무함마드 2세의 중앙 지휘도 흔들렸다.",
+      "sources": [
+        "Ata-Malik Juvaini, The History of the World-Conqueror, translated by John Andrew Boyle",
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion"
+      ]
+    },
+    "islamic": {
+      "name": "도시권으로 다가온 전쟁",
+      "weight": 80,
+      "narrative": "이슬람권 도시와 상업망은 초원 전쟁이 곧 성벽 앞의 현실이 되는 과정을 겪었다. 원정 개시는 중앙아시아 도시권의 연쇄 위기를 열었다.",
+      "sources": [
+        "Peter Jackson, The Mongols and the Islamic World: From Conquest to Conversion",
+        "Timothy May, The Mongol Conquests in World History"
+      ]
+    }
+  }
+}
