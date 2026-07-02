@@ -1,0 +1,111 @@
+[
+  {
+    "year": 1669,
+    "label": "칸디아 함락",
+    "sources": [
+      "Caroline Finkel, Osman’s Dream: The Story of the Ottoman Empire, 1300-1923",
+      "Cambridge University Press, The Cambridge History of Turkey, Vol. 3: The Later Ottoman Empire, 1603-1839"
+    ]
+  },
+  {
+    "year": 1683,
+    "label": "제2차 빈 공방전",
+    "sources": [
+      "Caroline Finkel, Osman’s Dream: The Story of the Ottoman Empire, 1300-1923",
+      "Cambridge University Press, The Cambridge History of Turkey, Vol. 3: The Later Ottoman Empire, 1603-1839"
+    ]
+  },
+  {
+    "year": 1699,
+    "label": "카를로비츠 조약",
+    "sources": [
+      "Caroline Finkel, Osman’s Dream: The Story of the Ottoman Empire, 1300-1923",
+      "Cambridge University Press, The Cambridge History of Turkey, Vol. 3: The Later Ottoman Empire, 1603-1839"
+    ]
+  },
+  {
+    "year": 1722,
+    "label": "사파비 왕조 붕괴",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Iran, Vol. 6: The Timurid and Safavid Periods",
+      "Cambridge University Press, The Cambridge History of Iran, Vol. 7: From Nadir Shah to the Islamic Republic"
+    ]
+  },
+  {
+    "year": 1747,
+    "label": "두라니 제국 수립",
+    "sources": [
+      "Thomas Barfield, Afghanistan: A Cultural and Political History",
+      "Cambridge University Press, The Cambridge History of Iran, Vol. 7: From Nadir Shah to the Islamic Republic"
+    ]
+  },
+  {
+    "year": 1798,
+    "label": "프랑스 이집트 원정",
+    "sources": [
+      "Juan Cole, Napoleon's Egypt: Invading the Middle East",
+      "Cambridge University Press, The Cambridge History of Egypt, Vol. 2: Modern Egypt, from 1517 to the End of the Twentieth Century"
+    ]
+  },
+  {
+    "year": 1805,
+    "label": "무함마드 알리 통치 시작",
+    "sources": [
+      "Afaf Lutfi al-Sayyid Marsot, Egypt in the Reign of Muhammad Ali",
+      "Cambridge University Press, The Cambridge History of Egypt, Vol. 2: Modern Egypt, from 1517 to the End of the Twentieth Century"
+    ]
+  },
+  {
+    "year": 1826,
+    "label": "예니체리 폐지",
+    "sources": [
+      "Caroline Finkel, Osman’s Dream: The Story of the Ottoman Empire, 1300-1923",
+      "Cambridge University Press, The Cambridge History of Turkey, Vol. 3: The Later Ottoman Empire, 1603-1839"
+    ]
+  },
+  {
+    "year": 1839,
+    "label": "탄지마트 시작",
+    "sources": [
+      "Caroline Finkel, Osman’s Dream: The Story of the Ottoman Empire, 1300-1923",
+      "Cambridge University Press, The Cambridge History of Turkey, Vol. 3: The Later Ottoman Empire, 1603-1839"
+    ]
+  },
+  {
+    "range": [1853, 1856],
+    "label": "크림 전쟁",
+    "sources": [
+      "Caroline Finkel, Osman’s Dream: The Story of the Ottoman Empire, 1300-1923",
+      "Cambridge University Press, The Cambridge History of Turkey, Vol. 4: Turkey in the Modern World"
+    ]
+  },
+  {
+    "year": 1869,
+    "label": "수에즈 운하 개통",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Egypt, Vol. 2: Modern Egypt, from 1517 to the End of the Twentieth Century"
+    ]
+  },
+  {
+    "year": 1876,
+    "label": "오스만 헌법 공포",
+    "sources": [
+      "Caroline Finkel, Osman’s Dream: The Story of the Ottoman Empire, 1300-1923",
+      "Cambridge University Press, The Cambridge History of Turkey, Vol. 4: Turkey in the Modern World"
+    ]
+  },
+  {
+    "year": 1881,
+    "label": "마흐디 운동 발흥",
+    "sources": [
+      "P. M. Holt, The Mahdist State in the Sudan, 1881-1898"
+    ]
+  },
+  {
+    "year": 1882,
+    "label": "영국의 이집트 점령",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of Egypt, Vol. 2: Modern Egypt, from 1517 to the End of the Twentieth Century"
+    ]
+  }
+]
