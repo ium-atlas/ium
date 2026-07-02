@@ -1,0 +1,16 @@
+{
+  "id": "fourth-crusade",
+  "title": "제4차 십자군과 콘스탄티노폴리스 약탈",
+  "period": [1202, 1204],
+  "start": "1202-11",
+  "end": "1204-06",
+  "bounds": [
+    [14.5, 39.0],
+    [30.2, 45.0]
+  ],
+  "perspectives": [
+    { "code": "lat", "label": "라틴 십자군", "color": "#4a90d9" },
+    { "code": "byz", "label": "비잔틴", "color": "#b06ad9" },
+    { "code": "ven", "label": "베네치아", "color": "#d9b44a" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "zara-excommunication",
+  "name": "자라 공격 파문",
+  "type": "political",
+  "date": "1202-12",
+  "location": { "lng": 15.2314, "lat": 44.1194 },
+  "perspectives": {
+    "lat": { "name": "성전 명분의 균열", "weight": 90, "narrative": "교황의 파문은 십자군이 성전 명분을 유지하기 어렵게 만들었다. 원정은 이미 복잡한 정치 거래에 묶였다.", "sources": ["Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople", "Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople"] },
+    "byz": { "name": "라틴 통제력 약화", "weight": 40, "narrative": "비잔틴 입장에서 파문은 라틴 원정군을 제어하는 서방 교회 권위가 충분하지 않다는 신호였다.", "sources": ["Michael Angold, The Fourth Crusade: Event and Context"] },
+    "ven": { "name": "상업 전략과 교황권 충돌", "weight": 85, "narrative": "베네치아는 교황의 반대에도 자라 문제를 원정의 조건으로 밀어붙였다. 상업 도시의 이해가 성전 규범과 충돌했다.", "sources": ["Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople"] }
+  }
+}

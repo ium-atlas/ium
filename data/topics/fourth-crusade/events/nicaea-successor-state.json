@@ -1,0 +1,12 @@
+{
+  "id": "nicaea-successor-state",
+  "name": "니케아 망명 정권 형성",
+  "type": "political",
+  "date": "1204-06",
+  "location": { "lng": 29.72, "lat": 40.43 },
+  "perspectives": {
+    "lat": { "name": "정복지 밖의 저항", "weight": 70, "narrative": "라틴 제국은 콘스탄티노폴리스를 차지했지만 니케아 등 비잔틴 후계 세력의 저항을 곧 마주했다.", "sources": ["Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople", "Michael Angold, The Fourth Crusade: Event and Context"] },
+    "byz": { "name": "제국 회복의 거점", "weight": 100, "narrative": "니케아 정권은 수도 상실 뒤 비잔틴 정치 전통을 이어 간 핵심 거점이 됐다. 1204년의 붕괴는 완전한 종말이 아니었다.", "sources": ["Niketas Choniates, O City of Byzantium: Annals of Niketas Choniates", "Michael Angold, The Fourth Crusade: Event and Context"] },
+    "ven": { "name": "해상 이익과 내륙 한계", "weight": 60, "narrative": "베네치아는 해상 거점에서는 큰 이익을 얻었지만, 니케아 같은 내륙 후계 세력까지 완전히 통제하지는 못했다.", "sources": ["Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople", "Michael Angold, The Fourth Crusade: Event and Context"] }
+  }
+}

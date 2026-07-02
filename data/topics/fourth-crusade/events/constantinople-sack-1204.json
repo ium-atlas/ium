@@ -1,0 +1,12 @@
+{
+  "id": "constantinople-sack-1204",
+  "name": "콘스탄티노폴리스 함락과 약탈",
+  "type": "massacre",
+  "date": "1204-04",
+  "location": { "lng": 28.9784, "lat": 41.0082 },
+  "perspectives": {
+    "lat": { "name": "원정의 파국적 성공", "weight": 100, "narrative": "라틴 원정군은 도시를 함락했지만 성지 회복이라는 원래 목표는 사라졌다. 승리는 십자군 명분의 깊은 붕괴이기도 했다.", "sources": ["Geoffrey de Villehardouin, The Conquest of Constantinople", "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople"] },
+    "byz": { "name": "제국 수도의 재앙", "weight": 100, "narrative": "비잔틴 관점에서 1204년 약탈은 수도와 성물, 시민 사회를 파괴한 재앙이었다. 동서 교회와 정치의 상처도 깊어졌다.", "sources": ["Niketas Choniates, O City of Byzantium: Annals of Niketas Choniates", "Michael Angold, The Fourth Crusade: Event and Context"] },
+    "ven": { "name": "전리품과 특권 확보", "weight": 95, "narrative": "베네치아는 약탈과 분할에서 막대한 전리품과 해상 거점을 얻었다. 상업 공화국의 동지중해 입지는 크게 강화됐다.", "sources": ["Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople"] }
+  }
+}

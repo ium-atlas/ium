@@ -1,0 +1,12 @@
+{
+  "id": "zara-siege",
+  "name": "자라 공방전",
+  "type": "siege",
+  "date": "1202-11",
+  "location": { "lng": 15.2314, "lat": 44.1194 },
+  "perspectives": {
+    "lat": { "name": "빚과 원정의 왜곡", "weight": 85, "narrative": "자라 공격은 십자군이 예루살렘이 아니라 기독교 도시를 공격하게 된 첫 큰 일탈이었다.", "sources": ["Geoffrey de Villehardouin, The Conquest of Constantinople", "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople"] },
+    "byz": { "name": "라틴 원정의 위험 신호", "weight": 45, "narrative": "비잔틴은 아직 직접 표적은 아니었지만, 라틴 원정군이 정치·채무 문제로 방향을 바꿀 수 있음을 보여 주었다.", "sources": ["Michael Angold, The Fourth Crusade: Event and Context"] },
+    "ven": { "name": "베네치아 이해의 관철", "weight": 100, "narrative": "베네치아에게 자라 공격은 원정 운송 대금 문제와 아드리아해 경쟁을 동시에 해결하려는 선택이었다.", "sources": ["Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople", "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople"] }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mourtzouphlos-coup",
+  "name": "알렉시오스 5세 쿠데타",
+  "type": "political",
+  "date": "1204-01",
+  "location": { "lng": 28.9784, "lat": 41.0082 },
+  "perspectives": {
+    "lat": { "name": "협상 붕괴", "weight": 95, "narrative": "알렉시오스 5세의 집권은 원정군이 기대한 보상과 합의를 무너뜨렸다. 라틴군은 도시 정복을 현실적 선택으로 보게 됐다.", "sources": ["Geoffrey de Villehardouin, The Conquest of Constantinople", "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople"] },
+    "byz": { "name": "반라틴 정권의 등장", "weight": 100, "narrative": "비잔틴 시민과 귀족의 반라틴 정서는 알렉시오스 5세 집권의 배경이 됐다. 그러나 새 정권도 군사 위기를 막지 못했다.", "sources": ["Niketas Choniates, O City of Byzantium: Annals of Niketas Choniates", "Michael Angold, The Fourth Crusade: Event and Context"] },
+    "ven": { "name": "채권 회수의 무력화", "weight": 80, "narrative": "베네치아에게 쿠데타는 약속된 대금과 특권을 잃을 위험이었다. 군사적 해결의 유인이 더 커졌다.", "sources": ["Donald E. Queller and Thomas F. Madden, The Fourth Crusade: The Conquest of Constantinople"] }
+  }
+}
