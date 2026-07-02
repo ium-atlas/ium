@@ -1,0 +1,13 @@
+{
+  "id": "operation-barbarossa",
+  "name": "바르바로사 작전",
+  "type": "movement",
+  "date": "1941-06",
+  "location": { "lng": 27.56, "lat": 53.90 },
+  "perspectives": {
+    "axis": { "name": "동부 절멸전의 시작", "weight": 100, "narrative": "독일의 소련 침공은 영토 확장과 이념 전쟁, 인종주의적 점령 구상을 결합했다. 동부전선은 전쟁의 규모와 폭력을 크게 키웠다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Antony Beevor, The Second World War"] },
+    "soviet": { "name": "생존 전쟁으로의 전환", "weight": 100, "narrative": "소련은 기습 침공으로 큰 손실을 입었지만 전쟁을 국가 생존과 동원 체제의 문제로 전환했다. 동부전선은 전쟁 승패의 중심축이 됐다.", "sources": ["Evan Mawdsley, World War II: A New History", "Richard Overy, Why the Allies Won"] },
+    "allies": { "name": "새 동맹의 형성", "weight": 85, "narrative": "독일의 소련 침공은 영국과 소련을 같은 편으로 묶었다. 이념 차이에도 불구하고 독일 격파라는 공동 목표가 연합국 전략을 바꾸었다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Richard Overy, Why the Allies Won"] },
+    "civilians": { "name": "점령과 학살의 확대", "weight": 100, "narrative": "동부 점령지는 민간인 학살, 기아, 강제노동, 유대인 박해가 급격히 확대되는 공간이 됐다. 전선과 후방의 경계는 무너졌다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "Antony Beevor, The Second World War"] }
+  }
+}

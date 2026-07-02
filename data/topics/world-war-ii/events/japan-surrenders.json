@@ -1,0 +1,14 @@
+{
+  "id": "japan-surrenders",
+  "name": "일본 항복문서 조인",
+  "type": "treaty",
+  "date": "1945-09",
+  "location": { "lng": 139.76, "lat": 35.46 },
+  "perspectives": {
+    "allies": { "name": "세계대전 종결", "weight": 100, "narrative": "도쿄만에서 일본 항복문서가 조인되면서 제2차 세계대전은 공식적으로 끝났다. 연합국은 점령, 전범 재판, 전후 국제질서 수립으로 이동했다.", "sources": ["Richard B. Frank, Downfall: The End of the Imperial Japanese Empire", "Gerhard L. Weinberg, A World at Arms: A Global History of World War II"] },
+    "axis": { "name": "일본 제국의 패전", "weight": 100, "narrative": "일본의 항복은 태평양 전쟁과 일본 제국 팽창의 종말을 뜻했다. 군국주의 체제는 점령과 개혁의 대상이 됐다.", "sources": ["John W. Dower, War Without Mercy: Race and Power in the Pacific War", "Richard B. Frank, Downfall: The End of the Imperial Japanese Empire"] },
+    "china": { "name": "항전 승리와 내전의 그림자", "weight": 85, "narrative": "중국은 긴 항일전쟁의 승리를 맞았지만 전후 권력 경쟁과 내전의 압력도 커졌다. 일본 패전은 중국 현대사의 다음 갈등으로 이어졌다.", "sources": ["Rana Mitter, China's War with Japan, 1937-1945", "Evan Mawdsley, World War II: A New History"] },
+    "colonial": { "name": "식민지 해방과 새 점령", "weight": 90, "narrative": "일본 항복은 아시아 점령지와 식민지에 권력 공백을 만들었다. 해방의 기대는 곧 재점령, 독립운동, 냉전 질서와 얽혔다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Max Hastings, Inferno: The World at War, 1939-1945"] },
+    "civilians": { "name": "끝난 전쟁, 남은 상처", "weight": 100, "narrative": "전쟁 종결 뒤에도 민간사회는 귀환, 실종자, 폭격 피해, 굶주림, 점령 경험을 감당해야 했다. 종전은 고통의 종료가 아니라 회복의 시작이었다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "John W. Dower, War Without Mercy: Race and Power in the Pacific War"] }
+  }
+}

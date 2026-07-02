@@ -1,0 +1,13 @@
+{
+  "id": "d-day-normandy",
+  "name": "노르망디 상륙",
+  "type": "battle",
+  "date": "1944-06",
+  "location": { "lng": -0.57, "lat": 49.34 },
+  "perspectives": {
+    "allies": { "name": "서부전선 재개", "weight": 100, "narrative": "노르망디 상륙은 서방 연합군이 프랑스에 대규모 교두보를 확보한 사건이었다. 독일은 동부와 서부 양쪽에서 압박을 받게 됐다.", "sources": ["Richard Overy, Why the Allies Won", "Antony Beevor, The Second World War"] },
+    "axis": { "name": "양면 압박의 심화", "weight": 90, "narrative": "독일은 상륙을 막지 못하면서 서부 방어선을 계속 후퇴시켜야 했다. 전쟁 후반의 병력과 보급 부족이 더 뚜렷해졌다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Evan Mawdsley, World War II: A New History"] },
+    "soviet": { "name": "제2전선의 의미", "weight": 75, "narrative": "소련은 오래 요구해 온 서방의 제2전선이 열리는 것을 보았다. 독일군 압박은 동부전선의 소련 공세와 함께 작동했다.", "sources": ["Evan Mawdsley, World War II: A New History", "Richard Overy, Why the Allies Won"] },
+    "civilians": { "name": "해방과 파괴의 동시성", "weight": 85, "narrative": "노르망디 주민은 독일 점령에서 벗어나는 기대와 폭격, 전투, 피난의 피해를 동시에 겪었다. 해방은 곧바로 안전을 뜻하지 않았다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "Antony Beevor, The Second World War"] }
+  }
+}

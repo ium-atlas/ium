@@ -1,0 +1,12 @@
+{
+  "id": "wannsee-conference",
+  "name": "반제 회의",
+  "type": "council",
+  "date": "1942-01",
+  "location": { "lng": 13.40, "lat": 52.52 },
+  "perspectives": {
+    "axis": { "name": "절멸 정책의 행정 조율", "weight": 100, "narrative": "반제 회의는 나치가 유대인 절멸 정책을 관료적으로 조율한 사건이었다. 이는 전쟁 수행과 대량학살 행정이 결합해 있었음을 보여 준다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Antony Beevor, The Second World War"] },
+    "civilians": { "name": "피해자 관점의 중심성", "weight": 100, "narrative": "회의의 행정 언어 뒤에는 유대인과 다른 박해 대상 민간인의 추방, 수용, 살해가 있었다. 홀로코스트는 민간인 피해를 전쟁의 주변이 아니라 중심에 놓는다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "Gerhard L. Weinberg, A World at Arms: A Global History of World War II"] },
+    "allies": { "name": "전후 정의의 과제", "weight": 55, "narrative": "연합국은 전쟁 중 나치 범죄의 전모를 점차 파악했고, 전후 처리에서 전쟁범죄와 반인도범죄 문제가 핵심 과제가 됐다.", "sources": ["Evan Mawdsley, World War II: A New History", "Gerhard L. Weinberg, A World at Arms: A Global History of World War II"] }
+  }
+}

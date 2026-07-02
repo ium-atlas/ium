@@ -1,0 +1,13 @@
+{
+  "id": "changsha-1939",
+  "name": "제1차 창사 전투",
+  "type": "battle",
+  "date": "1939-09",
+  "location": { "lng": 112.94, "lat": 28.23 },
+  "perspectives": {
+    "china": { "name": "장기 항전의 방어", "weight": 100, "narrative": "창사 전투는 중국이 일본 공세에 맞서 장기 항전을 이어 갈 수 있음을 보여 주었다. 중국 전선은 유럽 전쟁과 별개로 이미 큰 소모전을 치르고 있었다.", "sources": ["Rana Mitter, China's War with Japan, 1937-1945", "Antony Beevor, The Second World War"] },
+    "axis": { "name": "일본군의 중국 전선 압박", "weight": 90, "narrative": "일본군은 중국 중부의 전략 도시를 압박해 국민정부의 저항력을 약화시키려 했다. 그러나 중국 전선은 빠른 결말보다 장기 점령 부담을 키웠다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Rana Mitter, China's War with Japan, 1937-1945"] },
+    "allies": { "name": "아시아 전장의 지속", "weight": 60, "narrative": "유럽 전쟁이 막 시작될 때 중국은 이미 일본과 전면전을 치르고 있었다. 이후 연합국 전략에서 중국 전선은 일본 병력을 묶는 중요한 전장이 됐다.", "sources": ["Rana Mitter, China's War with Japan, 1937-1945", "Evan Mawdsley, World War II: A New History"] },
+    "civilians": { "name": "내륙 도시의 전쟁화", "weight": 80, "narrative": "창사와 주변 주민은 폭격, 피난, 병참 동원의 영향을 받았다. 중국 전선의 전쟁은 도시와 농촌 생활을 지속적으로 압박했다.", "sources": ["Rana Mitter, China's War with Japan, 1937-1945", "Max Hastings, Inferno: The World at War, 1939-1945"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "operation-bagration",
+  "name": "바그라티온 작전",
+  "type": "battle",
+  "date": "1944-06",
+  "location": { "lng": 27.56, "lat": 53.90 },
+  "perspectives": {
+    "soviet": { "name": "대공세와 해방", "weight": 100, "narrative": "소련군의 바그라티온 작전은 독일 중부집단군을 붕괴시키고 벨라루스와 동유럽 진격의 길을 열었다. 동부전선의 전략 주도권은 확실히 소련에 있었다.", "sources": ["Evan Mawdsley, World War II: A New History", "Richard Overy, Why the Allies Won"] },
+    "axis": { "name": "동부 방어선 붕괴", "weight": 100, "narrative": "독일군은 바그라티온에서 회복하기 어려운 손실을 입었다. 동부전선의 붕괴는 전쟁 패배를 가속했다.", "sources": ["Gerhard L. Weinberg, A World at Arms: A Global History of World War II", "Antony Beevor, The Second World War"] },
+    "allies": { "name": "동서 동시 압박", "weight": 85, "narrative": "노르망디 상륙과 거의 동시에 벌어진 소련 대공세는 독일을 양쪽에서 압박했다. 연합국 승리는 여러 전선의 동시 효과로 만들어졌다.", "sources": ["Richard Overy, Why the Allies Won", "Evan Mawdsley, World War II: A New History"] },
+    "civilians": { "name": "점령지의 전선 이동", "weight": 80, "narrative": "벨라루스와 주변 지역 주민은 독일 점령, 빨치산 전쟁, 소련 재진입 사이에서 큰 피해와 불확실성을 겪었다. 해방과 새 통제는 함께 찾아왔다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "Antony Beevor, The Second World War"] }
+  }
+}

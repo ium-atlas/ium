@@ -1,0 +1,13 @@
+{
+  "id": "pearl-harbor",
+  "name": "진주만 공격",
+  "type": "battle",
+  "date": "1941-12",
+  "location": { "lng": -157.95, "lat": 21.36 },
+  "perspectives": {
+    "axis": { "name": "일본의 태평양 선제공격", "weight": 100, "narrative": "일본은 미국 태평양함대를 타격해 동남아시아와 태평양으로 팽창할 시간을 벌려 했다. 공격은 전쟁을 진정한 세계전쟁으로 확장했다.", "sources": ["John W. Dower, War Without Mercy: Race and Power in the Pacific War", "Gerhard L. Weinberg, A World at Arms: A Global History of World War II"] },
+    "allies": { "name": "미국 참전", "weight": 100, "narrative": "진주만 공격은 미국을 전쟁에 직접 끌어들였다. 미국의 산업력과 해군력은 이후 연합국 전쟁 수행의 결정적 자원이 됐다.", "sources": ["Richard Overy, Why the Allies Won", "Richard B. Frank, Downfall: The End of the Imperial Japanese Empire"] },
+    "colonial": { "name": "동남아시아 침공의 문", "weight": 85, "narrative": "태평양 공격은 말레이, 필리핀, 네덜란드령 동인도 등 식민지 지역 침공과 이어졌다. 일본의 팽창은 유럽 제국 질서를 흔들었다.", "sources": ["Evan Mawdsley, World War II: A New History", "John W. Dower, War Without Mercy: Race and Power in the Pacific War"] },
+    "civilians": { "name": "태평양 전쟁의 충격", "weight": 75, "narrative": "하와이 주민과 군 가족은 갑작스러운 공격과 전시 동원의 충격을 겪었다. 미국 사회도 공포와 분노 속에서 총력전 체제로 빠르게 이동했다.", "sources": ["Max Hastings, Inferno: The World at War, 1939-1945", "John W. Dower, War Without Mercy: Race and Power in the Pacific War"] }
+  }
+}
