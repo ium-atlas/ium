@@ -1,0 +1,13 @@
+{
+  "id": "yalu-river-battle",
+  "name": "압록강 전투",
+  "type": "battle",
+  "date": "1904-05",
+  "location": { "lng": 124.4, "lat": 40.1 },
+  "perspectives": {
+    "japan": { "name": "만주 진입의 승리", "weight": 100, "narrative": "압록강 전투의 승리는 일본 육군이 조선 북부를 넘어 만주로 진입할 수 있음을 보여 주었다. 전쟁의 육상 주도권이 일본 쪽으로 기울었다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] },
+    "russia": { "name": "초기 방어선의 후퇴", "weight": 95, "narrative": "러시아군은 압록강 방어선에서 패하며 만주 전선의 첫 큰 육상 충돌을 잃었다. 병력과 보급을 더 깊은 만주 내륙으로 재정비해야 했다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] },
+    "korea": { "name": "북방 통로의 군사화", "weight": 80, "narrative": "압록강 일대는 대한제국 북방 경계와 맞닿은 공간이었다. 일본군의 통과와 전투는 조선이 전쟁 후방과 진격로로 편입됐음을 보여 주었다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "청 영토에서 벌어진 전투", "weight": 95, "narrative": "전투는 청 영토인 만주로 전쟁이 본격 확산되는 장면이었다. 청의 중립과 주권은 러시아 주둔과 일본 진격 사이에서 사실상 제약됐다.", "sources": ["Rotem Kowner, Historical Dictionary of the Russo-Japanese War", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] }
+  }
+}

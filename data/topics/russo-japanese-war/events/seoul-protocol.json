@@ -1,0 +1,13 @@
+{
+  "id": "seoul-protocol",
+  "name": "한일의정서",
+  "type": "treaty",
+  "date": "1904-02",
+  "location": { "lng": 126.978, "lat": 37.5665 },
+  "perspectives": {
+    "japan": { "name": "조선 내 군사 행동 제도화", "weight": 100, "narrative": "한일의정서는 일본이 대한제국 안에서 군사상 필요한 지점을 사용할 수 있는 근거가 됐다. 일본은 전쟁 수행과 조선 장악을 하나의 과정으로 묶었다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "russia": { "name": "한반도 영향력 상실", "weight": 70, "narrative": "러시아에게 한일의정서는 전쟁 초반 조선에서 일본이 행정·군사 우위를 굳히는 신호였다. 러시아의 조선 내 영향력은 급격히 좁아졌다.", "sources": ["Ian Nish, The Origins of the Russo-Japanese War", "J. N. Westwood, Russia Against Japan, 1904-05"] },
+    "korea": { "name": "주권 침해의 제도화", "weight": 100, "narrative": "대한제국의 관점에서 한일의정서는 전쟁 협조 형식을 띠었지만 실제로는 일본군 주둔과 내정 간섭을 제도화했다. 중립 선언은 무력화됐다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "주변 질서 재편의 신호", "weight": 40, "narrative": "청은 조선에 대한 전통적 영향력을 이미 크게 잃은 뒤였지만, 한일의정서는 동아시아의 종래 질서가 일본 중심으로 더 빠르게 이동하는 신호였다.", "sources": ["Ian Nish, The Origins of the Russo-Japanese War", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] }
+  }
+}

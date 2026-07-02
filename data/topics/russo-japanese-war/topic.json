@@ -1,0 +1,17 @@
+{
+  "id": "russo-japanese-war",
+  "title": "러일전쟁",
+  "period": [1904, 1905],
+  "start": "1904-02",
+  "end": "1905-11",
+  "bounds": [
+    [-71.0, 34.0],
+    [140.0, 44.0]
+  ],
+  "perspectives": [
+    { "code": "japan", "label": "일본", "color": "#dc2626" },
+    { "code": "russia", "label": "러시아", "color": "#2563eb" },
+    { "code": "korea", "label": "대한제국", "color": "#16a34a" },
+    { "code": "qing", "label": "청·만주 현장", "color": "#f59e0b" }
+  ]
+}

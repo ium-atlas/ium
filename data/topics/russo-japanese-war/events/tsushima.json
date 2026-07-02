@@ -1,0 +1,13 @@
+{
+  "id": "tsushima",
+  "name": "쓰시마 해전",
+  "type": "battle",
+  "date": "1905-05",
+  "location": { "lng": 129.0, "lat": 34.6 },
+  "perspectives": {
+    "japan": { "name": "해군 승리의 결정타", "weight": 100, "narrative": "쓰시마 해전에서 일본 해군은 러시아 발트 함대를 격파해 해상 주도권을 확정했다. 전쟁을 끝낼 외교적 조건이 빠르게 무르익었다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] },
+    "russia": { "name": "발트 함대의 파멸", "weight": 100, "narrative": "장거리 항해 끝에 도착한 발트 함대의 궤멸은 러시아가 전쟁을 계속할 해군 수단을 잃었음을 뜻했다. 제국의 위신도 크게 손상됐다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] },
+    "korea": { "name": "대한해협의 전쟁화", "weight": 80, "narrative": "전투 해역은 대한제국과 일본 사이의 해상 통로였다. 일본의 해상 장악은 조선에 대한 군사·외교 압박을 더 쉽게 만들었다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "전후 만주 협상의 압박", "weight": 45, "narrative": "해전은 청 영토에서 벌어진 사건은 아니었지만, 일본 승리의 확정은 만주에서 러시아와 일본의 권익 재편을 청이 받아들여야 하는 압력을 키웠다.", "sources": ["Ian Nish, The Origins of the Russo-Japanese War", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] }
+  }
+}

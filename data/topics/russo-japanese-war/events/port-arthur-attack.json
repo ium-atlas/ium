@@ -1,0 +1,13 @@
+{
+  "id": "port-arthur-attack",
+  "name": "뤼순 기습 공격",
+  "type": "battle",
+  "date": "1904-02",
+  "location": { "lng": 121.246, "lat": 38.812 },
+  "perspectives": {
+    "japan": { "name": "선제 해상 타격", "weight": 100, "narrative": "일본 해군의 뤼순 기습은 러시아 태평양 함대를 묶어 두고 조선·만주 작전의 주도권을 잡으려는 개전 행위였다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] },
+    "russia": { "name": "극동 함대의 기습 피해", "weight": 100, "narrative": "러시아는 선전포고 직전의 공격으로 극동 함대가 손상되는 충격을 받았다. 뤼순은 이후 러시아 방어와 제국 체면의 상징이 됐다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] },
+    "korea": { "name": "전쟁 속 보호국화의 전조", "weight": 65, "narrative": "전쟁의 시작은 대한제국 영토와 항만이 일본군 이동의 기반으로 쓰이는 상황을 앞당겼다. 군사 작전은 곧 조선 내 정치 압박으로 이어졌다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "만주의 전장화", "weight": 85, "narrative": "뤼순은 청의 주권 아래 있던 만주 남단이었지만 러시아 조차와 일본 공격 속에서 제국들의 전장이 됐다. 청 조정은 핵심 영토의 전쟁을 통제하지 못했다.", "sources": ["Rotem Kowner, Historical Dictionary of the Russo-Japanese War", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] }
+  }
+}

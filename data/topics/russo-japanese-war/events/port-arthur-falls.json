@@ -1,0 +1,13 @@
+{
+  "id": "port-arthur-falls",
+  "name": "뤼순 함락",
+  "type": "siege",
+  "date": "1905-01",
+  "location": { "lng": 121.246, "lat": 38.812 },
+  "perspectives": {
+    "japan": { "name": "요새전의 고비 통과", "weight": 100, "narrative": "뤼순 함락은 일본군이 막대한 손실 끝에 러시아의 핵심 해군 거점을 무너뜨린 사건이었다. 해상과 만주 전선의 압박이 동시에 강화됐다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "Rotem Kowner, Historical Dictionary of the Russo-Japanese War"] },
+    "russia": { "name": "태평양 거점 상실", "weight": 100, "narrative": "러시아는 뤼순 요새와 항구를 잃으며 극동 해군 기반을 크게 상실했다. 패배는 제국 내부의 불만과 전쟁 회의론을 키웠다.", "sources": ["J. N. Westwood, Russia Against Japan, 1904-05", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] },
+    "korea": { "name": "일본 우위의 가속", "weight": 65, "narrative": "뤼순 함락은 일본의 전쟁 승리 가능성을 키웠고, 대한제국을 둘러싼 일본의 압박도 더 강해졌다. 조선 문제는 전쟁 후 처리의 핵심으로 다가갔다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Alexis Dudden, Japan's Colonization of Korea"] },
+    "qing": { "name": "조차지 전쟁의 결말", "weight": 90, "narrative": "청의 뤼순 지역은 러시아 조차지였지만 전쟁의 결과 일본 손에 넘어갔다. 청 영토 안의 항구 주도권이 외국 제국 사이에서 이동했다.", "sources": ["Rotem Kowner, Historical Dictionary of the Russo-Japanese War", "John W. Steinberg et al., The Russo-Japanese War in Global Perspective"] }
+  }
+}
