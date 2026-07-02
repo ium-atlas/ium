@@ -1,0 +1,19 @@
+{
+  "id": "first-sino-japanese-war",
+  "title": "청일전쟁",
+  "subtitle": "조선 위기에서 동아시아 질서 재편으로",
+  "period": [1894, 1895],
+  "start": "1894-06",
+  "end": "1895-10",
+  "bounds": [
+    [120.5, 21.5],
+    [140.2, 40.3]
+  ],
+  "card": [126.8, 36.7],
+  "perspectives": [
+    { "code": "japan", "label": "일본", "color": "#dc2626" },
+    { "code": "qing", "label": "청", "color": "#2563eb" },
+    { "code": "korea", "label": "조선", "color": "#16a34a" },
+    { "code": "western", "label": "서구 열강", "color": "#7c3aed" }
+  ]
+}

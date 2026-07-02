@@ -1,0 +1,13 @@
+{
+  "id": "weihaiwei-battle-1895",
+  "name": "웨이하이웨이 전투",
+  "type": "siege",
+  "date": "1895-02",
+  "location": { "lng": 122.12, "lat": 37.5 },
+  "perspectives": {
+    "japan": { "name": "북양함대 제압", "weight": 100, "narrative": "일본군은 웨이하이웨이를 공격해 북양함대의 마지막 주요 거점을 무너뜨렸다. 해상과 육상 압박은 청을 강화 협상으로 몰아갔다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "qing": { "name": "해군 근대화의 좌절", "weight": 100, "narrative": "웨이하이웨이 패배로 북양함대는 사실상 전쟁 수행 능력을 잃었다. 청의 양무운동식 군사 근대화는 일본과의 전쟁에서 혹독한 한계를 드러냈다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "청 영향력의 후퇴 확인", "weight": 40, "narrative": "청의 해군 거점 붕괴는 조선에서 청이 다시 영향력을 회복할 가능성을 더 낮췄다. 조선의 외교 공간은 일본과 열강의 압박 속으로 재편됐다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "동아시아 해상 균형 변화", "weight": 70, "narrative": "서구 열강은 북양함대 붕괴를 동아시아 해상 세력 균형의 변화로 보았다. 일본은 더 이상 지역 후발국으로만 볼 수 없는 군사 행위자가 됐다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "Marius B. Jansen, The Making of Modern Japan"] }
+  }
+}

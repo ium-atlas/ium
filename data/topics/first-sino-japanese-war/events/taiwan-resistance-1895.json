@@ -1,0 +1,13 @@
+{
+  "id": "taiwan-resistance-1895",
+  "name": "타이완 할양 반대 저항",
+  "type": "movement",
+  "date": "1895-05",
+  "location": { "lng": 121.5, "lat": 25.04 },
+  "perspectives": {
+    "japan": { "name": "새 식민지 편입의 시작", "weight": 90, "narrative": "일본은 시모노세키 조약으로 타이완을 확보했지만 현지 저항을 진압해야 했다. 승전의 영토 성과는 곧 식민지 통치의 군사적 과제로 바뀌었다.", "sources": ["J. W. Davidson, The Island of Formosa, Past and Present", "Marius B. Jansen, The Making of Modern Japan"] },
+    "qing": { "name": "할양 뒤의 책임 회피", "weight": 70, "narrative": "청은 조약으로 타이완을 할양했지만 현지 주민과 관리 일부는 일본 통치를 거부했다. 중앙의 강화 결정과 현지의 저항 사이에는 큰 간극이 있었다.", "sources": ["J. W. Davidson, The Island of Formosa, Past and Present", "S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "제국 팽창의 경고", "weight": 35, "narrative": "조선의 관점에서 타이완 저항은 일본의 승전이 조선 문제에만 머물지 않고 식민지 팽창으로 이어질 수 있음을 보여 주는 경고였다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "동아시아 식민지 전환 관찰", "weight": 75, "narrative": "서구 열강은 일본이 타이완을 실제로 통치할 수 있는지 지켜보았다. 타이완 저항은 일본이 열강식 식민지 국가로 움직이는 초기 시험이었다.", "sources": ["J. W. Davidson, The Island of Formosa, Past and Present", "James L. McClain, Japan: A Modern History"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "port-arthur-captured-1894",
+  "name": "여순 점령",
+  "type": "siege",
+  "date": "1894-11",
+  "location": { "lng": 121.25, "lat": 38.81 },
+  "perspectives": {
+    "japan": { "name": "전략 항구 장악", "weight": 100, "narrative": "일본군은 여순을 점령해 랴오둥반도의 핵심 항구를 확보했다. 승리는 군사적으로 컸지만 점령 뒤 민간인 피해 논란이 일본의 국제 이미지를 흔들었다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy", "James L. McClain, Japan: A Modern History"] },
+    "qing": { "name": "보하이 방어의 붕괴", "weight": 100, "narrative": "여순 상실은 청의 북방 해상 방어와 랴오둥 거점이 무너졌음을 뜻했다. 전쟁 패배의 압박은 베이징과 강화 협상으로 가까워졌다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "일본 우위의 확정 신호", "weight": 40, "narrative": "조선에서 시작된 전쟁이 청 본토의 전략항 점령으로 이어지자, 조선의 향후 질서는 일본 우위 아래 놓일 가능성이 커졌다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "민간인 피해 논란", "weight": 90, "narrative": "여순 점령 뒤 민간인 학살과 피해 보도는 서구 여론에서 큰 논란이 됐다. 일본의 근대국가 이미지와 전쟁 수행 방식이 동시에 평가 대상이 됐다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] }
+  }
+}

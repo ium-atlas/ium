@@ -1,0 +1,13 @@
+{
+  "id": "seonghwan-asan",
+  "name": "성환·아산 전투",
+  "type": "battle",
+  "date": "1894-07",
+  "location": { "lng": 127.13, "lat": 36.91 },
+  "perspectives": {
+    "japan": { "name": "한반도 지상전 우위", "weight": 100, "narrative": "일본군은 성환과 아산 일대에서 청군을 격파하며 한반도 남부와 중부의 군사 주도권을 확보했다. 빠른 지상전 승리는 일본의 작전 자신감을 키웠다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "qing": { "name": "조선 주둔군의 후퇴", "weight": 95, "narrative": "청군은 조선에 주둔해 영향력을 유지하려 했지만 성환·아산 패배로 전선을 북쪽으로 물려야 했다. 종주권을 군사력으로 지키려는 시도는 초반부터 흔들렸다.", "sources": ["S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] },
+    "korea": { "name": "전선에 놓인 조선 내륙", "weight": 85, "narrative": "성환과 아산의 전투는 조선 내륙이 외국군 전장으로 바뀌었음을 보여 주었다. 조선 정부의 개혁과 치안 문제는 일본군의 군사 주도 아래 재편되기 시작했다.", "sources": ["Peter Duus, The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910", "Hilary Conroy, The Japanese Seizure of Korea, 1868-1910"] },
+    "western": { "name": "일본군 역량의 재평가", "weight": 45, "narrative": "서구 관찰자에게 초반 지상전 승리는 일본군의 근대화 수준을 재평가하게 하는 신호였다. 조선 위기는 동아시아 세력 균형의 변화로 읽혔다.", "sources": ["James L. McClain, Japan: A Modern History", "S. C. M. Paine, The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy"] }
+  }
+}
