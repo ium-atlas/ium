@@ -1,0 +1,37 @@
+{
+  "id": "alexandria-cairo-spread",
+  "name": "알렉산드리아·카이로 확산",
+  "type": "movement",
+  "date": "1348-09",
+  "location": {
+    "lng": 31.2357,
+    "lat": 30.0444
+  },
+  "perspectives": {
+    "eu": {
+      "name": "지중해 남안의 동시 충격",
+      "weight": 45,
+      "narrative": "유럽 항구의 발병과 거의 같은 시기, 지중해 남안도 대유행을 겪었다. 흑사병은 유럽 내부 사건이 아니라 지중해 세계의 재난이었다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    },
+    "is": {
+      "name": "맘루크권의 대도시 피해",
+      "weight": 100,
+      "narrative": "카이로와 알렉산드리아의 확산은 맘루크 이집트가 흑사병의 주요 피해 지역이었음을 보여 준다. 도시 인구, 종교 대응, 행정 부담이 함께 흔들렸다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    },
+    "trade": {
+      "name": "홍해·지중해 교역 결절",
+      "weight": 90,
+      "narrative": "이집트는 홍해, 인도양, 지중해를 잇는 교역 결절이었다. 흑사병 확산은 장거리 상업망의 취약성을 드러냈다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East",
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    }
+  }
+}

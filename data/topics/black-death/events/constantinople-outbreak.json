@@ -1,0 +1,37 @@
+{
+  "id": "constantinople-outbreak",
+  "name": "콘스탄티노플 발병",
+  "type": "movement",
+  "date": "1347-11",
+  "location": {
+    "lng": 28.9799,
+    "lat": 41.0086
+  },
+  "perspectives": {
+    "eu": {
+      "name": "동지중해 관문",
+      "weight": 70,
+      "narrative": "콘스탄티노플은 흑해와 지중해를 잇는 관문이었다. 이곳의 발병은 유럽 전파를 해상 교역과 제국 수도 네트워크 속에서 보게 한다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    },
+    "is": {
+      "name": "동지중해 전염권",
+      "weight": 60,
+      "narrative": "동지중해의 발병은 비잔틴과 이슬람권 항로가 같은 전염권에 놓였음을 보여 준다. 병은 종교권 경계를 따라 움직이지 않았다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    },
+    "trade": {
+      "name": "흑해-지중해 연결점",
+      "weight": 100,
+      "narrative": "콘스탄티노플은 흑해, 에게해, 동지중해가 만나는 교통 결절점이었다. 전파 지도에서 이 도시는 경유지로서 의미가 크다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History",
+        "Samuel K. Cohn Jr., The Black Death Transformed: Disease and Culture in Early Renaissance Europe"
+      ]
+    }
+  }
+}

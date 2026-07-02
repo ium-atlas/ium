@@ -1,0 +1,37 @@
+{
+  "id": "paris-outbreak",
+  "name": "파리 발병",
+  "type": "movement",
+  "date": "1348-08",
+  "location": {
+    "lng": 2.3522,
+    "lat": 48.8566
+  },
+  "perspectives": {
+    "eu": {
+      "name": "프랑스 북부 확산",
+      "weight": 90,
+      "narrative": "파리와 프랑스 북부의 발병은 흑사병이 지중해 항구를 넘어 내륙 정치·학술 중심지로 확산됐음을 보여 준다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History",
+        "John Aberth, The Black Death: The Great Mortality of 1348-1350: A Brief History with Documents"
+      ]
+    },
+    "is": {
+      "name": "서유럽 내륙 전파 사례",
+      "weight": 20,
+      "narrative": "파리의 발병은 이슬람권 직접 사건은 아니지만, 같은 대유행이 각 지역 대도시에 도달한 순차성을 비교하게 해 준다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    },
+    "trade": {
+      "name": "육상·하천 네트워크",
+      "weight": 75,
+      "narrative": "파리 확산은 병이 해상 항로에서 끝나지 않고 육상과 하천, 시장 연결망을 따라 내륙으로 들어갔음을 보여 준다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    }
+  }
+}

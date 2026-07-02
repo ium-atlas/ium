@@ -1,0 +1,37 @@
+{
+  "id": "messina-arrival",
+  "name": "메시나 도착",
+  "type": "movement",
+  "date": "1347-10",
+  "location": {
+    "lng": 15.554,
+    "lat": 38.1938
+  },
+  "perspectives": {
+    "eu": {
+      "name": "서유럽 확산의 항구",
+      "weight": 100,
+      "narrative": "메시나는 흑사병이 지중해 서부와 이탈리아 도시권으로 확산되는 초기 항구로 자주 다뤄진다. 항구 네트워크는 이후 전파 속도를 키웠다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History",
+        "John Aberth, The Black Death: The Great Mortality of 1348-1350: A Brief History with Documents"
+      ]
+    },
+    "is": {
+      "name": "지중해 공동 전염권",
+      "weight": 35,
+      "narrative": "메시나의 발병은 유럽만의 사건이 아니라 지중해 전역의 이동과 교역 속에서 보아야 한다. 같은 시기 동지중해와 이슬람권 도시도 전염 충격을 겪었다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East"
+      ]
+    },
+    "trade": {
+      "name": "해상 교역망의 통로",
+      "weight": 95,
+      "narrative": "메시나 사례는 병이 특정 군대보다 항만과 선박 이동을 따라 빠르게 퍼졌음을 보여 준다. 전파 경로는 교역망의 촘촘함과 분리하기 어렵다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    }
+  }
+}

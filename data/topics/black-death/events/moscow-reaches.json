@@ -1,0 +1,38 @@
+{
+  "id": "moscow-reaches",
+  "name": "모스크바 도달",
+  "type": "movement",
+  "date": "1352-01",
+  "location": {
+    "lng": 37.6173,
+    "lat": 55.7558
+  },
+  "perspectives": {
+    "eu": {
+      "name": "동유럽 확산",
+      "weight": 80,
+      "narrative": "모스크바 도달은 흑사병이 서유럽과 지중해를 넘어 동유럽과 러시아권까지 이어졌음을 보여 준다. 대유행의 시간차도 드러난다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    },
+    "is": {
+      "name": "초원·도시권 접점",
+      "weight": 45,
+      "narrative": "동유럽 확산은 초원 교역, 몽골계 정치권, 도시 네트워크를 함께 고려하게 한다. 이슬람권·흑해권과도 간접 연결된다.",
+      "sources": [
+        "Michael W. Dols, The Black Death in the Middle East",
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History"
+      ]
+    },
+    "trade": {
+      "name": "유라시아 연결망의 끝단",
+      "weight": 80,
+      "narrative": "모스크바 사례는 흑사병이 단일 중심에서 폭발한 사건이 아니라 유라시아 연결망의 여러 경로를 따라 시차를 두고 확산된 재난임을 보여 준다.",
+      "sources": [
+        "Ole J. Benedictow, The Black Death 1346-1353: The Complete History",
+        "Samuel K. Cohn Jr., The Black Death Transformed: Disease and Culture in Early Renaissance Europe"
+      ]
+    }
+  }
+}

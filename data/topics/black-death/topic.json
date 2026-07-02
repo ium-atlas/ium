@@ -1,0 +1,42 @@
+{
+  "id": "black-death",
+  "title": "흑사병",
+  "subtitle": "1346-1353",
+  "period": [
+    1346,
+    1353
+  ],
+  "start": "1346-09",
+  "end": "1353-12",
+  "bounds": [
+    [
+      -10,
+      25
+    ],
+    [
+      40,
+      61
+    ]
+  ],
+  "card": [
+    15,
+    45
+  ],
+  "perspectives": [
+    {
+      "code": "eu",
+      "label": "유럽",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "is",
+      "label": "이슬람권",
+      "color": "#3eb489"
+    },
+    {
+      "code": "trade",
+      "label": "교역망",
+      "color": "#d9b44a"
+    }
+  ]
+}
