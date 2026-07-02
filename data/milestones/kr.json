@@ -75,5 +75,110 @@
     "year": 1636,
     "label": "병자호란",
     "sources": ["국사편찬위원회, 신편 한국사 29권 조선 중기의 외침과 그 대응"]
+  },
+  {
+    "range": [1654, 1658],
+    "label": "나선정벌",
+    "sources": ["국사편찬위원회, 한국사데이터베이스, 조선왕조실록"]
+  },
+  {
+    "range": [1670, 1671],
+    "label": "경신대기근",
+    "sources": ["국사편찬위원회, 한국사데이터베이스, 승정원일기"]
+  },
+  {
+    "year": 1728,
+    "label": "이인좌의 난",
+    "sources": ["국사편찬위원회, 한국사데이터베이스, 조선왕조실록"]
+  },
+  {
+    "year": 1801,
+    "label": "신유박해",
+    "sources": ["국사편찬위원회, 한국사데이터베이스, 조선왕조실록"]
+  },
+  {
+    "range": [1811, 1812],
+    "label": "홍경래의 난",
+    "sources": ["국사편찬위원회, 한국사데이터베이스, 조선왕조실록"]
+  },
+  {
+    "year": 1866,
+    "label": "병인박해",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
+  },
+  {
+    "year": 1866,
+    "label": "병인양요",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
+  },
+  {
+    "year": 1871,
+    "label": "신미양요",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
+  },
+  {
+    "year": 1876,
+    "label": "강화도조약",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
+  },
+  {
+    "year": 1882,
+    "label": "임오군란",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
+  },
+  {
+    "year": 1884,
+    "label": "갑신정변",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
+  },
+  {
+    "year": 1894,
+    "label": "동학농민운동",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
+  },
+  {
+    "year": 1894,
+    "label": "갑오개혁",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
+  },
+  {
+    "year": 1895,
+    "label": "을미사변",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
+  },
+  {
+    "year": 1897,
+    "label": "대한제국 선포",
+    "sources": [
+      "국사편찬위원회, 한국사데이터베이스, 조선왕조실록",
+      "Carter J. Eckert et al., Korea Old and New: A History"
+    ]
   }
 ]
