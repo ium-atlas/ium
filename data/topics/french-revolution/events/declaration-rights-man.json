@@ -1,0 +1,13 @@
+{
+  "id": "declaration-rights-man",
+  "name": "인간과 시민의 권리 선언",
+  "type": "political",
+  "date": "1789-08",
+  "location": { "lng": 2.3522, "lat": 48.8566 },
+  "perspectives": {
+    "revolutionary": { "name": "혁명 원리의 공식화", "weight": 100, "narrative": "권리 선언은 자유, 평등, 국민 주권의 언어로 혁명의 원리를 공식화했다. 헌정 질서의 기준이 왕권이 아니라 보편 권리로 이동했다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "royalist": { "name": "왕권 제한의 이념화", "weight": 90, "narrative": "왕당파에게 권리 선언은 왕의 역사적 권위와 신분 질서를 추상적 권리 언어로 제한하는 문서였다. 정치 충돌은 이념 충돌로 깊어졌다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "sansculotte": { "name": "권리와 생계의 간극", "weight": 70, "narrative": "도시 민중은 권리의 언어에 기대를 걸었지만, 빵값과 일자리 문제는 선언만으로 해결되지 않았다. 이후 사회적 권리 요구가 커지는 배경이 됐다.", "sources": ["David Andress, The Terror: The Merciless War for Freedom in Revolutionary France", "William Doyle, The Oxford History of the French Revolution"] },
+    "europe": { "name": "보편주의의 파급", "weight": 75, "narrative": "유럽 군주국은 프랑스 혁명이 국내 개혁을 넘어 보편 원리를 주장하는 데 주목했다. 선언은 국경을 넘는 정치 언어가 됐다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] }
+  }
+}

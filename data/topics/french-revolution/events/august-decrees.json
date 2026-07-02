@@ -1,0 +1,13 @@
+{
+  "id": "august-decrees",
+  "name": "8월 법령",
+  "type": "political",
+  "date": "1789-08",
+  "location": { "lng": 2.3522, "lat": 48.8566 },
+  "perspectives": {
+    "revolutionary": { "name": "구체제 특권의 폐지", "weight": 100, "narrative": "8월 법령은 봉건적 특권과 신분적 권리의 폐지를 선언해 혁명의 법적 방향을 바꾸었다. 국민의회는 사회 질서 자체를 재구성하기 시작했다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "royalist": { "name": "귀족 질서의 해체", "weight": 95, "narrative": "왕당파와 특권 신분에게 8월 법령은 오래된 권리와 위계가 급속히 무너지는 충격이었다. 타협은 곧 손실로 체감됐다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "sansculotte": { "name": "농촌·도시 불만의 반영", "weight": 80, "narrative": "대공포와 민중 압력은 의회가 특권 폐지를 선언하게 만든 배경이었다. 도시 민중과 농민의 분노가 법 개혁을 밀어붙였다.", "sources": ["Simon Schama, Citizens: A Chronicle of the French Revolution", "William Doyle, The Oxford History of the French Revolution"] },
+    "europe": { "name": "사회 혁명의 확산 우려", "weight": 55, "narrative": "유럽 군주국과 귀족층은 프랑스의 특권 폐지가 자국 사회 질서에도 영향을 줄 수 있다고 보았다. 혁명은 이념적 파급력을 얻었다.", "sources": ["William Doyle, The Oxford History of the French Revolution"] }
+  }
+}

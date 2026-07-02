@@ -1,0 +1,13 @@
+{
+  "id": "thermidor",
+  "name": "테르미도르 반동",
+  "type": "political",
+  "date": "1794-07",
+  "location": { "lng": 2.3522, "lat": 48.8566 },
+  "perspectives": {
+    "revolutionary": { "name": "공포정치의 종결", "weight": 100, "narrative": "로베스피에르의 실각과 처형은 공포정치의 중심을 무너뜨렸다. 혁명 정부는 급진적 비상 통치에서 벗어나려 했지만 권력 공백과 보복도 뒤따랐다.", "sources": ["David Andress, The Terror: The Merciless War for Freedom in Revolutionary France", "R. R. Palmer, Twelve Who Ruled: The Year of the Terror in the French Revolution"] },
+    "royalist": { "name": "반혁명 기대의 확대", "weight": 70, "narrative": "왕당파 일부는 테르미도르를 공포정치 약화와 왕당 복귀 가능성의 신호로 보았다. 그러나 공화정 자체가 곧 무너진 것은 아니었다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "David Andress, The Terror: The Merciless War for Freedom in Revolutionary France"] },
+    "sansculotte": { "name": "민중 급진주의의 후퇴", "weight": 95, "narrative": "테르미도르 이후 상퀼로트의 정치적 영향력은 빠르게 줄었다. 가격 통제와 거리 급진주의에 대한 반격이 이어졌다.", "sources": ["David Andress, The Terror: The Merciless War for Freedom in Revolutionary France", "William Doyle, The Oxford History of the French Revolution"] },
+    "europe": { "name": "프랑스 체제 변화 관망", "weight": 65, "narrative": "유럽 군주국은 테르미도르가 프랑스의 전쟁 의지를 약화시킬지 주시했다. 하지만 혁명군의 대외 전쟁은 계속됐다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "R. R. Palmer, Twelve Who Ruled: The Year of the Terror in the French Revolution"] }
+  }
+}

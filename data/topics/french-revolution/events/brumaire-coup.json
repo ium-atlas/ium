@@ -1,0 +1,13 @@
+{
+  "id": "brumaire-coup",
+  "name": "브뤼메르 쿠데타",
+  "type": "political",
+  "date": "1799-11",
+  "location": { "lng": 2.217, "lat": 48.845 },
+  "perspectives": {
+    "revolutionary": { "name": "총재정부의 종말", "weight": 100, "narrative": "브뤼메르 쿠데타는 총재정부의 불안정과 전쟁 피로 속에서 나폴레옹의 통령정부를 열었다. 혁명은 공화정 실험에서 군사적 행정 권력으로 이동했다.", "sources": ["William Doyle, The Oxford History of the French Revolution"] },
+    "royalist": { "name": "왕정복고가 아닌 질서 회복", "weight": 70, "narrative": "왕당파에게 쿠데타는 총재정부의 약화를 보여 주었지만 즉각적인 왕정복고는 아니었다. 나폴레옹은 혁명의 일부 성과를 유지한 채 질서 회복을 내세웠다.", "sources": ["William Doyle, The Oxford History of the French Revolution"] },
+    "sansculotte": { "name": "거리 정치의 퇴조", "weight": 80, "narrative": "브뤼메르 이후 혁명 초기의 거리 정치와 상퀼로트 압력은 더 주변화됐다. 정치 중심은 군사 지도자와 행정 엘리트에게 이동했다.", "sources": ["William Doyle, The Oxford History of the French Revolution"] },
+    "europe": { "name": "나폴레옹 체제의 개막", "weight": 100, "narrative": "유럽 군주국에게 브뤼메르는 프랑스 혁명 전쟁이 끝나는 신호가 아니라 나폴레옹이라는 새 권력의 등장을 알렸다. 대륙 전쟁은 다른 형태로 이어졌다.", "sources": ["William Doyle, The Oxford History of the French Revolution"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "louis-xvi-executed",
+  "name": "루이 16세 처형",
+  "type": "political",
+  "date": "1793-01",
+  "location": { "lng": 2.3211, "lat": 48.8656 },
+  "perspectives": {
+    "revolutionary": { "name": "반역 왕의 처벌", "weight": 100, "narrative": "루이 16세 처형은 공화국이 왕을 시민 법정의 피고로 다룬다는 선언이었다. 혁명파에게 이는 되돌릴 수 없는 결별이었다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "royalist": { "name": "순교 왕의 탄생", "weight": 100, "narrative": "왕당파는 처형을 정통 왕권에 대한 폭력과 신성모독으로 받아들였다. 루이 16세는 반혁명 기억 속에서 순교적 상징이 됐다.", "sources": ["Simon Schama, Citizens: A Chronicle of the French Revolution", "William Doyle, The Oxford History of the French Revolution"] },
+    "sansculotte": { "name": "평등한 처벌 요구", "weight": 95, "narrative": "상퀼로트에게 왕의 처형은 특권 없는 공화국의 증거였다. 전쟁과 생계 위기 속에서 반역에 대한 무자비한 처벌 요구가 강해졌다.", "sources": ["David Andress, The Terror: The Merciless War for Freedom in Revolutionary France", "R. R. Palmer, Twelve Who Ruled: The Year of the Terror in the French Revolution"] },
+    "europe": { "name": "대프랑스 전쟁의 확대", "weight": 100, "narrative": "유럽 군주국은 프랑스 국왕 처형을 체제적 도전으로 보았다. 처형은 대프랑스 동맹과 전쟁 확대를 자극했다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] }
+  }
+}
