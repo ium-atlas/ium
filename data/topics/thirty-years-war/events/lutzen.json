@@ -1,0 +1,14 @@
+{
+  "id": "lutzen",
+  "name": "뤼첸 전투",
+  "type": "battle",
+  "date": "1632-11",
+  "location": { "lng": 12.14, "lat": 51.26 },
+  "perspectives": {
+    "imperial": { "name": "스웨덴 왕 전사의 기회", "weight": 90, "narrative": "뤼첸 전투에서 제국군은 전술적으로 밀렸지만 구스타브 아돌프가 전사하면서 스웨덴 진영의 지도력에 큰 충격을 주었다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "C. V. Wedgwood, The Thirty Years War"] },
+    "protestant": { "name": "승리와 상실의 전투", "weight": 95, "narrative": "개신교 진영은 전장을 지켰지만, 구스타브 아돌프의 죽음으로 결정적 지도자를 잃었다. 승리의 의미는 깊은 불안과 함께 남았다.", "sources": ["Geoffrey Parker (ed.), The Thirty Years' War", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "swedish": { "name": "국왕의 전사", "weight": 100, "narrative": "스웨덴에게 뤼첸은 구스타브 아돌프의 전사로 기억되는 사건이었다. 스웨덴의 독일 개입은 계속됐지만 카리스마적 지휘는 사라졌다.", "sources": ["C. V. Wedgwood, The Thirty Years War", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "french": { "name": "동맹 유지의 필요", "weight": 55, "narrative": "프랑스는 스웨덴 왕의 죽음 뒤에도 반합스부르크 전선이 무너지지 않도록 외교와 자금 지원을 계산해야 했다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "civilians": { "name": "소모전의 지속", "weight": 80, "narrative": "뤼첸 이후에도 전쟁은 끝나지 않았다. 주변 지역사회에는 승자와 패자를 가르기 어려운 군대 이동과 반복 징발이 계속됐다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}

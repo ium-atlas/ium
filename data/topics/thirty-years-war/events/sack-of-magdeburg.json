@@ -1,0 +1,14 @@
+{
+  "id": "sack-of-magdeburg",
+  "name": "마그데부르크 약탈",
+  "type": "massacre",
+  "date": "1631-05",
+  "location": { "lng": 11.63, "lat": 52.13 },
+  "perspectives": {
+    "imperial": { "name": "저항 도시의 파괴", "weight": 95, "narrative": "마그데부르크 함락은 제국·가톨릭군이 완강한 개신교 도시를 무너뜨린 사건이었다. 그러나 약탈과 화재의 참상은 황제 측에도 정치적 부담이 됐다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "C. V. Wedgwood, The Thirty Years War"] },
+    "protestant": { "name": "개신교 순교 도시", "weight": 100, "narrative": "개신교 진영은 마그데부르크의 파괴를 가톨릭·제국군 폭력의 상징으로 기억했다. 사건은 저항과 선전의 강력한 명분이 됐다.", "sources": ["Tryntje Helfferich, The Thirty Years War: A Documentary History", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "swedish": { "name": "동맹 결집의 충격", "weight": 90, "narrative": "스웨덴군에게 마그데부르크의 참상은 독일 개신교 제후들을 결집시키는 충격적 사례가 됐다. 구스타브 아돌프의 명분도 강화됐다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "C. V. Wedgwood, The Thirty Years War"] },
+    "french": { "name": "전쟁 폭력의 경고", "weight": 45, "narrative": "프랑스는 아직 전면 참전 전이었지만, 마그데부르크는 제국 전쟁이 얼마나 파괴적으로 확대되는지 보여 주는 사건이었다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "civilians": { "name": "민간 피해의 상징", "weight": 100, "narrative": "마그데부르크 약탈은 30년 전쟁 민간 피해의 대표적 기억이 됐다. 화재, 살해, 피난은 도시 사회의 붕괴를 보여 주었다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Tryntje Helfferich, The Thirty Years War: A Documentary History"] }
+  }
+}

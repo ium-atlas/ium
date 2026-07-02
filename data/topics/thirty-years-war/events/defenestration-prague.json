@@ -1,0 +1,14 @@
+{
+  "id": "defenestration-prague",
+  "name": "프라하 창밖 투척 사건",
+  "type": "political",
+  "date": "1618-05",
+  "location": { "lng": 14.42, "lat": 50.09 },
+  "perspectives": {
+    "imperial": { "name": "보헤미아 반란의 도전", "weight": 100, "narrative": "프라하 창밖 투척 사건은 합스부르크 통치권과 가톨릭 재가톨릭화 정책에 대한 공개 도전이었다. 제국 권위는 보헤미아에서 곧바로 시험대에 올랐다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648"] },
+    "protestant": { "name": "신앙과 특권 방어", "weight": 100, "narrative": "보헤미아 개신교 귀족들은 자신들의 종교 자유와 정치 특권이 침해된다고 보았다. 사건은 저항권과 제국 질서의 경계를 폭력적으로 열었다.", "sources": ["Tryntje Helfferich, The Thirty Years War: A Documentary History", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "swedish": { "name": "아직 먼 제국 위기", "weight": 20, "narrative": "스웨덴은 아직 직접 개입하지 않았지만, 보헤미아 위기는 발트와 제국 정치가 연결될 수 있는 장기 위기의 출발점이 됐다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "french": { "name": "합스부르크 견제의 배경", "weight": 25, "narrative": "프랑스는 당장 개입하지 않았지만 합스부르크 권역 내부 위기를 주시했다. 보헤미아 사태는 훗날 프랑스 외교가 활용할 균열이 됐다.", "sources": ["Geoffrey Parker (ed.), The Thirty Years' War", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "civilians": { "name": "지역 위기의 시작", "weight": 60, "narrative": "프라하의 정치 폭력은 곧 보헤미아 도시와 농촌의 군사 동원, 세금, 약탈 위험으로 번질 위기의 시작이었다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}

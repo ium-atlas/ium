@@ -1,0 +1,14 @@
+{
+  "id": "peace-of-westphalia",
+  "name": "베스트팔렌 조약",
+  "type": "treaty",
+  "date": "1648-10",
+  "location": { "lng": 7.63, "lat": 51.96 },
+  "perspectives": {
+    "imperial": { "name": "제국 질서의 재정리", "weight": 100, "narrative": "베스트팔렌 조약은 황제권을 보존하면서도 제국 제후들의 권리와 종교적 타협을 제도화했다. 합스부르크의 보편 지배 구상은 제한됐다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648"] },
+    "protestant": { "name": "법적 보장의 확대", "weight": 100, "narrative": "개신교 제후들은 종교와 영토 권리에 대한 더 안정적인 보장을 얻었다. 전쟁의 목표는 완전 승리보다 제도적 안전으로 정리됐다.", "sources": ["Tryntje Helfferich, The Thirty Years War: A Documentary History", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "swedish": { "name": "제국 내 보상과 위상", "weight": 90, "narrative": "스웨덴은 독일 북부의 영토와 제국 내 지위를 얻어 발트 강국의 위상을 강화했다. 군사 개입은 외교적 보상으로 이어졌다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "french": { "name": "반합스부르크 외교의 성과", "weight": 95, "narrative": "프랑스는 알자스 등 권익과 합스부르크 견제라는 외교 목표를 상당 부분 달성했다. 전후 유럽 균형에서 프랑스의 비중이 커졌다.", "sources": ["Geoffrey Parker (ed.), The Thirty Years' War", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "civilians": { "name": "긴 전쟁 뒤의 복구", "weight": 100, "narrative": "민간사회에게 베스트팔렌은 즉각적인 풍요가 아니라 생존과 복구의 출발점이었다. 인구 손실, 폐허, 빚, 기억은 전쟁 뒤에도 남았다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}

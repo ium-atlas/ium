@@ -1,0 +1,14 @@
+{
+  "id": "edict-of-restitution",
+  "name": "반환령",
+  "type": "political",
+  "date": "1629-03",
+  "location": { "lng": 16.37, "lat": 48.21 },
+  "perspectives": {
+    "imperial": { "name": "가톨릭 권리 회복 시도", "weight": 100, "narrative": "반환령은 1552년 이후 세속화된 교회 재산을 되돌리려는 황제권의 강력한 선언이었다. 페르디난트 2세는 군사 우세를 종교·법 질서 재편으로 연결하려 했다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Tryntje Helfferich, The Thirty Years War: A Documentary History"] },
+    "protestant": { "name": "종교·영토 위협", "weight": 100, "narrative": "개신교 제후들에게 반환령은 재산과 신앙 질서를 함께 위협하는 조치였다. 중립적이던 제후들도 황제권 강화에 불안을 느꼈다.", "sources": ["Ronald G. Asch, The Thirty Years War: The Holy Roman Empire and Europe, 1618-1648", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "swedish": { "name": "개입 명분의 강화", "weight": 70, "narrative": "스웨덴은 반환령을 독일 개신교와 발트 안보가 함께 위협받는 신호로 볼 수 있었다. 이후 개입의 명분이 더 뚜렷해졌다.", "sources": ["Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War", "Geoffrey Parker (ed.), The Thirty Years' War"] },
+    "french": { "name": "황제권 견제 필요", "weight": 55, "narrative": "프랑스에는 반환령이 합스부르크 황제권의 과도한 강화를 보여 주는 사례였다. 종교가 달라도 프랑스 외교는 균형 견제를 계산했다.", "sources": ["Geoffrey Parker (ed.), The Thirty Years' War", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] },
+    "civilians": { "name": "지역 소유권의 불안", "weight": 80, "narrative": "반환령은 수도원과 교회 재산, 지방 행정, 도시 권리 문제를 다시 열어 지역사회에 법적·경제적 불안을 가져왔다.", "sources": ["Hans Medick and Benjamin Marschke, Experiencing the Thirty Years War: A Brief History with Documents", "Peter H. Wilson, Europe's Tragedy: A History of the Thirty Years War"] }
+  }
+}
