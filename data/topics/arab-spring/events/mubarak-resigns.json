@@ -1,0 +1,39 @@
+{
+  "id": "mubarak-resigns",
+  "name": "무바라크 퇴진",
+  "type": "political",
+  "date": "2011-02",
+  "location": {
+    "lng": 31.24,
+    "lat": 30.04
+  },
+  "perspectives": {
+    "militaries": {
+      "name": "군최고위원회로 권력 이동",
+      "weight": 100,
+      "narrative": "무바라크 퇴진 뒤 권력은 군최고위원회로 넘어갔다. 이는 정권 수반의 퇴진과 국가 권력 구조의 지속이 함께 일어난 전환이었다.",
+      "sources": [
+        "Steven A. Cook, The Struggle for Egypt: From Nasser to Tahrir Square",
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform"
+      ]
+    },
+    "protesters": {
+      "name": "퇴진 이후의 미완성 혁명",
+      "weight": 95,
+      "narrative": "시위대는 무바라크 퇴진을 승리로 받아들였지만, 군정과 헌정 전환의 방향을 둘러싼 갈등은 곧 이어졌다. 혁명은 끝난 것이 아니라 새 국면으로 들어갔다.",
+      "sources": [
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East",
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring"
+      ]
+    },
+    "islamists": {
+      "name": "제도권 경쟁의 기회",
+      "weight": 75,
+      "narrative": "무슬림형제단 등 이슬람주의 세력은 거리 항의 이후 선거 정치의 기회를 맞았다. 조직력은 전환기의 중요한 자산이 됐다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Steven A. Cook, The Struggle for Egypt: From Nasser to Tahrir Square"
+      ]
+    }
+  }
+}

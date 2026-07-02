@@ -1,0 +1,39 @@
+{
+  "id": "un-resolution-1973-libya",
+  "name": "유엔 안보리 결의 1973호",
+  "type": "political",
+  "date": "2011-03",
+  "location": {
+    "lng": -73.97,
+    "lat": 40.75
+  },
+  "perspectives": {
+    "international": {
+      "name": "보호책임과 비행금지구역",
+      "weight": 100,
+      "narrative": "유엔 안보리 결의 1973호는 리비아 민간인 보호와 비행금지구역 설정을 승인했다. 아랍의 봄은 국제 군사개입의 문제로 확장됐다.",
+      "sources": [
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    },
+    "regimes": {
+      "name": "주권 침해로 본 정권",
+      "weight": 75,
+      "narrative": "카다피 정권은 국제 개입을 외부 공격과 주권 침해로 규정했다. 결의는 정권과 반군의 군사 균형을 바꿀 외부 변수가 됐다.",
+      "sources": [
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    },
+    "regional": {
+      "name": "아랍권 승인과 국제 개입",
+      "weight": 80,
+      "narrative": "아랍권 일부의 지지는 리비아 개입의 정치적 정당성을 강화했다. 지역 행위자들은 각국 봉기를 다르게 평가하며 선택적으로 개입했다.",
+      "sources": [
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East",
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising"
+      ]
+    }
+  }
+}

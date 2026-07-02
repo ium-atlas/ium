@@ -1,0 +1,39 @@
+{
+  "id": "pearl-roundabout-protests",
+  "name": "바레인 진주광장 시위",
+  "type": "movement",
+  "date": "2011-02",
+  "location": {
+    "lng": 50.58,
+    "lat": 26.23
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "개혁 요구의 광장화",
+      "weight": 100,
+      "narrative": "바레인의 시위대는 진주광장을 중심으로 정치 개혁과 차별 해소를 요구했다. 튀니지와 이집트의 광장 정치가 걸프 지역으로 번졌다.",
+      "sources": [
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    },
+    "regimes": {
+      "name": "왕정 안보의 위기감",
+      "weight": 90,
+      "narrative": "바레인 왕정은 시위를 체제 안정에 대한 직접 위협으로 보았다. 개혁 요구는 곧 치안 대응과 지역 동맹의 문제로 연결됐다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising"
+      ]
+    },
+    "regional": {
+      "name": "걸프 왕정의 개입 논리",
+      "weight": 90,
+      "narrative": "걸프 왕정들은 바레인 시위가 지역 질서와 왕정 안보를 흔들 수 있다고 보았다. 사우디아라비아 등 주변국의 대응은 아랍의 봄이 지역 경쟁과 맞물렸음을 보여주었다.",
+      "sources": [
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know",
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising"
+      ]
+    }
+  }
+}

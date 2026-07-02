@@ -1,0 +1,39 @@
+{
+  "id": "fall-of-tripoli-2011",
+  "name": "트리폴리 함락",
+  "type": "battle",
+  "date": "2011-08",
+  "location": {
+    "lng": 13.19,
+    "lat": 32.89
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "반군의 수도 진입",
+      "weight": 95,
+      "narrative": "반카다피 세력은 트리폴리에 진입하며 정권 붕괴 국면을 열었다. 그러나 승리는 통합된 국가 건설이 아니라 민병대와 지역 세력의 경쟁을 남겼다.",
+      "sources": [
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era",
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East"
+      ]
+    },
+    "regimes": {
+      "name": "카다피 체제의 붕괴",
+      "weight": 100,
+      "narrative": "카다피 정권은 수도 장악력을 잃으며 급격히 무너졌다. 리비아의 전환은 기존 국가기관의 약함과 무장세력 분산이라는 문제를 드러냈다.",
+      "sources": [
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    },
+    "civilians": {
+      "name": "해방감과 치안 공백",
+      "weight": 85,
+      "narrative": "트리폴리 시민은 정권 붕괴의 해방감과 동시에 무장세력, 보복, 치안 공백의 불안을 겪었다. 전환의 비용은 곧 일상 문제로 돌아왔다.",
+      "sources": [
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "tunisia-constituent-assembly",
+  "name": "튀니지 제헌의회 선거",
+  "type": "political",
+  "date": "2011-10",
+  "location": {
+    "lng": 10.18,
+    "lat": 36.80
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "거리에서 제도로",
+      "weight": 90,
+      "narrative": "튀니지 제헌의회 선거는 거리 항의가 제도 전환으로 이어질 수 있음을 보여주었다. 그러나 새 헌정 질서와 사회경제 요구 사이의 간극은 계속 남았다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring"
+      ]
+    },
+    "islamists": {
+      "name": "엔나흐다의 합법 정치 진입",
+      "weight": 90,
+      "narrative": "이슬람주의 정당 엔나흐다가 선거를 통해 제도권 정치에 진입했다. 튀니지 전환은 이념 경쟁과 합의 정치의 시험장이 됐다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East"
+      ]
+    },
+    "civilians": {
+      "name": "전환 기대와 생활 문제",
+      "weight": 75,
+      "narrative": "시민들은 정치적 자유 확대를 기대하면서도 실업과 지역 격차가 빠르게 해결되지 않는 현실을 마주했다. 혁명의 의미는 선거 이후에도 논쟁적이었다.",
+      "sources": [
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bouazizi-self-immolation",
+  "name": "무함마드 부아지지 분신",
+  "type": "movement",
+  "date": "2010-12",
+  "location": {
+    "lng": 9.49,
+    "lat": 35.04
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "일상적 모욕에서 시작된 항의",
+      "weight": 100,
+      "narrative": "시디부지드의 노점상 무함마드 부아지지 분신은 실업, 부패, 경찰 폭력에 대한 분노를 촉발했다. 지역 항의는 곧 전국 시위로 번졌다.",
+      "sources": [
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    },
+    "regimes": {
+      "name": "지방 불만을 과소평가한 정권",
+      "weight": 80,
+      "narrative": "벤 알리 정권은 초기 항의를 통제 가능한 지방 소요로 보려 했지만, 부패와 경찰국가에 대한 불만은 훨씬 넓었다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East"
+      ]
+    },
+    "civilians": {
+      "name": "생계 불안의 공유",
+      "weight": 90,
+      "narrative": "튀니지 시민들은 부아지지의 죽음을 생계 불안과 국가 폭력이 겹친 사건으로 받아들였다. 개인의 절망은 집단적 항의 언어가 됐다.",
+      "sources": [
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    }
+  }
+}

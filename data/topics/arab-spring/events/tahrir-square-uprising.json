@@ -1,0 +1,39 @@
+{
+  "id": "tahrir-square-uprising",
+  "name": "타흐리르 광장 봉기",
+  "type": "movement",
+  "date": "2011-01",
+  "location": {
+    "lng": 31.24,
+    "lat": 30.04
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "광장을 점거한 시민 연합",
+      "weight": 100,
+      "narrative": "카이로 타흐리르 광장에는 청년 활동가, 노동자, 자유주의자, 이슬람주의자, 일반 시민이 모였다. 광장은 정권 퇴진 요구의 상징 공간이 됐다.",
+      "sources": [
+        "Steven A. Cook, The Struggle for Egypt: From Nasser to Tahrir Square",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    },
+    "regimes": {
+      "name": "무바라크 체제의 동요",
+      "weight": 90,
+      "narrative": "무바라크 정권은 치안기구와 여당 조직으로 시위를 억제하려 했지만, 항의 규모와 상징성은 계속 커졌다. 기존 권력의 내구성이 시험대에 올랐다.",
+      "sources": [
+        "Steven A. Cook, The Struggle for Egypt: From Nasser to Tahrir Square",
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East"
+      ]
+    },
+    "civilians": {
+      "name": "일상 공간의 정치화",
+      "weight": 85,
+      "narrative": "시위는 교통, 생업, 가족 안전을 흔들었지만 동시에 시민들이 공공 공간을 자기 목소리의 장소로 느끼게 했다.",
+      "sources": [
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring",
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era"
+      ]
+    }
+  }
+}

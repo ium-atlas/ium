@@ -1,0 +1,39 @@
+{
+  "id": "ben-ali-flees",
+  "name": "벤 알리 퇴진과 망명",
+  "type": "political",
+  "date": "2011-01",
+  "location": {
+    "lng": 10.18,
+    "lat": 36.80
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "거리 항의의 첫 승리",
+      "weight": 100,
+      "narrative": "지속된 시위는 벤 알리 대통령의 퇴진과 망명으로 이어졌다. 튀니지의 장면은 다른 아랍 국가 시민에게 정권 교체가 가능하다는 신호가 됐다.",
+      "sources": [
+        "Lin Noueihed and Alex Warren, The Battle for the Arab Spring: Revolution, Counter-Revolution and the Making of a New Era",
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East"
+      ]
+    },
+    "regimes": {
+      "name": "권위주의 균열의 충격",
+      "weight": 95,
+      "narrative": "튀니지 정권의 붕괴는 장기 집권 권위주의가 예상보다 취약할 수 있음을 드러냈다. 주변 정권들은 항의 확산을 경계하기 시작했다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising"
+      ]
+    },
+    "militaries": {
+      "name": "군의 선택이 만든 전환",
+      "weight": 80,
+      "narrative": "튀니지 군은 정권의 폭력적 생존에 완전히 결합하지 않았다. 군과 치안기구의 관계는 이후 국가별 결과 차이를 설명하는 중요한 요소가 됐다.",
+      "sources": [
+        "Jason Brownlee, Tarek Masoud, and Andrew Reynolds, The Arab Spring: Pathways of Repression and Reform",
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring"
+      ]
+    }
+  }
+}

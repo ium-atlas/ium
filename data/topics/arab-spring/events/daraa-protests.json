@@ -1,0 +1,39 @@
+{
+  "id": "daraa-protests",
+  "name": "다라 시위",
+  "type": "movement",
+  "date": "2011-03",
+  "location": {
+    "lng": 36.10,
+    "lat": 32.62
+  },
+  "perspectives": {
+    "protesters": {
+      "name": "시리아 봉기의 시작",
+      "weight": 100,
+      "narrative": "다라의 항의는 체포와 보안기구 폭력에 대한 분노에서 시작해 시리아 전역의 시위로 퍼졌다. 초기 요구는 개혁과 존엄의 언어로 표현됐다.",
+      "sources": [
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know",
+        "Charles Tripp, The Power and the People: Paths of Resistance in the Middle East"
+      ]
+    },
+    "regimes": {
+      "name": "보안국가의 강경 대응",
+      "weight": 95,
+      "narrative": "아사드 정권은 항의를 외부 음모와 질서 위협으로 규정하며 보안기구 중심으로 대응했다. 초기 탄압은 평화적 항의를 더 넓은 충돌로 몰아갔다.",
+      "sources": [
+        "Gilbert Achcar, The People Want: A Radical Exploration of the Arab Uprising",
+        "Marc Lynch, The Arab Uprising: The Unfinished Revolutions of the New Middle East"
+      ]
+    },
+    "civilians": {
+      "name": "내전 이전의 공포",
+      "weight": 85,
+      "narrative": "다라 주민들은 체포, 장례 시위, 보안군 대응 속에서 국가 폭력이 일상 공간으로 들어오는 경험을 했다. 시리아 위기는 이 초기 국면에서 빠르게 악화됐다.",
+      "sources": [
+        "Asef Bayat, Revolution without Revolutionaries: Making Sense of the Arab Spring",
+        "James L. Gelvin, The Arab Uprisings: What Everyone Needs to Know"
+      ]
+    }
+  }
+}
