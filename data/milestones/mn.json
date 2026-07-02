@@ -1,5 +1,61 @@
 [
   {
+    "range": [-1000, -700],
+    "label": "사슴돌-히리그수르 복합",
+    "sources": [
+      "Bryan K. Hanks and Katheryn M. Linduff (eds.), Social Complexity in Prehistoric Eurasia: Monuments, Metals, and Mobility",
+      "Esther Jacobson-Tepfer, The Hunter, the Stag, and the Mother of Animals: Image, Monument, and Landscape in Ancient North Asia"
+    ]
+  },
+  {
+    "range": [-900, -500],
+    "label": "판석묘 문화권 확산",
+    "sources": [
+      "Nicola Di Cosmo, Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History",
+      "Christoph Baumer, The History of Central Asia, Vol. 1: The Age of the Steppe Warriors"
+    ]
+  },
+  {
+    "year": -800,
+    "label": "아르잔 고분과 초기 스키타이",
+    "sources": [
+      "Jeannine Davis-Kimball, Vladimir A. Bashilov, and Leonid T. Yablonsky (eds.), Nomads of the Eurasian Steppes in the Early Iron Age",
+      "Christoph Baumer, The History of Central Asia, Vol. 1: The Age of the Steppe Warriors"
+    ]
+  },
+  {
+    "range": [-800, -500],
+    "label": "타가르 문화권 전개",
+    "sources": [
+      "Jeannine Davis-Kimball, Vladimir A. Bashilov, and Leonid T. Yablonsky (eds.), Nomads of the Eurasian Steppes in the Early Iron Age",
+      "Christoph Baumer, The History of Central Asia, Vol. 1: The Age of the Steppe Warriors"
+    ]
+  },
+  {
+    "range": [-700, -500],
+    "label": "스키타이-사카 지평 전개",
+    "sources": [
+      "Jeannine Davis-Kimball, Vladimir A. Bashilov, and Leonid T. Yablonsky (eds.), Nomads of the Eurasian Steppes in the Early Iron Age",
+      "Nicola Di Cosmo, Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History"
+    ]
+  },
+  {
+    "range": [-700, -500],
+    "label": "오르도스 청동기 문화",
+    "sources": [
+      "Nicola Di Cosmo, Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History",
+      "Bryan K. Hanks and Katheryn M. Linduff (eds.), Social Complexity in Prehistoric Eurasia: Monuments, Metals, and Mobility"
+    ]
+  },
+  {
+    "year": -500,
+    "label": "파지리크 문화권 형성",
+    "sources": [
+      "Jeannine Davis-Kimball, Vladimir A. Bashilov, and Leonid T. Yablonsky (eds.), Nomads of the Eurasian Steppes in the Early Iron Age",
+      "Christoph Baumer, The History of Central Asia, Vol. 1: The Age of the Steppe Warriors"
+    ]
+  },
+  {
     "year": 1688,
     "label": "갈단의 할하 침공",
     "sources": [
