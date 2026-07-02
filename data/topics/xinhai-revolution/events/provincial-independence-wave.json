@@ -1,0 +1,13 @@
+{
+  "id": "provincial-independence-wave",
+  "name": "각 성 독립 선언 확산",
+  "type": "movement",
+  "date": "1911-11",
+  "location": { "lng": 112.94, "lat": 28.23 },
+  "perspectives": {
+    "provincial": { "name": "성 권력의 연쇄 이탈", "weight": 100, "narrative": "여러 성이 청 조정에서 이탈하면서 혁명은 우창의 봉기를 넘어 전국 정치 위기로 번졌다. 지방 엘리트와 성 군정부는 중앙 권력의 공백을 활용했다.", "sources": ["Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei", "Jonathan D. Spence, The Search for Modern China"] },
+    "qing": { "name": "제국 통합의 붕괴", "weight": 100, "narrative": "각 성의 독립 선언은 청 조정이 더 이상 제국 전역의 충성을 보장하지 못한다는 신호였다. 왕조는 군사 진압과 정치 타협 사이에서 시간을 잃었다.", "sources": ["Edward J. M. Rhoads, Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928", "Jonathan D. Spence, The Search for Modern China"] },
+    "revolutionaries": { "name": "전국 혁명으로의 확대", "weight": 90, "narrative": "혁명파는 성들의 이탈을 통해 반청 운동이 전국적 대의로 확장되는 계기를 얻었다. 그러나 각 성의 목표와 이해는 반드시 하나로 모이지 않았다.", "sources": ["Mary Backus Rankin, Early Chinese Revolutionaries: Radical Intellectuals in Shanghai and Chekiang, 1902-1911", "Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei"] },
+    "foreign": { "name": "질서와 채무 안정의 관심", "weight": 65, "narrative": "외국 세력은 혁명 확산을 조약항과 차관, 무역 질서의 안정 문제로 지켜보았다. 중국 내부 권력 재편은 국제 금융과 외교 계산에도 연결됐다.", "sources": ["Jonathan D. Spence, The Search for Modern China", "Edward J. M. Rhoads, Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "railway-protection-movement",
+  "name": "쓰촨 보로운동",
+  "type": "movement",
+  "date": "1911-09",
+  "location": { "lng": 104.06, "lat": 30.67 },
+  "perspectives": {
+    "provincial": { "name": "권리와 지방 이익의 방어", "weight": 100, "narrative": "철도 국유화와 차관 정책에 반발한 쓰촨 보로운동은 지방 엘리트와 상인, 신사층의 권리 담론을 결집시켰다. 지방 이해가 중앙 조정의 재정 정책과 정면으로 충돌했다.", "sources": ["Xiaowei Zheng, The Politics of Rights and the 1911 Revolution in China", "Jonathan D. Spence, The Search for Modern China"] },
+    "qing": { "name": "재정 위기의 강행", "weight": 95, "narrative": "청 조정은 철도 국유화와 외국 차관을 통해 재정과 근대화 사업을 통제하려 했다. 그러나 강행 방식은 오히려 지방의 불신과 반발을 폭발시켰다.", "sources": ["Edward J. M. Rhoads, Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928", "Xiaowei Zheng, The Politics of Rights and the 1911 Revolution in China"] },
+    "foreign": { "name": "차관과 이권의 긴장", "weight": 80, "narrative": "외국 차관단과 철도 이권 문제는 보로운동의 중요한 배경이었다. 혁명 전야의 중국 정치에서 외채와 이권은 국내 권리 논쟁과 결합했다.", "sources": ["Xiaowei Zheng, The Politics of Rights and the 1911 Revolution in China", "Jonathan D. Spence, The Search for Modern China"] },
+    "civilians": { "name": "투자자와 도시민의 동원", "weight": 85, "narrative": "철도 주식과 지역 이익에 얽힌 상인, 신사, 도시민은 보로운동에 참여하거나 영향을 받았다. 경제적 손실 우려는 정치적 항의로 바뀌었다.", "sources": ["Xiaowei Zheng, The Politics of Rights and the 1911 Revolution in China"] }
+  }
+}

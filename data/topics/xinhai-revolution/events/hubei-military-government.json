@@ -1,0 +1,13 @@
+{
+  "id": "hubei-military-government",
+  "name": "후베이 군정부 수립",
+  "type": "political",
+  "date": "1911-10",
+  "location": { "lng": 114.31, "lat": 30.54 },
+  "perspectives": {
+    "provincial": { "name": "성 단위 새 권력", "weight": 100, "narrative": "후베이 군정부 수립은 혁명이 성 단위 행정 권력으로 굳어지는 순간이었다. 리위안훙 추대는 혁명파와 지방 군사 엘리트의 타협을 보여 주었다.", "sources": ["Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei", "Jonathan D. Spence, The Search for Modern China"] },
+    "revolutionaries": { "name": "혁명 권력의 임시 중심", "weight": 90, "narrative": "혁명파는 우창의 군정부를 통해 반청 봉기를 지속할 정치적 중심을 얻었다. 그러나 지도력은 급진 혁명파만이 아니라 기존 군사 엘리트와 나뉘었다.", "sources": ["Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei", "Mary Backus Rankin, Early Chinese Revolutionaries: Radical Intellectuals in Shanghai and Chekiang, 1902-1911"] },
+    "qing": { "name": "반란 진압의 난제", "weight": 80, "narrative": "청 조정은 후베이 군정부의 성립으로 단순 폭동 진압보다 더 큰 정치 문제를 맞았다. 새 권력이 성 이름으로 등장하면서 다른 지역의 이탈 가능성도 커졌다.", "sources": ["Edward J. M. Rhoads, Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928", "Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei"] },
+    "civilians": { "name": "치안과 행정의 재조정", "weight": 60, "narrative": "군정부는 혁명 이후 도시 질서를 유지하고 행정을 이어 가야 했다. 시민에게 혁명은 새 깃발뿐 아니라 세금, 치안, 물자 문제의 변화였다.", "sources": ["Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei"] }
+  }
+}

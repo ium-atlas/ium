@@ -1,0 +1,13 @@
+{
+  "id": "wuchang-uprising-1911",
+  "name": "우창 봉기",
+  "type": "movement",
+  "date": "1911-10",
+  "location": { "lng": 114.31, "lat": 30.54 },
+  "perspectives": {
+    "revolutionaries": { "name": "신군 혁명파의 기습", "weight": 100, "narrative": "우창 봉기는 신군 내부 혁명파가 폭로와 체포 위기 속에서 행동에 나서며 시작됐다. 계획은 불완전했지만 봉기는 청 왕조 붕괴의 군사적 출발점이 됐다.", "sources": ["Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei", "Jonathan D. Spence, The Search for Modern China"] },
+    "qing": { "name": "중부 군사 통제의 균열", "weight": 100, "narrative": "청 조정은 우창 봉기로 양쯔 중류의 군사 통제력이 흔들리는 충격을 받았다. 지방 신군을 근대화의 도구로 삼았던 정책이 왕조를 위협하는 힘으로 돌아섰다.", "sources": ["Edward J. M. Rhoads, Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928", "Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei"] },
+    "provincial": { "name": "지방 권력 재편의 개시", "weight": 85, "narrative": "봉기는 후베이의 지방 엘리트와 군사 지도자가 새 권력 구성을 피할 수 없게 만들었다. 혁명은 비밀결사만이 아니라 성 단위 정치 재편으로 확장됐다.", "sources": ["Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei"] },
+    "civilians": { "name": "도시 질서의 급변", "weight": 65, "narrative": "우창 시민은 갑작스러운 전투와 정권 교체 속에서 치안, 생계, 피난 문제를 마주했다. 혁명은 도시 일상에 곧바로 영향을 미쳤다.", "sources": ["Joseph W. Esherick, Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei", "Jonathan D. Spence, The Search for Modern China"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nanjing-captured-1911",
+  "name": "난징 점령",
+  "type": "battle",
+  "date": "1911-12",
+  "location": { "lng": 118.78, "lat": 32.06 },
+  "perspectives": {
+    "revolutionaries": { "name": "임시 수도의 확보", "weight": 100, "narrative": "혁명군의 난징 장악은 새 임시정부가 자리 잡을 공간을 마련했다. 난징은 반청 혁명의 정치적 상징과 행정 중심으로 부상했다.", "sources": ["Jonathan D. Spence, The Search for Modern China", "Marie-Claire Bergère, Sun Yat-sen"] },
+    "qing": { "name": "양쯔 하류 상실", "weight": 95, "narrative": "청 조정에게 난징 상실은 양쯔 하류의 중요한 전략 거점을 잃었다는 뜻이었다. 왕조 권력은 북방 군사력과 위안스카이의 협상력에 더 의존하게 됐다.", "sources": ["Edward J. M. Rhoads, Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928", "Jonathan D. Spence, The Search for Modern China"] },
+    "provincial": { "name": "남방 성들의 결집 공간", "weight": 85, "narrative": "난징은 독립한 성들과 혁명 지도자들이 임시 권력을 구성할 수 있는 공간이 됐다. 성 단위 권력의 느슨한 결집은 공화정 출범의 기반이었다.", "sources": ["Jonathan D. Spence, The Search for Modern China", "Marie-Claire Bergère, Sun Yat-sen"] },
+    "civilians": { "name": "전투 뒤의 도시 질서", "weight": 60, "narrative": "난징 주민은 전투와 정권 교체 이후 치안과 생활 재건을 마주했다. 혁명군은 정치적 상징만큼 도시 질서 유지도 필요했다.", "sources": ["Jonathan D. Spence, The Search for Modern China"] }
+  }
+}
