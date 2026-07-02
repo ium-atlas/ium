@@ -1,0 +1,12 @@
+{
+  "id": "chuenpi-battle-1839",
+  "name": "천비 해전",
+  "type": "battle",
+  "date": "1839-11",
+  "location": { "lng": 113.78, "lat": 22.75 },
+  "perspectives": {
+    "qing": { "name": "주강 입구 방어", "weight": 90, "narrative": "천비 충돌은 청이 주강 입구 방어선으로 외국 함대를 막으려 한 초기 군사 대응이었다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "Jonathan D. Spence, The Search for Modern China"] },
+    "british": { "name": "해군 우위의 확인", "weight": 95, "narrative": "영국 해군은 천비에서 청 해안 방어의 취약함과 자국 함포의 우위를 확인했다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "Julia Lovell, The Opium War: Drugs, Dreams and the Making of China"] },
+    "canton": { "name": "전쟁이 가까워진 현장", "weight": 85, "narrative": "광둥 현장에서는 주강 입구 교전이 상관 폐쇄와 무역 갈등을 넘어 전면전 가능성을 키웠다.", "sources": ["Stephen R. Platt, Imperial Twilight: The Opium War and the End of China's Last Golden Age"] }
+  }
+}

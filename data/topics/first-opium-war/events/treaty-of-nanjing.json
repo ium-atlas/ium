@@ -1,0 +1,12 @@
+{
+  "id": "treaty-of-nanjing",
+  "name": "난징조약",
+  "type": "treaty",
+  "date": "1842-08",
+  "location": { "lng": 118.78, "lat": 32.06 },
+  "perspectives": {
+    "qing": { "name": "불평등 조약의 시작", "weight": 100, "narrative": "난징조약은 청이 배상, 개항, 홍콩 할양을 받아들이는 패전의 결말이었다. 조공·해금 질서와 대외 관계의 전환점이 됐다.", "sources": ["Julia Lovell, The Opium War: Drugs, Dreams and the Making of China", "Jonathan D. Spence, The Search for Modern China"] },
+    "british": { "name": "개항과 조약 체제", "weight": 100, "narrative": "영국에게 난징조약은 무역 접근과 영사 관계를 제도화한 승리였다. 군사력은 중국 연안 조약 체제의 기반이 됐다.", "sources": ["John K. Fairbank, Trade and Diplomacy on the China Coast", "Peter Ward Fay, The Opium War, 1840-1842"] },
+    "canton": { "name": "광둥 독점의 해체", "weight": 95, "narrative": "광둥 현장에서는 기존 광저우 중심 무역 체제가 흔들리고 여러 개항장 체제로 바뀌는 변화를 맞았다.", "sources": ["Stephen R. Platt, Imperial Twilight: The Opium War and the End of China's Last Golden Age", "John K. Fairbank, Trade and Diplomacy on the China Coast"] }
+  }
+}

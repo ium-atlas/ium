@@ -1,0 +1,12 @@
+{
+  "id": "chusan-captured",
+  "name": "저우산 점령",
+  "type": "siege",
+  "date": "1840-07",
+  "location": { "lng": 122.2, "lat": 29.99 },
+  "perspectives": {
+    "qing": { "name": "전선의 북상", "weight": 95, "narrative": "저우산 점령은 청 조정에 광둥 문제가 동남해안 전체의 전쟁으로 커졌음을 보여 주었다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "Jonathan D. Spence, The Search for Modern China"] },
+    "british": { "name": "압박 거점 확보", "weight": 100, "narrative": "영국 원정군은 저우산을 점령해 북상 압박과 협상 지렛대를 얻었다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "John K. Fairbank, Trade and Diplomacy on the China Coast"] },
+    "canton": { "name": "광둥 밖으로 번진 전쟁", "weight": 60, "narrative": "광둥 현장에서 시작된 갈등은 저우산 점령으로 중국 해안 전체의 위기로 번졌다.", "sources": ["Julia Lovell, The Opium War: Drugs, Dreams and the Making of China"] }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ningbo-occupied",
+  "name": "닝보 점령",
+  "type": "siege",
+  "date": "1841-10",
+  "location": { "lng": 121.55, "lat": 29.87 },
+  "perspectives": {
+    "qing": { "name": "저장 해안의 위기", "weight": 90, "narrative": "닝보 점령은 청 조정이 남중국뿐 아니라 저장 해안에서도 방어 실패를 겪고 있음을 보여 주었다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "Jonathan D. Spence, The Search for Modern China"] },
+    "british": { "name": "해안 점령 전략", "weight": 95, "narrative": "영국군은 닝보를 포함한 해안 거점을 점령하며 장강 하류와 북상 압박의 발판을 넓혔다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "Julia Lovell, The Opium War: Drugs, Dreams and the Making of China"] },
+    "canton": { "name": "전쟁 중심의 이동", "weight": 50, "narrative": "광둥 현장에서는 전쟁의 중심이 북쪽 해안으로 옮겨 가며 지역 갈등이 제국 전체의 전쟁으로 확장되는 모습을 보았다.", "sources": ["John K. Fairbank, Trade and Diplomacy on the China Coast"] }
+  }
+}

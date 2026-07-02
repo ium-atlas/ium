@@ -1,0 +1,12 @@
+{
+  "id": "bocca-tigris-forts",
+  "name": "호문 포대 돌파",
+  "type": "battle",
+  "date": "1841-02",
+  "location": { "lng": 113.62, "lat": 22.79 },
+  "perspectives": {
+    "qing": { "name": "해안 방어선 붕괴", "weight": 95, "narrative": "호문 포대의 붕괴는 청 해안 방어 체계가 영국 함포와 기동에 취약함을 드러냈다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "Jonathan D. Spence, The Search for Modern China"] },
+    "british": { "name": "주강 진입로 장악", "weight": 100, "narrative": "영국군은 주강 입구 방어선을 돌파해 광저우 압박을 직접화했다.", "sources": ["Peter Ward Fay, The Opium War, 1840-1842", "Julia Lovell, The Opium War: Drugs, Dreams and the Making of China"] },
+    "canton": { "name": "광저우 앞 전쟁", "weight": 95, "narrative": "광둥 주민과 상인에게 호문 포대 돌파는 전쟁이 도시 문턱까지 접근했음을 뜻했다.", "sources": ["Stephen R. Platt, Imperial Twilight: The Opium War and the End of China's Last Golden Age"] }
+  }
+}
