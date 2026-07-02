@@ -1,0 +1,13 @@
+{
+  "id": "rolling-thunder",
+  "name": "롤링썬더 작전",
+  "type": "battle",
+  "date": "1965-03",
+  "location": { "lng": 105.85, "lat": 21.03 },
+  "perspectives": {
+    "us": { "name": "공중전으로 압박", "weight": 100, "narrative": "미국은 롤링썬더 작전으로 북베트남을 폭격해 하노이의 의지를 꺾고 남부 전쟁을 약화시키려 했다. 그러나 폭격은 빠른 정치적 성과를 내지 못했다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "north": { "name": "폭격 속 동원 체제", "weight": 100, "narrative": "북베트남은 폭격 피해를 감당하면서 방공, 보급, 사회 동원을 강화했다. 공중전은 북부 사회 전체를 전쟁 체제로 묶었다.", "sources": ["Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam", "Pierre Asselin, Vietnam's American War: A History"] },
+    "socialist": { "name": "방공 지원과 냉전 연결", "weight": 85, "narrative": "중국과 소련 등 사회주의권 지원은 북베트남의 방공과 보급 능력에 중요했다. 베트남 전쟁은 지역전이면서 냉전 지원망의 전쟁이었다.", "sources": ["Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "civilians": { "name": "폭격 피해와 피난", "weight": 100, "narrative": "북베트남 민간인은 공습, 대피, 기반시설 파괴, 생활 동원의 부담을 겪었다. 공중전은 전선과 후방의 차이를 흐렸다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975"] }
+  }
+}

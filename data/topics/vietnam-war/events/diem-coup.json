@@ -1,0 +1,13 @@
+{
+  "id": "diem-coup",
+  "name": "응오딘지엠 정권 전복",
+  "type": "political",
+  "date": "1963-11",
+  "location": { "lng": 106.70, "lat": 10.78 },
+  "perspectives": {
+    "south": { "name": "쿠데타와 정치 불안정", "weight": 100, "narrative": "지엠 정권 전복은 남베트남의 권력 구조를 다시 열었지만 안정된 대안을 만들지 못했다. 이후 사이공 정치의 군부 의존과 불안정이 심화됐다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "us": { "name": "동맹 교체의 책임", "weight": 95, "narrative": "미국은 지엠 정권의 몰락 과정에서 깊은 정치적 부담을 안게 됐다. 지도자 교체가 전쟁 해결을 보장하지 않는다는 사실이 곧 드러났다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "north": { "name": "상대 체제의 혼란", "weight": 70, "narrative": "북베트남은 남베트남 정권의 혼란을 장기전 전략에 유리한 조건으로 보았다. 사이공 정치의 불안정은 전쟁 수행 능력을 약화시켰다.", "sources": ["Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam", "Pierre Asselin, Vietnam's American War: A History"] },
+    "civilians": { "name": "정권 교체 속 불확실성", "weight": 75, "narrative": "남베트남 시민은 쿠데타와 새 군부 지도부 아래에서 치안과 정치 방향의 불확실성을 겪었다. 반공 국가의 안정 약속은 흔들렸다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}

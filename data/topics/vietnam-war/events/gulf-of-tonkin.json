@@ -1,0 +1,13 @@
+{
+  "id": "gulf-of-tonkin",
+  "name": "통킹만 사건",
+  "type": "political",
+  "date": "1964-08",
+  "location": { "lng": 107.77, "lat": 20.00 },
+  "perspectives": {
+    "us": { "name": "개입 확대의 의회 승인", "weight": 100, "narrative": "통킹만 사건 뒤 미국 정부는 군사 대응과 개입 확대의 정치적 권한을 확보했다. 전쟁은 고문단과 지원을 넘어 직접 군사개입으로 향했다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "north": { "name": "해상 충돌과 확전", "weight": 80, "narrative": "북베트남은 미국 해군 활동과 남베트남 지원을 전쟁 확대의 일부로 보았다. 통킹만은 하노이와 워싱턴의 충돌을 더 공개적으로 만들었다.", "sources": ["Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam", "Pierre Asselin, Vietnam's American War: A History"] },
+    "south": { "name": "미국 의존의 심화", "weight": 80, "narrative": "남베트남은 미국의 직접 개입 확대에 더 깊이 의존하게 됐다. 사이공 정부의 전쟁은 점점 미국 전략과 결합했다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "civilians": { "name": "전쟁 확대의 전조", "weight": 65, "narrative": "통킹만 이후 폭격과 지상군 투입이 가까워지면서 민간인에게 전쟁의 폭은 더 넓어질 조건이 만들어졌다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}

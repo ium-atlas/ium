@@ -1,0 +1,13 @@
+{
+  "id": "easter-offensive",
+  "name": "부활절 공세",
+  "type": "battle",
+  "date": "1972-03",
+  "location": { "lng": 107.18, "lat": 16.75 },
+  "perspectives": {
+    "north": { "name": "정규전 압박", "weight": 100, "narrative": "북베트남은 부활절 공세로 정규군 전력을 활용해 남베트남을 압박했다. 전쟁은 게릴라전만이 아니라 대규모 재래식 전쟁으로도 전개됐다.", "sources": ["Pierre Asselin, Vietnam's American War: A History", "Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam"] },
+    "south": { "name": "베트남화의 시험", "weight": 95, "narrative": "남베트남군은 미 지상군 감축 이후 대규모 북베트남 공세를 막아야 했다. 전투는 베트남화 정책의 한계와 가능성을 동시에 시험했다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "us": { "name": "공중 지원의 지속", "weight": 85, "narrative": "미국은 지상군을 줄였지만 공중전과 물자 지원으로 남베트남을 계속 뒷받침했다. 철수와 개입은 동시에 진행됐다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Pierre Asselin, Vietnam's American War: A History"] },
+    "civilians": { "name": "전선 재확대의 피해", "weight": 80, "narrative": "꽝찌와 중부 지역 주민은 대규모 공세와 반격 속에서 피난과 도시 파괴를 겪었다. 전쟁 후반에도 민간 피해는 줄지 않았다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}

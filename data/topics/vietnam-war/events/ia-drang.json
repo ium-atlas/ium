@@ -1,0 +1,13 @@
+{
+  "id": "ia-drang",
+  "name": "이아드랑 전투",
+  "type": "battle",
+  "date": "1965-11",
+  "location": { "lng": 107.70, "lat": 13.60 },
+  "perspectives": {
+    "us": { "name": "헬리콥터 기동전의 시험", "weight": 100, "narrative": "이아드랑 전투는 미군의 공중기동과 화력 전술이 대규모로 시험된 전투였다. 동시에 전쟁이 큰 인명 손실을 동반할 장기 소모전임을 보여 주었다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Christian G. Appy, Working-Class War: American Combat Soldiers and Vietnam"] },
+    "north": { "name": "정규군 충돌의 경험", "weight": 95, "narrative": "북베트남군은 미군 화력의 강점을 확인하면서도 근접전과 소모를 통해 전쟁을 지속할 방법을 모색했다.", "sources": ["Pierre Asselin, Vietnam's American War: A History", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "south": { "name": "중부고원 전장의 확대", "weight": 65, "narrative": "중부고원 전투는 남베트남 전쟁이 도시와 해안만이 아니라 산악·농촌 지역 전역으로 확산됐음을 보여 주었다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975"] },
+    "civilians": { "name": "전장 주변의 이동", "weight": 60, "narrative": "중부고원 주민은 군사작전, 수색, 이동 제한, 피난의 영향을 받았다. 전술 실험은 지역사회에 직접적인 압박으로 나타났다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Christian G. Appy, Working-Class War: American Combat Soldiers and Vietnam"] }
+  }
+}

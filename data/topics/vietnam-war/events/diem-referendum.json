@@ -1,0 +1,13 @@
+{
+  "id": "diem-referendum",
+  "name": "응오딘지엠 국민투표",
+  "type": "political",
+  "date": "1955-10",
+  "location": { "lng": 106.70, "lat": 10.78 },
+  "perspectives": {
+    "south": { "name": "남베트남 공화국 수립", "weight": 100, "narrative": "응오딘지엠은 국민투표를 통해 바오다이를 밀어내고 남베트남 공화국을 세웠다. 새 정부는 반공 국가 건설을 내세웠지만 정통성 논란을 안고 출발했다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "us": { "name": "반공 국가 후원", "weight": 90, "narrative": "미국은 지엠 정부를 공산주의 확산을 막을 남베트남의 중심으로 보았다. 그러나 후원은 곧 남베트남 국내 정치의 취약성과 연결됐다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] },
+    "north": { "name": "통일 선거 무산의 인식", "weight": 80, "narrative": "북베트남은 남부의 별도 국가화와 통일 선거 무산을 분단 고착으로 보았다. 정치 대립은 무장 투쟁 재개의 배경으로 쌓였다.", "sources": ["Pierre Asselin, Vietnam's American War: A History", "Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam"] },
+    "civilians": { "name": "국가 건설의 압력", "weight": 65, "narrative": "남베트남 주민은 새 정권의 행정, 치안, 반공 동원 속에서 생활해야 했다. 국가 건설은 지역사회에 충성 요구와 감시를 가져왔다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] }
+  }
+}

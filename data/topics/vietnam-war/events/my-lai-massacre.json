@@ -1,0 +1,13 @@
+{
+  "id": "my-lai-massacre",
+  "name": "미라이 학살",
+  "type": "massacre",
+  "date": "1968-03",
+  "location": { "lng": 108.88, "lat": 15.18 },
+  "perspectives": {
+    "civilians": { "name": "민간인 피해의 중심성", "weight": 100, "narrative": "미라이 학살은 베트남 민간인이 수색·소탕 작전과 적 식별의 폭력 속에서 얼마나 취약했는지 보여 준다. 피해자 관점은 전쟁 서술의 중심에 놓여야 한다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975"] },
+    "us": { "name": "전쟁 윤리와 책임", "weight": 100, "narrative": "미라이 학살은 미군의 작전 방식, 지휘 책임, 은폐 문제를 미국 사회에 드러냈다. 전쟁 반대 여론과 군 내부 성찰을 자극했다.", "sources": ["Christian G. Appy, Working-Class War: American Combat Soldiers and Vietnam", "George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975"] },
+    "nlf": { "name": "농촌 전쟁의 폭력", "weight": 70, "narrative": "민족해방전선이 활동하던 농촌 지역은 미군 수색 작전과 정보전의 대상이 됐다. 민간인과 전투원을 가르는 경계가 위험하게 흐려졌다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "south": { "name": "동맹 작전의 부담", "weight": 55, "narrative": "남베트남 정부는 미군 작전에 의존하면서도 그 폭력의 정치적 부담을 함께 떠안았다. 농촌 주민의 신뢰는 더 약해질 수밖에 없었다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Marilyn B. Young, The Vietnam Wars, 1945-1990"] }
+  }
+}

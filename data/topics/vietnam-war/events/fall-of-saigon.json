@@ -1,0 +1,14 @@
+{
+  "id": "fall-of-saigon",
+  "name": "사이공 함락",
+  "type": "political",
+  "date": "1975-04",
+  "location": { "lng": 106.70, "lat": 10.78 },
+  "perspectives": {
+    "north": { "name": "통일 전쟁의 결말", "weight": 100, "narrative": "북베트남은 사이공 함락으로 전쟁의 최종 승리를 얻었다. 장기전 전략과 군사 공세는 남베트남 정권 붕괴로 이어졌다.", "sources": ["Pierre Asselin, Vietnam's American War: A History", "Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam"] },
+    "south": { "name": "공화국의 붕괴", "weight": 100, "narrative": "남베트남 공화국은 사이공 함락과 함께 무너졌다. 정부, 군, 동맹자들은 급박한 탈출과 항복의 현실을 맞았다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "us": { "name": "개입 전쟁의 종착", "weight": 95, "narrative": "미국에게 사이공 함락은 긴 개입 전쟁의 실패를 상징했다. 철수 이후에도 베트남 전쟁은 미국 정치와 사회 기억에 깊은 흔적을 남겼다.", "sources": ["George C. Herring, America's Longest War: The United States and Vietnam, 1950-1975", "Christian G. Appy, Working-Class War: American Combat Soldiers and Vietnam"] },
+    "civilians": { "name": "피난과 재편의 시작", "weight": 100, "narrative": "사이공 주민과 남베트남 관련자들은 정권 붕괴, 피난, 재교육과 새 체제 적응의 압박을 겪었다. 전쟁의 끝은 삶의 재편을 뜻했다.", "sources": ["Marilyn B. Young, The Vietnam Wars, 1945-1990", "Mark Atwood Lawrence, The Vietnam War: A Concise International History"] },
+    "socialist": { "name": "냉전 진영의 승리", "weight": 75, "narrative": "사회주의권은 베트남의 승리를 반식민·반미 투쟁의 성과로 보았다. 그러나 베트남의 전후 과제는 곧 지역 갈등과 재건 문제로 이어졌다.", "sources": ["Lien-Hang T. Nguyen, Hanoi's War: An International History of the War for Peace in Vietnam", "Pierre Asselin, Vietnam's American War: A History"] }
+  }
+}
