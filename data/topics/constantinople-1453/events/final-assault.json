@@ -1,0 +1,39 @@
+{
+  "id": "final-assault",
+  "name": "최종 총공세",
+  "type": "battle",
+  "date": "1453-05",
+  "location": {
+    "lng": 28.936,
+    "lat": 41.016
+  },
+  "perspectives": {
+    "byz": {
+      "name": "최후 방어전",
+      "weight": 100,
+      "narrative": "비잔틴에게 5월 29일 총공세는 수도와 제국의 운명을 건 마지막 방어전이었다. 성벽의 균열, 병력 부족, 지휘부 손실이 한꺼번에 겹쳤다.",
+      "sources": [
+        "Steven Runciman, The Fall of Constantinople 1453",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    },
+    "ottoman": {
+      "name": "정복의 결정적 공격",
+      "weight": 100,
+      "narrative": "오스만군에게 최종 총공세는 수 주간의 포격과 포위를 결실로 바꾸는 결정적 공격이었다. 메흐메트 2세의 군사적 명성이 이 승리에 걸려 있었다.",
+      "sources": [
+        "Kritovoulos, History of Mehmed the Conqueror",
+        "Halil Inalcik, The Ottoman Empire: The Classical Age 1300-1600"
+      ]
+    },
+    "latin": {
+      "name": "연합 수비의 붕괴",
+      "weight": 80,
+      "narrative": "라틴 방어 병력은 성벽 전선에서 중요한 역할을 했지만 최종 공세를 버티지 못했다. 서방 원조의 제한성도 이 순간 분명해졌다.",
+      "sources": [
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West",
+        "Steven Runciman, The Fall of Constantinople 1453"
+      ]
+    }
+  }
+}

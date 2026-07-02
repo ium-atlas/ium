@@ -1,0 +1,39 @@
+{
+  "id": "city-falls",
+  "name": "콘스탄티노플 함락",
+  "type": "siege",
+  "date": "1453-05",
+  "location": {
+    "lng": 28.9799,
+    "lat": 41.0086
+  },
+  "perspectives": {
+    "byz": {
+      "name": "비잔틴 제국의 종말",
+      "weight": 100,
+      "narrative": "콘스탄티노플 함락은 비잔틴 제국의 정치적 종말이었다. 도시는 오랜 로마 제국 수도의 연속성을 잃고 오스만 수도로 재편된다.",
+      "sources": [
+        "Steven Runciman, The Fall of Constantinople 1453",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    },
+    "ottoman": {
+      "name": "새 제국 수도의 획득",
+      "weight": 100,
+      "narrative": "오스만에게 함락은 제국 수도 확보와 지중해-흑해 연결축 장악을 뜻했다. 메흐메트 2세는 정복을 왕조의 세계제국 구상과 연결했다.",
+      "sources": [
+        "Kritovoulos, History of Mehmed the Conqueror",
+        "Halil Inalcik, The Ottoman Empire: The Classical Age 1300-1600"
+      ]
+    },
+    "latin": {
+      "name": "동지중해 질서 변화",
+      "weight": 85,
+      "narrative": "라틴권 상인과 교황권에는 콘스탄티노플 함락이 동지중해 세력 균형의 급변이었다. 베네치아와 제노바의 교역·외교 계산도 다시 짜였다.",
+      "sources": [
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West",
+        "Steven Runciman, The Fall of Constantinople 1453"
+      ]
+    }
+  }
+}

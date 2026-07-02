@@ -1,0 +1,39 @@
+{
+  "id": "giustiniani-wounded",
+  "name": "주스티니아니 부상",
+  "type": "battle",
+  "date": "1453-05",
+  "location": {
+    "lng": 28.936,
+    "lat": 41.016
+  },
+  "perspectives": {
+    "byz": {
+      "name": "방어선 동요",
+      "weight": 85,
+      "narrative": "비잔틴 수비대에게 주스티니아니의 부상과 이탈은 핵심 방어 전선의 사기를 흔든 사건이었다. 최종 공세의 균열이 커졌다.",
+      "sources": [
+        "Steven Runciman, The Fall of Constantinople 1453",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    },
+    "ottoman": {
+      "name": "돌파 기회의 확대",
+      "weight": 75,
+      "narrative": "오스만군에게 방어 지휘부의 동요는 공격을 밀어붙일 기회였다. 성벽 전선의 혼란은 최종 돌파와 맞물렸다.",
+      "sources": [
+        "Kritovoulos, History of Mehmed the Conqueror",
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West"
+      ]
+    },
+    "latin": {
+      "name": "제노바 지휘관의 이탈",
+      "weight": 95,
+      "narrative": "라틴권 관점에서 주스티니아니는 방어에 참여한 제노바 병력의 핵심 지휘관이었다. 그의 부상은 라틴 방어 참여의 한계를 상징하는 장면이 됐다.",
+      "sources": [
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West",
+        "Steven Runciman, The Fall of Constantinople 1453"
+      ]
+    }
+  }
+}

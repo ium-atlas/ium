@@ -1,0 +1,39 @@
+{
+  "id": "mehmed-entry",
+  "name": "메흐메트 2세 입성",
+  "type": "political",
+  "date": "1453-05",
+  "location": {
+    "lng": 28.9799,
+    "lat": 41.0086
+  },
+  "perspectives": {
+    "byz": {
+      "name": "성 소피아와 도시의 전환",
+      "weight": 90,
+      "narrative": "비잔틴 관점에서 메흐메트 2세의 입성은 성 소피아와 수도 공간의 주권이 바뀌는 순간이었다. 종교·도시 기억은 이후에도 긴 여운을 남겼다.",
+      "sources": [
+        "Steven Runciman, The Fall of Constantinople 1453",
+        "Marios Philippides and Walter K. Hanak, The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies"
+      ]
+    },
+    "ottoman": {
+      "name": "정복자 술탄의 수도 재편",
+      "weight": 100,
+      "narrative": "오스만 관점에서 입성은 메흐메트 2세가 정복자이자 새 수도의 통치자로 자신을 제시한 정치 행위였다. 콘스탄티노플은 이스탄불의 제국 수도로 재편된다.",
+      "sources": [
+        "Kritovoulos, History of Mehmed the Conqueror",
+        "Halil Inalcik, The Ottoman Empire: The Classical Age 1300-1600"
+      ]
+    },
+    "latin": {
+      "name": "서방 세계의 상실감",
+      "weight": 75,
+      "narrative": "라틴권에서는 입성 소식이 십자군적 대응 논의와 상실감을 자극했다. 그러나 도시 안의 라틴 공동체는 새 권력과 생존 조건을 협상해야 했다.",
+      "sources": [
+        "Roger Crowley, 1453: The Holy War for Constantinople and the Clash of Islam and the West",
+        "Steven Runciman, The Fall of Constantinople 1453"
+      ]
+    }
+  }
+}
