@@ -1,0 +1,39 @@
+{
+  "id": "hattin",
+  "name": "하틴 전투",
+  "type": "battle",
+  "date": "1187-07",
+  "location": {
+    "lng": 35.45,
+    "lat": 32.81
+  },
+  "perspectives": {
+    "lat": {
+      "name": "예루살렘 왕국 주력 붕괴",
+      "weight": 100,
+      "narrative": "하틴 전투에서 예루살렘 왕국의 야전군과 성십자가가 상실되면서 라틴 국가의 방어 체계가 무너졌다. 이 패배가 제3차 십자군 소집의 직접적 배경이 됐다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Peter W. Edbury, The Conquest of Jerusalem and the Third Crusade: Sources in Translation"
+      ]
+    },
+    "is": {
+      "name": "살라딘의 결정적 승리",
+      "weight": 100,
+      "narrative": "살라딘에게 하틴은 분열된 십자군 국가를 압도하고 예루살렘 탈환의 문을 연 결정적 승리였다. 이슬람권 서사에서 성지 회복의 전환점으로 기억된다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "동방 정세의 급변",
+      "weight": 35,
+      "narrative": "비잔틴은 직접 전투 당사자는 아니었지만, 하틴 이후 라틴 세력의 위기는 콘스탄티노폴리스를 지나는 서방 원정군의 외교 문제로 이어졌다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Malcolm Barber, The Crusader States"
+      ]
+    }
+  }
+}

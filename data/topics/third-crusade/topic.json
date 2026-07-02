@@ -1,0 +1,28 @@
+{
+  "id": "third-crusade",
+  "title": "제3차 십자군",
+  "period": [1187, 1192],
+  "start": "1187-07",
+  "end": "1192-09",
+  "bounds": [
+    [30.0, 30.8],
+    [37.5, 37.0]
+  ],
+  "perspectives": [
+    {
+      "code": "lat",
+      "label": "라틴 십자군",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "is",
+      "label": "이슬람권",
+      "color": "#3eb489"
+    },
+    {
+      "code": "byz",
+      "label": "비잔틴",
+      "color": "#b06ad9"
+    }
+  ]
+}

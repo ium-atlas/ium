@@ -1,0 +1,39 @@
+{
+  "id": "jaffa-treaty",
+  "name": "야파 조약",
+  "type": "treaty",
+  "date": "1192-09",
+  "location": {
+    "lng": 34.752,
+    "lat": 32.052
+  },
+  "perspectives": {
+    "lat": {
+      "name": "해안 보전과 순례권",
+      "weight": 95,
+      "narrative": "야파 조약은 예루살렘 탈환 실패를 인정하면서도 라틴 세력의 해안 거점과 기독교 순례권을 확보했다. 제3차 십자군의 절충적 결말이었다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Peter W. Edbury, The Conquest of Jerusalem and the Third Crusade: Sources in Translation"
+      ]
+    },
+    "is": {
+      "name": "예루살렘 보전과 휴전",
+      "weight": 95,
+      "narrative": "살라딘은 예루살렘을 지키면서도 해안의 일부 라틴 거점을 인정하는 휴전에 합의했다. 군사 소모 뒤 현실적 안정이 필요했다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "원정 압력의 완화",
+      "weight": 35,
+      "narrative": "조약은 서방 대규모 원정의 긴장을 누그러뜨렸지만, 비잔틴 주변에는 라틴 해상 세력과 키프로스 문제가 그대로 남았다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Malcolm Barber, The Crusader States"
+      ]
+    }
+  }
+}

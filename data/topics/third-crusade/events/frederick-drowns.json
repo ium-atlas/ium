@@ -1,0 +1,39 @@
+{
+  "id": "frederick-drowns",
+  "name": "프리드리히 1세 익사",
+  "type": "political",
+  "date": "1190-06",
+  "location": {
+    "lng": 33.318,
+    "lat": 36.45
+  },
+  "perspectives": {
+    "lat": {
+      "name": "독일군 원정의 와해",
+      "weight": 90,
+      "narrative": "신성로마황제 프리드리히 1세가 소아시아에서 익사하면서 대규모 독일 원정군은 급격히 흩어졌다. 서방의 왕권 연합은 출발부터 큰 손실을 입었다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Peter W. Edbury, The Conquest of Jerusalem and the Third Crusade: Sources in Translation"
+      ]
+    },
+    "is": {
+      "name": "북방 위협의 약화",
+      "weight": 55,
+      "narrative": "살라딘에게 독일군의 와해는 잠재적 압박을 크게 줄인 사건이었다. 다만 영국과 프랑스 왕의 해상 원정은 여전히 남아 있었다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "통행 위기의 해소",
+      "weight": 80,
+      "narrative": "비잔틴에게 프리드리히의 육상 통과는 긴장과 협상의 대상이었다. 그의 사망은 제국을 지나던 대군의 압력을 크게 약화시켰다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Malcolm Barber, The Crusader States"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "acre-surrenders",
+  "name": "아크레 함락",
+  "type": "siege",
+  "date": "1191-07",
+  "location": {
+    "lng": 35.0818,
+    "lat": 32.923
+  },
+  "perspectives": {
+    "lat": {
+      "name": "해안 거점 회복",
+      "weight": 100,
+      "narrative": "아크레 함락은 제3차 십자군의 최대 성과 중 하나였다. 라틴 세력은 강력한 항구를 얻고 예루살렘 회복을 향한 작전 기반을 마련했다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Peter W. Edbury, The Conquest of Jerusalem and the Third Crusade: Sources in Translation"
+      ]
+    },
+    "is": {
+      "name": "해안 방어선의 손실",
+      "weight": 95,
+      "narrative": "아크레의 항복은 살라딘의 해안 전략에 큰 타격이었다. 포위전 뒤 포로 처리 문제는 양측 기억에서 중요한 논쟁 지점으로 남았다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "라틴 해상 기반의 확대",
+      "weight": 35,
+      "narrative": "비잔틴 관점에서 아크레 회복은 서방 라틴 세력이 동지중해에 더 안정적으로 머물 수 있음을 뜻했다. 제국은 이 세력과의 외교적 거리 조절을 계속해야 했다.",
+      "sources": [
+        "Malcolm Barber, The Crusader States",
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "jerusalem-falls-1187",
+  "name": "예루살렘 탈환",
+  "type": "siege",
+  "date": "1187-10",
+  "location": {
+    "lng": 35.2137,
+    "lat": 31.7683
+  },
+  "perspectives": {
+    "lat": {
+      "name": "성지 상실의 충격",
+      "weight": 100,
+      "narrative": "예루살렘 상실은 서유럽에 큰 충격을 주었고 교황권과 왕권이 새 원정을 조직하는 명분이 됐다. 라틴 입장에서는 1099년의 성취가 뒤집힌 사건이었다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Peter W. Edbury, The Conquest of Jerusalem and the Third Crusade: Sources in Translation"
+      ]
+    },
+    "is": {
+      "name": "성지 회복",
+      "weight": 100,
+      "narrative": "살라딘의 예루살렘 입성은 하틴 승리의 정치적 완성이었다. 이슬람권 관점에서는 성지의 회복과 술탄의 정당성이 함께 강화됐다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "라틴 원정 압력의 예고",
+      "weight": 30,
+      "narrative": "예루살렘 함락은 비잔틴의 직접 영토 문제는 아니었지만, 서방 군주들의 동방 이동이 제국 외교와 통행 협상을 압박하게 됐다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land",
+        "Malcolm Barber, The Crusader States"
+      ]
+    }
+  }
+}

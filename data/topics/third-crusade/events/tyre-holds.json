@@ -1,0 +1,38 @@
+{
+  "id": "tyre-holds",
+  "name": "티레 방어",
+  "type": "siege",
+  "date": "1187-11",
+  "location": {
+    "lng": 35.193,
+    "lat": 33.27
+  },
+  "perspectives": {
+    "lat": {
+      "name": "잔존 거점 유지",
+      "weight": 85,
+      "narrative": "티레가 버틴 덕분에 라틴 세력은 해안의 발판을 완전히 잃지 않았다. 이후 십자군 증원과 아크레 작전은 이 잔존 거점의 의미를 키웠다.",
+      "sources": [
+        "Malcolm Barber, The Crusader States",
+        "Peter W. Edbury, The Conquest of Jerusalem and the Third Crusade: Sources in Translation"
+      ]
+    },
+    "is": {
+      "name": "완전 정복의 지연",
+      "weight": 75,
+      "narrative": "살라딘은 예루살렘을 회복했지만 티레를 제거하지 못해 라틴 세력의 해상 교두보를 남겼다. 이 거점은 곧 반격의 핵으로 바뀌었다.",
+      "sources": [
+        "Jonathan Phillips, The Life and Legend of the Sultan Saladin",
+        "Carole Hillenbrand, The Crusades: Islamic Perspectives"
+      ]
+    },
+    "byz": {
+      "name": "해상 네트워크의 지속",
+      "weight": 25,
+      "narrative": "비잔틴의 직접 역할은 제한적이었지만, 티레의 존속은 동지중해 해상 교통과 서방 세력의 재진입 가능성을 유지시켰다.",
+      "sources": [
+        "Thomas Asbridge, The Crusades: The Authoritative History of the War for the Holy Land"
+      ]
+    }
+  }
+}
