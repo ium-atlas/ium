@@ -1,0 +1,97 @@
+[
+  {
+    "year": 1688,
+    "label": "명예혁명",
+    "sources": [
+      "Tim Blanning, The Pursuit of Glory: Europe 1648-1815",
+      "John Merriman, A History of Modern Europe: From the Renaissance to the Present"
+    ]
+  },
+  {
+    "year": 1707,
+    "label": "그레이트브리튼 왕국 성립",
+    "sources": [
+      "Tim Blanning, The Pursuit of Glory: Europe 1648-1815",
+      "John Merriman, A History of Modern Europe: From the Renaissance to the Present"
+    ]
+  },
+  {
+    "year": 1713,
+    "label": "위트레흐트 조약",
+    "sources": [
+      "Tim Blanning, The Pursuit of Glory: Europe 1648-1815",
+      "John Merriman, A History of Modern Europe: From the Renaissance to the Present"
+    ]
+  },
+  {
+    "year": 1756,
+    "label": "7년 전쟁 유럽 전선",
+    "sources": [
+      "Tim Blanning, The Pursuit of Glory: Europe 1648-1815",
+      "John Merriman, A History of Modern Europe: From the Renaissance to the Present"
+    ]
+  },
+  {
+    "year": 1789,
+    "label": "삼부회 소집",
+    "sources": [
+      "Tim Blanning, The Pursuit of Glory: Europe 1648-1815",
+      "Eric Hobsbawm, The Age of Revolution: Europe 1789-1848"
+    ]
+  },
+  {
+    "year": 1804,
+    "label": "나폴레옹 황제 즉위",
+    "sources": [
+      "Tim Blanning, The Pursuit of Glory: Europe 1648-1815",
+      "Eric Hobsbawm, The Age of Revolution: Europe 1789-1848"
+    ]
+  },
+  {
+    "year": 1815,
+    "label": "빈 회의",
+    "sources": [
+      "Tim Blanning, The Pursuit of Glory: Europe 1648-1815",
+      "Eric Hobsbawm, The Age of Revolution: Europe 1789-1848"
+    ]
+  },
+  {
+    "year": 1830,
+    "label": "벨기에 독립 혁명",
+    "sources": [
+      "Eric Hobsbawm, The Age of Revolution: Europe 1789-1848",
+      "John Merriman, A History of Modern Europe: From the Renaissance to the Present"
+    ]
+  },
+  {
+    "year": 1848,
+    "label": "1848년 혁명",
+    "sources": [
+      "Eric Hobsbawm, The Age of Revolution: Europe 1789-1848",
+      "John Merriman, A History of Modern Europe: From the Renaissance to the Present"
+    ]
+  },
+  {
+    "year": 1861,
+    "label": "이탈리아 왕국 선포",
+    "sources": [
+      "Eric Hobsbawm, The Age of Capital: 1848-1875",
+      "John Merriman, A History of Modern Europe: From the Renaissance to the Present"
+    ]
+  },
+  {
+    "year": 1871,
+    "label": "독일 제국 선포",
+    "sources": [
+      "Eric Hobsbawm, The Age of Capital: 1848-1875",
+      "John Merriman, A History of Modern Europe: From the Renaissance to the Present"
+    ]
+  },
+  {
+    "year": 1884,
+    "label": "베를린 회의",
+    "sources": [
+      "John Merriman, A History of Modern Europe: From the Renaissance to the Present"
+    ]
+  }
+]
