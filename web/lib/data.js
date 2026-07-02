@@ -7,6 +7,10 @@ const MILESTONES_ROOT = path.join(DATA_ROOT, 'milestones');
 export const YEAR_MIN = -3000;
 export const YEAR_MAX = 2030;
 
+let topicEventsCache = null;
+let milestonesCache = null;
+let yearCountsCache = null;
+
 export function getTopicIds() {
   return fs.readdirSync(ROOT).filter(d => fs.existsSync(path.join(ROOT, d, 'topic.json')));
 }
@@ -42,7 +46,9 @@ export function getTopicWithContemporaries(id) {
 }
 
 export function getAllTopicEvents() {
-  return getTopicIds().flatMap(topicId => {
+  if (topicEventsCache) return topicEventsCache;
+
+  topicEventsCache = getTopicIds().flatMap(topicId => {
     const topic = getTopic(topicId);
     return topic.events.map(event => ({
       id: event.id,
@@ -61,6 +67,7 @@ export function getAllTopicEvents() {
       href: `/${topicId}/${event.id}/`,
     }));
   });
+  return topicEventsCache;
 }
 
 export function getMilestoneRegions() {
@@ -76,10 +83,11 @@ export function getMilestoneRegions() {
 }
 
 export function getMilestones() {
+  if (milestonesCache) return milestonesCache;
   if (!fs.existsSync(MILESTONES_ROOT)) return [];
 
   const regions = new Map(getMilestoneRegions().map(region => [region.id, region]));
-  return fs.readdirSync(MILESTONES_ROOT)
+  milestonesCache = fs.readdirSync(MILESTONES_ROOT)
     .filter(file => file.endsWith('.json') && file !== 'regions.json')
     .flatMap(file => {
       const regionId = path.basename(file, '.json');
@@ -89,6 +97,7 @@ export function getMilestones() {
       return rows.map((row, index) => normalizeMilestone(row, region, index)).filter(Boolean);
     })
     .sort((a, b) => a.startYear - b.startYear || a.regionLabel.localeCompare(b.regionLabel));
+  return milestonesCache;
 }
 
 export function getYearMapItems() {
@@ -118,21 +127,17 @@ export function getYearContent(year) {
 }
 
 export function getContentYears(minCount = 2) {
-  const years = new Set();
-  getAllTopicEvents().forEach(event => years.add(event.year));
-  getMilestones().forEach(milestone => {
-    const start = Math.max(YEAR_MIN, milestone.startYear);
-    const end = Math.min(YEAR_MAX, milestone.endYear);
-    for (let year = start; year <= end; year++) years.add(year);
-  });
-  return [...years]
-    .filter(year => getYearContent(year).total >= minCount)
+  return [...getYearCountMap().entries()]
+    .filter(([, count]) => count >= minCount)
+    .map(([year]) => year)
     .sort((a, b) => a - b);
 }
 
 export function getYearCounts(minCount = 1) {
   return Object.fromEntries(
-    getContentYears(minCount).map(year => [year, getYearContent(year).total])
+    [...getYearCountMap().entries()]
+      .filter(([, count]) => count >= minCount)
+      .sort(([a], [b]) => a - b)
   );
 }
 
@@ -267,4 +272,24 @@ function normalizePoint(point) {
 
 function containsYear(item, year) {
   return item.startYear <= year && item.endYear >= year;
+}
+
+function getYearCountMap() {
+  if (yearCountsCache) return yearCountsCache;
+
+  const counts = new Map();
+  getAllTopicEvents().forEach(event => incrementYear(counts, event.year));
+  getMilestones().forEach(milestone => {
+    const start = Math.max(YEAR_MIN, milestone.startYear);
+    const end = Math.min(YEAR_MAX, milestone.endYear);
+    for (let year = start; year <= end; year++) incrementYear(counts, year);
+  });
+
+  yearCountsCache = counts;
+  return yearCountsCache;
+}
+
+function incrementYear(counts, year) {
+  if (!Number.isFinite(year)) return;
+  counts.set(year, (counts.get(year) || 0) + 1);
 }
