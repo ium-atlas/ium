@@ -73,5 +73,125 @@
     "year": 1644,
     "label": "명 멸망과 청 입관",
     "sources": ["Cambridge University Press, The Cambridge History of China, Vol. 9 Part 1: The Ch'ing Empire to 1800"]
+  },
+  {
+    "range": [1661, 1722],
+    "label": "강희제 치세",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 9 Part 1: The Ch'ing Empire to 1800",
+      "Jonathan D. Spence, The Search for Modern China"
+    ]
+  },
+  {
+    "range": [1673, 1681],
+    "label": "삼번의 난",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 9 Part 1: The Ch'ing Empire to 1800",
+      "Jonathan D. Spence, The Search for Modern China"
+    ]
+  },
+  {
+    "year": 1683,
+    "label": "청의 타이완 정복",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 9 Part 1: The Ch'ing Empire to 1800",
+      "Jonathan D. Spence, The Search for Modern China"
+    ]
+  },
+  {
+    "year": 1689,
+    "label": "네르친스크 조약",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 9 Part 1: The Ch'ing Empire to 1800",
+      "Jonathan D. Spence, The Search for Modern China"
+    ]
+  },
+  {
+    "range": [1735, 1796],
+    "label": "건륭제 치세",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 9 Part 1: The Ch'ing Empire to 1800",
+      "Jonathan D. Spence, The Search for Modern China"
+    ]
+  },
+  {
+    "range": [1755, 1759],
+    "label": "준가르 정복",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 9 Part 1: The Ch'ing Empire to 1800",
+      "Jonathan D. Spence, The Search for Modern China"
+    ]
+  },
+  {
+    "range": [1796, 1804],
+    "label": "백련교도의 난",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 9 Part 1: The Ch'ing Empire to 1800",
+      "Cambridge University Press, The Cambridge History of China, Vol. 10: Late Ching, 1800-1911, Part 1"
+    ]
+  },
+  {
+    "range": [1839, 1842],
+    "label": "제1차 아편전쟁",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 10: Late Ching, 1800-1911, Part 1",
+      "Immanuel C. Y. Hsu, The Rise of Modern China"
+    ]
+  },
+  {
+    "year": 1842,
+    "label": "난징조약",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 10: Late Ching, 1800-1911, Part 1",
+      "Jonathan D. Spence, The Search for Modern China"
+    ]
+  },
+  {
+    "range": [1850, 1864],
+    "label": "태평천국 운동",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 10: Late Ching, 1800-1911, Part 1",
+      "Jonathan D. Spence, The Search for Modern China"
+    ]
+  },
+  {
+    "range": [1856, 1860],
+    "label": "제2차 아편전쟁",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 10: Late Ching, 1800-1911, Part 1",
+      "Immanuel C. Y. Hsu, The Rise of Modern China"
+    ]
+  },
+  {
+    "range": [1861, 1895],
+    "label": "양무운동",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 11: Late Ching, 1800-1911, Part 2",
+      "Immanuel C. Y. Hsu, The Rise of Modern China"
+    ]
+  },
+  {
+    "range": [1884, 1885],
+    "label": "청불전쟁",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 11: Late Ching, 1800-1911, Part 2",
+      "Immanuel C. Y. Hsu, The Rise of Modern China"
+    ]
+  },
+  {
+    "range": [1894, 1895],
+    "label": "청일전쟁",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 11: Late Ching, 1800-1911, Part 2",
+      "Jonathan D. Spence, The Search for Modern China"
+    ]
+  },
+  {
+    "year": 1898,
+    "label": "변법자강운동",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of China, Vol. 11: Late Ching, 1800-1911, Part 2",
+      "Immanuel C. Y. Hsu, The Rise of Modern China"
+    ]
   }
 ]
