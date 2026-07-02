@@ -1,5 +1,60 @@
 [
   {
+    "year": -900,
+    "label": "산로렌소 올멕 쇠퇴",
+    "sources": [
+      "Richard A. Diehl, The Olmecs: America's First Civilization",
+      "Michael D. Coe and Rex Koontz, Mexico: From the Olmecs to the Aztecs"
+    ]
+  },
+  {
+    "year": -900,
+    "label": "라벤타 올멕 부상",
+    "sources": [
+      "Richard A. Diehl, The Olmecs: America's First Civilization",
+      "Michael D. Coe and Rex Koontz, Mexico: From the Olmecs to the Aztecs"
+    ]
+  },
+  {
+    "year": -900,
+    "label": "차빈 데 우안타르 성장",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. 3: South America, Part 1",
+      "Richard L. Burger, Chavin and the Origins of Andean Civilization"
+    ]
+  },
+  {
+    "year": -800,
+    "label": "올멕 거석 두상 전성기",
+    "sources": [
+      "Richard A. Diehl, The Olmecs: America's First Civilization",
+      "Michael D. Coe and Rex Koontz, Mexico: From the Olmecs to the Aztecs"
+    ]
+  },
+  {
+    "year": -700,
+    "label": "산호세 모고테 성장",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. 2: Mesoamerica, Part 1",
+      "Michael D. Coe and Rex Koontz, Mexico: From the Olmecs to the Aztecs"
+    ]
+  },
+  {
+    "year": -700,
+    "label": "파라카스 문화 형성",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. 3: South America, Part 1"
+    ]
+  },
+  {
+    "year": -500,
+    "label": "몬테 알반 건설",
+    "sources": [
+      "Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. 2: Mesoamerica, Part 1",
+      "Michael D. Coe and Rex Koontz, Mexico: From the Olmecs to the Aztecs"
+    ]
+  },
+  {
     "year": 1754,
     "label": "프렌치 인디언 전쟁 발발",
     "sources": [
