@@ -1,0 +1,13 @@
+{
+  "id": "mao-death-gang-four-arrest",
+  "name": "마오 사망과 사인방 체포",
+  "type": "political",
+  "date": "1976-10",
+  "location": { "lng": 116.40, "lat": 39.90 },
+  "perspectives": {
+    "party": { "name": "문화대혁명의 종결", "weight": 100, "narrative": "마오 사망 뒤 사인방 체포는 문화대혁명 정치의 공식 종결을 알렸다. 당은 혼란을 특정 지도부 파벌의 책임으로 정리하며 새 질서를 열었다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "mao": { "name": "마오 시대의 마감", "weight": 95, "narrative": "마오의 죽음은 문화대혁명을 가능하게 했던 최고 권위의 소멸을 뜻했다. 그의 유산은 곧 계승과 부정의 정치 속에서 재해석됐다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] },
+    "pla": { "name": "권력 이행의 보장", "weight": 75, "narrative": "사인방 체포 과정에서 군과 보안 권력의 협조는 권력 이행을 가능하게 했다. 문화대혁명 말기의 정치 안정은 물리적 통제력에 기대고 있었다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "civilians": { "name": "불확실한 해방감", "weight": 85, "narrative": "민간사회는 오랜 동원과 공포가 끝날 수 있다는 기대를 품었지만, 피해 회복과 책임 규명은 긴 과정으로 남았다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] }
+  }
+}

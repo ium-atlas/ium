@@ -1,0 +1,12 @@
+{
+  "id": "nixon-visit-1972",
+  "name": "닉슨 방중",
+  "type": "political",
+  "date": "1972-02",
+  "location": { "lng": 116.40, "lat": 39.90 },
+  "perspectives": {
+    "mao": { "name": "외교 전환의 결단", "weight": 95, "narrative": "닉슨 방중은 문화대혁명기 중국이 이념적 고립만을 택하지 않았음을 보여 준다. 마오와 저우언라이는 미중 접근을 통해 국제 전략의 폭을 넓혔다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "party": { "name": "국가기구 복원의 필요", "weight": 85, "narrative": "고위 외교 행사는 혼란 속에서도 전문 관료와 의전, 정책 조율이 필요함을 드러냈다. 국가기구는 공격받으면서도 중국 외교를 수행해야 했다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] },
+    "civilians": { "name": "외부 세계의 재등장", "weight": 60, "narrative": "대중에게 닉슨 방중은 문화대혁명기의 폐쇄적 동원 속에서도 국제정치가 일상 선전 안으로 들어오는 순간이었다. 외교 전환은 중국 사회의 분위기 변화와도 맞물렸다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "shanghai-january-storm",
+  "name": "상하이 1월 폭풍",
+  "type": "political",
+  "date": "1967-01",
+  "location": { "lng": 121.47, "lat": 31.23 },
+  "perspectives": {
+    "local": { "name": "지방 권력 탈취", "weight": 100, "narrative": "상하이의 1월 폭풍은 조반파와 노동자 조직이 기존 지방 당권을 무너뜨린 대표 사례였다. 권력 탈취는 다른 지역 혁명위원회 모델의 선례가 됐다.", "sources": ["Yiching Wu, The Cultural Revolution at the Margins: Chinese Socialism in Crisis", "Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution"] },
+    "mao": { "name": "조반 정치의 승인", "weight": 90, "narrative": "중앙 지도부는 상하이의 권력 탈취를 혁명적 돌파로 인정하며 지방 관료층 압박을 강화했다. 그러나 그 승인은 곧 질서 회복 문제를 낳았다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] },
+    "party": { "name": "기존 당권의 붕괴", "weight": 95, "narrative": "상하이 당·행정 간부들은 대중조직의 비판과 장악 속에서 권위를 잃었다. 국가기구는 혁명이라는 이름으로 재편 대상이 됐다.", "sources": ["Andrew G. Walder, China Under Mao: A Revolution Derailed", "Yiching Wu, The Cultural Revolution at the Margins: Chinese Socialism in Crisis"] },
+    "civilians": { "name": "노동과 도시 생활의 혼란", "weight": 80, "narrative": "상하이 시민과 노동자는 파벌 동원, 생산 차질, 치안 불안을 함께 겪었다. 혁명적 참여와 생계 불안은 같은 도시 공간에서 겹쳤다.", "sources": ["Yiching Wu, The Cultural Revolution at the Margins: Chinese Socialism in Crisis", "Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976"] }
+  }
+}

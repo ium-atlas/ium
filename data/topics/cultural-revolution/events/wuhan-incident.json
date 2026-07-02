@@ -1,0 +1,13 @@
+{
+  "id": "wuhan-incident",
+  "name": "우한 사건",
+  "type": "political",
+  "date": "1967-07",
+  "location": { "lng": 114.31, "lat": 30.54 },
+  "perspectives": {
+    "local": { "name": "지방 파벌 충돌", "weight": 100, "narrative": "우한 사건은 지역 대중조직과 군, 중앙 대표가 얽힌 파벌 충돌을 드러냈다. 지방의 문화대혁명은 단일한 혁명 노선이 아니라 경쟁하는 권력망으로 전개됐다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "pla": { "name": "군의 정치 개입", "weight": 95, "narrative": "인민해방군은 질서 회복과 지역 권력 장악 사이에서 정치적 행위자가 됐다. 우한 사건은 군이 단순한 후방 안정 장치가 아니었음을 보여 주었다.", "sources": ["Andrew G. Walder, China Under Mao: A Revolution Derailed", "Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution"] },
+    "mao": { "name": "중앙 통제의 한계", "weight": 85, "narrative": "마오와 중앙은 지방 파벌의 폭발적 충돌을 혁명 동력으로만 볼 수 없게 됐다. 운동의 확산은 중앙 권위에도 직접 위험이 됐다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "civilians": { "name": "도시 폭력의 공포", "weight": 80, "narrative": "우한 시민은 무장 충돌, 교통·생산 혼란, 파벌 보복의 위험 속에 놓였다. 정치적 구호는 도시 안전을 보장하지 못했다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] }
+  }
+}

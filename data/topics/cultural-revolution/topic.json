@@ -1,0 +1,21 @@
+{
+  "id": "cultural-revolution",
+  "title": "문화대혁명",
+  "subtitle": "마오 시대 말기의 동원, 권력투쟁, 사회 붕괴",
+  "period": [1966, 1976],
+  "start": "1966-05",
+  "end": "1976-10",
+  "bounds": [
+    [108.0, 30.0],
+    [122.5, 48.0]
+  ],
+  "card": [116.40, 39.90],
+  "perspectives": [
+    { "code": "mao", "label": "마오쩌둥·중앙 지도부", "color": "#dc2626" },
+    { "code": "party", "label": "당 관료·국가기구", "color": "#475569" },
+    { "code": "redguards", "label": "홍위병·청년 동원", "color": "#f59e0b" },
+    { "code": "pla", "label": "인민해방군", "color": "#2563eb" },
+    { "code": "local", "label": "지방 파벌·혁명위원회", "color": "#16a34a" },
+    { "code": "civilians", "label": "민간사회·지식인·가족", "color": "#0891b2" }
+  ]
+}

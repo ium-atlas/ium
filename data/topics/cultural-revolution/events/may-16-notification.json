@@ -1,0 +1,12 @@
+{
+  "id": "may-16-notification",
+  "name": "5·16 통지",
+  "type": "political",
+  "date": "1966-05",
+  "location": { "lng": 116.40, "lat": 39.90 },
+  "perspectives": {
+    "mao": { "name": "계급투쟁 재점화", "weight": 100, "narrative": "5·16 통지는 당과 문화 영역 안에 숨어 있다는 적을 겨냥하며 문화대혁명의 공식 출발점이 됐다. 마오는 관료화된 당을 다시 흔들 정치적 언어를 얻었다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] },
+    "party": { "name": "당 내부 숙청의 신호", "weight": 95, "narrative": "통지는 기존 선전·문화 관료를 비판 대상으로 만들고 당 내부 권력 균형을 뒤집기 시작했다. 국가기구는 운동의 방향을 통제하기보다 먼저 공격받았다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "civilians": { "name": "정치 언어의 일상 침투", "weight": 65, "narrative": "초기의 문건과 비판 운동은 학교, 직장, 문화기관의 일상 언어를 바꾸었다. 시민들은 아직 전면 폭력을 예상하지 못한 채 정치적 충성 표시에 휘말렸다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] }
+  }
+}

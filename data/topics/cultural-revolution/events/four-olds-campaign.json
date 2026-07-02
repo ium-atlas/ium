@@ -1,0 +1,12 @@
+{
+  "id": "four-olds-campaign",
+  "name": "사구 타파 운동",
+  "type": "culture",
+  "date": "1966-08",
+  "location": { "lng": 116.40, "lat": 39.90 },
+  "perspectives": {
+    "redguards": { "name": "혁명 문화의 폭력화", "weight": 100, "narrative": "홍위병은 낡은 사상, 문화, 풍속, 습관을 타파한다는 명분으로 거리와 가정, 사찰과 학교를 공격했다. 상징 파괴는 곧 사람에 대한 모욕과 폭력으로 이어졌다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "civilians": { "name": "가정과 기억의 침탈", "weight": 100, "narrative": "민간인은 가택수색, 공개비판, 물품 압수와 파괴를 겪었다. 정치운동은 개인의 과거, 가족관계, 생활양식까지 심판하는 힘이 됐다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "party": { "name": "통제 불능의 충성 경쟁", "weight": 80, "narrative": "당 조직은 사구 타파의 정치적 열기를 활용하려 했지만 현장의 충성 경쟁과 폭력을 안정적으로 통제하지 못했다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] }
+  }
+}
