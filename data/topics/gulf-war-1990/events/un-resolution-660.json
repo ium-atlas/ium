@@ -1,0 +1,39 @@
+{
+  "id": "un-resolution-660",
+  "name": "유엔 안보리 결의 660호",
+  "type": "political",
+  "date": "1990-08",
+  "location": {
+    "lng": -73.97,
+    "lat": 40.75
+  },
+  "perspectives": {
+    "un": {
+      "name": "즉각 철수 요구",
+      "weight": 100,
+      "narrative": "유엔 안전보장이사회는 결의 660호로 침공을 규탄하고 이라크군의 즉각 철수를 요구했다. 냉전 종식기의 집단안보가 시험대에 올랐다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    },
+    "kuwait": {
+      "name": "주권 회복의 외교 기반",
+      "weight": 95,
+      "narrative": "쿠웨이트 망명 정부는 유엔 결의를 주권 회복의 핵심 근거로 삼았다. 이후 제재와 군사적 압박도 이 결의의 논리 위에서 전개됐다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "John Bulloch and Harvey Morris, Saddam's War: The Origins of the Kuwait Conflict and the International Response"
+      ]
+    },
+    "iraq": {
+      "name": "국제 고립의 시작",
+      "weight": 80,
+      "narrative": "이라크는 쿠웨이트 문제를 지역 정치와 석유 분쟁으로 설명하려 했지만, 안보리 결의는 이 주장을 국제적으로 고립시켰다.",
+      "sources": [
+        "F. Gregory Gause III, The International Relations of the Persian Gulf",
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order"
+      ]
+    }
+  }
+}

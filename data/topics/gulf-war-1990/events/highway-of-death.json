@@ -1,0 +1,39 @@
+{
+  "id": "highway-of-death",
+  "name": "죽음의 고속도로 공습",
+  "type": "battle",
+  "date": "1991-02",
+  "location": {
+    "lng": 47.68,
+    "lat": 29.35
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "퇴각로 차단과 과잉 화력 논쟁",
+      "weight": 90,
+      "narrative": "다국적군은 쿠웨이트에서 이라크로 향하는 퇴각 차량 행렬을 공격했다. 군사적으로는 후퇴 병력 차단이었지만, 공격 규모와 시점은 논쟁을 남겼다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf",
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War"
+      ]
+    },
+    "iraq": {
+      "name": "퇴각 중의 참혹한 손실",
+      "weight": 95,
+      "narrative": "이라크군과 관련 차량 행렬은 쿠웨이트-이라크 도로에서 집중 공격을 받았다. 사건은 전쟁 종결 국면의 폭력성을 상징하는 장면이 됐다.",
+      "sources": [
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War",
+        "Andrew J. Bacevich and Efraim Inbar, eds., The Gulf War of 1991 Reconsidered"
+      ]
+    },
+    "civilians": {
+      "name": "전투원과 비전투원 구분의 난점",
+      "weight": 75,
+      "narrative": "퇴각 행렬의 구성과 피해 성격을 둘러싸고 전후 논쟁이 이어졌다. 사건은 현대 공중전에서 비전투원 보호를 어떻게 판단할지 묻는 사례가 됐다.",
+      "sources": [
+        "Human Rights Watch, Needless Deaths in the Gulf War: Civilian Casualties During the Air Campaign and Violations of the Laws of War",
+        "Andrew J. Bacevich and Efraim Inbar, eds., The Gulf War of 1991 Reconsidered"
+      ]
+    }
+  }
+}

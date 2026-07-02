@@ -1,0 +1,39 @@
+{
+  "id": "battle-of-khafji",
+  "name": "카프지 전투",
+  "type": "battle",
+  "date": "1991-01",
+  "location": {
+    "lng": 48.49,
+    "lat": 28.44
+  },
+  "perspectives": {
+    "iraq": {
+      "name": "사우디 접경의 역습 시도",
+      "weight": 95,
+      "narrative": "이라크군은 라스 알카프지를 공격해 다국적군의 압박을 흔들려 했다. 제한적 진격은 곧 고립되며 이라크 지상군의 취약성을 드러냈다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf",
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War"
+      ]
+    },
+    "coalition": {
+      "name": "공군과 지상군의 반격",
+      "weight": 95,
+      "narrative": "다국적군은 사우디·카타르 등 걸프 부대와 함께 반격했고, 공중 우세를 활용해 이라크 부대를 압박했다. 전투는 지상전 전초전이 됐다.",
+      "sources": [
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War",
+        "Michael R. Gordon and Bernard E. Trainor, The Generals' War: The Inside Story of the Conflict in the Gulf"
+      ]
+    },
+    "gulf": {
+      "name": "사우디 영토의 직접 전장화",
+      "weight": 85,
+      "narrative": "카프지 전투는 걸프 왕정이 두려워하던 이라크군의 국경 침범을 실제 전투로 보여주었다. 지역군의 참전은 연합전의 상징이 됐다.",
+      "sources": [
+        "F. Gregory Gause III, The International Relations of the Persian Gulf",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    }
+  }
+}

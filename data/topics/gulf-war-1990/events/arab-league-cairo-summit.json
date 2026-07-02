@@ -1,0 +1,39 @@
+{
+  "id": "arab-league-cairo-summit",
+  "name": "아랍연맹 카이로 정상회의",
+  "type": "council",
+  "date": "1990-08",
+  "location": {
+    "lng": 31.24,
+    "lat": 30.04
+  },
+  "perspectives": {
+    "gulf": {
+      "name": "아랍권 내부의 안보 호소",
+      "weight": 95,
+      "narrative": "걸프 왕정과 쿠웨이트는 아랍권 차원의 압박과 파병 지지를 요구했다. 회의는 같은 아랍권 안에서도 위협 인식이 갈라졌음을 드러냈다.",
+      "sources": [
+        "F. Gregory Gause III, The International Relations of the Persian Gulf",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    },
+    "iraq": {
+      "name": "반서방 명분의 약화",
+      "weight": 80,
+      "narrative": "이라크는 위기를 아랍 내부 문제로 묶으려 했지만, 정상회의의 파병 지지는 그 명분을 약화시켰다. 이라크는 지역적으로도 고립되어 갔다.",
+      "sources": [
+        "John Bulloch and Harvey Morris, Saddam's War: The Origins of the Kuwait Conflict and the International Response",
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order"
+      ]
+    },
+    "coalition": {
+      "name": "비서방 동맹의 정치적 의미",
+      "weight": 75,
+      "narrative": "아랍 국가 일부의 참여는 다국적군이 단순한 미국 작전이 아니라 지역 정부들의 승인도 받았다는 정치적 의미를 더했다.",
+      "sources": [
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War",
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order"
+      ]
+    }
+  }
+}

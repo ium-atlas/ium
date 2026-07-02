@@ -1,0 +1,39 @@
+{
+  "id": "iraqi-invasion-kuwait",
+  "name": "이라크의 쿠웨이트 침공",
+  "type": "battle",
+  "date": "1990-08",
+  "location": {
+    "lng": 47.98,
+    "lat": 29.38
+  },
+  "perspectives": {
+    "iraq": {
+      "name": "부채와 영토 문제의 군사 해법",
+      "weight": 100,
+      "narrative": "사담 후세인 정권은 전후 부채, 석유 정책, 루마일라 유전 분쟁을 쿠웨이트 압박의 명분으로 삼았고, 결국 전면 침공으로 위기를 열었다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "John Bulloch and Harvey Morris, Saddam's War: The Origins of the Kuwait Conflict and the International Response"
+      ]
+    },
+    "kuwait": {
+      "name": "국가 점령과 정부 붕괴",
+      "weight": 100,
+      "narrative": "쿠웨이트 정부는 침공 직후 국토를 잃고 망명 정부와 국내 저항으로 대응했다. 침공은 주권 침해 문제를 국제 의제로 끌어올렸다.",
+      "sources": [
+        "Lawrence Freedman and Efraim Karsh, The Gulf Conflict 1990-1991: Diplomacy and War in the New World Order",
+        "Rick Atkinson, Crusade: The Untold Story of the Persian Gulf War"
+      ]
+    },
+    "civilians": {
+      "name": "점령 초기의 피난과 공포",
+      "weight": 85,
+      "narrative": "쿠웨이트 민간인은 점령 행정, 체포, 피난, 생필품 부족을 겪었다. 전쟁은 국경 분쟁을 넘어 일상 공간을 군사 점령지로 바꾸었다.",
+      "sources": [
+        "Human Rights Watch, Needless Deaths in the Gulf War: Civilian Casualties During the Air Campaign and Violations of the Laws of War",
+        "Dilip Hiro, Desert Shield to Desert Storm: The Second Gulf War"
+      ]
+    }
+  }
+}
