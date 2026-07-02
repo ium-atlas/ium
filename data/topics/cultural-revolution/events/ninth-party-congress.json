@@ -1,0 +1,13 @@
+{
+  "id": "ninth-party-congress",
+  "name": "중국공산당 제9차 전국대표대회",
+  "type": "political",
+  "date": "1969-04",
+  "location": { "lng": 116.40, "lat": 39.90 },
+  "perspectives": {
+    "mao": { "name": "문화대혁명의 제도화", "weight": 100, "narrative": "제9차 당대회는 문화대혁명의 성과를 공식화하고 마오의 권위를 다시 당헌과 지도체계에 새겼다. 운동은 파괴 이후 새 권력 질서로 포장됐다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] },
+    "pla": { "name": "린뱌오와 군의 부상", "weight": 95, "narrative": "린뱌오가 후계자로 부각되며 군의 정치적 위상도 커졌다. 인민해방군은 질서 회복과 지도부 재편의 핵심 축이 됐다.", "sources": ["Frederick C. Teiwes and Warren Sun, The Tragedy of Lin Biao: Riding the Tiger during the Cultural Revolution, 1966-1971", "Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution"] },
+    "party": { "name": "정치 엘리트의 재구성", "weight": 85, "narrative": "많은 기존 간부가 배제되거나 낮은 지위로 밀려났고, 새 충성 서열이 당 조직에 반영됐다. 당은 살아남았지만 이전과 같은 조직은 아니었다.", "sources": ["Andrew G. Walder, China Under Mao: A Revolution Derailed", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "redguards": { "name": "대중 급진주의의 흡수", "weight": 60, "narrative": "초기의 홍위병 급진주의는 당대회의 공식 질서 안으로 흡수되거나 주변화됐다. 거리의 혁명은 지도부가 승인한 제도 언어로 재해석됐다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976"] }
+  }
+}

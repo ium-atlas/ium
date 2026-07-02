@@ -1,0 +1,12 @@
+{
+  "id": "tiananmen-incident-1976",
+  "name": "4·5 천안문 사건",
+  "type": "movement",
+  "date": "1976-04",
+  "location": { "lng": 116.39, "lat": 39.91 },
+  "perspectives": {
+    "civilians": { "name": "추모와 불만의 결합", "weight": 100, "narrative": "저우언라이 추모는 문화대혁명 말기 대중의 피로와 정치적 불만을 드러냈다. 천안문 광장은 애도와 항의가 만나는 장소가 됐다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "party": { "name": "질서 회복과 탄압", "weight": 90, "narrative": "당과 보안 기구는 추모 행동을 정치적 도전으로 보고 진압했다. 이 사건은 지도부 내부 권력투쟁과 대중 정서가 맞물린 장면이었다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] },
+    "mao": { "name": "말년 권력의 불안", "weight": 80, "narrative": "마오 말년의 정치 질서는 저우언라이 사망 이후 대중 정서와 지도부 갈등을 안정적으로 흡수하지 못했다. 문화대혁명의 정당성은 약해지고 있었다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] }
+  }
+}

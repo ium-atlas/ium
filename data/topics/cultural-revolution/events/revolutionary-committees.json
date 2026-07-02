@@ -1,0 +1,13 @@
+{
+  "id": "revolutionary-committees",
+  "name": "혁명위원회 확산",
+  "type": "political",
+  "date": "1968-09",
+  "location": { "lng": 116.40, "lat": 39.90 },
+  "perspectives": {
+    "pla": { "name": "군 중심의 질서 회복", "weight": 100, "narrative": "혁명위원회는 군, 간부, 대중조직의 결합을 내세웠지만 실제로는 군의 안정화 역할이 커졌다. 무장 파벌 충돌 이후 질서 회복은 군사적 권위에 의존했다.", "sources": ["Andrew G. Walder, China Under Mao: A Revolution Derailed", "Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution"] },
+    "party": { "name": "국가기구의 재조립", "weight": 90, "narrative": "무너진 당·행정 체계는 혁명위원회라는 새 틀로 다시 조립됐다. 많은 간부는 비판과 복귀, 재배치 사이에서 생존을 모색했다.", "sources": ["Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] },
+    "local": { "name": "파벌 통합의 강제", "weight": 85, "narrative": "지방 혁명위원회는 경쟁 파벌을 한 조직 안에 묶으려 했지만 갈등의 기억을 없애지는 못했다. 지역 권력은 공식 통합과 비공식 보복 사이에서 움직였다.", "sources": ["Yiching Wu, The Cultural Revolution at the Margins: Chinese Socialism in Crisis", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "civilians": { "name": "동원에서 규율로", "weight": 70, "narrative": "민간사회는 거리 동원의 열기에서 생산 복귀와 정치 규율의 압력으로 이동했다. 혁명은 끝나지 않았지만 생활은 다시 통제 체계 안으로 들어갔다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] }
+  }
+}

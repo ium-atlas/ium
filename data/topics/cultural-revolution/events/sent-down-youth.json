@@ -1,0 +1,13 @@
+{
+  "id": "sent-down-youth",
+  "name": "지식청년 상산하향",
+  "type": "movement",
+  "date": "1968-12",
+  "location": { "lng": 108.94, "lat": 34.34 },
+  "perspectives": {
+    "redguards": { "name": "청년 동원의 전환", "weight": 95, "narrative": "도시 청년의 하방은 홍위병식 거리정치를 농촌 노동과 재교육으로 돌리는 조치였다. 혁명적 열정은 국가가 정한 이동과 생활 규율로 바뀌었다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Joel Andreas, Rise of the Red Engineers: The Cultural Revolution and the Origins of China's New Class"] },
+    "party": { "name": "도시 질서 관리", "weight": 80, "narrative": "당과 국가는 청년 이동을 통해 도시의 파벌 충돌과 고용 압력을 완화하려 했다. 하방은 정치교육이자 사회 관리 정책이었다.", "sources": ["Andrew G. Walder, China Under Mao: A Revolution Derailed", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "local": { "name": "농촌 사회의 부담", "weight": 75, "narrative": "농촌 지역은 도시 청년을 받아들이며 노동 배치, 식량, 주거 부담을 나누어야 했다. 혁명은 도시에서 농촌 생활세계로 깊이 들어갔다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "civilians": { "name": "가족 분리와 세대 경험", "weight": 100, "narrative": "하방 청년과 가족은 장기 분리, 교육 단절, 진로 불확실성을 겪었다. 개인 생애사는 국가 동원의 궤도 안에서 크게 바뀌었다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Joel Andreas, Rise of the Red Engineers: The Cultural Revolution and the Origins of China's New Class"] }
+  }
+}

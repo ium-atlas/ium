@@ -1,0 +1,13 @@
+{
+  "id": "lin-biao-incident",
+  "name": "린뱌오 사건",
+  "type": "political",
+  "date": "1971-09",
+  "location": { "lng": 111.32, "lat": 47.32 },
+  "perspectives": {
+    "mao": { "name": "후계 구도의 파열", "weight": 100, "narrative": "린뱌오 사건은 마오의 후계 구도를 무너뜨리고 문화대혁명 지도부의 내부 신뢰를 크게 흔들었다. 공식 선전과 권력 현실 사이의 간극이 드러났다.", "sources": ["Frederick C. Teiwes and Warren Sun, The Tragedy of Lin Biao: Riding the Tiger during the Cultural Revolution, 1966-1971", "Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution"] },
+    "pla": { "name": "군 권위의 위기", "weight": 95, "narrative": "린뱌오가 군의 상징적 중심이었기 때문에 사건은 인민해방군의 정치적 신뢰에도 타격을 주었다. 군의 부상은 더 이상 안정적 후계 체계를 뜻하지 않았다.", "sources": ["Frederick C. Teiwes and Warren Sun, The Tragedy of Lin Biao: Riding the Tiger during the Cultural Revolution, 1966-1971", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] },
+    "party": { "name": "정치 해석의 급변", "weight": 85, "narrative": "당 관료와 선전 체계는 어제의 후계자를 오늘의 반역자로 설명해야 했다. 조직 내부의 충성 기준은 다시 불안정해졌다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "civilians": { "name": "공식 진실에 대한 의심", "weight": 70, "narrative": "민간사회는 갑작스러운 정치 해석 변화 속에서 공식 담론의 취약성을 보았다. 문화대혁명의 상징 체계는 더 큰 불신을 낳았다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "red-guard-rallies",
+  "name": "천안문 홍위병 접견",
+  "type": "movement",
+  "date": "1966-08",
+  "location": { "lng": 116.39, "lat": 39.91 },
+  "perspectives": {
+    "redguards": { "name": "청년 동원의 정점", "weight": 100, "narrative": "천안문 대규모 접견은 홍위병에게 혁명적 정당성을 부여했다. 청년들은 마오를 직접 본 경험과 상징을 전국적 행동의 허가로 받아들였다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976"] },
+    "mao": { "name": "대중 동원으로 당 압박", "weight": 100, "narrative": "마오는 홍위병 동원을 통해 기존 당 조직을 우회하고 정치 주도권을 되찾았다. 지도부의 권위는 청년 대중의 열광과 결합해 증폭됐다.", "sources": ["Roderick MacFarquhar and Michael Schoenhals, Mao's Last Revolution", "Andrew G. Walder, China Under Mao: A Revolution Derailed"] },
+    "party": { "name": "조직 질서의 붕괴", "weight": 80, "narrative": "당과 학교의 관리 체계는 홍위병의 비판과 이동을 통제하지 못했다. 공식 조직은 운동을 지도한다기보다 운동의 표적이 되는 경우가 늘었다.", "sources": ["Andrew G. Walder, China Under Mao: A Revolution Derailed", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] },
+    "civilians": { "name": "도시 공간의 동원화", "weight": 75, "narrative": "베이징 시민과 학생 가족은 대규모 이동, 집회, 검열, 비판의 압박을 일상에서 겪었다. 수도의 광장은 국가 의례와 거리 정치가 뒤섞인 공간이 됐다.", "sources": ["Frank Dikotter, The Cultural Revolution: A People's History, 1962-1976", "Yang Jisheng, The World Turned Upside Down: A History of the Chinese Cultural Revolution"] }
+  }
+}
