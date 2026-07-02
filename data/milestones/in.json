@@ -1,0 +1,97 @@
+[
+  {
+    "year": 1674,
+    "label": "시바지 즉위",
+    "sources": [
+      "John F. Richards, The Mughal Empire",
+      "Burton Stein, A History of India"
+    ]
+  },
+  {
+    "year": 1707,
+    "label": "아우랑제브 사망",
+    "sources": [
+      "John F. Richards, The Mughal Empire",
+      "Burton Stein, A History of India"
+    ]
+  },
+  {
+    "year": 1739,
+    "label": "나디르 샤의 델리 약탈",
+    "sources": [
+      "John F. Richards, The Mughal Empire",
+      "Burton Stein, A History of India"
+    ]
+  },
+  {
+    "year": 1757,
+    "label": "플라시 전투",
+    "sources": [
+      "P. J. Marshall, Bengal: The British Bridgehead: Eastern India 1740-1828",
+      "C. A. Bayly, Indian Society and the Making of the British Empire"
+    ]
+  },
+  {
+    "year": 1764,
+    "label": "벅사르 전투",
+    "sources": [
+      "P. J. Marshall, Bengal: The British Bridgehead: Eastern India 1740-1828",
+      "C. A. Bayly, Indian Society and the Making of the British Empire"
+    ]
+  },
+  {
+    "year": 1770,
+    "label": "벵골 대기근",
+    "sources": [
+      "P. J. Marshall, Bengal: The British Bridgehead: Eastern India 1740-1828",
+      "Burton Stein, A History of India"
+    ]
+  },
+  {
+    "year": 1793,
+    "label": "영구 정착제",
+    "sources": [
+      "P. J. Marshall, Bengal: The British Bridgehead: Eastern India 1740-1828",
+      "C. A. Bayly, Indian Society and the Making of the British Empire"
+    ]
+  },
+  {
+    "range": [1817, 1818],
+    "label": "제3차 영국-마라타 전쟁",
+    "sources": [
+      "C. A. Bayly, Indian Society and the Making of the British Empire",
+      "Burton Stein, A History of India"
+    ]
+  },
+  {
+    "year": 1829,
+    "label": "사티 금지령",
+    "sources": [
+      "C. A. Bayly, Indian Society and the Making of the British Empire",
+      "Burton Stein, A History of India"
+    ]
+  },
+  {
+    "year": 1857,
+    "label": "1857년 봉기",
+    "sources": [
+      "Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858",
+      "C. A. Bayly, Indian Society and the Making of the British Empire"
+    ]
+  },
+  {
+    "year": 1858,
+    "label": "인도 통치법",
+    "sources": [
+      "C. A. Bayly, Indian Society and the Making of the British Empire",
+      "Burton Stein, A History of India"
+    ]
+  },
+  {
+    "year": 1885,
+    "label": "인도 국민회의 창립",
+    "sources": [
+      "Burton Stein, A History of India"
+    ]
+  }
+]
