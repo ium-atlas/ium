@@ -1,0 +1,77 @@
+[
+  {
+    "year": 1325,
+    "label": "테노치티틀란 건설",
+    "sources": ["Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. II: Mesoamerica"]
+  },
+  {
+    "year": 1438,
+    "label": "파차쿠티 즉위",
+    "sources": ["Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. III: South America"]
+  },
+  {
+    "year": 1492,
+    "label": "콜럼버스 카리브 도착",
+    "sources": ["Cambridge University Press, The Cambridge History of Latin America, Vol. I: Colonial Latin America"]
+  },
+  {
+    "year": 1494,
+    "label": "토르데시야스 조약",
+    "sources": ["Cambridge University Press, The Cambridge History of Latin America, Vol. I: Colonial Latin America"]
+  },
+  {
+    "year": 1519,
+    "label": "코르테스 멕시코 원정",
+    "sources": ["Cambridge University Press, The Cambridge History of Latin America, Vol. I: Colonial Latin America"]
+  },
+  {
+    "year": 1521,
+    "label": "테노치티틀란 함락",
+    "sources": ["Cambridge University Press, The Cambridge History of Latin America, Vol. I: Colonial Latin America"]
+  },
+  {
+    "year": 1532,
+    "label": "카하마르카 전투",
+    "sources": ["Cambridge University Press, The Cambridge History of Latin America, Vol. I: Colonial Latin America"]
+  },
+  {
+    "year": 1535,
+    "label": "리마 건설",
+    "sources": ["Cambridge University Press, The Cambridge History of Latin America, Vol. I: Colonial Latin America"]
+  },
+  {
+    "year": 1545,
+    "label": "포토시 은광 발견",
+    "sources": ["Cambridge University Press, The Cambridge History of Latin America, Vol. II: Colonial Latin America"]
+  },
+  {
+    "year": 1565,
+    "label": "세인트어거스틴 건설",
+    "sources": ["Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. I: North America"]
+  },
+  {
+    "year": 1572,
+    "label": "빌카밤바 함락",
+    "sources": ["Cambridge University Press, The Cambridge History of Latin America, Vol. I: Colonial Latin America"]
+  },
+  {
+    "year": 1607,
+    "label": "제임스타운 건설",
+    "sources": ["Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. I: North America"]
+  },
+  {
+    "year": 1608,
+    "label": "퀘벡 건설",
+    "sources": ["Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. I: North America"]
+  },
+  {
+    "year": 1620,
+    "label": "플리머스 식민지 건설",
+    "sources": ["Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. I: North America"]
+  },
+  {
+    "year": 1642,
+    "label": "몬트리올 건설",
+    "sources": ["Cambridge University Press, The Cambridge History of the Native Peoples of the Americas, Vol. I: North America"]
+  }
+]
