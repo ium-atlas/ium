@@ -1,0 +1,39 @@
+{
+  "id": "fall-of-baghdad",
+  "name": "바그다드 함락",
+  "type": "battle",
+  "date": "2003-04",
+  "location": {
+    "lng": 44.37,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "수도 장악과 점령 국면 전환",
+      "weight": 100,
+      "narrative": "연합군은 바그다드에 진입하며 후세인 정권의 중심 권력을 무너뜨렸다. 그러나 군사적 승리는 곧 치안과 통치의 과제로 바뀌었다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, Cobra II: The Inside Story of the Invasion and Occupation of Iraq",
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace"
+      ]
+    },
+    "baath": {
+      "name": "정권 붕괴와 잔존 네트워크",
+      "weight": 95,
+      "narrative": "바트당 국가기구는 빠르게 붕괴했지만 정권 인물, 정보망, 무장 인력의 일부는 사라지지 않았다. 이 잔존 네트워크는 이후 저항과 혼란의 한 축이 됐다.",
+      "sources": [
+        "Charles Tripp, A History of Iraq",
+        "Toby Dodge, Iraq: From War to a New Authoritarianism"
+      ]
+    },
+    "civilians": {
+      "name": "해방감과 약탈의 동시 경험",
+      "weight": 90,
+      "narrative": "바그다드 주민은 정권 붕괴의 해방감과 국가 기능 마비, 약탈, 치안 공백을 동시에 겪었다. 점령의 첫 이미지는 기대와 불안이 뒤섞였다.",
+      "sources": [
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace",
+        "Phebe Marr, The Modern History of Iraq"
+      ]
+    }
+  }
+}

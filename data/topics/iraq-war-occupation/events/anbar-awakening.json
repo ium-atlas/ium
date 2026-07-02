@@ -1,0 +1,39 @@
+{
+  "id": "anbar-awakening",
+  "name": "안바르 각성 운동",
+  "type": "movement",
+  "date": "2006-09",
+  "location": {
+    "lng": 43.30,
+    "lat": 33.42
+  },
+  "perspectives": {
+    "sunni_insurgents": {
+      "name": "부족 네트워크의 방향 전환",
+      "weight": 100,
+      "narrative": "안바르의 부족 네트워크 일부는 알카에다계 세력에 맞서 미군과 협력하기 시작했다. 수니파 반군 지형은 단일하지 않다는 점이 드러났다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    },
+    "coalition": {
+      "name": "지역 동맹을 통한 안정화",
+      "weight": 90,
+      "narrative": "미군은 안바르 각성을 반군 약화와 지역 치안 회복의 기회로 보았다. 부족과의 협력은 증파 전략과 함께 중요한 축이 됐다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",
+        "Toby Dodge, Iraq: From War to a New Authoritarianism"
+      ]
+    },
+    "iraqi_government": {
+      "name": "통합되지 않은 협력 세력",
+      "weight": 75,
+      "narrative": "이라크 정부는 수니파 각성 세력을 치안 체계에 어떻게 편입할지 어려움을 겪었다. 협력은 안정화의 기회이자 장기 정치 갈등의 씨앗이었다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    }
+  }
+}

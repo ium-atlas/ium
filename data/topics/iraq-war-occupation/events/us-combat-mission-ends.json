@@ -1,0 +1,39 @@
+{
+  "id": "us-combat-mission-ends",
+  "name": "미국 전투 임무 종료 선언",
+  "type": "political",
+  "date": "2010-08",
+  "location": {
+    "lng": 44.37,
+    "lat": 33.31
+  },
+  "perspectives": {
+    "coalition": {
+      "name": "전쟁 명칭과 임무의 전환",
+      "weight": 100,
+      "narrative": "미국은 이라크 전투 임무 종료를 선언하고 작전 성격을 전환했다. 그러나 훈련, 지원, 치안 불안의 문제는 계속 남았다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    },
+    "iraqi_government": {
+      "name": "안보 책임의 이양",
+      "weight": 90,
+      "narrative": "이라크 정부는 더 큰 안보 책임을 떠안게 됐다. 국가기관은 선거 정치와 종파 갈등 속에서 치안 역량을 증명해야 했다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Phebe Marr, The Modern History of Iraq"
+      ]
+    },
+    "civilians": {
+      "name": "끝나지 않은 불안",
+      "weight": 75,
+      "narrative": "전투 임무 종료 선언에도 민간인은 폭력, 실업, 전력·서비스 부족, 정치 불안을 계속 겪었다. 전쟁의 일상적 후유증은 쉽게 사라지지 않았다.",
+      "sources": [
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq",
+        "Toby Dodge, Iraq: From War to a New Authoritarianism"
+      ]
+    }
+  }
+}

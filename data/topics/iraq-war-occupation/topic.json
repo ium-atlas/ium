@@ -1,0 +1,62 @@
+{
+  "id": "iraq-war-occupation",
+  "title": "이라크 전쟁과 점령",
+  "subtitle": "2003년 침공에서 점령, 내전, 미군 철수까지",
+  "period": [
+    2003,
+    2011
+  ],
+  "start": "2003-03",
+  "end": "2011-12",
+  "bounds": [
+    [
+      38.0,
+      29.0
+    ],
+    [
+      48.5,
+      37.5
+    ]
+  ],
+  "card": [
+    44.37,
+    33.31
+  ],
+  "perspectives": [
+    {
+      "code": "coalition",
+      "label": "미국 주도 연합군",
+      "color": "#2563eb"
+    },
+    {
+      "code": "baath",
+      "label": "바트당 정권·잔존세력",
+      "color": "#dc2626"
+    },
+    {
+      "code": "iraqi_government",
+      "label": "이라크 과도·선출 정부",
+      "color": "#16a34a"
+    },
+    {
+      "code": "sunni_insurgents",
+      "label": "수니파 반군·부족 네트워크",
+      "color": "#f59e0b"
+    },
+    {
+      "code": "shia_parties_militias",
+      "label": "시아파 정당·민병대",
+      "color": "#7c3aed"
+    },
+    {
+      "code": "civilians",
+      "label": "이라크 민간인",
+      "color": "#0891b2"
+    },
+    {
+      "code": "regional",
+      "label": "주변국·국제 외교",
+      "color": "#475569"
+    }
+  ]
+}

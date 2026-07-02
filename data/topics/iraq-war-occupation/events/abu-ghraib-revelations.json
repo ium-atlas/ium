@@ -1,0 +1,39 @@
+{
+  "id": "abu-ghraib-revelations",
+  "name": "아부그라이브 수감자 학대 폭로",
+  "type": "political",
+  "date": "2004-04",
+  "location": {
+    "lng": 44.04,
+    "lat": 33.29
+  },
+  "perspectives": {
+    "civilians": {
+      "name": "수감과 모욕의 공포",
+      "weight": 100,
+      "narrative": "아부그라이브 수감자 학대 폭로는 이라크 민간인에게 점령 권력의 폭력과 모욕을 상징하는 사건이 됐다. 피해 경험은 점령 정당성의 위기를 키웠다.",
+      "sources": [
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace",
+        "Emma Sky, The Unraveling: High Hopes and Missed Opportunities in Iraq"
+      ]
+    },
+    "coalition": {
+      "name": "점령 신뢰의 추락",
+      "weight": 95,
+      "narrative": "폭로는 연합군의 법치와 인권 담론에 큰 타격을 주었다. 점령 행정은 군사 작전뿐 아니라 감시와 구금 체계에서도 비판을 받았다.",
+      "sources": [
+        "Michael R. Gordon and Bernard E. Trainor, The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",
+        "Ali A. Allawi, The Occupation of Iraq: Winning the War, Losing the Peace"
+      ]
+    },
+    "sunni_insurgents": {
+      "name": "저항 선전의 소재",
+      "weight": 75,
+      "narrative": "무장 저항 세력은 아부그라이브를 점령 반대 동원의 강력한 사례로 활용했다. 사건은 미국과 점령 당국에 대한 불신을 넓혔다.",
+      "sources": [
+        "Toby Dodge, Iraq: From War to a New Authoritarianism",
+        "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity"
+      ]
+    }
+  }
+}
