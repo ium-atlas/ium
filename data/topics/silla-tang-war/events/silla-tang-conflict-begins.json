@@ -1,0 +1,48 @@
+{
+  "id": "silla-tang-conflict-begins",
+  "name": "나당 갈등 본격화",
+  "type": "political",
+  "date": "670-03",
+  "location": {
+    "lng": 126.912,
+    "lat": 36.275
+  },
+  "perspectives": {
+    "silla": {
+      "name": "동맹에서 전쟁으로",
+      "weight": 100,
+      "narrative": "신라가 옛 백제 지역의 당군을 압박하면서 나당 연합은 전쟁 관계로 바뀌었다. 신라는 한반도 남부의 자주적 지배를 확보하려 했다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Ki-baik Lee, A New History of Korea"
+      ]
+    },
+    "tang": {
+      "name": "동맹국의 이탈",
+      "weight": 95,
+      "narrative": "당 관점에서 신라의 행동은 제국이 새로 정복한 지역에 대한 통제권에 도전한 것이었다. 신라는 더 이상 협력군이 아니라 견제 대상이 됐다.",
+      "sources": [
+        "Cambridge University Press, The Cambridge History of China, Vol. 3: Sui and T'ang China, 589-906, Part One",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "baekje": {
+      "name": "옛 백제 땅의 재쟁탈",
+      "weight": 75,
+      "narrative": "백제 유민에게 나당 갈등은 옛 백제 땅이 신라와 당 사이에서 다시 전장이 되는 과정이었다. 부흥의 주체성은 이미 약해졌지만 지역 사회의 부담은 커졌다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche"
+      ]
+    },
+    "goguryeo": {
+      "name": "옛 고구려 세력의 활용",
+      "weight": 65,
+      "narrative": "신라는 고구려 유민 세력과도 연결하며 당에 맞섰다. 고구려 관점에서는 멸망 뒤에도 옛 세력이 나당전쟁의 변수로 남았다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    }
+  }
+}

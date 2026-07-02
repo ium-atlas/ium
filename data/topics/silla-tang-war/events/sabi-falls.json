@@ -1,0 +1,48 @@
+{
+  "id": "sabi-falls",
+  "name": "사비성 함락",
+  "type": "siege",
+  "date": "660-07",
+  "location": {
+    "lng": 126.912,
+    "lat": 36.275
+  },
+  "perspectives": {
+    "silla": {
+      "name": "백제 정복의 시작",
+      "weight": 100,
+      "narrative": "사비성 함락은 신라가 당과 연합해 오랜 서쪽 경쟁자인 백제를 무너뜨린 사건이었다. 그러나 이 승리는 곧 당의 한반도 지배 구상과 충돌하는 출발점이 됐다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Ki-baik Lee, A New History of Korea"
+      ]
+    },
+    "tang": {
+      "name": "동방 원정의 성과",
+      "weight": 95,
+      "narrative": "당에게 백제 정복은 고구려 압박과 동북아 질서 재편을 위한 큰 성과였다. 소정방의 원정은 당 제국의 군사력을 한반도 남서부까지 투사했다.",
+      "sources": [
+        "Cambridge University Press, The Cambridge History of China, Vol. 3: Sui and T'ang China, 589-906, Part One",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "baekje": {
+      "name": "왕도 상실과 멸망",
+      "weight": 100,
+      "narrative": "백제 관점에서 사비성 함락은 왕도와 중앙 권력의 붕괴였다. 의자왕의 항복 뒤에도 지방 세력과 유민은 곧 부흥운동으로 대응했다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche"
+      ]
+    },
+    "goguryeo": {
+      "name": "남쪽 동맹권의 붕괴",
+      "weight": 65,
+      "narrative": "고구려에게 백제 멸망은 신라-당 연합이 남쪽 방어축을 무너뜨렸다는 신호였다. 다음 압박은 평양과 고구려 본토로 향했다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "silla-tang-war",
+  "title": "나당전쟁과 삼국통일",
+  "period": [660, 676],
+  "start": "660-07",
+  "end": "676-12",
+  "bounds": [
+    [124.8, 35.3],
+    [128.5, 39.6]
+  ],
+  "perspectives": [
+    {
+      "code": "silla",
+      "label": "신라",
+      "color": "#4a90d9"
+    },
+    {
+      "code": "tang",
+      "label": "당",
+      "color": "#d9b44a"
+    },
+    {
+      "code": "baekje",
+      "label": "백제",
+      "color": "#d94a4a"
+    },
+    {
+      "code": "goguryeo",
+      "label": "고구려",
+      "color": "#3eb489"
+    }
+  ]
+}

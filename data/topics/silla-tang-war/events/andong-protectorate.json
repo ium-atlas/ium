@@ -1,0 +1,48 @@
+{
+  "id": "andong-protectorate",
+  "name": "안동도호부 설치",
+  "type": "political",
+  "date": "668-12",
+  "location": {
+    "lng": 125.7625,
+    "lat": 39.0392
+  },
+  "perspectives": {
+    "silla": {
+      "name": "당 지배 구상의 노출",
+      "weight": 90,
+      "narrative": "안동도호부 설치는 신라에게 당이 단순한 동맹군이 아니라 한반도 옛 삼국 지역을 직접 관리하려는 제국 권력임을 보여 주었다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Ki-baik Lee, A New History of Korea"
+      ]
+    },
+    "tang": {
+      "name": "보호령 행정의 구축",
+      "weight": 100,
+      "narrative": "당에게 안동도호부는 고구려 옛 땅을 제국 행정망 안에 넣는 장치였다. 동북 변경을 안정시키고 신라까지 관리하려는 구상이 깔려 있었다.",
+      "sources": [
+        "Cambridge University Press, The Cambridge History of China, Vol. 3: Sui and T'ang China, 589-906, Part One",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "baekje": {
+      "name": "도독부 질서의 연장",
+      "weight": 55,
+      "narrative": "백제 옛 지역에도 당의 도독부 구상이 적용됐기 때문에 안동도호부는 백제 유민에게도 낯선 일이 아니었다. 멸망한 왕국들의 땅은 제국 행정의 대상이 됐다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche"
+      ]
+    },
+    "goguryeo": {
+      "name": "고구려 땅의 제국 편입",
+      "weight": 100,
+      "narrative": "고구려 유민에게 안동도호부는 옛 왕도와 영토가 당의 통치 대상으로 바뀌는 상징이었다. 이는 부흥운동과 이주, 북방 재편의 배경이 됐다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    }
+  }
+}

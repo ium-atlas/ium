@@ -1,0 +1,48 @@
+{
+  "id": "gibeolpo",
+  "name": "기벌포 전투",
+  "type": "battle",
+  "date": "676-11",
+  "location": {
+    "lng": 126.65,
+    "lat": 36.0
+  },
+  "perspectives": {
+    "silla": {
+      "name": "당 수군 격퇴",
+      "weight": 100,
+      "narrative": "기벌포 전투에서 신라는 당 수군을 격퇴하며 서해 방면 압박을 줄였다. 이는 나당전쟁의 마무리와 한반도 남부 지배 확정으로 이어졌다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Ki-baik Lee, A New History of Korea"
+      ]
+    },
+    "tang": {
+      "name": "해상 압박의 실패",
+      "weight": 85,
+      "narrative": "당에게 기벌포 패배는 신라를 해상에서 압박하는 전략이 충분히 성과를 내지 못했음을 뜻했다. 한반도 남부 직접 장악은 점점 어려워졌다.",
+      "sources": [
+        "Cambridge University Press, The Cambridge History of China, Vol. 3: Sui and T'ang China, 589-906, Part One",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    },
+    "baekje": {
+      "name": "옛 백제 해역의 귀속 변화",
+      "weight": 65,
+      "narrative": "기벌포는 옛 백제권 해역과 가까운 전장이었다. 백제 유민의 왕국 회복은 사라졌고, 이 해역은 신라와 당의 최종 충돌 공간이 됐다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Jonathan W. Best, A History of the Early Korean Kingdom of Paekche"
+      ]
+    },
+    "goguryeo": {
+      "name": "당 세력 후퇴의 일부",
+      "weight": 50,
+      "narrative": "고구려 관점에서는 기벌포 승리가 직접 회복을 뜻하지는 않았지만, 당의 한반도 남부 압박이 줄어드는 흐름의 일부였다.",
+      "sources": [
+        "Kim Busik, Samguk Sagi",
+        "Michael J. Seth, A History of Korea: From Antiquity to the Present"
+      ]
+    }
+  }
+}
