@@ -1,0 +1,13 @@
+{
+  "id": "xiang-army-mobilizes",
+  "name": "상군 조직",
+  "type": "political",
+  "date": "1853-10",
+  "location": { "lng": 112.94, "lat": 28.23 },
+  "perspectives": {
+    "qing": { "name": "지방군사화의 돌파구", "weight": 100, "narrative": "증국번의 상군 조직은 청이 기존 녹영·팔기만으로 태평천국을 진압하기 어렵다는 현실에서 나온 대응이었다. 지방 엘리트 군사화가 본격화됐다.", "sources": ["Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864", "Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874"] },
+    "taiping": { "name": "새 진압 세력의 등장", "weight": 80, "narrative": "태평천국에게 상군은 청 중앙군과 다른 종류의 끈질긴 지역 기반 적수였다. 전쟁은 수도와 원정뿐 아니라 지방 엘리트 네트워크와의 싸움이 됐다.", "sources": ["Franz Michael, The Taiping Rebellion: History and Documents", "Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864"] },
+    "foreign": { "name": "청 재건 역량의 관찰", "weight": 45, "narrative": "외국 세력은 청이 지방군과 엘리트 동원으로 내전 대응 능력을 회복할 수 있는지 주목했다. 이는 훗날 조약항 방어와도 연결됐다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War", "Mary Clabaugh Wright, The Last Stand of Chinese Conservatism: The T'ung-Chih Restoration, 1862-1874"] },
+    "local": { "name": "향촌 군사 동원의 확대", "weight": 95, "narrative": "상군 조직은 향촌 사회와 신사층이 전쟁 동원의 중심이 되는 변화를 뜻했다. 지역 주민은 군량, 병력, 치안 부담을 더 크게 떠안았다.", "sources": ["Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864", "Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China"] }
+  }
+}

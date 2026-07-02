@@ -1,0 +1,13 @@
+{
+  "id": "tianjing-incident",
+  "name": "천경사변",
+  "type": "political",
+  "date": "1856-09",
+  "location": { "lng": 118.8, "lat": 32.06 },
+  "perspectives": {
+    "qing": { "name": "반란 지도부의 내분", "weight": 85, "narrative": "천경사변은 태평천국 내부 권력 투쟁이 폭력으로 터진 사건이었다. 청은 반란 정권의 균열을 진압 기회로 볼 수 있었다.", "sources": ["Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "taiping": { "name": "천국 권력의 균열", "weight": 100, "narrative": "동왕 양수청과 지도부 숙청은 태평천국의 종교적·정치적 권위 구조를 심각하게 훼손했다. 천국 내부의 신뢰가 무너졌다.", "sources": ["Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "foreign": { "name": "접촉 상대의 불안정", "weight": 50, "narrative": "외국 관찰자에게 천경의 내분은 태평천국이 청을 대체할 안정적 정권인지 의심하게 만드는 사건이었다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "local": { "name": "수도 내부 폭력의 공포", "weight": 85, "narrative": "천경 주민과 강남 지역사회에는 지도부 내분이 다시 숙청과 불안으로 돌아왔다. 전쟁의 폭력은 외부 전선만이 아니라 수도 내부에서도 발생했다.", "sources": ["Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China", "Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan"] }
+  }
+}

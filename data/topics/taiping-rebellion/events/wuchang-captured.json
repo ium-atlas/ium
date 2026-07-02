@@ -1,0 +1,13 @@
+{
+  "id": "wuchang-captured",
+  "name": "우창 점령",
+  "type": "siege",
+  "date": "1853-01",
+  "location": { "lng": 114.31, "lat": 30.55 },
+  "perspectives": {
+    "qing": { "name": "양쯔 중류 방어 실패", "weight": 100, "narrative": "우창 점령은 태평군이 광시를 넘어 양쯔강 중류의 전략 도시를 장악할 수 있음을 보여 주었다. 청의 지방 방어 체계는 큰 충격을 받았다.", "sources": ["Franz Michael, The Taiping Rebellion: History and Documents", "Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864"] },
+    "taiping": { "name": "강행군의 대도시 성과", "weight": 100, "narrative": "태평천국에게 우창 점령은 내륙 행군이 전국적 운동으로 커질 수 있다는 증거였다. 강을 따라 동쪽으로 나아갈 기반도 마련됐다.", "sources": ["Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "foreign": { "name": "양쯔강 불안정의 확대", "weight": 45, "narrative": "외국 세력은 양쯔강 중류의 불안정이 통상과 선교, 조약항 네트워크에 미칠 영향을 더 진지하게 보게 됐다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "local": { "name": "도시 점령의 충격", "weight": 95, "narrative": "우창 주민에게 점령은 행정 붕괴, 피난, 재산 손실, 새 권력의 통제를 동반했다. 도시 사회는 전쟁의 중심으로 끌려 들어갔다.", "sources": ["Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China", "Franz Michael, The Taiping Rebellion: History and Documents"] }
+  }
+}

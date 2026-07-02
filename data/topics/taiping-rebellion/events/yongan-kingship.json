@@ -1,0 +1,13 @@
+{
+  "id": "yongan-kingship",
+  "name": "영안 왕호 체계",
+  "type": "political",
+  "date": "1851-09",
+  "location": { "lng": 110.42, "lat": 24.32 },
+  "perspectives": {
+    "qing": { "name": "반란 정권의 조직화", "weight": 95, "narrative": "영안에서 태평천국 지도부가 왕호와 관직 체계를 정비하자 청은 반란 세력이 임시 무리가 아니라 대체 정권을 지향한다고 보게 됐다.", "sources": ["Franz Michael, The Taiping Rebellion: History and Documents", "Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan"] },
+    "taiping": { "name": "천국 관료제의 선포", "weight": 100, "narrative": "태평천국은 영안에서 동왕·서왕 등 권력 구조를 세우고 신정 왕국의 질서를 구체화했다. 운동은 군사 행렬에서 국가 건설 시도로 바뀌었다.", "sources": ["Jonathan D. Spence, God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan", "Franz Michael, The Taiping Rebellion: History and Documents"] },
+    "foreign": { "name": "내륙 반란의 성장", "weight": 25, "narrative": "외국 상인과 선교사에게 영안의 조직화는 아직 간접 정보였지만, 기독교적 언어를 쓰는 중국 반란의 성장이라는 점에서 주목 대상이 됐다.", "sources": ["Stephen R. Platt, Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War"] },
+    "local": { "name": "점령지 통치의 시작", "weight": 80, "narrative": "영안 주변 주민에게 새 왕호 체계는 징발, 동원, 질서 재편이 실제 생활로 들어오는 과정이었다. 전쟁은 행군이 아니라 통치가 됐다.", "sources": ["Philip A. Kuhn, Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864", "Franz Michael, The Taiping Rebellion: History and Documents"] }
+  }
+}
