@@ -1,0 +1,13 @@
+{
+  "id": "womens-march-versailles",
+  "name": "베르사유 여성 행진",
+  "type": "movement",
+  "date": "1789-10",
+  "location": { "lng": 2.25, "lat": 48.84 },
+  "perspectives": {
+    "revolutionary": { "name": "왕실의 파리 이동", "weight": 95, "narrative": "여성들의 베르사유 행진은 왕실을 파리로 이동시켜 혁명 정치의 압력권 안에 두었다. 국민의회와 왕권의 관계도 새롭게 배치됐다.", "sources": ["Simon Schama, Citizens: A Chronicle of the French Revolution", "William Doyle, The Oxford History of the French Revolution"] },
+    "royalist": { "name": "궁정 안전의 붕괴", "weight": 100, "narrative": "왕실에게 행진은 베르사유의 물리적 안전과 상징적 거리가 무너진 사건이었다. 왕과 왕비는 파리 민중의 감시 아래 놓였다.", "sources": ["Simon Schama, Citizens: A Chronicle of the French Revolution", "Timothy Tackett, When the King Took Flight"] },
+    "sansculotte": { "name": "빵과 정치의 결합", "weight": 100, "narrative": "행진은 식량난을 겪던 여성과 도시 민중이 빵 문제를 정치 권력의 문제로 연결한 사건이었다. 거리의 생계 요구가 국가 권력의 위치를 바꾸었다.", "sources": ["Simon Schama, Citizens: A Chronicle of the French Revolution", "David Andress, The Terror: The Merciless War for Freedom in Revolutionary France"] },
+    "europe": { "name": "왕권 모욕의 충격", "weight": 55, "narrative": "유럽 군주국에는 프랑스 왕실이 군중에 의해 수도로 끌려가는 모습이 왕권 권위의 심각한 훼손으로 보였다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Timothy Tackett, When the King Took Flight"] }
+  }
+}

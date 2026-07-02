@@ -1,0 +1,13 @@
+{
+  "id": "monarchy-abolished",
+  "name": "왕정 폐지",
+  "type": "political",
+  "date": "1792-09",
+  "location": { "lng": 2.3522, "lat": 48.8566 },
+  "perspectives": {
+    "revolutionary": { "name": "공화정 선포", "weight": 100, "narrative": "왕정 폐지는 혁명이 입헌군주제 실험을 끝내고 공화정으로 넘어간 사건이었다. 전쟁과 내부 위기 속에서 주권은 국민과 국민공회로 이동했다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "royalist": { "name": "왕권의 정치적 몰락", "weight": 100, "narrative": "왕당파에게 왕정 폐지는 프랑스의 역사적 정통성이 끊긴 순간이었다. 왕실 지지 세력은 망명, 은밀한 저항, 지방 반혁명으로 갈라졌다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "sansculotte": { "name": "거리 급진주의의 승리", "weight": 95, "narrative": "상퀼로트와 파리 민중은 왕권과 반혁명에 대한 불신 속에서 공화정 전환을 밀어붙였다. 거리의 압력은 의회 정치의 방향을 바꾸었다.", "sources": ["David Andress, The Terror: The Merciless War for Freedom in Revolutionary France", "William Doyle, The Oxford History of the French Revolution"] },
+    "europe": { "name": "군주국 질서의 위협", "weight": 100, "narrative": "왕정 폐지는 유럽 군주국에게 프랑스 혁명이 왕권 자체를 부정하는 체제 위협임을 분명히 했다. 전쟁은 이념적 색채를 더 강하게 띠었다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] }
+  }
+}

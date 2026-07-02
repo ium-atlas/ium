@@ -1,0 +1,13 @@
+{
+  "id": "flight-to-varennes",
+  "name": "바렌 도주",
+  "type": "movement",
+  "date": "1791-06",
+  "location": { "lng": 5.036, "lat": 49.227 },
+  "perspectives": {
+    "revolutionary": { "name": "입헌군주제 신뢰 붕괴", "weight": 100, "narrative": "루이 16세의 도주 실패는 입헌군주제가 왕의 협조 위에 설 수 있다는 믿음을 크게 흔들었다. 혁명파 내부의 공화주의 요구도 힘을 얻었다.", "sources": ["Timothy Tackett, When the King Took Flight", "William Doyle, The Oxford History of the French Revolution"] },
+    "royalist": { "name": "왕실 탈출의 실패", "weight": 100, "narrative": "왕당파에게 바렌 사건은 왕실을 혁명 압력에서 구하려던 시도가 실패한 비극이었다. 왕은 더 강한 감시와 의심 속에 갇혔다.", "sources": ["Timothy Tackett, When the King Took Flight", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "sansculotte": { "name": "반역 의심의 확산", "weight": 90, "narrative": "도시 민중은 왕이 혁명과 나라를 배반하려 했다고 보았다. 바렌 이후 왕권에 대한 거리의 불신은 더 급진적인 정치 요구로 이어졌다.", "sources": ["Timothy Tackett, When the King Took Flight", "David Andress, The Terror: The Merciless War for Freedom in Revolutionary France"] },
+    "europe": { "name": "망명·개입 문제의 격화", "weight": 80, "narrative": "바렌 사건은 프랑스 왕실 문제를 유럽 외교의 더 큰 쟁점으로 만들었다. 주변 군주국은 혁명과 왕권 보호 문제를 함께 계산하게 됐다.", "sources": ["Timothy Tackett, When the King Took Flight", "William Doyle, The Oxford History of the French Revolution"] }
+  }
+}

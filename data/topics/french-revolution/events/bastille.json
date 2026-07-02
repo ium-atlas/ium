@@ -1,0 +1,13 @@
+{
+  "id": "bastille",
+  "name": "바스티유 습격",
+  "type": "battle",
+  "date": "1789-07",
+  "location": { "lng": 2.369, "lat": 48.853 },
+  "perspectives": {
+    "revolutionary": { "name": "대중 혁명의 분기점", "weight": 100, "narrative": "바스티유 습격은 파리 민중의 무장 행동이 정치 위기를 결정적으로 바꾼 사건이었다. 혁명파에게 이는 절대왕정의 상징이 무너진 장면으로 기억됐다.", "sources": ["Simon Schama, Citizens: A Chronicle of the French Revolution", "William Doyle, The Oxford History of the French Revolution"] },
+    "royalist": { "name": "수도 통제의 상실", "weight": 100, "narrative": "왕권과 궁정은 파리의 무장 봉기로 수도 통제력을 크게 잃었다. 군사력으로 의회를 압박하려던 선택은 오히려 폭발적 저항을 불렀다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "sansculotte": { "name": "무장 시민의 등장", "weight": 100, "narrative": "상퀼로트와 파리 민중에게 바스티유는 빵과 무기, 정치적 존엄이 한꺼번에 걸린 싸움이었다. 거리의 힘은 혁명의 필수 동력이 됐다.", "sources": ["Simon Schama, Citizens: A Chronicle of the French Revolution", "David Andress, The Terror: The Merciless War for Freedom in Revolutionary France"] },
+    "europe": { "name": "프랑스 혼란의 신호", "weight": 55, "narrative": "유럽 군주국은 프랑스 수도에서 왕권의 상징이 공격받는 장면을 불안하게 바라보았다. 사태는 내정 위기에서 체제 위협으로 보이기 시작했다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] }
+  }
+}

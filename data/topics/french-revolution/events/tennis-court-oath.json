@@ -1,0 +1,13 @@
+{
+  "id": "tennis-court-oath",
+  "name": "테니스 코트의 서약",
+  "type": "political",
+  "date": "1789-06",
+  "location": { "lng": 2.1204, "lat": 48.8049 },
+  "perspectives": {
+    "revolutionary": { "name": "헌법 제정권 선언", "weight": 100, "narrative": "국민의회 대표들은 해산 압박 속에서도 헌법이 제정될 때까지 흩어지지 않겠다고 서약했다. 주권의 근거가 왕이 아니라 국민 대표에게 있다는 주장이 선명해졌다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "royalist": { "name": "왕권 권위의 흔들림", "weight": 90, "narrative": "왕당파와 궁정은 회의 질서를 회복하려 했지만, 국민의회의 서약은 왕의 의사만으로 정치 과정을 통제하기 어렵다는 사실을 보여 주었다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "sansculotte": { "name": "거리 정치의 기대 상승", "weight": 55, "narrative": "서약은 도시 민중에게 제3신분 대표들이 물러서지 않는다는 신호가 됐다. 제도 정치와 거리 압력의 연결이 더 가까워졌다.", "sources": ["Simon Schama, Citizens: A Chronicle of the French Revolution", "William Doyle, The Oxford History of the French Revolution"] },
+    "europe": { "name": "입헌 위기의 시작", "weight": 40, "narrative": "유럽 군주국에는 프랑스의 신분제 정치가 입헌 권력 투쟁으로 변하는 장면이었다. 아직 개입보다 관망이 우세했다.", "sources": ["William Doyle, The Oxford History of the French Revolution"] }
+  }
+}

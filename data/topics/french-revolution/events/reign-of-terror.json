@@ -1,0 +1,13 @@
+{
+  "id": "reign-of-terror",
+  "name": "공포정치",
+  "type": "political",
+  "date": "1793-09",
+  "location": { "lng": 2.3522, "lat": 48.8566 },
+  "perspectives": {
+    "revolutionary": { "name": "비상 통치의 제도화", "weight": 100, "narrative": "공포정치는 전쟁, 반혁명, 경제 위기 속에서 혁명 정부가 비상 통치를 제도화한 과정이었다. 공화국 방어와 폭력의 경계가 흐려졌다.", "sources": ["David Andress, The Terror: The Merciless War for Freedom in Revolutionary France", "R. R. Palmer, Twelve Who Ruled: The Year of the Terror in the French Revolution"] },
+    "royalist": { "name": "반혁명 탄압의 절정", "weight": 100, "narrative": "왕당파와 반혁명 의심 세력에게 공포정치는 재판, 처형, 감시가 일상화된 폭력 체제였다. 지방 반란과 왕당파 네트워크는 강하게 탄압됐다.", "sources": ["David Andress, The Terror: The Merciless War for Freedom in Revolutionary France", "William Doyle, The Oxford History of the French Revolution"] },
+    "sansculotte": { "name": "가격·처벌 요구의 정치", "weight": 95, "narrative": "상퀼로트는 최고가격제, 반혁명 처벌, 전쟁 동원을 요구하며 혁명 정부를 압박했다. 민중 급진주의는 공포정치의 동력인 동시에 통제 대상이었다.", "sources": ["David Andress, The Terror: The Merciless War for Freedom in Revolutionary France", "R. R. Palmer, Twelve Who Ruled: The Year of the Terror in the French Revolution"] },
+    "europe": { "name": "전쟁 공화국의 공포", "weight": 95, "narrative": "유럽 군주국은 공포정치를 혁명 프랑스의 급진성과 전쟁 동원 능력의 증거로 보았다. 프랑스는 내부 폭력과 외부 전쟁을 동시에 밀어붙였다.", "sources": ["David Andress, The Terror: The Merciless War for Freedom in Revolutionary France", "William Doyle, The Oxford History of the French Revolution"] }
+  }
+}

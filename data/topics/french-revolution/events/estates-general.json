@@ -1,0 +1,13 @@
+{
+  "id": "estates-general",
+  "name": "삼부회 소집",
+  "type": "council",
+  "date": "1789-05",
+  "location": { "lng": 2.1204, "lat": 48.8049 },
+  "perspectives": {
+    "revolutionary": { "name": "대표 정치의 열린 무대", "weight": 95, "narrative": "삼부회 소집은 재정 위기가 정치 대표권 문제로 공개 전환된 순간이었다. 제3신분 대표들은 표결 방식과 국민 대표성을 둘러싸고 주도권을 넓혔다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "royalist": { "name": "재정 위기 수습 시도", "weight": 95, "narrative": "왕권은 재정 파탄을 해결하기 위해 전통적 신분 회의를 소집했지만, 회의는 왕이 통제하기 어려운 정치 위기로 바뀌었다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] },
+    "sansculotte": { "name": "식량난과 기대의 정치화", "weight": 60, "narrative": "파리와 도시 민중은 빵값과 생계 위기 속에서 삼부회를 지켜보았다. 정치 대표의 논쟁은 곧 거리의 압력과 연결될 수 있었다.", "sources": ["Simon Schama, Citizens: A Chronicle of the French Revolution", "William Doyle, The Oxford History of the French Revolution"] },
+    "europe": { "name": "프랑스 내정 위기 관망", "weight": 35, "narrative": "주변 군주국은 아직 프랑스 사태를 직접 개입할 전쟁 위기로 보지는 않았지만, 대국 프랑스의 재정·정치 동요를 주시했다.", "sources": ["William Doyle, The Oxford History of the French Revolution", "Simon Schama, Citizens: A Chronicle of the French Revolution"] }
+  }
+}
