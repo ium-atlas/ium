@@ -1,0 +1,48 @@
+{
+  "id": "tordesillas",
+  "name": "토르데시야스 조약",
+  "type": "treaty",
+  "date": "1494-06",
+  "location": {
+    "lng": -5.024,
+    "lat": 41.503
+  },
+  "perspectives": {
+    "eu": {
+      "name": "이베리아 해상권 분할",
+      "weight": 100,
+      "narrative": "토르데시야스 조약은 포르투갈과 카스티야가 대서양 팽창의 권리를 선으로 나누려 한 합의였다. 조약은 유럽 왕권의 경쟁과 교황권의 조정이 결합한 산물이었다.",
+      "sources": [
+        "J. H. Parry, The Age of Reconnaissance",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "is": {
+      "name": "배제된 인도양 행위자",
+      "weight": 30,
+      "narrative": "조약은 인도양 이슬람 상인과 국가를 협상 주체로 보지 않았다. 그러나 포르투갈의 동방 진출 정당화에 간접적으로 힘을 실었다.",
+      "sources": [
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    },
+    "sea": {
+      "name": "분할선 밖에서 다가온 압력",
+      "weight": 20,
+      "narrative": "동남아시아 항구들은 조약에 참여하지 않았지만, 이베리아의 바다 분할 논리는 훗날 말라카와 향신료 해역 개입의 배경이 됐다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825"
+      ]
+    },
+    "am": {
+      "name": "동의 없는 분할",
+      "weight": 90,
+      "narrative": "아메리카 세계는 조약의 당사자가 아니었지만, 그 결과로 유럽 제국의 권리 주장 대상이 됐다. 브라질이 포르투갈권에 들어가는 장기적 배경도 여기서 생겼다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    }
+  }
+}

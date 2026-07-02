@@ -1,0 +1,48 @@
+{
+  "id": "circumnavigation-complete",
+  "name": "엘카노 일행의 세계 일주 귀환",
+  "type": "movement",
+  "date": "1522-09",
+  "location": {
+    "lng": -6.283,
+    "lat": 36.529
+  },
+  "perspectives": {
+    "eu": {
+      "name": "세계 일주의 완성",
+      "weight": 100,
+      "narrative": "엘카노 일행의 귀환은 지구 규모의 해상 연결이 실제 항해로 증명된 사건이었다. 동시에 이 성취는 선원들의 극심한 손실과 지역 사회와의 충돌 위에 놓여 있었다.",
+      "sources": [
+        "J. H. Parry, The Age of Reconnaissance",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "is": {
+      "name": "기존 교역권 우회 가능성",
+      "weight": 45,
+      "narrative": "세계 일주 완성은 유럽이 인도양 중심 교역로만이 아니라 대서양과 태평양을 묶어 향신료에 접근할 수 있음을 보여 주었다. 기존 무슬림 상업망에는 장기 경쟁 신호였다.",
+      "sources": [
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    },
+    "sea": {
+      "name": "향신료 해역의 세계 연결",
+      "weight": 85,
+      "narrative": "동남아시아와 향신료 해역은 세계 일주 항로의 핵심 목표가 됐다. 지역 항구와 섬들은 이제 인도양뿐 아니라 태평양-대서양 축의 경쟁에도 노출됐다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "am": {
+      "name": "대서양-태평양 연결의 통과축",
+      "weight": 75,
+      "narrative": "아메리카는 세계 일주 항로에서 단순한 중간 지점이 아니라 태평양 접근을 가능하게 한 핵심 공간이었다. 이후 식민 지배와 태평양 교역이 더 긴밀히 연결됐다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    }
+  }
+}

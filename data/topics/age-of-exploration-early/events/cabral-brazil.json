@@ -1,0 +1,48 @@
+{
+  "id": "cabral-brazil",
+  "name": "카브랄의 브라질 도착",
+  "type": "movement",
+  "date": "1500-04",
+  "location": {
+    "lng": -39.064,
+    "lat": -16.444
+  },
+  "perspectives": {
+    "eu": {
+      "name": "포르투갈 대서양권 확대",
+      "weight": 90,
+      "narrative": "카브랄의 브라질 도착은 포르투갈의 인도 원정이 대서양 서쪽 접촉으로도 이어졌음을 보여 준다. 포르투갈은 조약선과 항해 지식을 바탕으로 새 권리를 주장했다.",
+      "sources": [
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    },
+    "is": {
+      "name": "인도 항로 원정의 우회",
+      "weight": 20,
+      "narrative": "이 사건 자체는 인도양 이슬람권과 직접 접촉하지 않았다. 그러나 원정의 최종 목표는 인도양 교역이었고, 브라질 도착은 그 항해 중 일어난 대서양 사건이었다.",
+      "sources": [
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700",
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825"
+      ]
+    },
+    "sea": {
+      "name": "직접 관련 낮음",
+      "weight": 5,
+      "narrative": "동남아시아 교역권과의 직접 접촉은 아직 없었다. 하지만 포르투갈의 대양 항해 역량이 아시아 원정과 함께 커지고 있었다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "am": {
+      "name": "브라질 원주민 세계와의 접촉",
+      "weight": 100,
+      "narrative": "브라질 해안의 원주민 사회는 포르투갈 왕권의 영유권 주장과 접촉하게 됐다. 초기에는 교역과 탐사가 섞였지만 장기적으로 식민화와 강제 노동으로 이어졌다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "Charles R. Boxer, The Portuguese Seaborne Empire, 1415-1825"
+      ]
+    }
+  }
+}

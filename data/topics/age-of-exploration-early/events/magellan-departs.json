@@ -1,0 +1,48 @@
+{
+  "id": "magellan-departs",
+  "name": "마젤란 원정 출항",
+  "type": "movement",
+  "date": "1519-09",
+  "location": {
+    "lng": -5.9941,
+    "lat": 37.3891
+  },
+  "perspectives": {
+    "eu": {
+      "name": "서쪽으로 향신료 해역 찾기",
+      "weight": 100,
+      "narrative": "마젤란 원정은 스페인이 서쪽 항로로 향신료 해역에 닿으려 한 시도였다. 포르투갈의 희망봉 항로와 조약 체제에 대한 경쟁적 응답이기도 했다.",
+      "sources": [
+        "J. H. Parry, The Age of Reconnaissance",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "is": {
+      "name": "인도양 우회 경쟁",
+      "weight": 25,
+      "narrative": "원정은 인도양 이슬람권을 직접 겨냥한 출항은 아니었지만, 기존 동방 교역로를 우회해 향신료를 얻으려는 유럽 경쟁의 일부였다.",
+      "sources": [
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    },
+    "sea": {
+      "name": "필리핀 접촉의 전조",
+      "weight": 60,
+      "narrative": "동남아시아 관점에서는 이 출항이 필리핀과 향신료 해역 접촉으로 이어지는 출발점이었다. 스페인의 태평양 접근이 지역 정치에 들어올 준비를 했다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "am": {
+      "name": "남미 항로 탐색의 시작",
+      "weight": 65,
+      "narrative": "원정은 남아메리카 해협을 찾는 항해로 이어졌다. 아메리카는 유럽이 태평양으로 나아가는 통과 공간이자 폭력적 접촉의 현장이 됐다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    }
+  }
+}

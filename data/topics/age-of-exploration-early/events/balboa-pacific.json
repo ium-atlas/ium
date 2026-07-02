@@ -1,0 +1,48 @@
+{
+  "id": "balboa-pacific",
+  "name": "발보아의 태평양 확인",
+  "type": "movement",
+  "date": "1513-09",
+  "location": {
+    "lng": -79.5,
+    "lat": 8.95
+  },
+  "perspectives": {
+    "eu": {
+      "name": "새 대양의 인식",
+      "weight": 90,
+      "narrative": "발보아의 태평양 확인은 유럽인들이 아메리카 너머 또 다른 대양을 인식하는 계기가 됐다. 이는 향후 태평양 횡단과 세계 일주 구상에 힘을 보탰다.",
+      "sources": [
+        "J. H. Parry, The Age of Reconnaissance",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "is": {
+      "name": "인도양과 먼 소식",
+      "weight": 10,
+      "narrative": "인도양 이슬람권의 직접 사건은 아니었다. 하지만 유럽이 동방으로 가는 다른 경로를 찾으려 했다는 점에서 장기적으로 세계 교역 경쟁과 연결됐다.",
+      "sources": [
+        "J. H. Parry, The Age of Reconnaissance",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "sea": {
+      "name": "태평양 연결의 먼 전조",
+      "weight": 25,
+      "narrative": "동남아시아와 직접 만난 사건은 아니었지만, 태평양의 인식은 훗날 필리핀과 향신료 해역을 서쪽이 아닌 동쪽에서도 접근하려는 시도로 이어졌다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "am": {
+      "name": "파나마 원주민 세계를 통과한 정복",
+      "weight": 100,
+      "narrative": "발보아의 이동은 원주민 사회와의 접촉, 동맹, 폭력을 통해 가능했다. 아메리카 관점에서는 유럽의 지리 인식보다 정복 현장의 압력이 더 중요했다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    }
+  }
+}

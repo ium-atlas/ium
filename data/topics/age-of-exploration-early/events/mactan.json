@@ -1,0 +1,48 @@
+{
+  "id": "mactan",
+  "name": "막탄 전투",
+  "type": "battle",
+  "date": "1521-04",
+  "location": {
+    "lng": 123.966,
+    "lat": 10.311
+  },
+  "perspectives": {
+    "eu": {
+      "name": "마젤란의 사망",
+      "weight": 85,
+      "narrative": "막탄 전투에서 마젤란이 사망하면서 원정은 지도자를 잃었다. 유럽 서사에서는 세계 일주 과정의 극적인 실패이자 전환점으로 다뤄진다.",
+      "sources": [
+        "J. H. Parry, The Age of Reconnaissance",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "is": {
+      "name": "동남아 무슬림 교역권 주변의 변화",
+      "weight": 30,
+      "narrative": "막탄은 인도양 이슬람권의 중심 사건은 아니었지만, 말레이-필리핀 해역의 교역과 이슬람화 흐름이 진행되던 지역 주변에서 일어난 접촉이었다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Sanjay Subrahmanyam, The Portuguese Empire in Asia, 1500-1700"
+      ]
+    },
+    "sea": {
+      "name": "라푸라푸의 저항",
+      "weight": 100,
+      "narrative": "동남아시아 관점에서 막탄 전투는 외부 항해자의 도착을 지역 정치가 수동적으로 받아들이지 않았음을 보여 준다. 라푸라푸의 저항은 필리핀 기억에서 특히 큰 비중을 갖는다.",
+      "sources": [
+        "Anthony Reid, Southeast Asia in the Age of Commerce, 1450-1680",
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration"
+      ]
+    },
+    "am": {
+      "name": "태평양 횡단 이후의 먼 사건",
+      "weight": 20,
+      "narrative": "아메리카와 직접 관련은 낮지만, 원정은 남아메리카를 돌아 태평양을 건넌 뒤 막탄에 도달했다. 아메리카가 세계 일주 항로의 통과축이 됐다는 점에서 연결된다.",
+      "sources": [
+        "Felipe Fernandez-Armesto, Pathfinders: A Global History of Exploration",
+        "J. H. Parry, The Age of Reconnaissance"
+      ]
+    }
+  }
+}
