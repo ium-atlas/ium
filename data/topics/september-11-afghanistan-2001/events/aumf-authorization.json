@@ -1,0 +1,39 @@
+{
+  "id": "aumf-authorization",
+  "name": "미국 무력사용권한 승인",
+  "type": "political",
+  "date": "2001-09",
+  "location": {
+    "lng": -77.01,
+    "lat": 38.89
+  },
+  "perspectives": {
+    "us": {
+      "name": "전쟁 법적 기반의 마련",
+      "weight": 100,
+      "narrative": "미국 의회는 9·11 공격 책임자와 관련 세력에 대한 무력사용권한을 승인했다. 이 결정은 아프가니스탄 침공과 이후 장기 전쟁의 법적 토대가 됐다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report"
+      ]
+    },
+    "al_qaeda": {
+      "name": "은신처와 조직망을 겨냥한 대응",
+      "weight": 85,
+      "narrative": "미국의 법적 대응은 알카에다 조직망과 피난처를 군사 목표로 삼았다. 공격 주체와 이를 보호한 정권의 경계가 정책적으로 연결됐다.",
+      "sources": [
+        "Lawrence Wright, The Looming Tower: Al-Qaeda and the Road to 9/11",
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden"
+      ]
+    },
+    "international": {
+      "name": "국내 결정과 국제전의 연결",
+      "weight": 75,
+      "narrative": "미국의 국내 법적 승인 절차는 곧 해외 군사작전으로 이어졌다. 테러 대응은 국내 제도와 국제 전장이 결합한 형태를 띠었다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    }
+  }
+}

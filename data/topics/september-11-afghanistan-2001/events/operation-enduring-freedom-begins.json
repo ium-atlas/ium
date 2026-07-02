@@ -1,0 +1,48 @@
+{
+  "id": "operation-enduring-freedom-begins",
+  "name": "항구적 자유 작전 개시",
+  "type": "battle",
+  "date": "2001-10",
+  "location": {
+    "lng": 69.17,
+    "lat": 34.53
+  },
+  "perspectives": {
+    "us": {
+      "name": "공습과 특수전의 결합",
+      "weight": 100,
+      "narrative": "미국은 공습, 특수전, 정보 지원을 결합해 탈레반과 알카에다 목표를 공격했다. 작전은 현지 북부동맹 지상전과 밀접히 연결됐다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    },
+    "taliban": {
+      "name": "정권 방어의 시작",
+      "weight": 90,
+      "narrative": "탈레반은 미국 공습과 북부동맹 공세를 동시에 맞으며 주요 도시 방어에 나섰다. 정권은 짧은 시간 안에 군사적 압박을 받았다.",
+      "sources": [
+        "Ahmed Rashid, Taliban: Militant Islam, Oil and Fundamentalism in Central Asia",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    },
+    "northern_alliance": {
+      "name": "미국 지원을 받은 지상 동맹",
+      "weight": 95,
+      "narrative": "북부동맹은 미국의 공중 지원과 특수전 협력을 바탕으로 탈레반 전선을 압박했다. 아프가니스탄 전쟁의 첫 국면은 외부 공습과 내부 동맹의 조합이었다.",
+      "sources": [
+        "Barnett R. Rubin, The Fragmentation of Afghanistan",
+        "Bob Woodward, Bush at War"
+      ]
+    },
+    "civilians": {
+      "name": "전쟁의 귀환",
+      "weight": 75,
+      "narrative": "아프가니스탄 민간인은 이미 오랜 내전과 탈레반 통치 속에 있었고, 새 공습은 또 다른 전쟁 불안을 가져왔다. 피해와 피난 우려가 커졌다.",
+      "sources": [
+        "Thomas Barfield, Afghanistan: A Cultural and Political History",
+        "Barnett R. Rubin, The Fragmentation of Afghanistan"
+      ]
+    }
+  }
+}
