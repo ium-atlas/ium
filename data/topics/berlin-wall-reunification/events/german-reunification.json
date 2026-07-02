@@ -1,0 +1,48 @@
+{
+  "id": "german-reunification",
+  "name": "독일 통일 발효",
+  "type": "political",
+  "date": "1990-10",
+  "location": {
+    "lng": 13.40,
+    "lat": 52.52
+  },
+  "perspectives": {
+    "west_germany": {
+      "name": "연방공화국으로의 편입",
+      "weight": 100,
+      "narrative": "1990년 10월 3일 동독은 독일연방공화국에 편입되며 독일 통일이 발효됐다. 서독 기본법과 제도는 통일 독일의 틀이 됐다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Philip Zelikow and Condoleezza Rice, Germany Unified and Europe Transformed: A Study in Statecraft"
+      ]
+    },
+    "civilians": {
+      "name": "분단 가족과 생활세계의 재편",
+      "weight": 95,
+      "narrative": "시민들에게 통일은 장벽 없는 이동, 가족 재회, 새 기회와 함께 실업과 제도 전환의 불안을 동반했다. 정치적 통일은 곧 사회적 통합의 과제를 남겼다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Timothy Garton Ash, In Europe's Name: Germany and the Divided Continent"
+      ]
+    },
+    "east_germany": {
+      "name": "국가 소멸과 기억의 문제",
+      "weight": 85,
+      "narrative": "동독 국가는 사라졌지만 그 경험과 피해, 적응의 문제는 통일 이후에도 남았다. 통일은 해방과 상실의 기억을 동시에 낳았다.",
+      "sources": [
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany",
+        "Konrad H. Jarausch, The Rush to German Unity"
+      ]
+    },
+    "allies": {
+      "name": "냉전 질서의 유럽적 전환",
+      "weight": 80,
+      "narrative": "통일 독일은 냉전 유럽 질서가 근본적으로 바뀌었음을 보여주었다. 동맹국들은 새 독일을 유럽 공동체와 나토 틀 안에 묶는 방향으로 전환을 관리했다.",
+      "sources": [
+        "Kristina Spohr, Post Wall, Post Square: Rebuilding the World after 1989",
+        "Philip Zelikow and Condoleezza Rice, Germany Unified and Europe Transformed: A Study in Statecraft"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "schabowski-press-conference",
+  "name": "샤보프스키 기자회견",
+  "type": "political",
+  "date": "1989-11",
+  "location": {
+    "lng": 13.40,
+    "lat": 52.52
+  },
+  "perspectives": {
+    "east_germany": {
+      "name": "여행규정 발표의 혼선",
+      "weight": 100,
+      "narrative": "귄터 샤보프스키는 새 여행규정을 설명하다 시행 시점을 즉시로 이해될 수 있게 말했다. 준비되지 않은 행정 발표가 장벽 개방의 직접 계기가 됐다.",
+      "sources": [
+        "Mary Elise Sarotte, The Collapse: The Accidental Opening of the Berlin Wall",
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany"
+      ]
+    },
+    "civilians": {
+      "name": "방송을 본 시민들의 이동",
+      "weight": 95,
+      "narrative": "기자회견 보도가 퍼지자 동베를린 시민들은 실제로 국경이 열리는지 확인하려 검문소로 몰려갔다. 텔레비전과 소문이 거리 행동을 촉발했다.",
+      "sources": [
+        "Mary Elise Sarotte, The Collapse: The Accidental Opening of the Berlin Wall",
+        "Konrad H. Jarausch, The Rush to German Unity"
+      ]
+    },
+    "protesters": {
+      "name": "축적된 압력의 분출",
+      "weight": 85,
+      "narrative": "기자회견의 혼선은 우연처럼 보였지만 그 배경에는 탈출 행렬과 시위, 체제 개혁 요구가 쌓여 있었다. 시민 압력이 없었다면 말실수만으로 장벽은 열리지 않았다.",
+      "sources": [
+        "Mary Elise Sarotte, 1989: The Struggle to Create Post-Cold War Europe",
+        "Timothy Garton Ash, In Europe's Name: Germany and the Divided Continent"
+      ]
+    }
+  }
+}

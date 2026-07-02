@@ -1,0 +1,39 @@
+{
+  "id": "monetary-economic-union",
+  "name": "화폐·경제·사회 통합",
+  "type": "treaty",
+  "date": "1990-07",
+  "location": {
+    "lng": 13.40,
+    "lat": 52.52
+  },
+  "perspectives": {
+    "west_germany": {
+      "name": "서독 마르크와 제도의 확장",
+      "weight": 100,
+      "narrative": "화폐·경제·사회 통합은 서독 마르크와 사회경제 제도를 동독에 적용하는 결정적 단계였다. 통일은 정치 구호에서 생활 제도의 변화로 들어왔다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Stephen F. Szabo, The Diplomacy of German Unification"
+      ]
+    },
+    "east_germany": {
+      "name": "동독 경제의 급격한 전환",
+      "weight": 85,
+      "narrative": "동독 경제는 시장경제와 서독 제도에 빠르게 편입됐다. 기대와 함께 기업 경쟁력, 고용, 사회보장 전환의 충격도 커졌다.",
+      "sources": [
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany",
+        "Konrad H. Jarausch, The Rush to German Unity"
+      ]
+    },
+    "civilians": {
+      "name": "돈과 일상의 변화",
+      "weight": 95,
+      "narrative": "동독 시민들에게 화폐 통합은 임금, 저축, 물가, 소비 생활이 하루아침에 달라지는 경험이었다. 통일의 기대와 불안이 가계 안으로 들어왔다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Timothy Garton Ash, In Europe's Name: Germany and the Divided Continent"
+      ]
+    }
+  }
+}

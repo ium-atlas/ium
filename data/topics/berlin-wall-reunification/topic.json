@@ -1,0 +1,57 @@
+{
+  "id": "berlin-wall-reunification",
+  "title": "베를린 장벽 붕괴와 독일 통일",
+  "subtitle": "동독 시민운동에서 2+4 조약과 통일까지",
+  "period": [
+    1989,
+    1990
+  ],
+  "start": "1989-09",
+  "end": "1990-10",
+  "bounds": [
+    [
+      6.5,
+      47.0
+    ],
+    [
+      38.5,
+      56.2
+    ]
+  ],
+  "card": [
+    13.40,
+    52.52
+  ],
+  "perspectives": [
+    {
+      "code": "east_germany",
+      "label": "동독 정부·SED",
+      "color": "#dc2626"
+    },
+    {
+      "code": "west_germany",
+      "label": "서독 정부",
+      "color": "#2563eb"
+    },
+    {
+      "code": "protesters",
+      "label": "동독 시민운동·시위대",
+      "color": "#16a34a"
+    },
+    {
+      "code": "soviet",
+      "label": "소련",
+      "color": "#f59e0b"
+    },
+    {
+      "code": "allies",
+      "label": "미국·영국·프랑스와 나토",
+      "color": "#7c3aed"
+    },
+    {
+      "code": "civilians",
+      "label": "베를린 시민·이산가족·이주민",
+      "color": "#0891b2"
+    }
+  ]
+}

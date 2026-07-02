@@ -1,0 +1,39 @@
+{
+  "id": "brandenburg-gate-reopens",
+  "name": "브란덴부르크 문 재개방",
+  "type": "political",
+  "date": "1989-12",
+  "location": {
+    "lng": 13.38,
+    "lat": 52.52
+  },
+  "perspectives": {
+    "civilians": {
+      "name": "분단 상징의 전환",
+      "weight": 100,
+      "narrative": "브란덴부르크 문 재개방은 장벽 붕괴가 일회성 밤의 사건을 넘어 도시 공간의 재연결로 이어졌음을 보여주었다. 베를린 시민들은 분단의 상징을 다시 통행의 장소로 보았다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Timothy Garton Ash, In Europe's Name: Germany and the Divided Continent"
+      ]
+    },
+    "west_germany": {
+      "name": "통일 기대의 시각화",
+      "weight": 85,
+      "narrative": "서독 정부와 여론은 브란덴부르크 문 재개방을 독일 문제의 새 국면으로 받아들였다. 상징 정치가 통일 논의를 더 강하게 밀어 올렸다.",
+      "sources": [
+        "Konrad H. Jarausch, The Rush to German Unity",
+        "Mary Elise Sarotte, 1989: The Struggle to Create Post-Cold War Europe"
+      ]
+    },
+    "allies": {
+      "name": "상징과 안보 문제의 결합",
+      "weight": 70,
+      "narrative": "서방 동맹국에게 베를린의 개방은 환영할 일이었지만, 독일 통일과 나토, 전후 질서 문제를 함께 검토해야 하는 신호이기도 했다.",
+      "sources": [
+        "Philip Zelikow and Condoleezza Rice, Germany Unified and Europe Transformed: A Study in Statecraft",
+        "Stephen F. Szabo, The Diplomacy of German Unification"
+      ]
+    }
+  }
+}

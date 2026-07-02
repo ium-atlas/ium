@@ -1,0 +1,39 @@
+{
+  "id": "two-plus-four-treaty",
+  "name": "2+4 조약",
+  "type": "treaty",
+  "date": "1990-09",
+  "location": {
+    "lng": 37.62,
+    "lat": 55.75
+  },
+  "perspectives": {
+    "west_germany": {
+      "name": "완전한 주권 회복의 외교",
+      "weight": 100,
+      "narrative": "서독과 동독은 4대 승전국과 함께 독일 통일의 대외 조건을 확정했다. 조약은 통일 독일의 주권, 국경, 안보 문제를 합의로 묶었다.",
+      "sources": [
+        "Philip Zelikow and Condoleezza Rice, Germany Unified and Europe Transformed: A Study in Statecraft",
+        "Stephen F. Szabo, The Diplomacy of German Unification"
+      ]
+    },
+    "soviet": {
+      "name": "나토와 유럽 안보의 절충",
+      "weight": 95,
+      "narrative": "소련은 통일 독일의 안보 지위와 동독 주둔 소련군 철수 문제를 협상했다. 경제 지원과 유럽 안보 구상이 함께 논의되며 타협이 가능해졌다.",
+      "sources": [
+        "Mary Elise Sarotte, 1989: The Struggle to Create Post-Cold War Europe",
+        "Philip Zelikow and Condoleezza Rice, Germany Unified and Europe Transformed: A Study in Statecraft"
+      ]
+    },
+    "allies": {
+      "name": "전후 질서의 합의된 전환",
+      "weight": 95,
+      "narrative": "미국, 영국, 프랑스는 독일 통일이 나토와 유럽 질서 안에서 관리되도록 협상했다. 2+4 틀은 독일 문제를 대결이 아니라 외교 합의로 마무리했다.",
+      "sources": [
+        "Stephen F. Szabo, The Diplomacy of German Unification",
+        "Kristina Spohr, Post Wall, Post Square: Rebuilding the World after 1989"
+      ]
+    }
+  }
+}

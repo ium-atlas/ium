@@ -1,0 +1,39 @@
+{
+  "id": "bornholmer-strasse-opens",
+  "name": "보른홀머 슈트라세 검문소 개방",
+  "type": "movement",
+  "date": "1989-11",
+  "location": {
+    "lng": 13.40,
+    "lat": 52.55
+  },
+  "perspectives": {
+    "civilians": {
+      "name": "장벽을 넘어간 밤",
+      "weight": 100,
+      "narrative": "보른홀머 슈트라세 검문소에 몰린 시민들은 통행 허가를 요구했고, 현장 경비대는 상부 지시가 불명확한 가운데 문을 열었다. 베를린 장벽 붕괴가 현장에서 현실이 됐다.",
+      "sources": [
+        "Mary Elise Sarotte, The Collapse: The Accidental Opening of the Berlin Wall",
+        "Konrad H. Jarausch, The Rush to German Unity"
+      ]
+    },
+    "east_germany": {
+      "name": "명령 체계의 붕괴",
+      "weight": 95,
+      "narrative": "동독 국경 경비 체계는 명확한 명령 없이 군중을 통제해야 했다. 현장의 판단은 중앙 권위가 이미 흔들렸음을 보여주었다.",
+      "sources": [
+        "Mary Elise Sarotte, The Collapse: The Accidental Opening of the Berlin Wall",
+        "Charles S. Maier, Dissolution: The Crisis of Communism and the End of East Germany"
+      ]
+    },
+    "protesters": {
+      "name": "평화적 압박의 결정적 장면",
+      "weight": 90,
+      "narrative": "무장 충돌 대신 군중의 지속적 요구가 검문소 개방을 이끌었다. 이 장면은 동독 시민운동이 폭력 없이 체제 경계를 밀어낸 상징이 됐다.",
+      "sources": [
+        "Timothy Garton Ash, In Europe's Name: Germany and the Divided Continent",
+        "Mary Elise Sarotte, The Collapse: The Accidental Opening of the Berlin Wall"
+      ]
+    }
+  }
+}
