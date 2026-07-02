@@ -1,0 +1,20 @@
+{
+  "id": "meiji-restoration",
+  "title": "메이지 유신",
+  "subtitle": "막부 붕괴에서 중앙집권 국가로",
+  "period": [1867, 1871],
+  "start": "1867-11",
+  "end": "1871-12",
+  "bounds": [
+    [135.4, 34.5],
+    [141.1, 42.1]
+  ],
+  "card": [138.4, 37.6],
+  "perspectives": [
+    { "code": "imperial", "label": "천황 신정부", "color": "#dc2626" },
+    { "code": "bakufu", "label": "막부·구 막부 세력", "color": "#2563eb" },
+    { "code": "domains", "label": "번 정치", "color": "#f59e0b" },
+    { "code": "foreign", "label": "외국 세력", "color": "#7c3aed" },
+    { "code": "commoners", "label": "민중", "color": "#16a34a" }
+  ]
+}

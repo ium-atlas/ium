@@ -1,0 +1,14 @@
+{
+  "id": "osei-fukko",
+  "name": "왕정복고 대호령",
+  "type": "political",
+  "date": "1868-01",
+  "location": { "lng": 135.76, "lat": 35.02 },
+  "perspectives": {
+    "imperial": { "name": "신정부 선언", "weight": 100, "narrative": "왕정복고 대호령은 쇼군직과 막부 기구를 폐지하고 천황을 중심으로 한 새 정부를 선언했다. 조정은 정권 교체의 명분과 제도적 출발점을 확보했다.", "sources": ["W. G. Beasley, The Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "bakufu": { "name": "도쿠가와 배제의 충격", "weight": 95, "narrative": "구 막부 세력에게 왕정복고 선언은 요시노부가 새 체제 안에서 영향력을 유지하려던 계산을 흔들었다. 정치적 배제감은 곧 군사 충돌로 이어졌다.", "sources": ["Conrad Totman, The Collapse of the Tokugawa Bakufu, 1862-1868", "W. G. Beasley, The Meiji Restoration"] },
+    "domains": { "name": "사쓰마·조슈 주도의 정변", "weight": 100, "narrative": "왕정복고는 조정 귀족과 사쓰마·조슈 등 반막부 번의 연합 정변이었다. 번 정치의 군사력과 궁정 명분이 결합하면서 새 권력의 핵심이 형성됐다.", "sources": ["Albert M. Craig, Choshu in the Meiji Restoration", "Marius B. Jansen, The Making of Modern Japan"] },
+    "foreign": { "name": "새 승인 상대의 등장", "weight": 35, "narrative": "외국 세력은 막부가 아니라 새 정부가 조약과 외교를 책임질 수 있는지 확인해야 했다. 정변은 일본의 대외 대표권 문제를 다시 열었다.", "sources": ["Marius B. Jansen, The Making of Modern Japan", "Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present"] },
+    "commoners": { "name": "전쟁의 전조", "weight": 40, "narrative": "교토 주변의 권력 충돌은 민중에게 정치 이념보다 군사 동원과 치안 불안으로 먼저 나타났다. 새 정부 선언은 내전 위험을 가까이 끌어왔다.", "sources": ["Andrew Gordon, A Modern History of Japan: From Tokugawa Times to the Present", "W. G. Beasley, The Meiji Restoration"] }
+  }
+}
