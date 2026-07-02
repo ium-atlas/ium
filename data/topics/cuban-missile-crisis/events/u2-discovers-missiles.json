@@ -1,0 +1,12 @@
+{
+  "id": "u2-discovers-missiles",
+  "name": "U-2 정찰의 미사일 기지 포착",
+  "type": "political",
+  "date": "1962-10",
+  "location": { "lng": -83.05, "lat": 22.71 },
+  "perspectives": {
+    "us": { "name": "위기의 확증", "weight": 100, "narrative": "U-2 사진은 쿠바 내 소련 중거리 미사일 기지를 확인하며 워싱턴의 추정을 위기로 바꾸었다. 케네디 행정부는 이제 공개·비공개 대응을 결정해야 했다.", "sources": ["Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis", "Ernest R. May and Philip D. Zelikow, The Kennedy Tapes: Inside the White House During the Cuban Missile Crisis"] },
+    "soviet": { "name": "은폐 작전의 노출", "weight": 95, "narrative": "정찰 사진은 소련의 비밀 배치가 완전히 숨겨질 수 없음을 보여 주었다. 모스크바는 군사 배치를 정치 협상으로 전환해야 하는 압박을 받았다.", "sources": ["Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis", "Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964"] },
+    "cuba": { "name": "섬의 전면 위기화", "weight": 80, "narrative": "쿠바의 방어 배치는 미국 정찰에 포착되며 국제 위기의 중심이 됐다. 하바나는 자국 영토 위 결정이 미소 대치로 비화하는 상황을 맞았다.", "sources": ["Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War", "Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kennedy-khrushchev-settlement",
+  "name": "케네디-흐루쇼프 합의",
+  "type": "treaty",
+  "date": "1962-10",
+  "location": { "lng": -77.04, "lat": 38.90 },
+  "perspectives": {
+    "us": { "name": "봉쇄와 비밀 양보의 결합", "weight": 100, "narrative": "미국은 쿠바 미사일 철수와 불침공 약속, 터키 주피터 미사일의 비공개 철수를 결합해 위기를 낮췄다. 공개 승리와 비밀 양보가 함께 작동했다.", "sources": ["Ernest R. May and Philip D. Zelikow, The Kennedy Tapes: Inside the White House During the Cuban Missile Crisis", "Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis"] },
+    "soviet": { "name": "철수와 체면 보전", "weight": 95, "narrative": "흐루쇼프는 쿠바 미사일을 철수하는 대신 미국의 쿠바 불침공 약속과 터키 미사일 철수라는 성과를 얻었다. 그러나 공개 인상은 소련의 후퇴로 남았다.", "sources": ["Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis", "Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964"] },
+    "cuba": { "name": "배제된 동맹", "weight": 80, "narrative": "쿠바는 위기 해결 과정에서 핵심 당사자였지만 미소 간 합의에서 제한된 발언권만 가졌다. 카스트로에게 이는 안보 보장과 주권 문제를 동시에 남겼다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis"] },
+    "allies": { "name": "터키 미사일의 조용한 처리", "weight": 75, "narrative": "터키 주피터 미사일 철수는 나토 동맹 정치 때문에 공개 합의로 내세우기 어려웠다. 동맹 안보와 초강대국 협상이 뒤엉킨 대목이었다.", "sources": ["Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War", "Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis"] }
+  }
+}

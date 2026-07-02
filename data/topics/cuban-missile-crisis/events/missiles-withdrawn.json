@@ -1,0 +1,13 @@
+{
+  "id": "missiles-withdrawn",
+  "name": "쿠바 미사일 철수 확인",
+  "type": "movement",
+  "date": "1962-11",
+  "location": { "lng": -82.75, "lat": 23.00 },
+  "perspectives": {
+    "soviet": { "name": "위험한 전진배치의 회수", "weight": 100, "narrative": "소련은 미사일과 폭격기 철수 절차를 진행하며 공개 핵대치를 마무리했다. 작전은 전략 균형을 바꾸려 했지만 큰 정치적 위험을 남겼다.", "sources": ["Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis", "Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964"] },
+    "us": { "name": "검증과 봉쇄 완화", "weight": 95, "narrative": "미국은 철수 확인을 통해 봉쇄를 완화하고 위기의 공개 국면을 정리했다. 검증 문제는 합의 이행의 핵심이었다.", "sources": ["Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] },
+    "cuba": { "name": "불완전한 안전 보장", "weight": 80, "narrative": "쿠바는 미사일 철수 뒤에도 미국의 불침공 약속과 자국 안보가 얼마나 보장되는지에 대한 불신을 남겼다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis"] },
+    "civilians": { "name": "공개 위기의 수습", "weight": 70, "narrative": "미사일 철수는 민간사회가 체감한 즉각적 핵전쟁 공포를 낮췄다. 그러나 위기는 냉전의 위험이 일상 가까이에 있었다는 기억으로 남았다.", "sources": ["Sheldon M. Stern, The Cuban Missile Crisis in American Memory: Myths versus Reality", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] }
+  }
+}

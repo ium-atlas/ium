@@ -1,0 +1,12 @@
+{
+  "id": "operation-anadyr-approved",
+  "name": "아나디리 작전 승인",
+  "type": "political",
+  "date": "1962-05",
+  "location": { "lng": 37.62, "lat": 55.75 },
+  "perspectives": {
+    "soviet": { "name": "비밀 배치 결정", "weight": 100, "narrative": "흐루쇼프 지도부는 쿠바 방어와 전략 균형을 이유로 핵미사일 비밀 배치를 추진했다. 작전의 은폐성은 이후 위기를 더 위험하게 만들었다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis"] },
+    "cuba": { "name": "혁명 정권의 안전 보장", "weight": 85, "narrative": "쿠바 지도부는 미국의 침공 위협을 실질적으로 느꼈고, 소련 미사일 배치를 혁명 방어 수단으로 받아들였다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] },
+    "us": { "name": "정보 공백의 시작", "weight": 65, "narrative": "미국은 초기 소련 배치 결정을 알지 못했고, 쿠바로 향하는 인력과 장비 이동을 해석하는 데 시간이 걸렸다.", "sources": ["Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] }
+  }
+}

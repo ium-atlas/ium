@@ -1,0 +1,12 @@
+{
+  "id": "jupiter-missiles-turkey",
+  "name": "터키 주피터 미사일 배치",
+  "type": "movement",
+  "date": "1961-11",
+  "location": { "lng": 32.86, "lat": 39.93 },
+  "perspectives": {
+    "soviet": { "name": "국경 가까운 핵 위협", "weight": 100, "narrative": "터키의 주피터 미사일은 소련 지도부가 미국 핵전력이 자국 주변에 배치됐다고 보는 중요한 배경이었다. 쿠바 배치 구상은 이 불균형 인식과도 연결됐다.", "sources": ["Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis", "Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964"] },
+    "us": { "name": "동맹 억지의 유산", "weight": 85, "narrative": "미국에게 주피터 미사일은 나토 방어와 확장억지의 일부였지만, 위기 후반에는 협상 카드가 됐다.", "sources": ["Graham Allison and Philip Zelikow, Essence of Decision: Explaining the Cuban Missile Crisis", "Ernest R. May and Philip D. Zelikow, The Kennedy Tapes: Inside the White House During the Cuban Missile Crisis"] },
+    "allies": { "name": "나토 방어와 비밀 거래", "weight": 90, "narrative": "터키와 나토 동맹은 소련 압박의 최전선에 있었고, 미사일 철수 문제는 공개적으로 다루기 어려운 동맹 정치가 됐다.", "sources": ["Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War", "Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis"] }
+  }
+}

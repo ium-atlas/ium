@@ -1,0 +1,13 @@
+{
+  "id": "black-saturday",
+  "name": "블랙 새터데이",
+  "type": "battle",
+  "date": "1962-10",
+  "location": { "lng": -75.72, "lat": 20.96 },
+  "perspectives": {
+    "us": { "name": "전쟁 위험의 최고조", "weight": 100, "narrative": "쿠바 상공에서 U-2기가 격추되며 워싱턴은 보복과 자제 사이의 선택을 다시 압박받았다. 우발적 군사 충돌이 전략 결정을 끌고 갈 수 있는 순간이었다.", "sources": ["Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War", "Ernest R. May and Philip D. Zelikow, The Kennedy Tapes: Inside the White House During the Cuban Missile Crisis"] },
+    "soviet": { "name": "현장 통제의 위험", "weight": 90, "narrative": "소련과 쿠바 현장의 방공 판단은 모스크바의 외교 계산과 완전히 일치하지 않을 수 있었다. 핵위기는 중앙 지시만으로 통제되지 않는 군사 현장을 드러냈다.", "sources": ["Serhii Plokhy, Nuclear Folly: A History of the Cuban Missile Crisis", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] },
+    "cuba": { "name": "침공 대비의 절박함", "weight": 85, "narrative": "쿠바는 미국 정찰과 침공 가능성을 직접 위협으로 보았다. 방공 대응은 섬의 안보 불안과 혁명 방어 논리 속에서 이루어졌다.", "sources": ["Aleksandr Fursenko and Timothy Naftali, One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] },
+    "civilians": { "name": "우발적 확전의 공포", "weight": 75, "narrative": "민간사회가 느낀 불안은 단순한 선전이 아니라 실제 군사 사건과 맞물렸다. 한 번의 격추가 핵전쟁 논의를 촉발할 수 있었다.", "sources": ["Sheldon M. Stern, The Cuban Missile Crisis in American Memory: Myths versus Reality", "Michael Dobbs, One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War"] }
+  }
+}

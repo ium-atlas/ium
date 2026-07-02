@@ -1,0 +1,21 @@
+{
+  "id": "cuban-missile-crisis",
+  "title": "쿠바 미사일 위기",
+  "subtitle": "워싱턴, 모스크바, 하바나가 맞물린 1962년 핵위기",
+  "period": [1961, 1962],
+  "start": "1961-04",
+  "end": "1962-11",
+  "bounds": [
+    [-84.5, 20.0],
+    [39.0, 56.5]
+  ],
+  "card": [-82.75, 23.00],
+  "perspectives": [
+    { "code": "us", "label": "미국", "color": "#2563eb" },
+    { "code": "soviet", "label": "소련", "color": "#dc2626" },
+    { "code": "cuba", "label": "쿠바", "color": "#16a34a" },
+    { "code": "allies", "label": "나토·동맹국", "color": "#7c3aed" },
+    { "code": "latinamerica", "label": "라틴아메리카", "color": "#f59e0b" },
+    { "code": "civilians", "label": "민간사회", "color": "#0891b2" }
+  ]
+}
