@@ -1,0 +1,13 @@
+{
+  "id": "crown-rule-proclamation",
+  "name": "여왕 포고와 동인도회사 통치 종결",
+  "type": "political",
+  "date": "1858-11",
+  "location": { "lng": 81.85, "lat": 25.44 },
+  "perspectives": {
+    "sepoy": { "name": "패전 뒤의 사면과 배제", "weight": 40, "narrative": "여왕 포고는 일부 사면과 질서 회복을 약속했지만, 무장 반란의 핵심 세력은 패전과 처벌을 피하기 어려웠다. 세포이 반란은 제도 개편 속에 종료 국면으로 들어갔다.", "sources": ["Saul David, The Indian Mutiny: 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "british": { "name": "회사에서 왕실로", "weight": 100, "narrative": "1858년 포고는 동인도회사 통치를 끝내고 영국 왕실 직할 통치를 선포했다. 영국은 군사 진압을 제국 행정 재편으로 연결했다.", "sources": ["Christopher A. Bayly, Indian Society and the Making of the British Empire", "Saul David, The Indian Mutiny: 1857"] },
+    "princely": { "name": "번왕 권리의 재보장", "weight": 90, "narrative": "포고는 번왕국의 권리와 조약을 존중하겠다고 약속해 병합 정책의 충격을 누그러뜨리려 했다. 지역 엘리트에게는 영국 왕실과의 새 협상 질서가 열렸다.", "sources": ["Christopher A. Bayly, Indian Society and the Making of the British Empire", "Rudrangshu Mukherjee, Awadh in Revolt, 1857-1858"] },
+    "civilians": { "name": "종교 불간섭 약속", "weight": 80, "narrative": "포고는 종교와 관습에 대한 불간섭, 법 앞의 보호를 내세워 민간사회의 불안을 달래려 했다. 그러나 전쟁 피해와 토지·세금 문제의 상처는 쉽게 사라지지 않았다.", "sources": ["Christopher A. Bayly, Indian Society and the Making of the British Empire", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "delhi-seized",
+  "name": "델리 점령과 바하두르 샤 2세 추대",
+  "type": "political",
+  "date": "1857-05",
+  "location": { "lng": 77.23, "lat": 28.65 },
+  "perspectives": {
+    "sepoy": { "name": "무굴 상징권의 활용", "weight": 100, "narrative": "델리에 들어간 반란 세포이들은 바하두르 샤 2세를 상징적 황제로 추대해 군사 반란에 정치적 명분을 붙였다. 반란은 단순 병영 폭동을 넘어 제국 질서의 도전으로 보이기 시작했다.", "sources": ["William Dalrymple, The Last Mughal: The Fall of a Dynasty, Delhi, 1857", "Saul David, The Indian Mutiny: 1857"] },
+    "british": { "name": "제국 권위의 타격", "weight": 100, "narrative": "델리 상실은 동인도회사 통치의 상징적 기반을 크게 흔들었다. 영국군은 델리 탈환을 군사 목표이자 위신 회복의 문제로 보았다.", "sources": ["William Dalrymple, The Last Mughal: The Fall of a Dynasty, Delhi, 1857", "Christopher A. Bayly, Indian Society and the Making of the British Empire"] },
+    "princely": { "name": "옛 황제의 이름", "weight": 80, "narrative": "무굴 황제의 이름은 여러 지역 엘리트에게 공통된 반영국 상징이 될 수 있었다. 그러나 실제 권력과 군수 조정은 여전히 지역별로 느슨하고 불안정했다.", "sources": ["William Dalrymple, The Last Mughal: The Fall of a Dynasty, Delhi, 1857", "Eric Stokes, The Peasant Armed: The Indian Revolt of 1857"] },
+    "civilians": { "name": "수도 주민의 불안", "weight": 90, "narrative": "델리 주민은 새로 들어온 세포이, 궁정 세력, 곧 닥칠 영국군 포위 사이에 끼였다. 도시 생활은 물자 부족과 폭력, 정치적 의심 속으로 빨려 들어갔다.", "sources": ["William Dalrymple, The Last Mughal: The Fall of a Dynasty, Delhi, 1857", "Kim A. Wagner, The Great Fear of 1857: Rumours, Conspiracies and the Making of the Indian Uprising"] }
+  }
+}

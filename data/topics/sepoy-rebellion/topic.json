@@ -1,0 +1,19 @@
+{
+  "id": "sepoy-rebellion",
+  "title": "세포이 항쟁",
+  "subtitle": "동인도회사 지배에서 왕실 직할 통치로",
+  "period": [1857, 1858],
+  "start": "1857-05",
+  "end": "1858-11",
+  "bounds": [
+    [76.9, 25.0],
+    [82.2, 29.3]
+  ],
+  "card": [79.6, 27.3],
+  "perspectives": [
+    { "code": "sepoy", "label": "세포이·반란군", "color": "#dc2626" },
+    { "code": "british", "label": "영국 동인도회사·군", "color": "#2563eb" },
+    { "code": "princely", "label": "번왕·지역 엘리트", "color": "#f59e0b" },
+    { "code": "civilians", "label": "도시·농촌 민간사회", "color": "#16a34a" }
+  ]
+}
