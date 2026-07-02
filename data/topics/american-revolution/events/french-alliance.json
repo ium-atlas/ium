@@ -1,0 +1,13 @@
+{
+  "id": "french-alliance",
+  "name": "프랑스-미국 동맹",
+  "type": "treaty",
+  "date": "1778-02",
+  "location": { "lng": 2.3522, "lat": 48.8566 },
+  "perspectives": {
+    "patriot": { "name": "반란에서 국제전으로", "weight": 100, "narrative": "프랑스와의 조약은 미국 측에 군사 원조, 해군력, 국제적 승인 가능성을 제공했다. 독립 전쟁은 더 이상 식민지 내부의 반란만이 아니게 됐다.", "sources": ["Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789", "Gordon S. Wood, The American Revolution: A History"] },
+    "british": { "name": "제국 전쟁의 확대", "weight": 100, "narrative": "영국에게 프랑스 개입은 북미 반란 진압을 대서양과 카리브해, 유럽 해상 전쟁과 연결시켰다. 전쟁 비용과 전략 부담이 크게 늘었다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Gordon S. Wood, The American Revolution: A History"] },
+    "french": { "name": "영국 견제의 동맹", "weight": 100, "narrative": "프랑스는 미국 독립을 지지함으로써 7년전쟁 이후의 손실을 만회하고 영국의 제국 역량을 약화시키려 했다. 동맹은 이념보다 전략과 복수의 성격도 강했다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "native": { "name": "전쟁 규모의 확대", "weight": 45, "narrative": "프랑스 참전은 전쟁을 더 넓은 제국 경쟁으로 만들었고, 변경 지역의 원주민 공동체도 더 복잡한 군사·외교 환경에 놓였다.", "sources": ["Colin G. Calloway, The American Revolution in Indian Country", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] }
+  }
+}

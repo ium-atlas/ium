@@ -1,0 +1,13 @@
+{
+  "id": "yorktown",
+  "name": "요크타운 포위",
+  "type": "siege",
+  "date": "1781-10",
+  "location": { "lng": -76.5097, "lat": 37.2388 },
+  "perspectives": {
+    "patriot": { "name": "독립 승리의 결정타", "weight": 100, "narrative": "요크타운에서 워싱턴의 대륙군과 프랑스 원정군은 콘월리스 군을 포위해 항복시켰다. 애국파에게 이는 독립을 현실로 만든 결정적 승리였다.", "sources": ["Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789", "Gordon S. Wood, The American Revolution: A History"] },
+    "british": { "name": "북미 전쟁 의지의 붕괴", "weight": 100, "narrative": "콘월리스의 항복은 영국이 북미에서 군사적으로 승리할 수 있다는 믿음을 무너뜨렸다. 런던의 전쟁 지속 의지는 정치적으로 급격히 약해졌다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "french": { "name": "해군·육군 협동의 성과", "weight": 100, "narrative": "프랑스의 로샹보 원정군과 드 그라스 함대는 요크타운 포위를 가능하게 한 핵심 조건이었다. 동맹은 전장의 승리로 자신을 증명했다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "native": { "name": "전후 경계의 불안", "weight": 60, "narrative": "영국 패배가 가까워지자 영국과 동맹한 원주민 공동체는 외교적 후원 상실을 우려해야 했다. 독립 이후 서부 팽창 압력은 더 강해질 수 있었다.", "sources": ["Colin G. Calloway, The American Revolution in Indian Country", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] }
+  }
+}

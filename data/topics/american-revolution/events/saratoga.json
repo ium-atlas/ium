@@ -1,0 +1,13 @@
+{
+  "id": "saratoga",
+  "name": "새러토가 전역",
+  "type": "battle",
+  "date": "1777-10",
+  "location": { "lng": -73.645, "lat": 43.083 },
+  "perspectives": {
+    "patriot": { "name": "국제 승인으로 가는 승리", "weight": 100, "narrative": "버고인 군의 항복은 대륙군이 영국의 대규모 작전을 꺾을 수 있음을 보여 주었다. 애국파에게 새러토가는 군사 승리와 외교적 신뢰를 동시에 만든 전환점이었다.", "sources": ["Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789", "Gordon S. Wood, The American Revolution: A History"] },
+    "british": { "name": "북부 전략의 붕괴", "weight": 100, "narrative": "영국은 뉴잉글랜드를 고립시키려 했지만 버고인 부대의 항복으로 전략적 주도권을 잃었다. 이 패배는 전쟁을 더 넓은 제국 전쟁으로 키우는 계기가 됐다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "french": { "name": "동맹 결정을 앞당긴 신호", "weight": 90, "narrative": "새러토가 승리는 프랑스가 미국 측의 지속 가능성을 판단하는 데 결정적 근거가 되었다. 영국을 약화시킬 기회가 외교 조약으로 구체화됐다.", "sources": ["Gordon S. Wood, The American Revolution: A History", "Piers Mackesy, The War for America, 1775-1783"] },
+    "native": { "name": "동맹 선택의 위험", "weight": 65, "narrative": "영국 측과 함께한 일부 원주민 세력은 작전 실패 뒤 보복과 불신의 압력을 받았다. 새러토가는 변경 동맹이 제국 전략의 실패에 함께 휘말릴 수 있음을 드러냈다.", "sources": ["Colin G. Calloway, The American Revolution in Indian Country", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] }
+  }
+}

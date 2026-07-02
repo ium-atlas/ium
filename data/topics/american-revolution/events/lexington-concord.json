@@ -1,0 +1,13 @@
+{
+  "id": "lexington-concord",
+  "name": "렉싱턴·콩코드 전투",
+  "type": "battle",
+  "date": "1775-04",
+  "location": { "lng": -71.23, "lat": 42.45 },
+  "perspectives": {
+    "patriot": { "name": "민병대 저항의 시작", "weight": 100, "narrative": "렉싱턴과 콩코드의 교전은 식민지 민병대가 영국 정규군에 무력으로 맞선 출발점이었다. 애국파에게 이 사건은 권리 방어가 전쟁으로 넘어간 순간이었다.", "sources": ["Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789", "Gordon S. Wood, The American Revolution: A History"] },
+    "british": { "name": "질서 회복 작전의 실패", "weight": 95, "narrative": "영국군은 무기 압수와 반란 지도부 압박을 목표로 움직였지만 후퇴 과정에서 큰 손실을 입었다. 런던과 보스턴 지휘부는 식민지 저항의 규모를 다시 계산해야 했다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789"] },
+    "french": { "name": "관망하던 제국 경쟁", "weight": 25, "narrative": "프랑스는 아직 공식 개입 전이었지만 북미 영국령의 위기를 유럽 제국 경쟁의 새 변수로 지켜보았다. 초기 교전은 훗날 외교적 기회가 될 가능성을 열었다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Gordon S. Wood, The American Revolution: A History"] },
+    "native": { "name": "변경 전쟁의 전조", "weight": 35, "narrative": "뉴잉글랜드의 첫 교전은 원주민 공동체가 곧 영국, 식민지, 지역 민병대 사이에서 어려운 선택을 강요받게 될 전쟁의 전조였다.", "sources": ["Colin G. Calloway, The American Revolution in Indian Country", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] }
+  }
+}

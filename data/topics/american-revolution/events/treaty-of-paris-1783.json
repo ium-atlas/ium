@@ -1,0 +1,13 @@
+{
+  "id": "treaty-of-paris-1783",
+  "name": "파리조약",
+  "type": "treaty",
+  "date": "1783-09",
+  "location": { "lng": 2.3522, "lat": 48.8566 },
+  "perspectives": {
+    "patriot": { "name": "독립의 국제 승인", "weight": 100, "narrative": "파리조약은 영국이 미국의 독립을 인정하고 미시시피강까지의 광대한 영토를 승인한 외교적 결말이었다. 애국파의 군사 승리는 국가 승인으로 바뀌었다.", "sources": ["Robert Middlekauff, The Glorious Cause: The American Revolution, 1763-1789", "Gordon S. Wood, The American Revolution: A History"] },
+    "british": { "name": "손실 제한의 강화", "weight": 95, "narrative": "영국은 미국 독립을 인정하면서도 제국 전체의 전쟁 손실을 제한하려 했다. 북미 일부를 잃었지만 캐나다와 대서양 제국의 다른 거점은 유지했다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Maya Jasanoff, Liberty's Exiles: American Loyalists in the Revolutionary World"] },
+    "french": { "name": "전략 승리와 재정 부담", "weight": 90, "narrative": "프랑스는 영국을 약화시키는 외교적 승리를 얻었지만 전쟁 비용도 크게 떠안았다. 조약은 프랑스 외교의 성과이자 재정 압박의 일부였다.", "sources": ["Piers Mackesy, The War for America, 1775-1783", "Gordon S. Wood, The American Revolution: A History"] },
+    "native": { "name": "협상 밖의 영토 상실", "weight": 100, "narrative": "조약은 원주민 공동체를 협상 주체로 인정하지 않은 채 서부 영토를 미국에 넘겼다. 많은 원주민에게 전쟁의 결말은 독립보다 토지 상실과 새 공화국의 팽창 압력으로 다가왔다.", "sources": ["Colin G. Calloway, The American Revolution in Indian Country", "Alan Taylor, American Revolutions: A Continental History, 1750-1804"] }
+  }
+}
