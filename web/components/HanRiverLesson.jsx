@@ -43,12 +43,15 @@ function Atlas({step, selected, onSelect, quizMode=false, feedback=null, compact
   {places.filter(p=>!(p.id==='upperHan'&&step<2)).map(p=>{
    const [x,y]=project(p.coordinates),k=owner(p.id,step),active=!quizMode&&stage.focus.includes(p.id),chosen=selected===p.id;
    const note=p.id==='hanseong'&&step>=2?(quizMode?'하류 방면':`하류 · ${kingdoms[k].name}`):p.id==='upperHan'?(quizMode?'상류 방면':'상류 · 신라'):null;
-   return <g key={p.id} transform={`translate(${x} ${y})`} className={`hr-place ${active?'is-focus':''} ${chosen?'is-chosen':''}`} role="button" tabIndex={0} aria-label={`${p.name}, ${p.modern}${quizMode?' 선택':''}`} onClick={()=>onSelect(p.id)} onKeyDown={event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();event.stopPropagation();onSelect(p.id);}}}>
-    <title>{`${p.name} · ${p.modern}`}</title><circle r="23" fill="transparent"/>
-    {active&&<circle r={p.id==='gwansan'?22:18} fill="none" stroke={kingdoms[k]?.color||'#65746d'} strokeWidth="1.5" strokeDasharray={p.id==='gwansan'?'3 3':undefined} opacity=".55"/>}
-    {chosen&&<circle r="24" fill="none" stroke={feedback==='wrong'?'#c26a47':'#244e45'} strokeWidth="3"/>}
+   const showLabel=quizMode||step!==4||p.id!=='ungjin';
+   const accessibleName=`${p.name}, ${p.modern}${quizMode?' 선택':''}`;
+   const activateWithKey=event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();event.stopPropagation();onSelect(p.id);}};
+   return <g key={p.id} transform={`translate(${x} ${y})`} className={`hr-place ${active?'is-focus':''} ${chosen?'is-chosen':''}`} data-place-id={p.id} aria-label={accessibleName} onClick={()=>onSelect(p.id)}>
+    <title>{`${p.name} · ${p.modern}`}</title><circle className="hr-point-target" r="9" fill="transparent" pointerEvents="all" role={showLabel?undefined:"button"} tabIndex={showLabel?undefined:0} aria-label={showLabel?undefined:accessibleName} onKeyDown={showLabel?undefined:activateWithKey}/>
+    {active&&<circle pointerEvents="none" r={p.id==='gwansan'?22:18} fill="none" stroke={kingdoms[k]?.color||'#65746d'} strokeWidth="1.5" strokeDasharray={p.id==='gwansan'?'3 3':undefined} opacity=".55"/>}
+    {chosen&&<circle pointerEvents="none" r="24" fill="none" stroke={feedback==='wrong'?'#c26a47':'#244e45'} strokeWidth="3"/>}
     <g fill={quizMode?'#607a75':active?kingdoms[k]?.color:'#a0aaa0'} stroke="#fffdf8" strokeWidth="2"><Symbol kingdom={quizMode||!active?'goguryeo':k} size={quizMode||active?7:4}/></g>
-    {(quizMode||step!==4||p.id!=='ungjin')&&<text x={p.dx} y={p.dy} textAnchor={p.anchor||'start'} className="hr-place-label" opacity={quizMode||active?1:.58}>{p.name}</text>}
+    {showLabel&&<text role="button" tabIndex={0} aria-label={accessibleName} onKeyDown={activateWithKey} pointerEvents="all" x={p.dx} y={p.dy} textAnchor={p.anchor||'start'} className="hr-place-label" opacity={quizMode||active?1:.58}>{p.name}</text>}
     {note&&(quizMode||active)&&<text x={p.id==='upperHan'?18:p.dx} y={p.dy+20} textAnchor={p.anchor||'start'} className="hr-owner-label" fill={quizMode?'#607a75':kingdoms[k].color}>{note}</text>}
    </g>;
   })}
