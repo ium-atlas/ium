@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
+import KoreanHistoryMapLessonEntry from '@/components/KoreanHistoryMapLessonEntry';
 
 const STORAGE_KEY = 'ium-korean-history-study-v1';
 const keyFor = (moduleId, id) => `${moduleId}:${id}`;
@@ -107,6 +108,7 @@ export default function KoreanHistoryCourse({ modules }) {
     <a href="#kh-content" className="kh-skip">본문으로 건너뛰기</a>
     <div className="kh-shell">
       <header className="kh-header"><Link href="/" className="kh-brand">IUM <span>역사를 이해하는 시간</span></Link><Link href="/">역사 지도 ↗</Link></header>
+      <KoreanHistoryMapLessonEntry />
       <section className="kh-hero" aria-labelledby="kh-title">
         <div><p className="kh-eyebrow">KOREAN HISTORY · 심화 학습</p><h1 id="kh-title">한국사의 흐름을,<br />내 지식으로.</h1><p className="kh-intro">선사부터 현대까지 개념을 읽고, 지도에서 연결하고, 문제로 확인하세요.</p><p className="kh-note">한능검 심화 80점 이상을 목표로 구성한 학습 자료입니다. 복습 문제는 자체 제작이며 실제 시험 점수를 보장하지 않습니다.</p></div>
         <div className="kh-progress-card"><span>나의 학습 진도</span><strong>{ready ? `${percent}%` : '—'}</strong><progress value={completedCount} max={allSections || 1} aria-label="개념 단원 학습 진도" /><p>{completedCount} / {allSections}개 단원 학습 완료</p><small>{modules.length}개 시대 · 복습 {allQuestions}문항<br />이 브라우저에 기록이 저장됩니다.</small></div>

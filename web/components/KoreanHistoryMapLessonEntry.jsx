@@ -1,0 +1,8 @@
+import Link from 'next/link';
+import geography from '@/lib/lessons/han-river-geography.json';
+export default function KoreanHistoryMapLessonEntry(){
+ return <Link href="/study/korean-history/han-river/" className="kh-map-lesson" aria-label="한강을 따라 읽는 삼국의 성장 지도 수업 시작">
+  <div className="kh-map-preview"><svg viewBox="100 105 510 480" role="img" aria-label="한반도에서 평양, 한성, 금성, 한강의 위치를 보여 주는 지도"><rect x="0" y="0" width="640" height="700" fill="#e8f0ef"/>{geography.land.map((d,i)=><path key={i} d={d} fill="#faf8ee" stroke="#faf8ee" strokeWidth="1"/>)}{geography.rivers.map((r,i)=><path key={i} d={r.path} fill="none" stroke="#709da6" strokeWidth="4"/>)}<path d="M184 165Q305 210 305 315" fill="none" stroke="#547667" strokeWidth="3" strokeDasharray="7 5"/><path d="M497 501Q474 343 316 325" fill="none" stroke="#8370a8" strokeWidth="3" strokeDasharray="7 5"/><circle cx="184" cy="165" r="7" fill="#547667"/><rect x="300" y="315" width="14" height="14" fill="#b66b32"/><path d="M497 491L507 501L497 511L487 501Z" fill="#8370a8"/><g fill="#304b40" fontSize="20" fontWeight="650" stroke="#faf8ee" strokeWidth="5" paintOrder="stroke"><text x="202" y="164">평양</text><text x="250" y="311">한성</text><text x="448" y="532">금성</text></g><text x="355" y="302" fill="#598391" fontSize="20">한강</text></svg><span>지도를 눌러 배우는 첫 수업</span></div>
+  <div className="kh-map-lesson-copy"><p>새로운 지도 수업 · 5개 장면</p><h2>누가 한강을 차지했을까?</h2><div className="kh-map-lesson-flow"><span>4세기</span><i>→</i><span>475</span><i>→</i><span>551</span><i>→</i><span>553</span><i>→</i><span>554</span></div><p className="kh-map-lesson-description">백제의 성장부터 관산성 전투까지.<br/>연도를 누르며 세 나라의 움직임을 직접 따라가세요.</p><strong>지도 수업 시작하기 <span>↗</span></strong></div>
+ </Link>;
+}
