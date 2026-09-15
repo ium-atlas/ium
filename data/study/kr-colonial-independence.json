@@ -1,0 +1,681 @@
+{
+  "id": "kr-colonial-independence",
+  "title": "일제 강점과 독립운동",
+  "period": [
+    1910,
+    1945
+  ],
+  "order": 6,
+  "summary": "정치·경제·사회·문화의 핵심 흐름을 지도 사건과 연결하고, 자체 제작 5지선다 문제로 시대와 개념을 구분합니다.",
+  "topicIds": [
+    "kr-colonial-independence"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "title": "식민 통치와 토지 제도의 변화",
+      "body": "1910년대 무단 통치, 1920년대 문화 통치 표방, 1930년대 이후 전시 동원은 정책 변화의 큰 구분이다. 전 기간 식민 지배와 민족 차별이 지속되었다.\n\n총독부와 무단 통치 — 조선총독부는 입법·행정·사법에 걸쳐 강력한 권한을 행사하는 식민 통치의 중심이었다. 1910년대 헌병 경찰제와 언론·집회 제한, 조선인에게 적용된 태형 등은 강압적 지배의 특징이다. 회사 설립을 허가제로 묶은 회사령도 정치적 억압과 경제 통제가 함께 진행되었음을 보여 준다. 한국인은 자신의 국가 정책을 결정하는 주권을 빼앗긴 채 차별적 통치를 받았다. 학교 교육과 언론도 제한되었지만 국내 비밀 결사와 국외 독립운동 기반은 이어졌다. 1919년 뒤 경찰 제도와 일부 허용 범위가 바뀌더라도 식민 지배와 차별이 끝난 것은 아니라는 점을 먼저 잡아 두자.\n\n토지 조사 사업 — 총독부는 토지 조사령을 바탕으로 토지 소유자·가격·지형 등을 조사하여 지세 부과와 소유권 등록의 기반을 정비했다. 사업은 1910년대에 진행되어 1918년 마무리되었다. 모든 농민의 땅을 신고 누락만으로 일괄 몰수했다고 단순화하기보다 국유지 확대와 지주 중심 권리 확정을 살펴야 한다. 소유권의 확정은 소작농의 관습적 경작권을 충분히 보호하지 못했다. 농민은 지주의 소유권이 강화되는 가운데 소작 관계와 비용 부담의 영향을 받았다. 토지 측량이라는 외형이 비슷해도 대한제국의 지계 사업, 일제의 조사 사업, 해방 뒤 농지개혁은 시행 주체와 목표가 다르다.\n\n문화 통치 표방과 식민 지배의 지속 — 3·1 운동 뒤 일본은 통치 방식을 바꾸겠다고 선언했다. 헌병 경찰을 보통 경찰로 바꾸고 일부 신문 발행과 교육 기회를 허용했지만 경찰 조직과 감시는 오히려 확대되었다. 이른바 문화 통치는 식민 지배를 안정시키려는 방식 변화였으며, 조선인의 주권 회복이나 차별 철폐를 뜻하지 않았다. 조선일보·동아일보 등은 여론과 계몽의 통로가 되었으나 검열·정간의 제약을 받았다. 공개적으로 활동할 공간이 일부 생긴 점과 그 공간이 통제받았다는 점을 함께 보아야 한다. 1920년대 실력 양성 운동과 노동·농민·청년 운동의 확대는 이런 제한된 조건 속에서 이루어졌다.",
+      "keyPoints": [
+        "총독부·헌병 경찰·회사령 허가제는 1910년대 단서",
+        "토지 조사 사업: 소유권·지세 정비, 소작인의 권리 문제",
+        "문화 통치: 일부 허용과 검열·경찰 확대의 병존"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "military-rule"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "land-survey"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "cultural-rule"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0047318",
+        "https://encykorea.aks.ac.kr/Article/E0059218"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "국외 기반·3·1 운동·임시정부",
+      "body": "만주의 이주 사회와 일본 유학생, 국내 종교·학생 조직은 서로 고립되어 있지 않았다. 1919년의 대규모 운동은 민주공화제를 표방한 정부 수립으로 이어졌다.\n\n서간도 독립운동 기지와 신흥강습소 — 이회영 일가·이상룡 등은 서간도로 이주하여 자치와 교육, 군사 훈련을 연결하는 독립운동 기지를 마련했다. 신흥강습소에서 출발한 교육 기반은 신흥무관학교로 이어져 독립군 인재를 길렀다. 지도는 서간도의 대표 거점을 표시하며 학교가 이후 여러 곳으로 이동했음을 함께 고려해야 한다. 독립군의 훈련은 이주민의 정착·농업·자금 마련에 기대고 있었다. 가족과 지역 공동체가 경제적 부담을 함께 감당했다는 점에서 군인만의 역사가 아니다. 졸업생과 교관의 연결망은 만주 독립군 부대들로 퍼졌으며, 국내의 신민회 활동이 국외의 장기 항전 준비와 연결되었다.\n\n도쿄 2·8 독립선언 — 일본에 유학하던 한국 학생들은 도쿄에서 독립을 선언했다. 제1차 세계대전 이후 민족자결주의와 국제회의에 대한 기대 속에서 한국인의 독립 의지를 알리려 했다. 식민지 독립이 열강의 원칙만으로 자동 보장되는 것은 아니었으므로 학생들은 스스로 선언과 행동에 나섰다. 유학생의 선언은 국내 독립운동 준비에 자극을 주었으며 3·1 운동과 연결되었다. 도쿄의 2·8 선언, 서울에서 시작해 전국으로 퍼진 3·1 운동, 상하이 임시정부 수립을 장소와 순서로 묶어 기억하자. 해외의 학생 사회와 국내 종교·교육 조직은 독립운동의 서로 연결된 기반이었다.\n\n3·1 운동 — 종교계 인사와 학생 등이 준비한 독립선언을 계기로 서울과 여러 도시에서 만세 시위가 일어났다. 운동은 농촌과 국외까지 확산되었고 일제는 군경을 동원해 진압했다. 이 대규모 비폭력 독립운동은 한국인이 식민 지배를 받아들이지 않았음을 드러내며 임시정부 수립의 배경이 되었다. 학생·농민·상인·여성 등 여러 계층이 시위와 선언서 배포에 참여했다. 지역마다 시기와 방식은 달랐고 탄압에 따른 희생도 컸다. 민족 대표의 활동만으로 전체 운동을 설명할 수 없으며 유관순의 아우내 장터 만세 시위처럼 지역 사회가 운동을 확산한 과정을 함께 보아야 한다.\n\n상하이 대한민국 임시정부 — 상하이에서 대한민국 임시정부가 수립되고 같은 해 여러 임시정부의 통합이 이루어졌다. 민주공화제를 표방하며 임시의정원을 두었고 연통제·교통국 등 국내 연락망, 독립공채와 외교 활동으로 독립운동을 조직하려 했다. 대한제국의 황제 복귀를 목표로 한 정부와는 정치 체제가 달랐다. 국내외 동포의 자금과 인적 지원이 정부의 활동을 뒷받침했지만 연락망이 탄압받으며 재정과 노선 문제가 커졌다. 1923년 국민대표회의에서는 창조파·개조파 등이 대립했다. 임시정부를 하나의 고정된 조직으로 외우기보다 통합·위기·이동·재정비를 겪은 장기 활동체로 이해하자.",
+      "keyPoints": [
+        "서간도 신흥강습소 → 신흥무관학교",
+        "도쿄 2·8 선언 → 3·1 운동 → 상하이 임시정부",
+        "임시정부: 임시의정원·연통제·교통국·독립공채"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "sinheung-school"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "february-declaration"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "march-first"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "provisional-government"
+        }
+      ],
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n403500",
+        "https://encykorea.aks.ac.kr/Article/E0046354",
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0100_0020_0010_0030",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o400800"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "의열 투쟁과 1920년대 독립전쟁",
+      "body": "의열단의 개별 의거와 만주의 독립군 전투는 방식이 다르다. 승전 뒤에도 주민 피해와 부대 이동, 내부 갈등이 이어졌다는 점을 살핀다.\n\n의열단 결성 — 김원봉 등은 만주 지린에서 의열단을 조직해 일제의 통치 기관과 요인을 공격하는 의열 투쟁을 전개했다. 신채호가 쓴 조선혁명선언은 민중의 직접 행동을 강조하는 활동 지침이 되었다. 단체 창립은 1919년, 선언 작성은 1923년이므로 두 시점을 구별하는 것이 중요하다. 박재혁의 부산경찰서, 김익상의 총독부, 김상옥의 종로경찰서 관련 의거 등은 국내로 연결된 투쟁이었다. 이후 일부 인사들은 군사 간부 양성과 조직적 무장 활동을 중시했다. 김구의 한인애국단과는 조직·결성 시기가 다르며, 의열 투쟁이라는 방식이 비슷하다고 같은 단체로 묶으면 안 된다.\n\n봉오동 전투 — 홍범도의 대한독립군 등 여러 부대는 북간도 봉오동에서 일본군을 상대로 승리를 거두었다. 독립군은 지형을 이용해 일본군을 유인하고 연합 작전을 펼쳤다. 1920년의 대표 전투인 봉오동은 청산리보다 먼저 일어났으며, 지도상의 위치는 오늘날 지명 변화와 전투 범위를 고려한 대표 지점이다. 만주 한인 사회는 식량과 정보·자금을 제공하며 독립군 활동을 뒷받침했다. 승전의 의미를 이해하려면 부대 이름뿐 아니라 독립군을 지탱한 이주민 공동체도 보아야 한다. 일본군이 이후 간도 지역으로 진입하며 주민들이 큰 피해를 입은 점은 독립전쟁과 민간인 보호가 맞물린 문제였음을 보여 준다.\n\n청산리 전투와 간도 참변 — 김좌진의 북로군정서군과 홍범도 등이 이끄는 독립군 부대들은 청산리 일대에서 일본군과 여러 차례 전투를 벌였다. 하나의 전투 한 번으로 끝난 사건이 아니라 백운평·어랑촌 등 일대의 교전들을 가리킨다. 이후 독립군은 전력을 보존하기 위해 이동했고 일본군은 한인 주민을 학살했다. 간도 참변에서 민간인은 독립군 지원을 이유로 보복과 학살의 대상이 되었다. 승전만을 강조하면 전쟁을 떠받치던 공동체가 입은 피해를 놓친다. 봉오동과 청산리의 승전 뒤 독립군의 이동, 자유시 참변, 만주에서의 재정비라는 흐름을 이어서 읽는 것이 중요하다.\n\n자유시 참변과 독립군 재편 — 러시아 자유시에 모인 독립군은 지휘권과 노선 갈등 속에서 무장 해제 요구에 직면했고 충돌로 큰 피해를 입었다. 1920년 승전 뒤 독립군의 국외 이동이 곧 안정된 통합으로 이어진 것은 아니었다. 사건 뒤 일부 세력은 만주로 돌아와 조직을 다시 세웠다. 한인 독립운동은 일본뿐 아니라 러시아 혁명 이후의 복잡한 정치·군사 환경에도 영향을 받았다. 독립군을 하나의 일치된 조직으로만 이해하면 이런 갈등을 설명하기 어렵다. 자유시 참변은 이후 참의부·정의부·신민부 등 만주 지역 조직의 재편을 이해하는 연결 고리이다.",
+      "keyPoints": [
+        "의열단: 1919 지린, 김원봉 / 조선혁명선언: 1923 신채호",
+        "1920 봉오동(6월) → 청산리(10월)",
+        "간도 참변 → 자유시 참변(1921) → 만주 재편"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "uiryeoldan"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "bongodong"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "cheongsanri"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "freedom-city"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0043334",
+        "https://encykorea.aks.ac.kr/Article/E0023974",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o401600",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o403530"
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "경제·교육 실력 양성과 한계",
+      "body": "민족의 경제와 교육을 키우자는 노력은 공개 운동의 중요한 흐름이었다. 식민 정책, 계층 간 이해 차이, 자금난에 부딪힌 한계까지 공부한다.\n\n산미 증식 계획 — 1920년부터 총독부는 일본의 쌀 수요를 충당하기 위한 산미 증식 계획을 추진했다. 수리 시설과 품종 개량 등을 통해 생산을 늘렸지만 증가한 생산만큼 조선인의 식생활이 나아진 것은 아니었다. 이 사건의 월은 연도 단위 사업을 정렬하기 위한 01이며, 특정 시행일을 뜻하지 않는다. 수리조합비 등 비용이 농민에게 전가되고 일본으로의 쌀 반출이 늘면서 생활은 어려워졌다. 생산량·반출량·소비량은 서로 다른 지표이므로 증산을 곧 생활 향상으로 읽지 말아야 한다. 소작 쟁의는 이런 식민 농업 구조와 지주·소작 관계 속에서 확대되었다.\n\n평양의 물산 장려 운동 — 조만식 등이 참여한 물산 장려 운동은 조선인의 물건을 쓰고 생산을 키워 경제적 자립을 이루려 했다. 평양에서 시작된 조직 움직임은 이후 서울 등으로 퍼졌다. 국산품 애용이라는 일상 소비를 민족 산업의 성장과 연결한 실력 양성 운동으로, 국채를 갚는 1907년 운동과 구별된다. 수요가 늘어나는 만큼 생산이 충분히 늘지 않으면 가격이 올라 생활 부담이 커질 수 있었다. 사회주의 계열은 자본가의 이익을 우선하는 운동이 될 수 있다고 비판했다. 같은 민족운동 안에서도 생산자와 소비자, 자본가와 노동자의 처지에 따라 평가가 달랐다는 점을 보여 준다.\n\n민립 대학 설립 운동 — 이상재 등은 조선인이 힘을 모아 대학을 세우자는 민립 대학 설립 운동을 추진했다. 교육을 통해 민족의 역량을 키우려는 실력 양성 운동으로 모금 활동을 벌였지만 총독부의 방해와 경제적 어려움 등으로 뜻을 이루지 못했다. 경성제국대학은 이 모금의 성과로 설립된 민립 대학이 아니다. 조선인의 고등교육 기회가 제한된 현실에서 대학 설립은 교육권과 자치의 문제였다. 대중 모금은 사회적 관심을 모았지만 수재와 불황은 참여 여력을 떨어뜨렸다. 학교 설립 운동과 문자 보급·농촌 계몽은 교육을 중시한다는 공통점이 있으나 대상과 방법이 서로 다르다.\n\n암태도 소작쟁의 — 암태도 소작인들은 서태석 등을 중심으로 소작인회를 만들어 높은 소작료를 낮추라고 요구했다. 지주와 경찰의 대응 속에서 장기간 투쟁이 이어졌고, 결국 소작료 인하 등의 합의를 얻었다. 식민지 농업의 변화가 농민들의 생존권 요구로 나타난 사건으로 산미 증식 계획과 함께 살펴볼 수 있다. 농민들은 목포로 나아가 항의하고 구속자 석방을 요구했으며 변호사·언론·다른 지역의 지원도 받았다. 섬 안의 분쟁이 사회적 연대 속에서 널리 알려진 것이다. 토지 소유권의 변화만이 아니라 소작료와 생활 비용이 농민에게 어떤 의미였는지 살피면 경제사의 사건이 사람의 삶으로 연결된다.",
+      "keyPoints": [
+        "산미 증식: 생산 증가와 소비 개선은 별개",
+        "물산 장려: 평양, 국산품 애용·민족 산업",
+        "민립 대학: 이상재, 모금 / 경성제국대학과 구별"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "rice-expansion"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "goods-promotion"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "private-university"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "amtae-tenants"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026227",
+        "https://encykorea.aks.ac.kr/Article/E0052020",
+        "https://encykorea.aks.ac.kr/Article/E0020095",
+        "https://encykorea.aks.ac.kr/Article/E0035164"
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "학생·여성·형평 운동과 신간회",
+      "body": "민족 독립과 사회 내부의 차별 철폐는 함께 논의되었다. 각 운동의 대상과 요구를 읽어 구별하고, 협력한 단체도 연결한다.\n\n진주의 형평 운동 — 진주에서 강상호·이학찬 등이 형평사를 세워 백정에 대한 사회적 차별을 없애려 했다. 갑오개혁으로 법적 신분제가 사라진 뒤에도 교육과 일상생활의 차별이 남았기 때문이다. 형평사는 전국에 조직을 넓혔으며 다른 사회운동과의 연대와 활동 방향을 둘러싼 논의도 전개했다. 당사자들이 교육권과 동등한 대우를 요구했다는 점에서 인권 운동의 성격이 뚜렷하다. 법의 변화와 사람들의 관습 변화 사이에는 시간 차가 존재했다. 형평 운동은 국산품 소비나 대학 모금과 목적이 다르며, 사회적 약자의 구체적 처지에서 출발한 대중 운동으로 이해해야 한다.\n\n6·10 만세 운동 — 순종의 장례일을 계기로 학생과 사회주의 계열 등이 독립 만세 운동을 준비했다. 일부 계획은 사전에 발각되었으나 학생들의 시위가 이어졌다. 1919년의 고종 국장 관련 정세와 1926년 순종 장례를 혼동하지 말고, 두 운동의 참여층과 준비 과정의 차이도 살펴보자. 운동 과정에서 학생 조직의 역할과 여러 계열의 협력 가능성이 드러났다. 이는 1920년대 민족협동전선의 형성 흐름과 연결해 읽을 수 있다. 6·10 만세 운동을 1987년 6월 민주 항쟁의 시작인 6월 10일과 혼동하지 않도록, 군주 장례와 식민지 독립이라는 시대 단서를 확인하자.\n\n신간회와 민족협동전선 — 비타협적 민족주의 세력과 사회주의 세력이 협력해 신간회를 만들었다. 정치·경제적 각성과 단결, 기회주의 배격을 내세우고 전국 지회를 통해 활동했다. 1907년 신민회가 비밀 결사였던 것과 달리 신간회는 일제의 통제 아래에서도 공개 활동을 벌인 민족협동전선이었다. 강연·조사·지원 활동을 통해 노동자·농민·학생의 문제와 연결되었다. 광주 학생 항일 운동에 조사단을 보내고 민중대회를 추진했으나 탄압받았다. 내부 노선 차이와 변화한 정세 속에서 1931년 해소되었으므로, 일제 강점기 끝까지 존속한 조직으로 기억하면 안 된다.\n\n근우회와 여성운동 — 근우회는 민족주의와 사회주의 계열 여성이 협력해 조직한 여성단체였다. 여성의 교육과 법적·사회적 차별 철폐, 조혼 폐지, 여성 노동자의 권익 등을 요구했다. 신간회와 같은 시기 협동전선의 흐름에 놓이지만 여성의 구체적 삶과 노동 조건을 중심 과제로 삼았다는 차이가 있다. 강연과 야학, 노동 문제 지원, 구호 활동은 여성의 공적 참여를 넓혔다. 민족 해방만 이루어지면 성별 차별도 저절로 사라진다고 보지 않고 당장의 불평등을 문제 삼았다. 인물의 이름보다 여성 교육·임금·혼인 등 요구의 내용을 통해 단체를 판단하는 연습이 필요하다.\n\n광주 학생 항일 운동 — 광주·나주 통학 과정의 한일 학생 충돌과 차별적 대응을 계기로 학생들의 항일 시위가 일어났다. 운동은 식민지 교육과 통치에 대한 저항으로 확대되어 전국 학교로 퍼졌다. 신간회도 진상 조사와 지원에 나섰다. 지역의 학교 갈등에서 출발해 전국적 민족운동으로 발전한 흐름이 중요하다. 학생들은 민족 차별 철폐와 식민지 교육에 반대하며 동맹휴학과 격문 배포에 참여했다. 여학생들의 활동도 전국적 확산의 일부였다. 광주라는 장소만 보고 1980년 민주화운동과 혼동하지 말고, 1929년 일본의 식민 통치와 학교의 차별이라는 단서를 함께 읽어야 한다.\n\n원산 총파업 — 문평 제유공장의 일본인 감독이 노동자를 차별하고 폭행한 일을 계기로 한 분쟁이 원산 노동자들의 총파업으로 확대되었다. 노동연합회는 여러 직종을 연결해 대응했으나 회사와 경찰의 압박으로 파업은 패배했다. 식민지의 민족 차별과 노동 조건 문제가 함께 작용한 사건이다. 노동자들은 생계의 어려움 속에서도 다른 직종의 파업을 지지했고 국내외에서 모금과 지원이 이어졌다. 사용자 측은 대체 인력을 동원하고 노동조직을 약화하려 했다. 승리한 암태도 소작쟁의와 달리 결과는 패배였지만, 광범위한 노동 연대를 보여 준다는 역사적 의미가 있다.",
+      "keyPoints": [
+        "형평사: 1923 진주, 백정 차별 철폐",
+        "6·10(1926) → 신간회·근우회(1927) → 광주 학생(1929)",
+        "신간회: 비타협적 민족주의+사회주의 / 근우회: 여성운동"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "hyeongpyeong"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "june-tenth"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "singanhoe"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "geunwoohoe"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "gwangju-students"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "wonsan-strike"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0063568",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400300",
+        "https://encykorea.aks.ac.kr/Article/E0032606",
+        "https://encykorea.aks.ac.kr/Article/E0007442",
+        "https://encykorea.aks.ac.kr/Article/E0005301",
+        "https://encykorea.aks.ac.kr/Article/E0040696"
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "만주 자치 조직과 임시정부 재정비",
+      "body": "독립군 조직은 이주민 생활을 관할하는 자치 기능도 가졌다. 중국 관내 임시정부는 한인애국단 의거 뒤 지원 확대와 이동을 동시에 경험했다.\n\n만주의 3부와 한인 자치 — 참의부를 비롯해 정의부·신민부가 만주에 조직되어 군사 활동과 한인 사회의 자치를 맡았다. 참의부는 임시정부와 연결된 조직이었고 세 단체는 관할 지역과 형성 과정이 달랐다. 지도는 참의부의 남만주 활동권을 대표하며 세 조직이 모두 같은 도시에 있었다는 뜻은 아니다. 한인 사회의 학교·생계·치안과 군사 조직은 분리되지 않았다. 이후 미쓰야 협정에 따른 중국 군경과 일본 경찰의 협력은 독립운동을 압박했고, 통합 운동을 거쳐 국민부·혁신의회 등으로 재편되었다. 부대 이름 암기보다 자치와 군사 기능, 남만주와 북만주의 차이를 함께 잡아야 한다.\n\n한인애국단과 윤봉길 의거 — 김구가 이끈 한인애국단은 1932년 이봉창의 도쿄 의거와 윤봉길의 상하이 훙커우 공원 의거를 추진했다. 윤봉길 의거는 중국 측의 한국 독립운동 인식을 바꾸고 임시정부에 대한 지원이 확대되는 계기가 되었다. 단체 창립은 1931년, 두 대표 의거는 1932년이라는 순서를 기억하자. 의거 뒤 일본의 추적이 강화되어 임시정부는 상하이를 떠나 여러 도시로 이동했다. 성과와 동시에 활동 공간의 위축도 발생한 것이다. 상하이에서 충칭까지의 이동은 단순한 행정 이전이 아니라 일본의 침략과 중국의 전쟁 상황 속에서 독립운동 기반을 지켜 가는 과정이었다.\n\n한국독립군의 한중 연합전 — 지청천이 이끄는 한국독립군은 북만주에서 중국 항일 부대와 연합해 쌍성보·대전자령 등지에서 전투를 벌였다. 대전자령 전투에서는 일본군을 상대로 큰 성과를 거두었다. 한국독립군은 한국독립당의 군사 조직이었으며, 1920년 홍범도의 대한독립군이나 1940년 한국광복군과 구별해야 한다. 만주사변 뒤 일본의 지배가 확대되면서 한인과 중국인의 항일 협력도 중요해졌다. 승전에도 일본군의 압박과 연합 관계의 어려움 때문에 일부는 중국 관내로 이동했다. 지도는 대전자령 전투가 벌어진 왕청 일대의 대표 위치이며, 정확한 전투 범위를 한 점으로 확정하는 표시는 아니다.\n\n조선혁명군과 남만주 항일전 — 양세봉 등이 이끄는 조선혁명군은 남만주에서 중국 항일 부대와 협력하여 영릉가·흥경성 등에서 전투를 벌였다. 국민부와 조선혁명당에 연결된 군사 조직으로, 북만주의 지청천·한국독립군과 짝지어 비교할 수 있다. 지도는 남만주 흥경 일대의 활동권을 대표하는 지점이다. 현지 한인 사회의 생활 기반과 중국 항일 세력의 협조는 군사 활동을 지탱하는 조건이었다. 일본과 만주국의 공격으로 조직은 큰 압박을 받았지만 항전을 이어 갔다. 조선혁명군과 1938년 우한에서 김원봉 등이 조직한 조선의용대는 이름이 비슷해도 지역·지도자·형성 과정이 다른 단체이다.",
+      "keyPoints": [
+        "3부: 참의부·정의부·신민부",
+        "한인애국단: 김구, 1931 / 이봉창·윤봉길: 1932",
+        "이봉창 도쿄, 윤봉길 상하이, 임시정부는 이후 이동",
+        "북만주: 지청천·한국독립군 / 남만주: 양세봉·조선혁명군"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "three-governments"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "patriotic-corps"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "korean-independence-army"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "joseon-revolutionary-army"
+        }
+      ],
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o403530",
+        "https://encykorea.aks.ac.kr/Article/E0061905",
+        "https://encykorea.aks.ac.kr/Article/E0014742",
+        "https://encykorea.aks.ac.kr/Article/E0052267"
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "전시 동원과 언어·역사·문학",
+      "body": "전쟁이 확대되자 일본은 인력과 자원뿐 아니라 언어와 생활도 통제했다. 문화 활동을 독립운동과 연결하되 연구 방법과 작품의 차이를 구별한다.\n\n전시 동원과 민족 말살 정책 — 일본은 중일전쟁 이후 국가총동원법 등을 통해 식민지의 인력과 물자를 전쟁에 동원했다. 황국 신민 서사 암송, 신사 참배 강요, 한국어 교육 억압과 일본식 성명 강요 등이 이어졌다. 지원병제·징용·징병은 이름과 시행 시기가 서로 다른 동원 제도이므로 한꺼번에 시작되었다고 보지 말아야 한다. 노동자와 청년은 군수 생산·노무·군사 동원에 시달렸으며 여성들 또한 동원과 폭력의 피해를 입었다. 일본군 ‘위안부’ 제도는 전쟁 수행을 위한 성적 착취와 인권 침해의 역사이다. 물자 공출과 배급은 가정의 식생활까지 통제해 식민지의 일상을 전쟁 체제에 종속시켰다.\n\n조선어학회 사건과 민족문화 수호 — 조선어학회는 한글 맞춤법 통일안과 표준어 정리, 사전 편찬을 추진했으나 1942년 일제가 관련 인사들을 체포했다. 언어를 연구하고 보급하는 활동이 민족의 정체성을 지키는 일과 연결되었기 때문이다. 조선어연구회의 가갸날 제정과 뒤이은 조선어학회의 활동을 시간 순서로 구분하자. 문화 수호는 한글뿐 아니라 역사 연구와 문학에도 나타났다. 신채호·박은식의 민족주의 역사학, 백남운의 사회경제사 연구, 진단학회의 실증 연구는 방법이 달랐다. 이육사·윤동주 등의 문학도 식민지 현실 속에서 읽히지만, 서로 다른 작품과 활동을 한 단체의 성과로 섞지 않아야 한다.",
+      "keyPoints": [
+        "황국 신민 서사·신사 참배·일본식 성명 강요",
+        "조선어학회: 맞춤법 통일안·사전 편찬, 1942 탄압",
+        "민족주의 역사학·사회경제사학·실증 사학 비교"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "wartime-mobilization"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "language-suppression"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0047318",
+        "https://encykorea.aks.ac.kr/Article/E0052129",
+        "https://encykorea.aks.ac.kr/Article/E0061523",
+        "https://encykorea.aks.ac.kr/Article/E0054620",
+        "https://encykorea.aks.ac.kr/Article/E0045444"
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "중국 관내 항일전과 건국 준비",
+      "body": "1938년 조선의용대와 1940년 한국광복군은 결성 지역·지도자·소속이 다르다. 1940년대 활동은 해방 뒤 국가 건설 구상과 연결된다.\n\n우한의 조선의용대 — 김원봉 등이 중국 우한에서 조선의용대를 조직해 중국의 항일전에 참여했다. 선전·정보 수집·포로 심문 등 여러 활동을 수행했으며, 이후 일부는 화북으로 이동했다. 남은 대원들의 한국광복군 합류와 화북의 조선의용군으로 이어지는 갈래를 구별해야 한다. 중국 관내 독립운동은 국민당·공산당 세력과의 관계, 활동 지역의 차이에 따라 여러 경로로 전개되었다. 조선의용대 전체가 그대로 한국광복군이 되었다고 단순화하면 분화를 놓친다. 우한의 1938년 조선의용대와 충칭의 1940년 한국광복군을 지도에서 각각 확인하자.\n\n충칭의 한국광복군 — 대한민국 임시정부는 충칭에서 지청천을 총사령으로 하는 한국광복군을 창설했다. 대일 선전포고와 연합국 협력, 인도·버마 전선 활동 등으로 독립전쟁을 추진했다. 미국 전략정보국과 국내 진공을 준비했으나 일본이 항복하면서 계획을 실행하지 못했다는 점이 중요한 구별점이다. 광복군은 국권 회복뿐 아니라 해방 뒤 독립국가의 기반을 준비하는 의미가 있었다. 임시정부는 조소앙의 삼균주의를 바탕으로 건국강령을 발표해 정치·경제·교육의 균등을 제시했다. 군사 활동과 해방 이후 사회의 구상을 함께 읽어야 1940년대 독립운동의 목표가 보인다.",
+      "keyPoints": [
+        "조선의용대: 우한, 김원봉 → 화북 이동과 광복군 합류로 분화",
+        "한국광복군: 충칭, 임시정부, 지청천",
+        "1941 건국강령·삼균주의 / 국내 진공은 실행 전 광복"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "volunteer-corps"
+        },
+        {
+          "topicId": "kr-colonial-independence",
+          "eventId": "liberation-army"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0052178",
+        "https://encykorea.aks.ac.kr/Article/E0005134",
+        "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_127_0030"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "kr-colonial-independence-q01",
+      "prompt": "[재구성 자료] “헌병이 경찰 업무를 맡고 조선인에게 태형을 적용한다.”에 해당하는 시기는?",
+      "choices": [
+        "1910년대 무단 통치기",
+        "1890년대 갑오개혁기",
+        "1927년 신간회 창립기",
+        "1946년 미군정기",
+        "1960년 4·19 혁명기"
+      ],
+      "answerIndex": 0,
+      "explanation": "헌병 경찰과 태형은 일제의 1910년대 통치를 식별하는 단서이다. 갑오개혁은 강점 전, 신간회는 1920년대 문화 통치 표방 아래, 미군정과 4·19는 광복 이후이다.",
+      "sectionId": "s1",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0047318",
+        "https://encykorea.aks.ac.kr/Article/E0059218"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q02",
+      "prompt": "토지 조사 사업을 설명한 것으로 적절한 것은?",
+      "choices": [
+        "대한제국이 지계를 발급한 광무개혁이었다.",
+        "소작농에게 3정보까지 농지를 분배한 농지개혁이었다.",
+        "모든 농민의 소작료를 일괄 폐지했다.",
+        "토지를 무상몰수하여 무상분배한 북한의 개혁이었다.",
+        "토지 소유권과 지세 부과 기반을 정비하며 지주 중심 권리를 강화했다."
+      ],
+      "answerIndex": 4,
+      "explanation": "총독부의 1910년대 사업은 소유권·지세 기반 정비와 소작인의 권리 약화가 핵심이다. 지계는 대한제국, 3정보 농지 분배는 해방 뒤 대한민국, 무상몰수·무상분배는 북한의 토지개혁이다. 소작료 일괄 폐지도 아니다.",
+      "sectionId": "s1",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0047318",
+        "https://encykorea.aks.ac.kr/Article/E0059218"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q03",
+      "prompt": "1919년 사건의 순서로 옳은 것은?",
+      "choices": [
+        "상하이 임시정부 수립 → 3·1 운동 → 도쿄 2·8 독립선언",
+        "도쿄 2·8 독립선언 → 상하이 임시정부 수립 → 3·1 운동",
+        "상하이 임시정부 수립 → 도쿄 2·8 독립선언 → 3·1 운동",
+        "도쿄 2·8 독립선언 → 3·1 운동 → 상하이 임시정부 수립",
+        "3·1 운동 → 도쿄 2·8 독립선언 → 상하이 임시정부 수립"
+      ],
+      "answerIndex": 3,
+      "explanation": "2월 도쿄의 유학생 선언, 3월 국내외 만세 운동, 4월 상하이 임시정부 수립 순이다. 다른 선택지는 월과 운동의 영향을 뒤집어 놓았다.",
+      "sectionId": "s2",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n403500",
+        "https://encykorea.aks.ac.kr/Article/E0046354",
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0100_0020_0010_0030",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o400800"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q04",
+      "prompt": "대한민국 임시정부의 활동으로 옳은 것은?",
+      "choices": [
+        "중추원 개편을 요구하며 헌의 6조를 채택했다.",
+        "조선총독부 산하에서 산미 증식 계획을 수립했다.",
+        "연통제와 교통국을 통해 국내 연락망을 운영했다.",
+        "군국기무처에서 과거제를 폐지했다.",
+        "통리기무아문을 두고 별기군을 창설했다."
+      ],
+      "answerIndex": 2,
+      "explanation": "연통제·교통국은 임시정부의 국내 연결망이다. 군국기무처는 갑오개혁, 통리기무아문·별기군은 개화 정책, 헌의 6조는 독립협회 관련 활동, 산미 증식은 식민 통치 정책이다.",
+      "sectionId": "s2",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n403500",
+        "https://encykorea.aks.ac.kr/Article/E0046354",
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0100_0020_0010_0030",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o400800"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q05",
+      "prompt": "지린에서 결성되어 조선혁명선언을 활동 지침으로 삼은 단체는?",
+      "choices": [
+        "대한자강회",
+        "의열단",
+        "한인애국단",
+        "근우회",
+        "독립협회"
+      ],
+      "answerIndex": 1,
+      "explanation": "김원봉 등의 의열단이며 신채호가 1923년 선언을 썼다. 한인애국단은 김구와 1931년 상하이, 근우회는 1927년 여성운동, 독립협회·대한자강회는 개항기 단체이다.",
+      "sectionId": "s3",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0043334",
+        "https://encykorea.aks.ac.kr/Article/E0023974",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o401600",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o403530"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q06",
+      "prompt": "독립전쟁의 흐름을 시간순으로 배열한 것은?",
+      "choices": [
+        "봉오동 전투 → 청산리 전투 → 자유시 참변",
+        "청산리 전투 → 봉오동 전투 → 자유시 참변",
+        "자유시 참변 → 봉오동 전투 → 청산리 전투",
+        "봉오동 전투 → 자유시 참변 → 청산리 전투",
+        "청산리 전투 → 자유시 참변 → 봉오동 전투"
+      ],
+      "answerIndex": 0,
+      "explanation": "1920년 6월 봉오동, 같은 해 10월 청산리, 1921년 6월 자유시 참변이다. 승전 뒤 이동과 재편이 이어졌다는 큰 흐름도 함께 기억해야 한다.",
+      "sectionId": "s3",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0043334",
+        "https://encykorea.aks.ac.kr/Article/E0023974",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o401600",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o403530"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q07",
+      "prompt": "[재구성 자료] “우리 손으로 만든 물건을 쓰고 조선인의 산업을 키우자.”라는 호소에 해당하는 운동은?",
+      "choices": [
+        "국채보상운동",
+        "형평 운동",
+        "민립 대학 설립 운동",
+        "6·10 만세 운동",
+        "물산 장려 운동"
+      ],
+      "answerIndex": 4,
+      "explanation": "국산품 소비와 생산 진흥을 연결한 물산 장려 운동이다. 국채보상은 일본 차관 상환, 형평은 백정 차별, 민립 대학은 교육기관 모금, 6·10은 순종 장례를 계기로 한 독립 만세 운동이다.",
+      "sectionId": "s4",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026227",
+        "https://encykorea.aks.ac.kr/Article/E0052020",
+        "https://encykorea.aks.ac.kr/Article/E0020095",
+        "https://encykorea.aks.ac.kr/Article/E0035164"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q08",
+      "prompt": "산미 증식 계획 자료를 해석할 때 옳은 태도는?",
+      "choices": [
+        "산미 증식을 광무개혁의 양전 사업으로 판단한다.",
+        "소작농의 비용 부담은 관련이 없다고 본다.",
+        "정치적 식민 지배가 끝난 뒤의 정책으로 본다.",
+        "생산량 증가와 일본 반출량·조선인 소비량을 나누어 살핀다.",
+        "생산량이 늘면 농민 생활도 반드시 개선되었다고 판단한다."
+      ],
+      "answerIndex": 3,
+      "explanation": "증산과 소비 개선은 다른 문제다. 반출 증가와 수리조합비 등 비용 때문에 농민 생활이 악화될 수 있었다. 대한제국의 양전과 시행 주체가 다르고, 일제 강점기의 식민 농업 정책이었다.",
+      "sectionId": "s4",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026227",
+        "https://encykorea.aks.ac.kr/Article/E0052020",
+        "https://encykorea.aks.ac.kr/Article/E0020095",
+        "https://encykorea.aks.ac.kr/Article/E0035164"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q09",
+      "prompt": "[재구성 자료] “법으로 신분제는 없어졌지만 우리 자녀의 학교 입학과 일상의 차별은 남아 있다.”와 관련된 단체는?",
+      "choices": [
+        "한국광복군",
+        "조선어학회",
+        "형평사",
+        "신민회",
+        "한인애국단"
+      ],
+      "answerIndex": 2,
+      "explanation": "1923년 진주에서 시작된 형평사의 백정 차별 철폐 요구이다. 신민회는 국권 회복 비밀 결사, 한인애국단은 의열 투쟁, 광복군은 군사 조직, 조선어학회는 언어 연구와 보급이 중심이다.",
+      "sectionId": "s5",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0063568",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400300",
+        "https://encykorea.aks.ac.kr/Article/E0032606",
+        "https://encykorea.aks.ac.kr/Article/E0007442",
+        "https://encykorea.aks.ac.kr/Article/E0005301",
+        "https://encykorea.aks.ac.kr/Article/E0040696"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q10",
+      "prompt": "신간회에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "강화도 조약 체결을 위해 설립되었다.",
+        "비타협적 민족주의 세력과 사회주의 세력이 협력했다.",
+        "1907년 결성된 비밀 결사였다.",
+        "오직 여성 회원만으로 구성되었다.",
+        "1940년 충칭에서 군대로 창설되었다."
+      ],
+      "answerIndex": 1,
+      "explanation": "신간회는 1927년 민족협동전선이다. 1907년 비밀 결사는 신민회, 여성단체는 근우회, 1940년 충칭 군대는 한국광복군이다. 강화도 조약은 1876년으로 시기부터 다르다.",
+      "sectionId": "s5",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0063568",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400300",
+        "https://encykorea.aks.ac.kr/Article/E0032606",
+        "https://encykorea.aks.ac.kr/Article/E0007442",
+        "https://encykorea.aks.ac.kr/Article/E0005301",
+        "https://encykorea.aks.ac.kr/Article/E0040696"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q11",
+      "prompt": "1929년 광주에서 시작되어 전국으로 확산된 운동의 직접 배경은?",
+      "choices": [
+        "한일 학생 간 충돌과 민족 차별적 대응",
+        "3·15 부정선거",
+        "박종철 고문치사 은폐",
+        "순종의 장례",
+        "고종의 헤이그 특사 파견"
+      ],
+      "answerIndex": 0,
+      "explanation": "광주 학생 항일 운동은 학생 충돌과 차별적 대응을 계기로 확대되었다. 3·15는 1960년 4·19, 박종철은 1987년 6월, 순종 장례는 1926년 6·10, 헤이그 특사는 1907년이다.",
+      "sectionId": "s5",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0063568",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400300",
+        "https://encykorea.aks.ac.kr/Article/E0032606",
+        "https://encykorea.aks.ac.kr/Article/E0007442",
+        "https://encykorea.aks.ac.kr/Article/E0005301",
+        "https://encykorea.aks.ac.kr/Article/E0040696"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q12",
+      "prompt": "인물과 의거 장소를 바르게 연결한 것은?",
+      "choices": [
+        "이봉창 — 충칭",
+        "안중근 — 도쿄",
+        "김원봉의 의열단 결성 — 헤이그",
+        "지청천의 광복군 창설 — 진주",
+        "윤봉길 — 상하이 훙커우 공원"
+      ],
+      "answerIndex": 4,
+      "explanation": "윤봉길은 1932년 상하이 의거이다. 이봉창은 도쿄, 안중근은 하얼빈, 의열단 결성은 지린, 광복군 창설은 충칭이다. 지도 문제에서는 결성지와 활동지·순국지를 구분한다.",
+      "sectionId": "s6",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o403530",
+        "https://encykorea.aks.ac.kr/Article/E0061905",
+        "https://encykorea.aks.ac.kr/Article/E0014742",
+        "https://encykorea.aks.ac.kr/Article/E0052267"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q13",
+      "prompt": "[재구성 자료] “한글 맞춤법 통일안, 표준어 정리, 사전 편찬, 1942년 검거”와 관련된 단체는?",
+      "choices": [
+        "형평사",
+        "신간회",
+        "조선의용대",
+        "조선어학회",
+        "진단학회"
+      ],
+      "answerIndex": 3,
+      "explanation": "조선어학회는 언어 연구와 사전 편찬을 추진하다 탄압받았다. 진단학회는 실증적 역사·문화 연구, 형평사는 차별 철폐, 신간회는 민족협동전선, 의용대는 중국 관내 항일 무장 조직이다.",
+      "sectionId": "s7",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0047318",
+        "https://encykorea.aks.ac.kr/Article/E0052129",
+        "https://encykorea.aks.ac.kr/Article/E0061523",
+        "https://encykorea.aks.ac.kr/Article/E0054620",
+        "https://encykorea.aks.ac.kr/Article/E0045444"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q14",
+      "prompt": "조선의용대와 한국광복군의 설명으로 옳은 것은?",
+      "choices": [
+        "한국광복군은 조선총독부 소속이었다.",
+        "조선의용대는 1907년 해산된 대한제국 군대였다.",
+        "조선의용대는 1938년 우한, 한국광복군은 1940년 충칭에서 조직되었다.",
+        "두 조직은 모두 1919년 도쿄에서 만들어졌다.",
+        "조선의용대 전체가 분화 없이 그대로 한국광복군이 되었다."
+      ],
+      "answerIndex": 2,
+      "explanation": "조선의용대는 김원봉 등, 한국광복군은 임시정부·지청천과 연결된다. 의용대는 화북 이동과 광복군 합류로 갈라졌으므로 전체가 그대로 합쳐진 것은 아니다. 나머지는 연대·소속이 틀렸다.",
+      "sectionId": "s8",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0052178",
+        "https://encykorea.aks.ac.kr/Article/E0005134",
+        "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_127_0030"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q15",
+      "prompt": "한국광복군에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "경성제국대학 설립을 주도했다.",
+        "국내 진공을 준비했으나 일본 항복으로 실행하지 못했다.",
+        "1884년 갑신정변을 일으켰다.",
+        "1920년 봉오동에서 홍범도가 창설했다.",
+        "을사늑약의 집행을 위해 조직되었다."
+      ],
+      "answerIndex": 1,
+      "explanation": "광복군은 미국 전략정보국과 협력해 국내 진공을 준비했으나 실행 전 광복을 맞았다. 갑신정변·봉오동은 이전 시기이며 홍범도의 대한독립군과 광복군을 구별해야 한다. 식민 통치 집행이나 경성제국대학과도 무관하다.",
+      "sectionId": "s8",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0052178",
+        "https://encykorea.aks.ac.kr/Article/E0005134",
+        "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_127_0030"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q16",
+      "prompt": "소작료를 낮추라는 농민의 집단 행동이 다른 지역의 모금과 변호 지원으로 이어졌다. 이 사건과 가장 가까운 사례는?",
+      "choices": [
+        "암태도 소작쟁의",
+        "원산 총파업",
+        "광주 학생 항일 운동",
+        "민립 대학 설립 운동",
+        "근우회 창립"
+      ],
+      "answerIndex": 0,
+      "explanation": "암태도 소작쟁의의 요구와 연대 방식이다. 원산은 노동자의 파업, 광주는 학생의 차별 교육 반대, 민립 대학은 설립 모금, 근우회는 여성운동의 협동 조직이다.",
+      "sectionId": "s4",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026227",
+        "https://encykorea.aks.ac.kr/Article/E0052020",
+        "https://encykorea.aks.ac.kr/Article/E0020095",
+        "https://encykorea.aks.ac.kr/Article/E0035164"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q17",
+      "prompt": "(가) 순종 장례일에 학생들이 만세를 불렀다. (나) 광주 학생들의 항일 시위가 전국으로 퍼졌다. 사이에 결성된 단체는?",
+      "choices": [
+        "신민회",
+        "의열단",
+        "대한민국 임시정부",
+        "한국광복군",
+        "신간회"
+      ],
+      "answerIndex": 4,
+      "explanation": "(가)는 1926년, (나)는 1929년이며 신간회는 1927년 창립이다. 신민회 1907년, 의열단·임시정부 1919년은 이전이고 한국광복군 1940년은 이후이다.",
+      "sectionId": "s5",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0063568",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400300",
+        "https://encykorea.aks.ac.kr/Article/E0032606",
+        "https://encykorea.aks.ac.kr/Article/E0007442",
+        "https://encykorea.aks.ac.kr/Article/E0005301",
+        "https://encykorea.aks.ac.kr/Article/E0040696"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q18",
+      "prompt": "1930년대 만주의 독립군을 바르게 연결한 것은?",
+      "choices": [
+        "조선혁명군 — 김원봉 — 우한 — 1938년 창설",
+        "조선의용대 — 양세봉 — 남만주 — 영릉가",
+        "한국광복군 — 김좌진 — 북간도 — 청산리",
+        "한국독립군 — 지청천 — 북만주 — 대전자령",
+        "한국독립군 — 홍범도 — 1920년 봉오동"
+      ],
+      "answerIndex": 3,
+      "explanation": "한국독립군은 지청천·북만주·대전자령이다. 홍범도·봉오동은 대한독립군, 김원봉·우한은 조선의용대, 양세봉·남만주는 조선혁명군, 김좌진·청산리는 북로군정서군이다.",
+      "sectionId": "s6",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o403530",
+        "https://encykorea.aks.ac.kr/Article/E0061905",
+        "https://encykorea.aks.ac.kr/Article/E0014742",
+        "https://encykorea.aks.ac.kr/Article/E0052267"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q19",
+      "prompt": "문화 활동과 단체·인물의 연결로 옳은 것은?",
+      "choices": [
+        "이육사 — 헌의 6조 채택",
+        "박은식 — 조선총독부 토지 조사 사업 책임",
+        "조선어학회 — 맞춤법 통일안과 사전 편찬",
+        "진단학회 — 국산품 애용 운동 주도",
+        "신채호 — 경성제국대학 설립 모금"
+      ],
+      "answerIndex": 2,
+      "explanation": "조선어학회의 언어 정리와 사전 사업이 옳다. 진단학회는 실증적 역사·문화 연구, 신채호·박은식은 민족주의 역사 연구, 이육사는 시인이자 독립운동가이다. 민립 대학 모금과 경성제국대학도 구분해야 한다.",
+      "sectionId": "s7",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0047318",
+        "https://encykorea.aks.ac.kr/Article/E0052129",
+        "https://encykorea.aks.ac.kr/Article/E0061523",
+        "https://encykorea.aks.ac.kr/Article/E0054620",
+        "https://encykorea.aks.ac.kr/Article/E0045444"
+      ]
+    },
+    {
+      "id": "kr-colonial-independence-q20",
+      "prompt": "[재구성 자료] 다음 자료의 조직은? “충칭에서 임시정부의 군대로 창설되었다. 중국군 통제 아래 활동하다 자율성을 넓혔고 연합국과 협력해 국내 진공을 준비했다.”",
+      "choices": [
+        "신민부",
+        "한국광복군",
+        "조선의용대",
+        "북로군정서군",
+        "대한독립군"
+      ],
+      "answerIndex": 1,
+      "explanation": "한국광복군의 성립과 활동이다. 조선의용대는 1938년 우한, 북로군정서군과 대한독립군은 1920년 만주 전투, 신민부는 1920년대 북만주 자치 조직이다. 활동 방식이 비슷해도 소속·장소·연대가 다르다.",
+      "sectionId": "s8",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0052178",
+        "https://encykorea.aks.ac.kr/Article/E0005134",
+        "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_127_0030"
+      ]
+    }
+  ]
+}

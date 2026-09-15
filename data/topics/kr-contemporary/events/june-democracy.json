@@ -1,0 +1,28 @@
+{
+  "id": "june-democracy",
+  "name": "6월 민주 항쟁과 대통령 직선제",
+  "type": "movement",
+  "date": "1987-06",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "박종철 고문치사와 은폐, 4·13 호헌 조치에 대한 분노 속에서 6월 민주 항쟁이 전국으로 퍼졌다. 이한열의 최루탄 피격도 저항을 확산시켰다. 결국 6·29 선언 뒤 대통령 직선제와 5년 단임제를 담은 개헌이 이루어졌다. 운동의 요구가 제도 변화로 연결된 점이 핵심이다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i500500"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "학생뿐 아니라 회사원·종교인·일반 시민 등 폭넓은 참여가 항쟁의 힘이었다. 이후 노동자 대투쟁은 임금과 노동 조건, 노동조합의 권리를 요구하며 민주화를 일터로 확장했다. 대통령 직선제가 성립했다고 사회의 모든 불평등과 권위주의가 즉시 사라진 것은 아니었다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i500500"
+      ]
+    }
+  }
+}

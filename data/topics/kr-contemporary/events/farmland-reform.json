@@ -1,0 +1,30 @@
+{
+  "id": "farmland-reform",
+  "name": "농지개혁법과 자작농 확대",
+  "type": "political",
+  "date": "1949-06",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "대한민국은 농지개혁법을 제정하고 1950년 개정 뒤 농지 분배를 본격화했다. 유상 매수·유상 분배를 원칙으로 농가의 소유 상한을 3정보로 제한해 소작농을 자작농으로 전환하려 했다. 북한의 1946년 무상 몰수·무상 분배와 방식이 다르며, 법 제정과 실제 시행 시점도 구별한다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0013191",
+        "https://encykorea.aks.ac.kr/Article/E0080662"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "지주 중심의 토지 관계가 약화되고 농민이 경작지를 소유할 기회가 늘었다. 그러나 상환 부담과 영세한 경영 규모, 전쟁 피해가 남아 생활 안정이 자동 보장되지는 않았다. 일제의 토지 조사 사업이 소유 관계를 확정한 일과 농지개혁이 토지를 재분배한 일은 목적부터 다르다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0013191",
+        "https://encykorea.aks.ac.kr/Article/E0080662"
+      ]
+    }
+  }
+}

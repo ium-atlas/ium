@@ -1,0 +1,28 @@
+{
+  "id": "cheongsanri",
+  "name": "청산리 전투와 간도 참변",
+  "type": "battle",
+  "date": "1920-10",
+  "location": {
+    "lng": 128.93,
+    "lat": 42.5
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "김좌진의 북로군정서군과 홍범도 등이 이끄는 독립군 부대들은 청산리 일대에서 일본군과 여러 차례 전투를 벌였다. 하나의 전투 한 번으로 끝난 사건이 아니라 백운평·어랑촌 등 일대의 교전들을 가리킨다. 이후 독립군은 전력을 보존하기 위해 이동했고 일본군은 한인 주민을 학살했다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o401600"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "간도 참변에서 민간인은 독립군 지원을 이유로 보복과 학살의 대상이 되었다. 승전만을 강조하면 전쟁을 떠받치던 공동체가 입은 피해를 놓친다. 봉오동과 청산리의 승전 뒤 독립군의 이동, 자유시 참변, 만주에서의 재정비라는 흐름을 이어서 읽는 것이 중요하다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o401600"
+      ]
+    }
+  }
+}

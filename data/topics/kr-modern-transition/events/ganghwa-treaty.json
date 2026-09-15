@@ -1,0 +1,28 @@
+{
+  "id": "ganghwa-treaty",
+  "name": "강화도 조약과 개항",
+  "type": "treaty",
+  "date": "1876-02",
+  "location": {
+    "lng": 126.49,
+    "lat": 37.74
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "운요호 사건을 구실로 압박한 일본과 조선은 강화도 조약을 맺었다. 조약은 조선을 자주국이라 표현해 청의 영향력을 배제하려 했으며, 부산 외 두 항구의 개항, 해안 측량권과 영사 재판권 등을 규정했다. 형식상 국가 간 평등을 말하면서 실제로는 일본에 일방적인 권리를 준 불평등 조약이었다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400800"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "개항 뒤 원산과 인천이 차례로 열리면서 외국 상품과 상인이 들어오는 통로가 늘었다. 부속 조약은 일본 화폐 유통과 무관세 무역 등을 허용해 상인과 농민의 경제생활에도 영향을 주었다. 근대적 조약이라는 성격과 조선 측 권리가 충분히 보호되지 않았다는 성격은 동시에 성립한다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400800"
+      ]
+    }
+  }
+}

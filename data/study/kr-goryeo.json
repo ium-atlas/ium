@@ -1,0 +1,740 @@
+{
+  "id": "kr-goryeo",
+  "title": "고려",
+  "period": [
+    918,
+    1392
+  ],
+  "order": 2,
+  "summary": "한능검 심화 학습용 핵심 정리와 자체 제작 5지선다 연습. 지도 사건의 01월은 정렬값이며 대표 연도·비정 위치는 설명을 함께 읽는다. 학습 후 해설에서 오답의 인물·시대까지 비교한다.",
+  "topicIds": [
+    "kr-goryeo"
+  ],
+  "sections": [
+    {
+      "id": "foundation",
+      "title": "후삼국 통일과 초기 왕의 정책",
+      "body": "고려 건국(918), 송악 천도(919), 발해 유민 수용, 신라 항복(935), 후삼국 통일(936)을 흐름으로 익힌다. 태조는 지방 세력을 포섭하면서 중앙과의 관계를 조정했고 광종은 왕권 강화, 성종은 유교 정치와 제도 정비를 추진했다.",
+      "keyPoints": [
+        "태조: 혼인·사성 / 사심관·기인 / 흑창·조세 경감 / 훈요 10조",
+        "광종: 노비안검법(956)·과거제(958) / 광덕·준풍",
+        "성종: 최승로 시무 28조 / 12목·지방관 / 국자감",
+        "과거제와 음서가 함께 존재했음을 기억한다."
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "foundation"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "unification"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "gwangjong"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "seongjong"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0059032",
+        "https://encykorea.aks.ac.kr/Article/E0005220",
+        "https://encykorea.aks.ac.kr/Article/E0029553"
+      ]
+    },
+    {
+      "id": "government",
+      "title": "중앙·지방·군사 제도",
+      "body": "고려 중앙 정치는 중서문하성과 상서성 6부, 중추원, 삼사, 어사대의 기능으로 정리한다. 도병마사는 국방, 식목도감은 법제·격식 논의로 연결한다. 지방은 일반 행정 구역과 양계의 군사적 성격을 구분하며 지방관이 없는 속현에서는 향리의 역할이 컸다.",
+      "keyPoints": [
+        "중서문하성: 국정 심의 / 상서성 6부: 행정",
+        "중추원: 군사 기밀·왕명 전달 / 삼사: 회계",
+        "어사대: 관리 감찰 / 대간: 간쟁·봉박·서경",
+        "지방: 5도·양계 / 군사: 2군 6위·주현군·주진군",
+        "향·부곡·소 주민은 일반 군현 주민과 차별받았지만 모두 노비였던 것은 아니다."
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "seongjong"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0029553",
+        "https://encykorea.aks.ac.kr/Article/E0003424",
+        "https://encykorea.aks.ac.kr/Article/E0026650",
+        "https://encykorea.aks.ac.kr/Article/E0062905"
+      ]
+    },
+    {
+      "id": "land",
+      "title": "전시과·경제·생활",
+      "body": "전시과는 관료에게 전지·시지를 지급하는 보수 체계다. 시정(경종) → 개정(목종) → 경정(문종)으로 기준이 달라졌다. 농민은 조세·공물·역 부담을 졌고 수취한 곡물은 조운으로 수도에 운송되었다. 토지 제도는 누가 토지를 소유하고 누가 세금을 거두는지를 구별해서 이해한다.",
+      "keyPoints": [
+        "역분전: 태조 / 전시과: 경종부터 / 경정전시과: 현직 관리 중심",
+        "공음전: 고위 관료 가문의 경제 기반 / 군인전: 군역과 연결",
+        "벽란도: 예성강 하구·개경과 인접·국제 교역",
+        "여성은 재산 상속에서 몫을 가졌고 사위가 처가에 머무는 혼인 관행도 존재",
+        "고려 사회를 조선 후기의 부계 친족 질서와 똑같이 해석하지 않는다."
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "jeonsigwa"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "byeokrando"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0049507",
+        "https://encykorea.aks.ac.kr/Article/E0022829",
+        "https://encykorea.aks.ac.kr/Article/E0003424",
+        "https://encykorea.aks.ac.kr/Article/E0011832"
+      ]
+    },
+    {
+      "id": "foreign",
+      "title": "거란·여진·몽골을 구별하기",
+      "body": "거란은 고려와 송의 관계를 견제했고 서희는 외교 담판으로, 강감찬은 군사 방어로 대응했다. 여진에 맞서 윤관은 별무반을 조직했다. 몽골 침입은 강화 천도와 장기간 항쟁, 원 간섭으로 이어진다. 상대 세력이 바뀌는 순서를 먼저 잡아야 인물·부대·영토를 연결할 수 있다.",
+      "keyPoints": [
+        "993: 서희–거란–강동 6주",
+        "1010: 거란 2차 침입–현종 피난·양규 항전",
+        "1019: 강감찬–거란–귀주대첩",
+        "1107: 윤관–여진–별무반·동북 9성(뒤에 반환)",
+        "1232: 몽골 침입–강화 천도 / 1270~1273: 삼별초"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "seohee"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "gwiju"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "yungwan"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "ganghwa"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "sambyeolcho"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0028321",
+        "https://encykorea.aks.ac.kr/Article/E0006043",
+        "https://encykorea.aks.ac.kr/Article/E0042215",
+        "https://encykorea.aks.ac.kr/Article/E0001532",
+        "https://encykorea.aks.ac.kr/Article/E0026604"
+      ]
+    },
+    {
+      "id": "aristocracy",
+      "title": "문벌 귀족과 정치적 균열",
+      "body": "문벌 귀족은 왕실·다른 유력 가문과의 혼인, 음서와 공음전 등을 기반으로 지위를 이어 갔다. 인종 때 이자겸의 난과 묘청의 서경 천도 운동이 발생했다. 두 사건은 모두 문벌 사회의 동요에 해당하지만 외척의 권력 다툼과 지역·정책을 둘러싼 대립이라는 차이가 있다.",
+      "keyPoints": [
+        "이자겸의 난(1126): 외척과 왕권 충돌",
+        "묘청의 난(1135): 서경 천도·칭제건원·금 정벌 주장 / 김부식 진압",
+        "인종: 두 정치 사건 및 『삼국사기』 편찬",
+        "음서는 고위 관료 등의 자손에게 과거 외의 관직 진출 기회를 주었다."
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "ijagyeom"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "myocheong"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "samguksagi"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0045670",
+        "https://encykorea.aks.ac.kr/Article/E0018893",
+        "https://encykorea.aks.ac.kr/Article/E0026478"
+      ]
+    },
+    {
+      "id": "military-rule",
+      "title": "무신 집권과 농민·천민의 저항",
+      "body": "1170년 무신정변 뒤 왕은 존속했지만 무신이 실권을 쥐었다. 최충헌은 교정도감을 설치했고 최우는 정방을 통해 인사권을 장악했다. 도방은 신변 보호, 삼별초는 군사 조직과 연결한다. 하층민 봉기는 무신 집권의 자동적인 혜택이 아니라 사회 부담과 신분 차별에 대한 반응이었다.",
+      "keyPoints": [
+        "무신정변: 정중부·이의방 / 의종 폐위·명종 즉위",
+        "최충헌: 교정도감 / 최우: 정방·삼별초",
+        "망이·망소이: 공주 명학소 / 김사미·효심: 남부 농민 봉기",
+        "만적(1198): 개경 사노비의 신분 해방 모의 / 사전 발각",
+        "교정도감(정치)·정방(인사)·도방(호위)의 기능을 구분"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "military"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "manjeok"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0019113",
+        "https://encykorea.aks.ac.kr/Article/E0017709",
+        "https://encykorea.aks.ac.kr/Article/E0019118"
+      ]
+    },
+    {
+      "id": "buddhism",
+      "title": "불교 사상과 결사 운동",
+      "body": "고려에서는 불교가 왕실·귀족뿐 아니라 다양한 주민의 삶에 깊이 연결되었다. 의천과 지눌은 모두 여러 불교 흐름의 관계를 고민했지만 활동 시기와 주된 방향이 다르다. 불교 개혁 운동의 인물과 사찰, 구호를 세트로 외운다.",
+      "keyPoints": [
+        "의천: 천태종·국청사·교관겸수 / 교장·신편제종교장총록",
+        "지눌: 송광사·수선사 결사 / 정혜쌍수·돈오점수",
+        "요세: 강진 만덕사·백련결사 / 참회 수행",
+        "신라 원효의 화쟁·의상의 화엄과 시대를 나눈다."
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "uicheon"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "jinul"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0043423",
+        "https://encykorea.aks.ac.kr/Article/E0054108",
+        "https://encykorea.aks.ac.kr/Article/E0039331"
+      ]
+    },
+    {
+      "id": "mongol",
+      "title": "몽골 항쟁과 원 간섭",
+      "body": "강화 천도는 섬의 방어 조건을 이용했지만 내륙 주민은 전쟁 피해를 겪었다. 개경 환도 뒤 삼별초는 강화 → 진도 → 제주로 옮겨 저항했다. 원 간섭기에는 왕실 혼인, 관제 격하, 공녀·물자 요구, 권문세족의 성장 등이 나타났고 문화 교류도 확대되었다.",
+      "keyPoints": [
+        "1232 강화 천도 / 김윤후의 처인성·충주성 항전",
+        "1270 개경 환도·삼별초 항쟁 시작 / 1273 제주에서 진압",
+        "원 간섭: 정동행성 이문소·쌍성총관부·동녕부·탐라총관부",
+        "권문세족의 토지 확대·노비화 문제 → 개혁의 필요",
+        "공민왕: 기철 제거·정동행성 이문소 폐지·쌍성총관부 수복"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "ganghwa"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "sambyeolcho"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "gongmin"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0001532",
+        "https://encykorea.aks.ac.kr/Article/E0026604",
+        "https://encykorea.aks.ac.kr/Article/E0004295",
+        "https://encykorea.aks.ac.kr/Article/E0003424"
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "역사서·인쇄·공예 비교",
+      "body": "김부식의 『삼국사기』는 인종 때 편찬된 기전체 정사다. 일연의 『삼국유사』는 고려 후기에 고조선과 불교 전승·설화 등을 담았다. 이승휴의 『제왕운기』와 이규보의 「동명왕편」도 역사 인식과 연결한다. 청자 상감은 표면을 파고 다른 색 흙을 메우는 기술이다. 목조건축에서 주심포는 기둥 위에 공포를 놓는 방식이고, 배흘림은 기둥 가운데가 불룩한 형태다. 영주 부석사 무량수전은 이를 함께 확인할 대표 건물이다.",
+      "keyPoints": [
+        "삼국사기: 김부식·1145·기전체 / 삼국유사: 일연·고려 후기",
+        "초조대장경: 거란 / 교장: 의천의 주석서 / 재조대장경: 몽골·목판",
+        "직지: 1377·청주 흥덕사·금속활자 / 현존 최고본",
+        "상감청자: 고려 / 강진·부안 생산 / 운학문 등",
+        "고려 목조건축: 안동 봉정사 극락전·영주 부석사 무량수전 등",
+        "부석사 무량수전: 주심포·배흘림기둥 / 사찰 창건 연도와 현존 건물 건립 시기는 구별"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "samguksagi"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "samgukyusa"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "tripitaka"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "jikji"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "celadon"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026478",
+        "https://encykorea.aks.ac.kr/Article/E0026482",
+        "https://encykorea.aks.ac.kr/Article/E0062710",
+        "https://encykorea.aks.ac.kr/Article/E0071845",
+        "https://encykorea.aks.ac.kr/Article/E0026995",
+        "https://encykorea.aks.ac.kr/Article/E0016437",
+        "https://encykorea.aks.ac.kr/Article/E0051343",
+        "https://encykorea.aks.ac.kr/Article/E0024299"
+      ]
+    },
+    {
+      "id": "late-reforms",
+      "title": "공민왕의 개혁과 조선 건국으로의 이행",
+      "body": "공민왕은 원의 약화 속에서 반원 정책을 추진하고 신돈과 전민변정도감으로 토지·노비 문제를 바로잡으려 했다. 홍건적과 왜구의 침입에 맞선 무장들이 성장했고 성리학을 익힌 신진 사대부가 정치 개혁을 추구했다. 1388년 회군 뒤에도 왕조 교체까지 여러 단계가 있었다.",
+      "keyPoints": [
+        "공민왕: 반원·전민변정도감 / 개혁에 권문세족 반발",
+        "최무선: 화통도감·진포대첩 / 이성계: 황산대첩 / 최영: 홍산대첩",
+        "신진 사대부: 성리학·과거 기반 / 권문세족과 대립",
+        "위화도 회군(1388) → 과전법(1391) → 조선 건국(1392)",
+        "정몽주: 고려 유지 / 정도전: 새 왕조 추진"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "gongmin"
+        },
+        {
+          "topicId": "kr-goryeo",
+          "eventId": "wihwado"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0004295",
+        "https://encykorea.aks.ac.kr/Article/E0041212",
+        "https://encykorea.aks.ac.kr/Article/E0003424",
+        "https://encykorea.aks.ac.kr/Article/E0057297",
+        "https://encykorea.aks.ac.kr/Article/E0064918"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "kr-goryeo-q01",
+      "prompt": "호족과 혼인하고 사심관·기인 제도를 활용한 고려 왕은?",
+      "choices": [
+        "광종",
+        "태조",
+        "성종",
+        "공민왕",
+        "충선왕"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 태조다. 광종은 노비안검법·과거제, 성종은 유교 정치·12목, 공민왕은 반원 개혁, 충선왕은 원 간섭기의 개혁으로 구분한다.",
+      "sectionId": "foundation",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0059032",
+        "https://encykorea.aks.ac.kr/Article/E0005220",
+        "https://encykorea.aks.ac.kr/Article/E0029553"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q02",
+      "prompt": "쌍기의 건의를 받아 과거를 실시한 왕의 정책은?",
+      "choices": [
+        "12목에 지방관 파견",
+        "녹읍 부활",
+        "노비안검법 시행",
+        "전민변정도감 운영",
+        "청해진 설치"
+      ],
+      "answerIndex": 2,
+      "explanation": "정답은 광종의 노비안검법이다. 12목은 성종, 녹읍 부활은 신라 경덕왕, 전민변정도감 개혁은 공민왕, 청해진은 장보고다.",
+      "sectionId": "foundation",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0059032",
+        "https://encykorea.aks.ac.kr/Article/E0005220",
+        "https://encykorea.aks.ac.kr/Article/E0029553"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q03",
+      "prompt": "고려의 관청과 기능을 옳게 연결한 것은?",
+      "choices": [
+        "삼사–회계",
+        "어사대–천문 관측",
+        "중추원–도자기 생산",
+        "식목도감–불경 판각",
+        "상서성 6부–왕실 호위만 전담"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답은 삼사의 회계 기능이다. 어사대는 감찰, 중추원은 군사 기밀·왕명 전달, 식목도감은 법제·격식, 상서성 6부는 행정을 담당한다.",
+      "sectionId": "government",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0029553",
+        "https://encykorea.aks.ac.kr/Article/E0003424",
+        "https://encykorea.aks.ac.kr/Article/E0026650",
+        "https://encykorea.aks.ac.kr/Article/E0062905"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q04",
+      "prompt": "고려 문종 때 정비된 경정전시과의 설명으로 적절한 것은?",
+      "choices": [
+        "노비 신분을 일괄 폐지했다.",
+        "전국에 균일한 사유지를 무상 분배했다.",
+        "지방 호족에게 왕의 성을 주었다.",
+        "현직 관리 중심으로 전지·시지를 지급했다.",
+        "모든 토지에서 녹읍을 폐지했다."
+      ],
+      "answerIndex": 3,
+      "explanation": "정답은 경정전시과의 현직 관리 중심 지급이다. 전시과는 관료 보수 체계이며 노비 해방이나 전 국민 토지 분배가 아니다. 사성은 태조, 녹읍 폐지는 신문왕과 연결된다.",
+      "sectionId": "land",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0049507",
+        "https://encykorea.aks.ac.kr/Article/E0022829",
+        "https://encykorea.aks.ac.kr/Article/E0003424"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q05",
+      "prompt": "서희의 담판으로 확보한 진출 기반과 윤관이 정벌 뒤 설치한 거점을 순서대로 연결한 것은?",
+      "choices": [
+        "동북 9성–강동 6주",
+        "강동 6주–동북 9성",
+        "4군 6진–강동 6주",
+        "강동 6주–4군 6진",
+        "동북 9성–4군 6진"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 강동 6주–동북 9성이다. 앞은 거란, 뒤는 여진 대응이며 4군 6진은 조선 세종 때 북방 개척이다. 나머지는 인물·시대가 뒤섞였다.",
+      "sectionId": "foreign",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0028321",
+        "https://encykorea.aks.ac.kr/Article/E0006043",
+        "https://encykorea.aks.ac.kr/Article/E0042215",
+        "https://encykorea.aks.ac.kr/Article/E0001532",
+        "https://encykorea.aks.ac.kr/Article/E0026604"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q06",
+      "prompt": "강감찬이 귀주에서 크게 격파한 군대는?",
+      "choices": [
+        "수",
+        "당",
+        "왜",
+        "거란",
+        "몽골"
+      ],
+      "answerIndex": 3,
+      "explanation": "정답은 거란이다. 수·당은 고구려 항전, 몽골은 고려 후기 항쟁과 연결된다. 왜구 대응에 활약한 고려 말 무장과도 구분한다.",
+      "sectionId": "foreign",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0028321",
+        "https://encykorea.aks.ac.kr/Article/E0006043",
+        "https://encykorea.aks.ac.kr/Article/E0042215",
+        "https://encykorea.aks.ac.kr/Article/E0001532",
+        "https://encykorea.aks.ac.kr/Article/E0026604"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q07",
+      "prompt": "서경 천도·칭제건원·금 정벌을 주장하다 봉기한 세력은?",
+      "choices": [
+        "묘청 등",
+        "만적 등",
+        "이자겸과 척준경",
+        "정중부와 이의방",
+        "김사미와 효심"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답은 묘청 등이다. 만적은 노비 해방 모의, 이자겸은 외척 갈등, 정중부·이의방은 무신정변, 김사미·효심은 농민 봉기와 연결된다.",
+      "sectionId": "aristocracy",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0045670",
+        "https://encykorea.aks.ac.kr/Article/E0018893",
+        "https://encykorea.aks.ac.kr/Article/E0026478"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q08",
+      "prompt": "최우가 설치하여 인사권을 장악하는 데 이용한 기구는?",
+      "choices": [
+        "교정도감",
+        "정방",
+        "도방",
+        "국자감",
+        "삼사"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 정방이다. 교정도감은 최충헌이 설치한 정치 기구, 도방은 호위 조직, 국자감은 교육기관, 삼사는 회계 기구다.",
+      "sectionId": "military-rule",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0019113",
+        "https://encykorea.aks.ac.kr/Article/E0017709",
+        "https://encykorea.aks.ac.kr/Article/E0019118"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q09",
+      "prompt": "1198년 개경에서 노비 신분 해방을 계획했으나 사전에 발각된 인물은?",
+      "choices": [
+        "망이",
+        "묘청",
+        "만적",
+        "김윤후",
+        "이자겸"
+      ],
+      "answerIndex": 2,
+      "explanation": "정답은 만적이다. 망이는 명학소 봉기, 묘청은 서경, 김윤후는 대몽 항전, 이자겸은 외척 세력의 권력 갈등이다.",
+      "sectionId": "military-rule",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0019113",
+        "https://encykorea.aks.ac.kr/Article/E0017709",
+        "https://encykorea.aks.ac.kr/Article/E0019118"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q10",
+      "prompt": "교관겸수와 천태종, 신편제종교장총록에 해당하는 인물은?",
+      "choices": [
+        "지눌",
+        "일연",
+        "원효",
+        "요세",
+        "의천"
+      ],
+      "answerIndex": 4,
+      "explanation": "정답은 의천이다. 지눌은 정혜쌍수·돈오점수, 일연은 삼국유사, 원효는 화쟁, 요세는 백련결사다.",
+      "sectionId": "buddhism",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0043423",
+        "https://encykorea.aks.ac.kr/Article/E0054108",
+        "https://encykorea.aks.ac.kr/Article/E0039331"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q11",
+      "prompt": "지눌의 수행론과 연결되는 말은?",
+      "choices": [
+        "시무 28조",
+        "영락",
+        "정혜쌍수",
+        "천수",
+        "홍범 14조"
+      ],
+      "answerIndex": 2,
+      "explanation": "정답은 선정과 지혜를 함께 닦는 정혜쌍수다. 시무 28조는 최승로, 영락은 광개토왕, 천수는 태조 왕건의 연호, 홍범 14조는 근대 개혁이다.",
+      "sectionId": "buddhism",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0043423",
+        "https://encykorea.aks.ac.kr/Article/E0054108",
+        "https://encykorea.aks.ac.kr/Article/E0039331"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q12",
+      "prompt": "삼별초가 항쟁 거점을 옮긴 순서는?",
+      "choices": [
+        "제주–진도–강화",
+        "강화–제주–진도",
+        "진도–강화–제주",
+        "강화–진도–제주",
+        "개경–공주–부여"
+      ],
+      "answerIndex": 3,
+      "explanation": "정답은 강화–진도–제주다. 1270년 환도에 반발해 이동했고 1273년 제주에서 진압되었다. 다른 배열은 이동 방향을 바꾸거나 백제의 수도 지역을 섞었다.",
+      "sectionId": "mongol",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0001532",
+        "https://encykorea.aks.ac.kr/Article/E0026604",
+        "https://encykorea.aks.ac.kr/Article/E0004295",
+        "https://encykorea.aks.ac.kr/Article/E0003424"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q13",
+      "prompt": "인종의 명으로 김부식 등이 편찬한 기전체 역사서는?",
+      "choices": [
+        "삼국유사",
+        "제왕운기",
+        "동명왕편",
+        "왕오천축국전",
+        "삼국사기"
+      ],
+      "answerIndex": 4,
+      "explanation": "정답은 삼국사기다. 삼국유사는 일연, 제왕운기는 이승휴, 동명왕편은 이규보, 왕오천축국전은 신라 혜초의 여행 기록이다.",
+      "sectionId": "culture",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026478",
+        "https://encykorea.aks.ac.kr/Article/E0026482",
+        "https://encykorea.aks.ac.kr/Article/E0062710",
+        "https://encykorea.aks.ac.kr/Article/E0071845",
+        "https://encykorea.aks.ac.kr/Article/E0026995",
+        "https://encykorea.aks.ac.kr/Article/E0016437",
+        "https://encykorea.aks.ac.kr/Article/E0051343"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q14",
+      "prompt": "1377년 청주 흥덕사에서 인쇄된 책에 대한 설명은?",
+      "choices": [
+        "현존하는 가장 오래된 금속활자본이다.",
+        "신라 석가탑에서 발견되었다.",
+        "거란 침입을 계기로 만든 초조대장경이다.",
+        "의천이 모은 주석서 목록이다.",
+        "김부식이 편찬한 기전체 정사다."
+      ],
+      "answerIndex": 0,
+      "explanation": "정답은 직지 금속활자본이다. 석가탑은 무구정광대다라니경, 초조대장경은 목판 경판 사업, 주석서 목록은 신편제종교장총록, 김부식의 정사는 삼국사기다.",
+      "sectionId": "culture",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026478",
+        "https://encykorea.aks.ac.kr/Article/E0026482",
+        "https://encykorea.aks.ac.kr/Article/E0062710",
+        "https://encykorea.aks.ac.kr/Article/E0071845",
+        "https://encykorea.aks.ac.kr/Article/E0026995",
+        "https://encykorea.aks.ac.kr/Article/E0016437",
+        "https://encykorea.aks.ac.kr/Article/E0051343"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q15",
+      "prompt": "기철 제거·정동행성 이문소 폐지·쌍성총관부 수복을 추진한 왕은?",
+      "choices": [
+        "태조",
+        "광종",
+        "성종",
+        "공민왕",
+        "문종"
+      ],
+      "answerIndex": 3,
+      "explanation": "정답은 공민왕이다. 태조는 건국·통일, 광종은 노비안검법, 성종은 12목, 문종은 경정전시과 등 고려 전기의 제도 정비와 연결된다.",
+      "sectionId": "late-reforms",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0004295",
+        "https://encykorea.aks.ac.kr/Article/E0041212",
+        "https://encykorea.aks.ac.kr/Article/E0003424",
+        "https://encykorea.aks.ac.kr/Article/E0057297",
+        "https://encykorea.aks.ac.kr/Article/E0064918"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q16",
+      "sectionId": "culture",
+      "prompt": "[심화] 고려 목조건축을 답사하며 기둥 가운데가 불룩하고 공포가 주로 기둥 위에 놓인 모습을 보았다. 해당 특징을 설명한 것은?",
+      "choices": [
+        "귀솟음과 금속활자 조합이다.",
+        "상감과 돌무지덧널 구조이다.",
+        "기둥 전체가 같은 굵기인 민흘림과 벽돌방 구조이다.",
+        "지붕 아래 공포가 없어 기둥만으로 이루어진 구조이다.",
+        "배흘림기둥과 주심포 방식이다."
+      ],
+      "answerIndex": 4,
+      "explanation": "정답은 배흘림과 주심포다. 부석사 무량수전의 대표 특징이다. 귀솟음은 귀기둥 높이, 상감은 장식 기법, 돌무지덧널·벽돌방은 무덤 구조여서 설명 대상이 다르다. 공포가 없다는 해석도 자료와 어긋난다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026478",
+        "https://encykorea.aks.ac.kr/Article/E0026482",
+        "https://encykorea.aks.ac.kr/Article/E0062710",
+        "https://encykorea.aks.ac.kr/Article/E0071845",
+        "https://encykorea.aks.ac.kr/Article/E0026995",
+        "https://encykorea.aks.ac.kr/Article/E0016437",
+        "https://encykorea.aks.ac.kr/Article/E0051343",
+        "https://encykorea.aks.ac.kr/Article/E0024299"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q17",
+      "prompt": "[심화] 신기군·신보군·항마군으로 편성한 군대를 이끌고 북방에 성을 쌓았으나 뒤에 돌려주었다. 이 사건의 앞뒤를 바르게 제시한 것은?",
+      "choices": [
+        "묘청의 난 이후, 무신정변 이전",
+        "귀주대첩 이후, 이자겸의 난 이전",
+        "강화 천도 이후, 개경 환도 이전",
+        "서희 담판 이전, 고려 건국 이후",
+        "공민왕 개혁 이후, 위화도 회군 이전"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 귀주대첩 1019년과 이자겸의 난 1126년 사이의 윤관 정벌 1107년이다. 묘청 1135년, 무신정변 1170년, 강화 1232년, 환도 1270년은 더 늦고 서희 담판 993년은 더 이르다.",
+      "sectionId": "foreign",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0028321",
+        "https://encykorea.aks.ac.kr/Article/E0006043",
+        "https://encykorea.aks.ac.kr/Article/E0042215",
+        "https://encykorea.aks.ac.kr/Article/E0001532",
+        "https://encykorea.aks.ac.kr/Article/E0026604"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q18",
+      "prompt": "[심화] A는 거란 침입을 계기로 새긴 경전이고 B는 몽골 침입 때 불탄 A를 다시 새긴 경전이다. C는 의천이 경전의 주석서를 모아 간행했다. 옳은 설명은?",
+      "choices": [
+        "A와 B는 모두 금속활자본 직지다.",
+        "B는 김부식의 기전체 역사서다.",
+        "C는 일연의 설화 중심 역사서다.",
+        "B는 현재 해인사에 보관된 재조대장경과 연결된다.",
+        "A는 통일신라의 석가탑에서 발견되었다."
+      ],
+      "answerIndex": 3,
+      "explanation": "정답은 B가 재조대장경이라는 설명이다. A는 초조대장경, C는 교장이다. 직지는 금속활자본, 김부식은 삼국사기, 일연은 삼국유사, 석가탑은 무구정광대다라니경이다.",
+      "sectionId": "culture",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026478",
+        "https://encykorea.aks.ac.kr/Article/E0026482",
+        "https://encykorea.aks.ac.kr/Article/E0062710",
+        "https://encykorea.aks.ac.kr/Article/E0071845",
+        "https://encykorea.aks.ac.kr/Article/E0026995",
+        "https://encykorea.aks.ac.kr/Article/E0016437",
+        "https://encykorea.aks.ac.kr/Article/E0051343"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q19",
+      "prompt": "[심화] 정치 실권자가 교정도감을 통해 국정을 운영하고 그 후계자는 정방을 두어 인사를 장악했다. 이 가문의 집권기에 나타난 사회 현상으로 적절한 것은?",
+      "choices": [
+        "서경 세력이 처음 칭제건원을 주장했다.",
+        "왕건이 견훤과 함께 후백제를 공격했다.",
+        "원종·애노가 사벌주에서 봉기했다.",
+        "신라가 녹읍을 폐지했다.",
+        "노비 만적 등이 신분 해방을 모의했다."
+      ],
+      "answerIndex": 4,
+      "explanation": "정답은 최씨 무신 집권 초기 만적의 모의다. 서경의 묘청은 1135년으로 최씨 집권 이전, 후백제 공격은 936년, 원종·애노와 녹읍 폐지는 신라에 해당한다.",
+      "sectionId": "military-rule",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0019113",
+        "https://encykorea.aks.ac.kr/Article/E0017709",
+        "https://encykorea.aks.ac.kr/Article/E0019118"
+      ]
+    },
+    {
+      "id": "kr-goryeo-q20",
+      "prompt": "[심화] 어떤 관리는 직역에 따라 곡물을 거둘 전지와 땔감을 얻을 시지를 받았다. 제도에 대한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "관료 보수와 수조권을 중심으로 파악해야 한다.",
+        "모든 백성에게 동일 면적의 소유지를 지급했다.",
+        "신분과 관계없이 모든 노비를 양인으로 바꾸었다.",
+        "왕실 혼인을 통해 지방 세력에게 성을 주었다.",
+        "공주 명학소 주민의 저항을 가리킨다."
+      ],
+      "answerIndex": 0,
+      "explanation": "정답은 전시과의 관료 보수·수조권 성격이다. 소유권의 균등 분배와 같지 않다. 노비안검법도 모든 노비 해방이 아니며 사성과 혼인 정책은 태조, 명학소는 망이·망소이 봉기다.",
+      "sectionId": "land",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0049507",
+        "https://encykorea.aks.ac.kr/Article/E0022829",
+        "https://encykorea.aks.ac.kr/Article/E0003424"
+      ]
+    }
+  ]
+}

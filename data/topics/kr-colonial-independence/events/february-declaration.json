@@ -1,0 +1,30 @@
+{
+  "id": "february-declaration",
+  "name": "도쿄 2·8 독립선언",
+  "type": "movement",
+  "date": "1919-02",
+  "location": {
+    "lng": 139.76,
+    "lat": 35.68
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "일본에 유학하던 한국 학생들은 도쿄에서 독립을 선언했다. 제1차 세계대전 이후 민족자결주의와 국제회의에 대한 기대 속에서 한국인의 독립 의지를 알리려 했다. 식민지 독립이 열강의 원칙만으로 자동 보장되는 것은 아니었으므로 학생들은 스스로 선언과 행동에 나섰다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0046354",
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0100_0020_0010_0030"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "유학생의 선언은 국내 독립운동 준비에 자극을 주었으며 3·1 운동과 연결되었다. 도쿄의 2·8 선언, 서울에서 시작해 전국으로 퍼진 3·1 운동, 상하이 임시정부 수립을 장소와 순서로 묶어 기억하자. 해외의 학생 사회와 국내 종교·교육 조직은 독립운동의 서로 연결된 기반이었다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0046354",
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0100_0020_0010_0030"
+      ]
+    }
+  }
+}

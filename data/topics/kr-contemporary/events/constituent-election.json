@@ -1,0 +1,28 @@
+{
+  "id": "constituent-election",
+  "name": "5·10 총선거와 제헌국회",
+  "type": "political",
+  "date": "1948-05",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "유엔이 접근할 수 있는 지역에서 선거를 실시하기로 하면서 남한에서 제헌국회의원을 뽑았다. 제헌국회는 7월 헌법을 제정하고 대통령을 선출했으며 8월 대한민국 정부가 수립되었다. 5·10 선거는 국민이 대통령을 직접 뽑은 선거가 아니라 국회를 구성한 선거라는 점이 중요하다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0038395"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "성별을 넘어 보통선거가 실시되었지만 분단을 막으려는 세력의 불참과 일부 지역의 선거 불능도 있었다. 김구·김규식은 앞서 평양에서 남북 협상을 추진했으나 통일 정부로 이어지지 못했다. 9월 북한에서도 별도 정권이 수립되면서 분단은 정치 체제로 굳어졌다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0038395"
+      ]
+    }
+  }
+}

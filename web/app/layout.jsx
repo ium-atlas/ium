@@ -1,4 +1,5 @@
 import './globals.css';
+import KoreanStudyLink from '@/components/KoreanStudyLink';
 import 'maplibre-gl/dist/maplibre-gl.css';
 
 export const metadata = {
@@ -9,7 +10,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="ko">
-      <body>{children}</body>
+      <body>{children}<KoreanStudyLink /></body>
     </html>
   );
 }

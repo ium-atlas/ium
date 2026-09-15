@@ -1,0 +1,28 @@
+{
+  "id": "provisional-government",
+  "name": "상하이 대한민국 임시정부",
+  "type": "political",
+  "date": "1919-04",
+  "location": {
+    "lng": 121.47,
+    "lat": 31.23
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "상하이에서 대한민국 임시정부가 수립되고 같은 해 여러 임시정부의 통합이 이루어졌다. 민주공화제를 표방하며 임시의정원을 두었고 연통제·교통국 등 국내 연락망, 독립공채와 외교 활동으로 독립운동을 조직하려 했다. 대한제국의 황제 복귀를 목표로 한 정부와는 정치 체제가 달랐다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o400800"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "국내외 동포의 자금과 인적 지원이 정부의 활동을 뒷받침했지만 연락망이 탄압받으며 재정과 노선 문제가 커졌다. 1923년 국민대표회의에서는 창조파·개조파 등이 대립했다. 임시정부를 하나의 고정된 조직으로 외우기보다 통합·위기·이동·재정비를 겪은 장기 활동체로 이해하자.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o400800"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "march-first",
+  "name": "3·1 운동",
+  "type": "movement",
+  "date": "1919-03",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "종교계 인사와 학생 등이 준비한 독립선언을 계기로 서울과 여러 도시에서 만세 시위가 일어났다. 운동은 농촌과 국외까지 확산되었고 일제는 군경을 동원해 진압했다. 이 대규모 비폭력 독립운동은 한국인이 식민 지배를 받아들이지 않았음을 드러내며 임시정부 수립의 배경이 되었다.",
+      "sources": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0100_0020_0010_0030"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "학생·농민·상인·여성 등 여러 계층이 시위와 선언서 배포에 참여했다. 지역마다 시기와 방식은 달랐고 탄압에 따른 희생도 컸다. 민족 대표의 활동만으로 전체 운동을 설명할 수 없으며 유관순의 아우내 장터 만세 시위처럼 지역 사회가 운동을 확산한 과정을 함께 보아야 한다.",
+      "sources": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0100_0020_0010_0030"
+      ]
+    }
+  }
+}

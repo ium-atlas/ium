@@ -1,0 +1,28 @@
+{
+  "id": "june-tenth",
+  "name": "6·10 만세 운동",
+  "type": "movement",
+  "date": "1926-06",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "순종의 장례일을 계기로 학생과 사회주의 계열 등이 독립 만세 운동을 준비했다. 일부 계획은 사전에 발각되었으나 학생들의 시위가 이어졌다. 1919년의 고종 국장 관련 정세와 1926년 순종 장례를 혼동하지 말고, 두 운동의 참여층과 준비 과정의 차이도 살펴보자.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400300"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "운동 과정에서 학생 조직의 역할과 여러 계열의 협력 가능성이 드러났다. 이는 1920년대 민족협동전선의 형성 흐름과 연결해 읽을 수 있다. 6·10 만세 운동을 1987년 6월 민주 항쟁의 시작인 6월 10일과 혼동하지 않도록, 군주 장례와 식민지 독립이라는 시대 단서를 확인하자.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400300"
+      ]
+    }
+  }
+}

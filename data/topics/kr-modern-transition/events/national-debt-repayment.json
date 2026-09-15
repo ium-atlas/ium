@@ -1,0 +1,28 @@
+{
+  "id": "national-debt-repayment",
+  "name": "국채보상운동",
+  "type": "movement",
+  "date": "1907-02",
+  "location": {
+    "lng": 128.6,
+    "lat": 35.87
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "대구의 서상돈·김광제 등은 일본에 진 차관을 국민의 모금으로 갚아 경제적 종속을 벗어나자고 제안했다. 담배를 끊어 돈을 모으자는 호소는 신문을 통해 전국으로 퍼졌다. 국가 채무를 개인의 절약과 연대로 해결하려는 운동이었으나 일제의 방해 등으로 목표를 완수하지 못했다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0006527"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "여성들은 패물과 비녀 등을 내놓았고 상인·학생도 모금에 참여했다. 정치권 밖의 생활 속 실천이 국권 수호와 연결된 사례이다. 1920년대 평양에서 시작된 물산 장려 운동의 국산품 소비 운동과 목적·시기를 구별하되, 경제적 자립을 추구했다는 공통점은 연결해 기억하자.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0006527"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "real-name-finance",
+  "name": "문민정부와 금융실명제",
+  "type": "political",
+  "date": "1993-08",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "김영삼 정부는 군부의 정치적 영향력을 줄이고 공직자 재산 공개, 금융실명제 등 개혁을 추진했다. 금융실명제는 실제 이름으로 금융 거래를 하도록 하여 음성 자금과 부패를 줄이려는 제도였다. 1995년 지방자치단체장 선거와 함께 지방자치가 전면 실시된 흐름도 연결해 기억하자.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0007935",
+        "https://encykorea.aks.ac.kr/Article/E0080723"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "정치 자금과 재산 형성의 투명성은 시민의 신뢰와 연결되는 문제였다. 지방의 대표를 직접 뽑는 일은 민주주의가 중앙 정치만이 아니라 생활 지역으로 확장되는 의미가 있었다. 문민정부의 개혁 성과와 임기 말 외환위기를 구분해, 한 정부의 시기에도 서로 다른 변화가 있었다고 보아야 한다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0007935",
+        "https://encykorea.aks.ac.kr/Article/E0080723"
+      ]
+    }
+  }
+}

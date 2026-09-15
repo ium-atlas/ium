@@ -1,0 +1,28 @@
+{
+  "id": "sinheung-school",
+  "name": "서간도 독립운동 기지와 신흥강습소",
+  "type": "culture",
+  "date": "1911-06",
+  "location": {
+    "lng": 125.75,
+    "lat": 42.28
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "이회영 일가·이상룡 등은 서간도로 이주하여 자치와 교육, 군사 훈련을 연결하는 독립운동 기지를 마련했다. 신흥강습소에서 출발한 교육 기반은 신흥무관학교로 이어져 독립군 인재를 길렀다. 지도는 서간도의 대표 거점을 표시하며 학교가 이후 여러 곳으로 이동했음을 함께 고려해야 한다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n403500"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "독립군의 훈련은 이주민의 정착·농업·자금 마련에 기대고 있었다. 가족과 지역 공동체가 경제적 부담을 함께 감당했다는 점에서 군인만의 역사가 아니다. 졸업생과 교관의 연결망은 만주 독립군 부대들로 퍼졌으며, 국내의 신민회 활동이 국외의 장기 항전 준비와 연결되었다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n403500"
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "kr-joseon-early",
+  "title": "조선 전기: 건국에서 임진왜란까지",
+  "subtitle": "한능검 심화 핵심 흐름",
+  "period": [
+    1392,
+    1598
+  ],
+  "start": "1392-01",
+  "end": "1598-12",
+  "bounds": [
+    [
+      124,
+      33
+    ],
+    [
+      131,
+      43
+    ]
+  ],
+  "card": [
+    127,
+    37
+  ],
+  "perspectives": [
+    {
+      "code": "state",
+      "label": "정책과 지배 질서",
+      "color": "#5277B5"
+    },
+    {
+      "code": "society",
+      "label": "사람과 사회",
+      "color": "#C48342"
+    }
+  ]
+}

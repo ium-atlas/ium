@@ -1,0 +1,30 @@
+{
+  "id": "buma-protest",
+  "name": "부마 민주 항쟁과 유신의 종말",
+  "type": "movement",
+  "date": "1979-10",
+  "location": {
+    "lng": 129.075,
+    "lat": 35.18
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "부산과 마산에서 학생·시민의 반유신 시위가 일어났고 정부는 계엄 등으로 대응했다. YH 무역 노동자 농성과 김영삼 의원 제명 등으로 누적된 정치적 갈등도 배경이었다. 같은 달 10·26 사건으로 박정희가 사망하며 유신체제는 종말을 맞았지만 민주화가 곧바로 실현되지는 않았다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0024157",
+        "https://encykorea.aks.ac.kr/Article/E0034013"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "학생의 시위에 도시 노동자와 시민들이 합류하며 항쟁이 확대되었다. 경제적 불안과 권위주의 통치에 대한 저항이 겹쳤다. 이후 전두환 등 신군부가 12·12 군사반란을 일으켜 군의 실권을 장악했으므로, 유신의 끝과 새 민주 정부 수립을 동일한 사건으로 연결하지 말아야 한다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0024157",
+        "https://encykorea.aks.ac.kr/Article/E0034013"
+      ]
+    }
+  }
+}

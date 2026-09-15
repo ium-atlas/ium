@@ -1,0 +1,753 @@
+{
+  "id": "kr-prehistory-ancient",
+  "title": "선사·고대·남북국",
+  "period": [
+    -700000,
+    936
+  ],
+  "order": 1,
+  "summary": "한능검 심화 학습용 핵심 정리와 자체 제작 5지선다 연습. 지도 사건의 01월은 정렬값이며 대표 연도·비정 위치는 설명을 함께 읽는다. 학습 후 해설에서 오답의 인물·시대까지 비교한다.",
+  "topicIds": [
+    "kr-prehistory-ancient"
+  ],
+  "sections": [
+    {
+      "id": "prehistory",
+      "title": "선사: 도구에서 생활을 추론하기",
+      "body": "구석기는 뗀석기·사냥·채집·이동 생활, 신석기는 간석기·토기·정착과 농경의 시작, 청동기는 농업 확대·고인돌·계층 분화로 비교한다. 한반도 구석기 유적으로 연천 전곡리, 공주 석장리, 단양 수양개를 기억한다. 지도에는 신석기 이후 대표 시점을 표시하며 구석기의 시작이 기원전 4000년이라는 뜻이 아니다. 연천 전곡리의 주먹도끼, 암사동의 빗살무늬 토기, 부여 송국리의 청동기 생활을 시대와 묶는다.",
+      "keyPoints": [
+        "구석기: 주먹도끼·슴베찌르개 등 뗀석기 / 동굴·막집 / 이동",
+        "신석기: 빗살무늬 토기·갈돌·갈판·가락바퀴 / 정착과 농경 시작",
+        "청동기: 민무늬 토기·반달 돌칼·비파형 동검·고인돌 / 계급 분화",
+        "철기: 철제 농기구·무기, 세형 동검, 명도전·붓 같은 교류 단서"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "neolithic"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "bronze"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0033063",
+        "https://encykorea.aks.ac.kr/Article/E0056357",
+        "https://encykorea.aks.ac.kr/Article/E0005842",
+        "https://encykorea.aks.ac.kr/Article/E0028740"
+      ]
+    },
+    {
+      "id": "early-states",
+      "title": "고조선과 여러 나라의 풍습",
+      "body": "단군 이야기는 『삼국유사』 등에 전하며 농경·제정일치·집단 결합의 역사상을 읽는 자료다. 기원전 2333년은 전승상의 건국 기년으로 고고학적으로 확정된 사건 날짜와 다르다. 위만 집권은 기원전 194년, 한의 침략에 따른 고조선 멸망은 기원전 108년이다. 여러 나라 문제는 풍습 하나를 외우기보다 제천 행사·정치 조직·혼인 풍습을 같은 줄로 연결한다. 전하는 8조법 조항의 살인·상해·절도 처벌은 생명·노동력·재산 보호와 신분 분화를 보여 준다.",
+      "keyPoints": [
+        "부여: 왕·여러 가·사출도 / 12월 영고 / 순장",
+        "고구려: 제가 회의 / 10월 동맹 / 서옥제",
+        "옥저: 읍군·삼로 / 민며느리제 / 가족 공동 무덤",
+        "동예: 읍군·삼로 / 10월 무천 / 책화·족외혼·단궁·과하마·반어피",
+        "삼한: 신지·읍차 / 천군·소도 / 5월·10월 제천 행사 / 변한의 철"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "wiman"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "buyeo"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "okjeo"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "dongye"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "samhan"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0003937",
+        "https://encykorea.aks.ac.kr/Article/E0024368",
+        "https://encykorea.aks.ac.kr/Article/E0038760",
+        "https://encykorea.aks.ac.kr/Article/E0016693",
+        "https://encykorea.aks.ac.kr/Article/E0026922",
+        "https://encykorea.aks.ac.kr/Article/E0003323"
+      ]
+    },
+    {
+      "id": "three-kingdoms",
+      "title": "삼국의 성장과 전성기",
+      "body": "고대 국가의 성장은 왕위 세습, 율령, 불교, 관등제 정비라는 공통 틀에서 보되 나라별 시기는 다르다. 백제 고이왕의 관등·관복 정비, 고구려 소수림왕의 태학·불교·율령, 신라 법흥왕의 율령·불교 공인을 구별한다. 한강을 중심으로 4세기 백제 → 5세기 고구려 → 6세기 신라라는 전성기 흐름을 잡는다.",
+      "keyPoints": [
+        "근초고왕: 371년 고국원왕 전사 / 고흥의 『서기』",
+        "소수림왕: 372년 불교·태학 / 373년 율령",
+        "광개토왕: 영락 / 400년 신라 구원 / 장수왕이 세운 왕릉비",
+        "장수왕: 427년 평양 천도 / 475년 백제 한성 함락",
+        "백제 수도: 한성 → 웅진(공주) → 사비(부여)"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "geunchogo"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "sosurim"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "gwanggaeto"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "jangsu"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0007465",
+        "https://encykorea.aks.ac.kr/Article/E0030144",
+        "https://encykorea.aks.ac.kr/Article/E0005057",
+        "https://encykorea.aks.ac.kr/Article/E0048605",
+        "https://encykorea.aks.ac.kr/Article/E0026481"
+      ]
+    },
+    {
+      "id": "silla-growth",
+      "title": "신라 왕과 가야·백제의 변화",
+      "body": "지증왕·법흥왕·진흥왕을 순서대로 분리한다. 신라는 한강 유역 확보로 중국과 직접 통하는 길을 넓혔지만 백제와의 동맹은 깨졌다. 가야는 낙동강 유역의 철 교역과 여러 정치체의 연맹으로 이해하며 금관가야와 대가야의 멸망 연도를 구별한다. 백제 무령왕은 22담로에 왕족 파견, 성왕은 사비 천도와 남부여를 연결한다.",
+      "keyPoints": [
+        "지증왕: 왕호·국호 정비 / 순장 금지 / 우경 / 이사부·우산국",
+        "법흥왕: 율령 / 이차돈·불교 공인 / 금관가야 병합(532)",
+        "진흥왕: 화랑도 / 한강(553) / 대가야(562) / 순수비",
+        "성왕: 사비 천도(538) / 남부여 / 관산성 전사(554)",
+        "단양 적성비와 순수비는 구별한다."
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "jijeung"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "beopheung"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "seong"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "jinheung"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0054400",
+        "https://encykorea.aks.ac.kr/Article/E0022785",
+        "https://encykorea.aks.ac.kr/Article/E0029457",
+        "https://encykorea.aks.ac.kr/Article/E0055013",
+        "https://encykorea.aks.ac.kr/Article/E0019017"
+      ]
+    },
+    {
+      "id": "wars",
+      "title": "수·당과의 전쟁, 삼국 통합",
+      "body": "612년 수의 침입과 살수대첩, 645년 당의 침입과 안시성 방어를 상대국부터 구별한다. 나당 동맹은 백제·고구려를 멸망시켰지만 이후 영토 문제로 충돌했다. 신라의 통합에는 대동강 이남 중심이라는 한계가 있었으며 고구려 유민의 역사는 발해로도 이어졌다.",
+      "keyPoints": [
+        "수–을지문덕–살수(612) / 당–안시성(645)",
+        "백제 멸망(660) → 백강 전투(663) → 고구려 멸망(668)",
+        "나당전쟁: 매소성(675) → 기벌포(676)",
+        "백제 부흥: 복신·도침·흑치상지 / 고구려 부흥: 검모잠·안승",
+        "왕조의 멸망과 주민·문화의 소멸을 동일시하지 않는다."
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "salsu"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "ansi"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "baekje-fall"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "goguryeo-fall"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "nadang"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026415",
+        "https://encykorea.aks.ac.kr/Article/E0034848",
+        "https://encykorea.aks.ac.kr/Article/E0043357",
+        "https://encykorea.aks.ac.kr/Article/E0023525",
+        "https://encykorea.aks.ac.kr/Article/E0011307"
+      ]
+    },
+    {
+      "id": "unified-silla",
+      "title": "통일신라: 왕권·제도·신분",
+      "body": "신문왕은 김흠돌의 난 진압 뒤 국학과 통치 체제를 정비했다. 집사부 시중은 왕의 행정을 보좌했고 화백 회의의 상대등은 귀족 질서와 연결된다. 9주 5소경은 지방, 9서당 10정은 군사 편제다. 골품제는 관등뿐 아니라 생활에도 제약을 주었으며 6두품의 관직 진출 한계를 기억한다.",
+      "keyPoints": [
+        "신문왕: 국학(682) / 관료전 지급 / 녹읍 폐지",
+        "성덕왕: 정전 지급 / 경덕왕: 녹읍 부활(757)",
+        "9주 5소경과 9서당 10정은 숫자만 비슷한 별개 제도",
+        "신라 촌락 문서: 호구·토지·가축 등을 기록, 조세·역 부과와 연결",
+        "원성왕의 독서삼품과는 유교 경전 이해를 평가한 관리 선발 시도"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "sinmun"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "gyeongdeok"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0032950",
+        "https://encykorea.aks.ac.kr/Article/E0002370",
+        "https://encykorea.aks.ac.kr/Article/E0026481",
+        "https://encykorea.aks.ac.kr/Article/E0004196",
+        "https://encykorea.aks.ac.kr/Article/E0032861"
+      ]
+    },
+    {
+      "id": "buddhism",
+      "title": "불교와 유학: 인물과 활동을 맞추기",
+      "body": "원효는 일심·화쟁과 불교 대중화, 의상은 화엄과 부석사를 중심으로 구별한다. 승려의 국적만 묻는 문제보다 사상·저술·유적을 함께 제시하는 문제에 대비한다. 신라 말에는 선종과 산지 사찰, 풍수지리설이 지방 세력 성장과 연결되었다.",
+      "keyPoints": [
+        "원효: 화쟁 / 일심 / 아미타 신앙 대중화",
+        "의상: 화엄 / 부석사 / 화엄 계통 사찰",
+        "혜초: 『왕오천축국전』 / 인도·중앙아시아 여행",
+        "설총: 이두 정리로 알려진 유학자 / 강수: 외교 문서",
+        "최치원: 『계원필경』 / 진성여왕에게 시무책"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "wonhyo"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "uisang"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "choe"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0040908",
+        "https://encykorea.aks.ac.kr/Article/E0064809",
+        "https://encykorea.aks.ac.kr/Article/E0057711",
+        "https://encykorea.aks.ac.kr/Article/E0026481",
+        "https://encykorea.aks.ac.kr/Article/E0063646"
+      ]
+    },
+    {
+      "id": "heritage",
+      "title": "고분·탑·불상으로 시대 읽기",
+      "body": "고구려의 돌무지무덤과 굴식 돌방무덤·고분 벽화, 백제의 무령왕릉 벽돌무덤, 신라의 돌무지덧널무덤을 비교한다. 양식이 시기와 지역에 따라 바뀌므로 한 나라에 무덤 양식이 하나뿐이라고 외우지 않는다. 삼국 문화는 중국과 일본을 잇는 교류 속에서 발전했다. 무령왕릉은 벽돌을 쌓은 방과 주인을 밝히는 지석, 신라 돌무지덧널무덤은 덧널 위에 돌을 쌓아 출입 통로가 없는 구조, 고구려 굴식 돌방무덤은 통로와 벽화를 판별 단서로 삼는다.",
+      "keyPoints": [
+        "고구려: 강서 고분 사신도 / 수렵도·무용도 같은 벽화",
+        "백제: 무령왕릉 지석 / 익산 미륵사지 석탑 / 정림사지 5층 석탑",
+        "신라: 금관 / 첨성대 / 황룡사 9층 목탑",
+        "통일신라: 불국사 다보탑·석가탑 / 석굴암 / 성덕대왕 신종",
+        "무구정광대다라니경: 목판 / 고려 『직지』: 금속활자"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "bulguksa"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0024933",
+        "https://encykorea.aks.ac.kr/Article/E0026481",
+        "https://encykorea.aks.ac.kr/Article/E0019018",
+        "https://encykorea.aks.ac.kr/Article/E0004196"
+      ]
+    },
+    {
+      "id": "balhae-state",
+      "title": "발해: 왕·제도·계승성",
+      "body": "발해의 고구려 계승 의식과 다양한 주민 구성, 당 문화 수용을 함께 본다. 중앙은 3성 6부, 지방은 5경 15부 62주로 정비되었다. 문왕과 선왕의 업적을 바꾸는 선택지에 주의한다. 발해는 926년 거란에 멸망했고 일부 유민은 고려로 들어왔다.",
+      "keyPoints": [
+        "대조영: 698년 건국 / 동모산",
+        "무왕: 장문휴의 당 등주 공격 / 문왕: 당과 친선·제도 정비·상경 중심",
+        "선왕: 영역 확대 / 해동성국",
+        "3성: 정당성·선조성·중대성 / 6부 명칭에는 유교 덕목 반영",
+        "고구려 계승 단서: 온돌·일부 고분 양식 / 다양한 문화가 공존"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "balhae"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0021626",
+        "https://encykorea.aks.ac.kr/Article/E0019602",
+        "https://encykorea.aks.ac.kr/Article/E0019179"
+      ]
+    },
+    {
+      "id": "late-silla",
+      "title": "해상 교류와 신라 말의 변화",
+      "body": "장보고의 청해진은 완도에서 당·신라·일본을 연결한 해상 거점이었다. 신라 말 왕위 다툼과 조세 부담, 중앙 통제 약화 속에서 원종·애노의 봉기와 호족의 성장이 나타났다. 견훤은 900년 후백제, 궁예는 901년 후고구려를 세웠고 왕건은 918년 고려를 세웠다.",
+      "keyPoints": [
+        "장보고–완도–청해진(828) / 고려–예성강–벽란도",
+        "진성여왕: 원종·애노(889), 최치원의 시무책(894)",
+        "신라 말 새 흐름: 호족·6두품 / 선종·풍수지리",
+        "후백제(견훤)–후고구려(궁예)–고려(왕건)",
+        "신라 항복(935) → 후백제 멸망·통일(936)"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "jangbogo"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "revolt"
+        },
+        {
+          "topicId": "kr-prehistory-ancient",
+          "eventId": "choe"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0048474",
+        "https://encykorea.aks.ac.kr/Article/E0054742",
+        "https://encykorea.aks.ac.kr/Article/E0057711",
+        "https://encykorea.aks.ac.kr/Article/E0059032"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "kr-prehistory-ancient-q01",
+      "prompt": "갈돌·갈판과 빗살무늬 토기가 발견된 생활 유적에 대한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "철제 농기구가 널리 보급되었다.",
+        "사냥·어로를 병행하며 정착 생활을 했다.",
+        "고인돌을 지배층의 무덤으로 만들었다.",
+        "율령에 따라 관등이 정비되었다.",
+        "금속활자로 경전을 인쇄했다."
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 신석기의 정착과 복합 생업이다. 철기는 뒤 시기, 고인돌은 청동기, 율령은 고대 국가, 금속활자는 고려와 연결된다.",
+      "sectionId": "prehistory",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0033063",
+        "https://encykorea.aks.ac.kr/Article/E0056357",
+        "https://encykorea.aks.ac.kr/Article/E0005842",
+        "https://encykorea.aks.ac.kr/Article/E0028740"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q02",
+      "prompt": "반달 돌칼·민무늬 토기·비파형 동검을 함께 제시한 자료에서 추론할 수 있는 사회 변화는?",
+      "choices": [
+        "독서삼품과 실시",
+        "불교 공인",
+        "사회적 계층 분화",
+        "노비안검법 시행",
+        "천태종 개창"
+      ],
+      "answerIndex": 2,
+      "explanation": "정답은 청동기 사회의 계층 분화다. 독서삼품과는 통일신라, 불교 공인은 삼국, 노비안검법과 천태종은 고려다.",
+      "sectionId": "prehistory",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0033063",
+        "https://encykorea.aks.ac.kr/Article/E0056357",
+        "https://encykorea.aks.ac.kr/Article/E0005842",
+        "https://encykorea.aks.ac.kr/Article/E0028740"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q03",
+      "prompt": "12월에 영고를 열고 여러 가가 사출도를 다스렸다는 나라로 옳은 것은?",
+      "choices": [
+        "옥저",
+        "동예",
+        "삼한",
+        "부여",
+        "백제"
+      ],
+      "answerIndex": 3,
+      "explanation": "정답은 부여다. 옥저는 민며느리제, 동예는 무천·책화, 삼한은 천군·소도, 백제는 한강을 기반으로 성장한 삼국의 하나다.",
+      "sectionId": "early-states",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0003937",
+        "https://encykorea.aks.ac.kr/Article/E0024368",
+        "https://encykorea.aks.ac.kr/Article/E0038760",
+        "https://encykorea.aks.ac.kr/Article/E0016693",
+        "https://encykorea.aks.ac.kr/Article/E0026922",
+        "https://encykorea.aks.ac.kr/Article/E0003323"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q04",
+      "prompt": "여러 나라의 사회 모습을 바르게 연결한 것은?",
+      "choices": [
+        "부여–서옥제",
+        "옥저–민며느리제",
+        "동예–12월 영고",
+        "삼한–제가 회의",
+        "고구려–천군의 소도"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 옥저의 민며느리제다. 서옥제와 제가 회의는 고구려, 영고는 부여, 천군·소도는 삼한이다.",
+      "sectionId": "early-states",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0003937",
+        "https://encykorea.aks.ac.kr/Article/E0024368",
+        "https://encykorea.aks.ac.kr/Article/E0038760",
+        "https://encykorea.aks.ac.kr/Article/E0016693",
+        "https://encykorea.aks.ac.kr/Article/E0026922",
+        "https://encykorea.aks.ac.kr/Article/E0003323"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q05",
+      "prompt": "전진에서 불교를 받아들이고 태학을 세운 왕의 다음 해 정책으로 옳은 것은?",
+      "choices": [
+        "평양 천도",
+        "한강 하류 장악",
+        "율령 반포",
+        "사비 천도",
+        "국학 설립"
+      ],
+      "answerIndex": 2,
+      "explanation": "정답은 소수림왕의 373년 율령 반포다. 평양 천도는 장수왕, 한강 하류 장악은 진흥왕, 사비 천도는 성왕, 국학은 신문왕이다.",
+      "sectionId": "three-kingdoms",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0007465",
+        "https://encykorea.aks.ac.kr/Article/E0030144",
+        "https://encykorea.aks.ac.kr/Article/E0005057",
+        "https://encykorea.aks.ac.kr/Article/E0048605",
+        "https://encykorea.aks.ac.kr/Article/E0026481"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q06",
+      "prompt": "(가) 근초고왕의 평양성 공격 (나) 장수왕의 평양 천도 (다) 진흥왕의 한강 하류 장악을 시간순으로 배열한 것은?",
+      "choices": [
+        "가–나–다",
+        "가–다–나",
+        "나–가–다",
+        "나–다–가",
+        "다–가–나"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답은 371년 → 427년 → 553년이다. 나머지 배열은 백제·고구려·신라의 전성기 순서 중 적어도 한 단계를 뒤바꾼다.",
+      "sectionId": "three-kingdoms",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0007465",
+        "https://encykorea.aks.ac.kr/Article/E0030144",
+        "https://encykorea.aks.ac.kr/Article/E0005057",
+        "https://encykorea.aks.ac.kr/Article/E0048605",
+        "https://encykorea.aks.ac.kr/Article/E0026481"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q07",
+      "prompt": "왕호 사용·우경 장려·우산국 복속을 추진한 왕은?",
+      "choices": [
+        "법흥왕",
+        "진흥왕",
+        "성왕",
+        "지증왕",
+        "신문왕"
+      ],
+      "answerIndex": 3,
+      "explanation": "정답은 지증왕이다. 법흥왕은 율령·금관가야, 진흥왕은 한강·대가야, 성왕은 백제 사비 천도, 신문왕은 통일신라 제도 정비다.",
+      "sectionId": "silla-growth",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0054400",
+        "https://encykorea.aks.ac.kr/Article/E0022785",
+        "https://encykorea.aks.ac.kr/Article/E0029457",
+        "https://encykorea.aks.ac.kr/Article/E0055013",
+        "https://encykorea.aks.ac.kr/Article/E0019017"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q08",
+      "prompt": "사비로 천도하고 남부여라는 국호를 사용한 왕과 관련된 사건은?",
+      "choices": [
+        "살수대첩",
+        "김흠돌의 난",
+        "위화도 회군",
+        "매소성 전투",
+        "관산성 전투"
+      ],
+      "answerIndex": 4,
+      "explanation": "정답은 성왕이 554년 전사한 관산성 전투다. 살수는 고구려, 김흠돌의 난은 신문왕, 회군은 고려 말, 매소성은 나당전쟁이다.",
+      "sectionId": "silla-growth",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0054400",
+        "https://encykorea.aks.ac.kr/Article/E0022785",
+        "https://encykorea.aks.ac.kr/Article/E0029457",
+        "https://encykorea.aks.ac.kr/Article/E0055013",
+        "https://encykorea.aks.ac.kr/Article/E0019017"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q09",
+      "prompt": "수의 대규모 원정군을 상대로 을지문덕이 활약한 전투는?",
+      "choices": [
+        "귀주대첩",
+        "살수대첩",
+        "안시성 전투",
+        "기벌포 전투",
+        "백강 전투"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 612년 살수대첩이다. 귀주는 고려와 거란, 안시성은 고구려와 당, 기벌포는 나당전쟁, 백강은 백제 부흥 세력·왜와 나당군의 전투다.",
+      "sectionId": "wars",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026415",
+        "https://encykorea.aks.ac.kr/Article/E0034848",
+        "https://encykorea.aks.ac.kr/Article/E0043357",
+        "https://encykorea.aks.ac.kr/Article/E0023525",
+        "https://encykorea.aks.ac.kr/Article/E0011307"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q10",
+      "prompt": "백제 멸망 이후부터 나당전쟁이 끝나기 전까지의 사건은?",
+      "choices": [
+        "평양 천도",
+        "사비 천도",
+        "고구려 멸망",
+        "금관가야 병합",
+        "발해 건국"
+      ],
+      "answerIndex": 2,
+      "explanation": "정답은 668년 고구려 멸망이다. 구간은 660~676년이며 평양 천도 427년, 사비 천도 538년, 금관가야 532년은 이전, 발해 698년은 이후다.",
+      "sectionId": "wars",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026415",
+        "https://encykorea.aks.ac.kr/Article/E0034848",
+        "https://encykorea.aks.ac.kr/Article/E0043357",
+        "https://encykorea.aks.ac.kr/Article/E0023525",
+        "https://encykorea.aks.ac.kr/Article/E0011307"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q11",
+      "prompt": "김흠돌의 난을 진압한 왕의 정책으로 옳은 것은?",
+      "choices": [
+        "국학 설립",
+        "12목 설치",
+        "과거제 실시",
+        "사비 천도",
+        "쌍성총관부 수복"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답은 신문왕의 국학 설립이다. 12목은 고려 성종, 과거제는 고려 광종, 사비는 백제 성왕, 쌍성총관부 수복은 공민왕이다.",
+      "sectionId": "unified-silla",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0032950",
+        "https://encykorea.aks.ac.kr/Article/E0002370",
+        "https://encykorea.aks.ac.kr/Article/E0026481",
+        "https://encykorea.aks.ac.kr/Article/E0004196"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q12",
+      "prompt": "화쟁 사상을 강조하고 불교 대중화에 힘쓴 인물은?",
+      "choices": [
+        "의천",
+        "지눌",
+        "김부식",
+        "의상",
+        "원효"
+      ],
+      "answerIndex": 4,
+      "explanation": "정답은 원효다. 의천은 교관겸수·천태종, 지눌은 정혜쌍수·수선사, 김부식은 삼국사기, 의상은 화엄·부석사다.",
+      "sectionId": "buddhism",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0040908",
+        "https://encykorea.aks.ac.kr/Article/E0064809",
+        "https://encykorea.aks.ac.kr/Article/E0057711",
+        "https://encykorea.aks.ac.kr/Article/E0026481",
+        "https://encykorea.aks.ac.kr/Article/E0063646"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q13",
+      "prompt": "불국사 석가탑에서 발견된 무구정광대다라니경과 『직지』의 인쇄 방식을 순서대로 바르게 제시한 것은?",
+      "choices": [
+        "금속활자–목판",
+        "목판–금속활자",
+        "목판–목판",
+        "금속활자–금속활자",
+        "필사–목판"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 목판–금속활자다. 무구정광대다라니경은 목판 인쇄물이며 1377년 흥덕사본 직지는 금속활자본이다. 나머지는 둘 중 하나 이상의 제작 방식을 잘못 연결한다.",
+      "sectionId": "heritage",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0024933",
+        "https://encykorea.aks.ac.kr/Article/E0026481",
+        "https://encykorea.aks.ac.kr/Article/E0019018",
+        "https://encykorea.aks.ac.kr/Article/E0004196"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q14",
+      "prompt": "대조영이 동모산 일대에 세운 나라의 설명으로 옳은 것은?",
+      "choices": [
+        "국학을 처음 설립한 신문왕이 다스렸다.",
+        "수도를 사비로 옮겼다.",
+        "선왕 때 영역을 넓혀 해동성국으로 불렸다.",
+        "중앙군을 9서당으로 편성했다.",
+        "광종이 노비안검법을 시행했다."
+      ],
+      "answerIndex": 2,
+      "explanation": "정답은 발해 선왕과 해동성국이다. 신문왕·9서당은 통일신라, 사비는 백제, 광종은 고려다.",
+      "sectionId": "balhae-state",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0021626",
+        "https://encykorea.aks.ac.kr/Article/E0019602",
+        "https://encykorea.aks.ac.kr/Article/E0019179"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q15",
+      "prompt": "완도에 청해진을 설치하고 동아시아 해상 교역에서 활동한 인물은?",
+      "choices": [
+        "최치원",
+        "장보고",
+        "왕건",
+        "윤관",
+        "을지문덕"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 장보고다. 최치원은 6두품 문인, 왕건은 고려 건국자, 윤관은 여진 정벌, 을지문덕은 고구려 대수 항전과 연결된다.",
+      "sectionId": "late-silla",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0048474",
+        "https://encykorea.aks.ac.kr/Article/E0054742",
+        "https://encykorea.aks.ac.kr/Article/E0057711",
+        "https://encykorea.aks.ac.kr/Article/E0059032"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q16",
+      "sectionId": "unified-silla",
+      "prompt": "[심화] 촌락 문서에 주민의 성별·연령과 토지·가축, 일정 기간의 인구 증감이 적혀 있다. 이 자료에서 가장 타당하게 추론할 수 있는 것은?",
+      "choices": [
+        "골품에 따른 관등 제한이 완전히 없어졌다.",
+        "촌락 주민이 모두 같은 면적의 토지를 소유했다.",
+        "모든 신분의 주민이 지방관으로 임명되었다.",
+        "국가가 조세와 역을 부과할 인적·물적 기반을 파악했다.",
+        "화백 회의가 마을별 인구수로 왕을 선출했다."
+      ],
+      "answerIndex": 3,
+      "explanation": "정답은 수취 기반의 파악이다. 통계는 국가의 주민·자원 관리와 연결된다. 자료만으로 신분 제한 폐지·토지 균등·보편적 지방관 임명·인구 비례 왕 선출을 추론할 수 없다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0032950",
+        "https://encykorea.aks.ac.kr/Article/E0002370",
+        "https://encykorea.aks.ac.kr/Article/E0026481",
+        "https://encykorea.aks.ac.kr/Article/E0004196",
+        "https://encykorea.aks.ac.kr/Article/E0032861"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q17",
+      "prompt": "[심화] 벽돌로 만든 묘실에서 주인공의 이름과 사망 시기를 알려 주는 지석이 나왔다. 이 무덤의 주인이 다스린 나라의 수도 이동으로 옳은 것은?",
+      "choices": [
+        "국내성에서 평양으로 옮겼다.",
+        "웅진에서 사비로 옮겼다.",
+        "동모산에서 상경으로 발전했다.",
+        "금성에서 달구벌로 천도를 완수했다.",
+        "송악에서 강화로 옮겼다."
+      ],
+      "answerIndex": 1,
+      "explanation": "정답은 백제의 웅진→사비다. 자료는 무령왕릉이고 뒤 성왕이 사비로 천도했다. 국내성→평양은 고구려, 동모산·상경은 발해, 달구벌 천도는 완수되지 않았고 송악→강화는 고려다.",
+      "sectionId": "heritage",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0024933",
+        "https://encykorea.aks.ac.kr/Article/E0026481",
+        "https://encykorea.aks.ac.kr/Article/E0019018",
+        "https://encykorea.aks.ac.kr/Article/E0004196"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q18",
+      "prompt": "[심화] 관료전을 지급하고 녹읍을 폐지한 왕의 정책과, 뒤에 녹읍을 부활한 왕의 정책을 바르게 연결한 것은?",
+      "choices": [
+        "앞 왕–독서삼품과 / 뒤 왕–국학 설립",
+        "앞 왕–한강 장악 / 뒤 왕–대가야 정복",
+        "앞 왕–국학 설립 / 뒤 왕–관직·지명 중국식 정비",
+        "앞 왕–청해진 설치 / 뒤 왕–시무책 건의",
+        "앞 왕–사비 천도 / 뒤 왕–남부여 국호"
+      ],
+      "answerIndex": 2,
+      "explanation": "정답은 신문왕의 국학과 경덕왕의 중국식 명칭 정비다. 독서삼품과는 원성왕, 한강·대가야는 진흥왕, 청해진은 장보고, 시무책은 최치원, 사비·남부여는 성왕에 해당한다.",
+      "sectionId": "unified-silla",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0032950",
+        "https://encykorea.aks.ac.kr/Article/E0002370",
+        "https://encykorea.aks.ac.kr/Article/E0026481",
+        "https://encykorea.aks.ac.kr/Article/E0004196"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q19",
+      "prompt": "[심화] 사비의 왕조가 무너졌지만 복신·도침 등이 왕자를 맞아 저항하고 왜의 지원군이 바다를 건너왔다. 이 국면 이후에 일어난 사건은?",
+      "choices": [
+        "법흥왕의 금관가야 병합",
+        "장수왕의 평양 천도",
+        "진흥왕의 한강 하류 확보",
+        "성왕의 관산성 전사",
+        "나당 연합군의 평양성 함락"
+      ],
+      "answerIndex": 4,
+      "explanation": "정답은 668년 평양성 함락이다. 자료는 660~663년 백제 부흥운동이며 나머지는 모두 그 이전이다. 금관가야 532년, 평양 천도 427년, 한강 553년, 관산성 554년을 비교한다.",
+      "sectionId": "wars",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0026415",
+        "https://encykorea.aks.ac.kr/Article/E0034848",
+        "https://encykorea.aks.ac.kr/Article/E0043357",
+        "https://encykorea.aks.ac.kr/Article/E0023525",
+        "https://encykorea.aks.ac.kr/Article/E0011307"
+      ]
+    },
+    {
+      "id": "kr-prehistory-ancient-q20",
+      "prompt": "[심화] 정당성·선조성·중대성을 두고 고구려 계승 의식을 드러낸 나라의 왕과 업적을 바르게 연결한 것은?",
+      "choices": [
+        "무왕–장문휴를 보내 당의 등주 공격",
+        "문왕–원종·애노의 봉기 진압",
+        "선왕–사비 천도와 남부여 사용",
+        "대조영–녹읍 폐지와 관료전 지급",
+        "문왕–김흠돌의 난 진압"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답은 발해 무왕과 장문휴다. 원종·애노는 신라 진성여왕 때, 사비·남부여는 백제 성왕, 녹읍 폐지·김흠돌의 난은 신문왕이다. 발해 제도 단서로 먼저 국가를 식별한다.",
+      "sectionId": "balhae-state",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0021626",
+        "https://encykorea.aks.ac.kr/Article/E0019602",
+        "https://encykorea.aks.ac.kr/Article/E0019179"
+      ]
+    }
+  ]
+}

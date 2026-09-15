@@ -1,0 +1,30 @@
+{
+  "id": "russo-japanese-war",
+  "name": "러일전쟁과 한일의정서",
+  "type": "treaty",
+  "date": "1904-02",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "대한제국은 러일전쟁 전 중립을 선언했으나 일본은 이를 무시하고 군사적으로 압박했다. 한일의정서는 일본이 군사상 필요한 지역을 사용할 수 있도록 했고, 이어 제1차 한일협약으로 재정·외교 고문이 들어왔다. 전쟁은 한국의 독립을 보장하기보다 일본의 지배권을 확대하는 계기가 되었다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0061922",
+        "https://encykorea.aks.ac.kr/Article/E0061919"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "군사 기지와 철도 건설을 위한 토지·노동력의 동원은 주민들의 일상에도 부담을 주었다. 일본의 승리와 열강의 이해 조정 속에서 한국인의 의사는 배제되었다. 국권 침탈은 1910년 한 번에 일어난 일이 아니라 군사·재정·외교 권한을 단계적으로 빼앗는 과정이었다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0061922",
+        "https://encykorea.aks.ac.kr/Article/E0061919"
+      ]
+    }
+  }
+}

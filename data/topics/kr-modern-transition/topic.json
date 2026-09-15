@@ -1,0 +1,37 @@
+{
+  "id": "kr-modern-transition",
+  "title": "개항과 국권 수호",
+  "subtitle": "한능검 심화 · 지도와 흐름으로 배우는 한국사",
+  "period": [
+    1863,
+    1910
+  ],
+  "start": "1863-12",
+  "end": "1910-08",
+  "bounds": [
+    [
+      4,
+      30
+    ],
+    [
+      140,
+      54
+    ]
+  ],
+  "card": [
+    126.978,
+    37.566
+  ],
+  "perspectives": [
+    {
+      "code": "institutions",
+      "label": "제도·정치와 국제관계",
+      "color": "#2563eb"
+    },
+    {
+      "code": "people",
+      "label": "시민·생활과 운동",
+      "color": "#d97706"
+    }
+  ]
+}

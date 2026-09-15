@@ -1,0 +1,28 @@
+{
+  "id": "basic-agreement",
+  "name": "남북 유엔 동시 가입과 기본 합의서",
+  "type": "treaty",
+  "date": "1991-12",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "1991년 남북은 유엔에 동시에 가입했고, 이어 남북 기본 합의서를 채택했다. 합의서는 화해·불가침·교류협력을 규정하며 남북관계를 통일을 지향하는 과정의 특수관계로 보았다. 1972년 통일 3원칙과 2000년 정상회담의 합의와는 문서와 핵심 표현이 다르다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i502000"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "탈냉전은 남북 교류의 가능성을 넓혔지만 군사적 긴장과 핵 문제 등은 지속되었다. 합의의 채택 시점인 1991년과 발효된 1992년을 구별하면 연표가 정확해진다. 주민과 이산가족의 교류가 실현되려면 선언을 넘어 지속적인 실무 협력과 상호 신뢰가 필요했다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i502000"
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "kr-colonial-independence",
+  "title": "일제 강점과 독립운동",
+  "subtitle": "한능검 심화 · 지도와 흐름으로 배우는 한국사",
+  "period": [
+    1910,
+    1945
+  ],
+  "start": "1910-10",
+  "end": "1942-10",
+  "bounds": [
+    [
+      100,
+      29
+    ],
+    [
+      142,
+      54
+    ]
+  ],
+  "card": [
+    126.978,
+    37.566
+  ],
+  "perspectives": [
+    {
+      "code": "institutions",
+      "label": "제도·정치와 국제관계",
+      "color": "#2563eb"
+    },
+    {
+      "code": "people",
+      "label": "시민·생활과 운동",
+      "color": "#d97706"
+    }
+  ]
+}

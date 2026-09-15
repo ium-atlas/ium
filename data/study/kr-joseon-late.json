@@ -1,0 +1,723 @@
+{
+  "id": "kr-joseon-late",
+  "title": "조선 후기",
+  "period": [
+    1600,
+    1863
+  ],
+  "order": 4,
+  "summary": "왕대별 정책을 사회·경제·문화와 연결하고 사료 단서와 사건 순서를 익히는 한능검 심화 자체 제작 학습 모듈. 실제 시험 점수를 보장하지 않습니다.",
+  "topicIds": [
+    "kr-joseon-late"
+  ],
+  "sections": [
+    {
+      "id": "diplomacy",
+      "title": "1. 전후 재건과 호란",
+      "body": "광해군은 대동법의 경기도 시행과 동의보감 간행을 추진했고 명·후금 사이에서 전쟁 재발을 피하려 했다. 1623년 인조반정 후 외교 노선이 바뀌고 1627년 정묘호란, 1636년 병자호란이 이어졌다. 정묘호란 뒤 후금과 형제관계, 병자호란 뒤 청과 군신관계를 구분한다. 남한산성의 척화·주화 논쟁은 명분과 생존 조건의 충돌이었다. 효종의 북벌론은 준비와 명분의 차원까지 보아야 하며 실제 대규모 청 정벌로 완수된 것은 아니다. 나선정벌은 청의 요청을 받아 러시아 세력과 싸운 일로 북벌과 다르다. 일본과는 전후 포로 송환·국교 회복 협상이 진행되고 통신사가 외교·문화 교류에 역할을 했다.",
+      "keyPoints": [
+        "광해군 재건→인조반정→정묘→병자",
+        "정묘 형제 / 병자 군신",
+        "북벌과 나선정벌 구별",
+        "통신사: 일본과 외교·문화 교류"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "daedong"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "medicine"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "injo"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "horan"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0014246",
+        "https://encykorea.aks.ac.kr/Article/E0016731",
+        "https://encykorea.aks.ac.kr/Article/E0047030",
+        "https://encykorea.aks.ac.kr/Article/E0047028",
+        "https://encykorea.aks.ac.kr/Article/E0059354"
+      ]
+    },
+    {
+      "id": "tax",
+      "title": "2. 수취 제도 비교: 전세·공납·군역",
+      "body": "전세는 토지 수확에 대한 세금으로 인조 때 영정법은 풍흉 대신 토질에 따라 전세액을 정했으며 실제 대부분의 토지가 낮은 등급으로 평가되어 1결당 4~6두를 냈다. 대동법은 공납을 토지 결수에 따른 쌀·포·돈으로 바꾸었고 일반적으로 1결당 쌀 12두 기준을 기억한다. 균역법은 영조 때 군포 2필을 1필로 줄였으며 부족분을 결작 등으로 보충했다. 따라서 영정법=전세, 대동법=공납, 균역법=군역이라는 표를 먼저 만든다. 대동법은 경기도에서 시작해 오랜 기간 확대되었고, 균역법은 양반까지 일괄 군포를 부과한 것이 아니다. 조세 개혁이 있어도 추가 부담과 운영상의 폐단이 남았고 19세기 삼정 문란으로 연결된다.",
+      "keyPoints": [
+        "영정법: 인조·전세, 실제 대체로 4~6두",
+        "대동법: 광해군 경기도 시작·공납",
+        "균역법: 영조·군포 2필→1필",
+        "대동법과 균역법 모두 모든 세금 폐지 아님"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "daedong"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "gyunyeok"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "sedo"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0014246",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0029786",
+        "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_30&levelId=kc_n310000"
+      ]
+    },
+    {
+      "id": "politics",
+      "title": "3. 예송·환국·탕평·세도",
+      "body": "현종 대 기해예송(1659)은 효종 사망, 갑인예송(1674)은 인선왕후 사망과 관련된다. 각각 서인과 남인의 견해가 채택되었다. 숙종은 경신(1680) 서인, 기사(1689) 남인, 갑술(1694) 서인으로 집권 세력을 교체했다. 영조·정조는 탕평을 통해 정국을 조정했으나 붕당과 갈등이 완전히 사라지지는 않았다. 영조는 균역법·속대전·탕평비, 정조는 규장각·장용영·초계문신제·신해통공·화성·대전통편을 묶는다. 순조·헌종·철종의 세도정치에서는 유력 외척의 고위직 집중과 왕권 약화가 나타났다. 같은 조선 후기라도 정치 운영은 이처럼 여러 단계로 달라졌다.",
+      "keyPoints": [
+        "예송 현종 / 환국 숙종",
+        "경신 서인→기사 남인→갑술 서인",
+        "영조 균역법 / 정조 규장각·화성",
+        "순조·헌종·철종: 세도정치"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "yesong"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "gyeongsin"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "gapsul"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "gyunyeok"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "gyujang"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "sedo"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0037964",
+        "https://encykorea.aks.ac.kr/Article/E0002637",
+        "https://encykorea.aks.ac.kr/Article/E0000919",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0029786"
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "4. 농업·상업·신분의 변화",
+      "body": "모내기 확산은 제초 노동을 줄이고 벼·보리 이모작과 경영 규모 확대에 영향을 주었다. 담배·인삼 등 상품 작물과 장시가 성장했으며 농가의 형편은 분화되었다. 대동법은 공인을 성장시켰고 숙종 때 상평통보 유통이 확대되었다. 정조의 신해통공은 육의전을 제외한 시전의 금난전권을 없앴다. 개성 송상, 의주 만상, 동래 내상, 한강 경강상인 등은 활동 지역과 연결한다. 신분에서는 양반 수 증가와 노비 감소, 공명첩·납속·족보 매입 등의 변화가 있었지만 법적 차별이 곧 사라진 것은 아니다. 노비종모법은 양인 어머니의 신분을 따르는 자녀의 범위를 넓혔으며 전체 노비 해방과 구분한다.",
+      "keyPoints": [
+        "모내기·이모작과 농민층 분화",
+        "공인: 관청 물품 조달",
+        "상평통보 숙종 / 신해통공 정조",
+        "노비종모법: 모든 노비 해방 아님"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "nongga"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "money"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "tonggong"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "nobi"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "daedong"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0014246",
+        "https://encykorea.aks.ac.kr/Article/E0013074",
+        "https://encykorea.aks.ac.kr/Article/E0027386",
+        "https://encykorea.aks.ac.kr/Article/E0012767",
+        "https://encykorea.aks.ac.kr/Article/E0033551"
+      ]
+    },
+    {
+      "id": "silhak",
+      "title": "5. 실학의 비교: 토지와 유통",
+      "body": "유형원은 균전론을 주장하여 신분에 따라 토지를 차등 지급하는 구상을 했다. 이익은 한전론으로 최소한의 생계 토지인 영업전의 매매를 제한하려 했으며, 정약용은 여전론에서 공동 경작·노동량 분배를 제안하고 뒤에 정전론도 논했다. 이를 같은 평등 분배안으로 묶지 않는다. 유수원은 우서에서 상공업 진흥과 직업의 평등을 논했고 홍대용·박지원·박제가는 청의 문물과 기술을 적극적으로 보려 했다. 박지원의 열하일기와 박제가의 북학의를 비교한다. 정약용의 목민심서는 지방 행정, 경세유표는 국가 제도, 흠흠신서는 형사 사건의 신중한 처리를 다룬다. 실학은 하나의 정당이나 전국적으로 시행된 정책이 아니라 여러 개혁적 학문 경향을 묶은 말이다.",
+      "keyPoints": [
+        "유형원 균전론 / 이익 한전론",
+        "정약용 여전론·정전론",
+        "박지원 열하일기 / 박제가 북학의",
+        "목민심서 지방행정·흠흠신서 형정"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "bukhak"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "yeojeon"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "gyujang"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0024784",
+        "https://encykorea.aks.ac.kr/Article/E0036474",
+        "https://encykorea.aks.ac.kr/Article/E0007308",
+        "https://encykorea.aks.ac.kr/Article/E0061940",
+        "https://encykorea.aks.ac.kr/Article/E0037072",
+        "https://encykorea.aks.ac.kr/Article/E0050549"
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "6. 문화·지리·의학",
+      "body": "정선은 금강전도·인왕제색도 등 진경산수, 김홍도는 노동과 생활을 담은 풍속화, 신윤복은 도시의 풍류와 남녀 생활 장면을 연결한다. 민화는 생활 속 장식과 길상적 바람을 표현했다. 판소리·탈춤·사설시조·한글소설의 확산은 문화 향유층이 넓어지는 흐름이다. 지리에서는 이중환의 택리지, 정상기의 동국지도, 김정호의 대동여지도를 구분한다. 대동여지도는 1861년 목판 간행으로 앞선 지리 지식을 체계적으로 활용한 결과다. 의학은 허준의 동의보감, 토목은 정약용과 수원 화성의 거중기·화성성역의궤를 연결한다. 작품·저자·분야를 세 칸으로 정리하고 전기 문화와 섞어 스스로 시험한다.",
+      "keyPoints": [
+        "정선 진경산수 / 김홍도·신윤복 풍속",
+        "김정호 대동여지도 1861",
+        "동의보감 광해군 간행",
+        "정조 화성·화성성역의궤"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "jingyeong"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "genre"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "map"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "medicine"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "hwaseong"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0016731",
+        "https://encykorea.aks.ac.kr/Article/E0050379",
+        "https://encykorea.aks.ac.kr/Article/E0013639",
+        "https://encykorea.aks.ac.kr/Article/E0064671",
+        "https://encykorea.aks.ac.kr/Article/E0014266",
+        "https://encykorea.aks.ac.kr/Article/E0018824"
+      ]
+    },
+    {
+      "id": "belief",
+      "title": "7. 서학·동학과 사회 불안",
+      "body": "천주교는 서학 연구를 통해 자발적으로 수용되었고 1784년 이승훈의 세례 이후 신앙 공동체가 형성되었다. 제사 문제 등으로 유교 질서와 충돌하면서 박해가 이어졌다. 1801년 신유박해는 순조 대로 정약용 유배·황사영 백서 사건과 연결한다. 최제우는 1860년 동학을 창도하고 시천주와 보국안민을 강조했다. 뒤의 인내천 표현을 창도 시점에 그대로 대입하지 않는다. 서학과 동학은 모두 사회 변화와 관련되지만 서로 같은 종교도, 같은 기원의 운동도 아니다. 동학 창도와 1894년 동학농민운동 사이에는 수십 년의 교단 확산과 조직화가 있었다.",
+      "keyPoints": [
+        "천주교 자발적 수용·제사 문제",
+        "신유박해 1801 / 병인박해 1866",
+        "동학 최제우·1860·시천주",
+        "창도와 1894 농민운동 분리"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "sinyu"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "donghak"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0033249",
+        "https://encykorea.aks.ac.kr/Article/E0016857"
+      ]
+    },
+    {
+      "id": "resistance",
+      "title": "8. 삼정 문란과 농민 저항",
+      "body": "삼정은 전정·군정·환곡의 운영을 말한다. 토지에 부가세를 더하거나 군포를 어린아이·죽은 사람에게까지 부과하고 환곡 이자를 수탈하는 폐단이 누적되었다. 1811년 홍경래의 난은 평안도와 서북 차별을 핵심 단서로 잡는다. 농민 외에도 몰락 양반·상인 등 다양한 집단이 참여했다. 1862년 임술농민봉기는 진주 등에서 시작해 여러 지역으로 확산되었으며 철종과 삼정이정청을 연결한다. 정부가 개선을 논의해도 근본적 개혁에는 실패했다. 이후 흥선대원군의 호포법·사창제 등은 이러한 재정과 사회 문제에 대응하려 한 조치로 다음 시대에서 이어서 공부한다.",
+      "keyPoints": [
+        "홍경래 1811·순조·평안도",
+        "임술 1862·철종·진주·전국 확산",
+        "삼정이정청: 임술농민봉기 대응",
+        "전정 토지 / 군정 군포 / 환곡 대여곡"
+      ],
+      "eventRefs": [
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "sedo"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "hong"
+        },
+        {
+          "topicId": "kr-joseon-late",
+          "eventId": "imsul"
+        }
+      ],
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0029786",
+        "https://encykorea.aks.ac.kr/Article/E0063948",
+        "https://encykorea.aks.ac.kr/Article/E0047507"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "late-q1",
+      "prompt": "[재구성 자료] 집집마다 토산물을 내는 대신 토지 결수에 따라 쌀 등을 내고, 관청은 공인에게 물품을 조달받았다. 해당 제도는?",
+      "choices": [
+        "영정법",
+        "균역법",
+        "호포법",
+        "대동법",
+        "직전법"
+      ],
+      "answerIndex": 3,
+      "explanation": "대동법은 공납을 토지 결수 기준으로 바꾸었고 공인 성장에 영향을 주었다. 영정법은 전세, 균역법·호포법은 군역, 직전법은 관료 수조권 지급과 관련된다.",
+      "sectionId": "tax",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0014246",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0029786",
+        "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_30&levelId=kc_n310000"
+      ]
+    },
+    {
+      "id": "late-q2",
+      "prompt": "정묘호란과 병자호란의 결과를 바르게 비교한 것은?",
+      "choices": [
+        "정묘 뒤 형제관계, 병자 뒤 군신관계",
+        "정묘 뒤 군신관계, 병자 뒤 형제관계",
+        "두 전쟁 뒤 일본에 조공했다.",
+        "두 전쟁은 모두 세종 때 일어났다.",
+        "병자호란 뒤 조선이 청을 정복했다."
+      ],
+      "answerIndex": 0,
+      "explanation": "1627년 정묘호란 뒤 후금과 형제관계, 1636~1637년 병자호란 뒤 청과 군신관계가 되었다. 두 전쟁 모두 인조 대이며 일본 전쟁이나 청 정복과 다르다.",
+      "sectionId": "diplomacy",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0014246",
+        "https://encykorea.aks.ac.kr/Article/E0016731",
+        "https://encykorea.aks.ac.kr/Article/E0047030",
+        "https://encykorea.aks.ac.kr/Article/E0047028",
+        "https://encykorea.aks.ac.kr/Article/E0059354"
+      ]
+    },
+    {
+      "id": "late-q3",
+      "prompt": "효종 사망 뒤 자의대비의 상복 기간을 논쟁한 사건이 일어난 왕대는?",
+      "choices": [
+        "태종",
+        "연산군",
+        "현종",
+        "정조",
+        "철종"
+      ],
+      "answerIndex": 2,
+      "explanation": "기해예송은 1659년 현종 즉위 무렵 효종의 죽음과 관련된 논쟁이다. 연산군의 사화·정조의 탕평 등과 구별한다.",
+      "sectionId": "politics",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0037964",
+        "https://encykorea.aks.ac.kr/Article/E0002637",
+        "https://encykorea.aks.ac.kr/Article/E0000919",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0029786"
+      ]
+    },
+    {
+      "id": "late-q4",
+      "prompt": "숙종 때 환국의 집권 세력을 바르게 연결한 것은?",
+      "choices": [
+        "경신 남인·기사 서인·갑술 남인",
+        "경신 서인·기사 남인·갑술 서인",
+        "모두 북인",
+        "모두 남인",
+        "경신 북인·기사 동인·갑술 소윤"
+      ],
+      "answerIndex": 1,
+      "explanation": "경신환국 1680 서인, 기사환국 1689 남인, 갑술환국 1694 서인 순이다. 북인·소윤은 이 세 환국의 집권 세력 배열에 맞지 않는다.",
+      "sectionId": "politics",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0037964",
+        "https://encykorea.aks.ac.kr/Article/E0002637",
+        "https://encykorea.aks.ac.kr/Article/E0000919",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0029786"
+      ]
+    },
+    {
+      "id": "late-q5",
+      "prompt": "영조의 균역법으로 생긴 변화는?",
+      "choices": [
+        "공납이 모두 폐지되었다.",
+        "모든 양반에게 군포 2필을 부과했다.",
+        "직전 지급이 시작되었다.",
+        "시전의 금난전권이 모두 부활했다.",
+        "군포를 2필에서 1필로 줄이고 부족분을 결작 등으로 보충했다."
+      ],
+      "answerIndex": 4,
+      "explanation": "균역법은 군포 감면과 보완 재원 마련이 핵심이다. 양반 군포 확대는 뒤의 호포법과 구분하며 공납·직전·금난전권과 대상이 다르다.",
+      "sectionId": "tax",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0014246",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0029786",
+        "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_30&levelId=kc_n310000"
+      ]
+    },
+    {
+      "id": "late-q6",
+      "prompt": "정조의 정책만 묶은 것은?",
+      "choices": [
+        "규장각·초계문신제·장용영",
+        "호패법·사병 혁파·육조 직계제",
+        "균역법·속대전·탕평비",
+        "경국대전 완성·무오사화",
+        "경복궁 중건·호포법·사창제"
+      ],
+      "answerIndex": 0,
+      "explanation": "규장각·초계문신제·장용영은 정조다. ②는 태종, ③은 영조, ④는 성종과 연산군이 섞였고, ⑤는 흥선대원군 집권기다.",
+      "sectionId": "politics",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0037964",
+        "https://encykorea.aks.ac.kr/Article/E0002637",
+        "https://encykorea.aks.ac.kr/Article/E0000919",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0029786"
+      ]
+    },
+    {
+      "id": "late-q7",
+      "prompt": "신해통공의 내용으로 옳은 것은?",
+      "choices": [
+        "대동법을 전국에서 폐지했다.",
+        "모든 장시를 금지했다.",
+        "육의전을 제외한 시전의 금난전권을 폐지했다.",
+        "상평통보를 처음 고려에서 만들었다.",
+        "모든 토지를 국유화했다."
+      ],
+      "answerIndex": 2,
+      "explanation": "정조의 신해통공은 육의전의 특권을 남기고 다른 시전의 금난전권을 폐지했다. 모든 상업 규제 폐지나 장시 금지, 토지 국유화가 아니다.",
+      "sectionId": "economy",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0014246",
+        "https://encykorea.aks.ac.kr/Article/E0013074",
+        "https://encykorea.aks.ac.kr/Article/E0027386",
+        "https://encykorea.aks.ac.kr/Article/E0012767",
+        "https://encykorea.aks.ac.kr/Article/E0033551"
+      ]
+    },
+    {
+      "id": "late-q8",
+      "prompt": "토지 개혁론의 연결이 옳은 것은?",
+      "choices": [
+        "박지원—한전론",
+        "이익—여전론",
+        "유형원—북학의",
+        "정약용—여전론",
+        "박제가—균전론"
+      ],
+      "answerIndex": 3,
+      "explanation": "정약용은 여전론·정전론, 이익은 한전론, 유형원은 균전론이다. 박지원·박제가는 상공업과 기술·유통을 중시한 북학의 흐름과 연결된다.",
+      "sectionId": "silhak",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0024784",
+        "https://encykorea.aks.ac.kr/Article/E0036474",
+        "https://encykorea.aks.ac.kr/Article/E0007308",
+        "https://encykorea.aks.ac.kr/Article/E0061940",
+        "https://encykorea.aks.ac.kr/Article/E0037072",
+        "https://encykorea.aks.ac.kr/Article/E0050549"
+      ]
+    },
+    {
+      "id": "late-q9",
+      "prompt": "[재구성 자료] 청의 수레와 선박, 기술을 받아들이고 상공업과 소비를 통해 생산을 북돋아야 한다. 관련 저술은?",
+      "choices": [
+        "조선경국전",
+        "북학의",
+        "성학십도",
+        "경국대전",
+        "삼국사기"
+      ],
+      "answerIndex": 1,
+      "explanation": "박제가의 북학의는 청의 문물과 상공업·유통 개선을 논했다. 조선경국전은 정도전, 성학십도는 이황, 경국대전은 법전, 삼국사기는 고려의 역사서다.",
+      "sectionId": "silhak",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0024784",
+        "https://encykorea.aks.ac.kr/Article/E0036474",
+        "https://encykorea.aks.ac.kr/Article/E0007308",
+        "https://encykorea.aks.ac.kr/Article/E0061940",
+        "https://encykorea.aks.ac.kr/Article/E0037072",
+        "https://encykorea.aks.ac.kr/Article/E0050549"
+      ]
+    },
+    {
+      "id": "late-q10",
+      "prompt": "정선의 작품으로 바르게 연결된 것은?",
+      "choices": [
+        "몽유도원도",
+        "대동여지도",
+        "동의보감",
+        "북학의",
+        "인왕제색도"
+      ],
+      "answerIndex": 4,
+      "explanation": "인왕제색도는 정선의 진경산수화다. 몽유도원도는 안견, 대동여지도는 김정호, 동의보감은 허준, 북학의는 박제가와 연결한다.",
+      "sectionId": "culture",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0016731",
+        "https://encykorea.aks.ac.kr/Article/E0050379",
+        "https://encykorea.aks.ac.kr/Article/E0013639",
+        "https://encykorea.aks.ac.kr/Article/E0064671",
+        "https://encykorea.aks.ac.kr/Article/E0014266",
+        "https://encykorea.aks.ac.kr/Article/E0018824"
+      ]
+    },
+    {
+      "id": "late-q11",
+      "prompt": "수원 화성과 관련된 설명으로 옳은 것은?",
+      "choices": [
+        "정조 때 축성하고 화성성역의궤에 과정을 기록했다.",
+        "태조가 한양 천도 전에 완성했다.",
+        "고려의 팔만대장경 보관 건물이다.",
+        "병자호란 때 청이 수도로 사용했다.",
+        "흥선대원군이 경복궁 대신 지었다."
+      ],
+      "answerIndex": 0,
+      "explanation": "수원 화성은 정조의 도시·군사·정치 구상과 관련된다. 태조 천도·해인사 장경판전·청 수도·대원군 경복궁 중건과는 별개다.",
+      "sectionId": "culture",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0016731",
+        "https://encykorea.aks.ac.kr/Article/E0050379",
+        "https://encykorea.aks.ac.kr/Article/E0013639",
+        "https://encykorea.aks.ac.kr/Article/E0064671",
+        "https://encykorea.aks.ac.kr/Article/E0014266",
+        "https://encykorea.aks.ac.kr/Article/E0018824"
+      ]
+    },
+    {
+      "id": "late-q12",
+      "prompt": "1860년 최제우가 창도한 종교와 관련된 것은?",
+      "choices": [
+        "신유박해로 최초 창도되었다.",
+        "고려의 천태종이다.",
+        "시천주와 보국안민을 강조한 동학이다.",
+        "서인이 주도한 예송이다.",
+        "처음부터 1894년 집강소를 운영했다."
+      ],
+      "answerIndex": 2,
+      "explanation": "동학은 1860년 창도되었으며 시천주·보국안민이 단서다. 1894년 동학농민운동과 집강소는 수십 년 뒤의 일이고 신유박해는 1801년 천주교 탄압이다.",
+      "sectionId": "belief",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0033249",
+        "https://encykorea.aks.ac.kr/Article/E0016857"
+      ]
+    },
+    {
+      "id": "late-q13",
+      "prompt": "홍경래의 난을 설명한 것으로 옳은 것은?",
+      "choices": [
+        "철종 때 진주에서만 발생했다.",
+        "삼정이정청 설치의 직접 계기였다.",
+        "세종 때 여진을 토벌했다.",
+        "순조 때 평안도에서 일어나 서북 차별과 연결되었다.",
+        "정조가 직접 지도한 개혁 운동이다."
+      ],
+      "answerIndex": 3,
+      "explanation": "1811년 홍경래의 난은 순조·평안도·서북 차별을 연결한다. 진주와 삼정이정청은 철종 때 임술농민봉기의 핵심 단서다.",
+      "sectionId": "resistance",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0029786",
+        "https://encykorea.aks.ac.kr/Article/E0063948",
+        "https://encykorea.aks.ac.kr/Article/E0047507"
+      ]
+    },
+    {
+      "id": "late-q14",
+      "prompt": "1862년 농민봉기에 대응하여 정부가 설치한 기구는?",
+      "choices": [
+        "규장각",
+        "삼정이정청",
+        "집현전",
+        "훈련도감",
+        "교정도감"
+      ],
+      "answerIndex": 1,
+      "explanation": "삼정이정청은 임술농민봉기 뒤 삼정의 폐단 개선을 논의했다. 규장각은 정조의 학술·정책 기구, 집현전은 세종, 훈련도감은 임진왜란, 교정도감은 고려 무신 집권기다.",
+      "sectionId": "resistance",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0029786",
+        "https://encykorea.aks.ac.kr/Article/E0063948",
+        "https://encykorea.aks.ac.kr/Article/E0047507"
+      ]
+    },
+    {
+      "id": "late-q15",
+      "prompt": "노비종모법을 해석한 설명으로 옳은 것은?",
+      "choices": [
+        "1731년에 모든 신분제가 폐지되었다.",
+        "양반 남성 모두가 노비가 되었다.",
+        "모든 노비가 국가 소유가 되었다.",
+        "어머니의 신분과 무관하게 항상 노비가 되었다.",
+        "노와 양인 여성 사이 자녀가 어머니의 신분을 따르게 하였으나 전체 노비 해방은 아니었다."
+      ],
+      "answerIndex": 4,
+      "explanation": "영조 때 노비종모법 확정은 양인 증가와 노비 감소에 영향을 주었지만 신분제를 없애지 않았다. 법적 신분제 폐지는 1894년 갑오개혁과 연결한다.",
+      "sectionId": "economy",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0014246",
+        "https://encykorea.aks.ac.kr/Article/E0013074",
+        "https://encykorea.aks.ac.kr/Article/E0027386",
+        "https://encykorea.aks.ac.kr/Article/E0012767",
+        "https://encykorea.aks.ac.kr/Article/E0033551"
+      ]
+    },
+    {
+      "id": "late-q16",
+      "prompt": "[자료 재구성] (가) 공물을 토지 결수에 따라 쌀 등으로 내게 했다. (나) 양인의 군포를 절반으로 줄이고 토지 1결에 결작을 부담시켰다. (가)·(나)에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "(가)는 영정법으로 그해 풍흉만을 기준으로 삼았다.",
+        "(나)는 광해군 때 경기도에서 시작해 점차 확대되었다.",
+        "(가)는 모든 상인의 금난전권을 없애는 정책이었다.",
+        "(가)는 공인 성장에 영향을 주었고 (나)는 군역 재정의 부족분을 보충할 장치가 필요했다.",
+        "(가)와 (나)는 모두 조세 부담을 신분과 재산에 무관하게 완전히 평등하게 만들었다."
+      ],
+      "answerIndex": 3,
+      "explanation": "(가)는 대동법, (나)는 균역법이다. 공납 조달 방식 변화로 공인이 성장했고, 균역법은 군포 감면에 따른 부족분을 결작 등으로 메웠다. 영정법은 전세, 신해통공은 금난전권 문제이며 두 개혁이 신분별 부담을 완전히 같게 만든 것은 아니다.",
+      "sectionId": "tax",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0014246",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0029786",
+        "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_30&levelId=kc_n310000"
+      ]
+    },
+    {
+      "id": "late-q17",
+      "prompt": "(가) 남인이 물러나고 서인이 집권하였다(1680). (나) 왕비 폐출과 원자 정호 문제 속에 남인이 집권하였다(1689). (다) 왕비가 복위되고 서인이 재집권하였다(1694). 이를 설명한 것으로 가장 적절한 것은?",
+      "choices": [
+        "현종의 두 예송에서 서인의 주장이 연이어 채택된 과정이다.",
+        "숙종이 환국을 통해 집권 세력을 교체하며 정국 주도권을 강화한 과정이다.",
+        "영조가 균역법을 시행한 직후 세도 가문을 몰아낸 과정이다.",
+        "광해군 때 북인이 동인과 서인으로 갈라진 과정이다.",
+        "정조의 규장각이 모든 붕당을 법으로 해산한 과정이다."
+      ],
+      "answerIndex": 1,
+      "explanation": "(가) 경신, (나) 기사, (다) 갑술환국으로 숙종 대 서인→남인→서인 집권 변화다. 현종의 예송은 상복 논쟁이고 영조·정조의 탕평은 뒤의 정치다. 붕당을 법으로 모두 해산한 것도 아니다.",
+      "sectionId": "politics",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0037964",
+        "https://encykorea.aks.ac.kr/Article/E0002637",
+        "https://encykorea.aks.ac.kr/Article/E0000919",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0029786"
+      ]
+    },
+    {
+      "id": "late-q18",
+      "prompt": "(가) 군포를 2필에서 1필로 줄였다. (나) 서북 차별을 배경으로 평안도에서 봉기가 일어났다. 두 사건 사이에 있었던 일은?",
+      "choices": [
+        "인조반정으로 광해군이 폐위되었다.",
+        "기해예송에서 서인의 1년설이 채택되었다.",
+        "상평통보의 본격 유통이 시작되었다.",
+        "임술농민봉기에 대응해 삼정이정청을 설치했다.",
+        "규장각을 설치하고 육의전을 제외한 금난전권을 폐지했다."
+      ],
+      "answerIndex": 4,
+      "explanation": "(가)는1750 균역법, (나)는1811 홍경래의 난이다. 정조의 규장각1776과 신해통공1791은 사이에 있다. 인조반정1623, 기해예송1659, 상평통보 유통1678은 앞이며 삼정이정청1862는 뒤다.",
+      "sectionId": "politics",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0037964",
+        "https://encykorea.aks.ac.kr/Article/E0002637",
+        "https://encykorea.aks.ac.kr/Article/E0000919",
+        "https://encykorea.aks.ac.kr/Article/E0007303",
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0029786"
+      ]
+    },
+    {
+      "id": "late-q19",
+      "prompt": "다음 개혁론을 주장한 인물의 연결이 옳은 것은?\n(가) 농민이 생계를 유지할 최소 토지인 영업전의 매매를 제한한다.\n(나) 여 단위로 함께 경작하고 일한 양을 기준으로 수확을 나눈다.",
+      "choices": [
+        "(가) 이익 · (나) 정약용",
+        "(가) 유형원 · (나) 이익",
+        "(가) 박지원 · (나) 박제가",
+        "(가) 정약용 · (나) 유형원",
+        "(가) 박제가 · (나) 유수원"
+      ],
+      "answerIndex": 0,
+      "explanation": "영업전 보전은 이익의 한전론, 공동 경작·노동량 분배는 정약용의 여전론이다. 유형원의 균전론은 신분에 따른 차등 지급 구상이므로 모든 안을 균등 소유권 분배로 읽으면 안 된다.",
+      "sectionId": "silhak",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0007273",
+        "https://encykorea.aks.ac.kr/Article/E0024784",
+        "https://encykorea.aks.ac.kr/Article/E0036474",
+        "https://encykorea.aks.ac.kr/Article/E0007308",
+        "https://encykorea.aks.ac.kr/Article/E0061940",
+        "https://encykorea.aks.ac.kr/Article/E0037072",
+        "https://encykorea.aks.ac.kr/Article/E0050549"
+      ]
+    },
+    {
+      "id": "late-q20",
+      "prompt": "다음 자료의 저자·작가 연결이 모두 옳은 것은?\n(가) 비가 갠 인왕산을 그린 진경산수화\n(나) 청 여행에서 본 제도와 문물을 기록한 열하일기\n(다) 목판으로 간행한 전국 지도 대동여지도",
+      "choices": [
+        "(가) 안견 · (나) 박제가 · (다) 정상기",
+        "(가) 김홍도 · (나) 정약용 · (다) 이중환",
+        "(가) 정선 · (나) 박지원 · (다) 김정호",
+        "(가) 신윤복 · (나) 홍대용 · (다) 김정호",
+        "(가) 정선 · (나) 박제가 · (다) 정상기"
+      ],
+      "answerIndex": 2,
+      "explanation": "인왕제색도는 정선, 열하일기는 박지원, 대동여지도는 김정호다. 안견은 몽유도원도, 박제가는 북학의, 정상기는 동국지도, 이중환은 택리지와 연결하여 가까운 분야의 인물을 구분한다.",
+      "sectionId": "culture",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0016731",
+        "https://encykorea.aks.ac.kr/Article/E0050379",
+        "https://encykorea.aks.ac.kr/Article/E0013639",
+        "https://encykorea.aks.ac.kr/Article/E0064671",
+        "https://encykorea.aks.ac.kr/Article/E0014266",
+        "https://encykorea.aks.ac.kr/Article/E0018824"
+      ]
+    }
+  ]
+}

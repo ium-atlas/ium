@@ -1,0 +1,32 @@
+{
+  "id": "economic-planning",
+  "name": "경제개발 계획과 산업화",
+  "type": "political",
+  "date": "1962-01",
+  "location": {
+    "lng": 129.31,
+    "lat": 35.54
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "정부는 제1차 경제개발 5개년 계획을 시작하고 수출과 산업 기반 확충을 추진했다. 1960년대 경공업 중심 수출에서 1970년대 중화학공업 육성으로 무게가 옮겨 갔다. 외자·기술·국가 지원과 기업 활동이 결합했으며, 지도는 산업화의 대표 도시 울산을 표시한다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0002784",
+        "https://encykorea.aks.ac.kr/Article/E0002795",
+        "https://encykorea.aks.ac.kr/Article/E0002781"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "도시로 이동한 노동자들의 장시간 노동과 낮은 임금은 성장의 이면이었다. 농촌에서는 새마을운동과 생활 환경 개선이 추진되었지만 도농 격차와 이농도 이어졌다. 국내총생산이나 수출 증가만으로 삶의 변화를 모두 설명할 수 없으므로 노동·주거·교육의 확대를 함께 읽어야 한다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0002784",
+        "https://encykorea.aks.ac.kr/Article/E0002795",
+        "https://encykorea.aks.ac.kr/Article/E0002781"
+      ]
+    }
+  }
+}

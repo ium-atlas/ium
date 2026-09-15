@@ -1,0 +1,28 @@
+{
+  "id": "daewongun-reform",
+  "name": "흥선대원군 집권과 왕권 재건",
+  "type": "political",
+  "date": "1863-12",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "고종의 즉위로 정국을 이끌게 된 흥선대원군은 세도 가문의 권력을 줄이고 왕실 중심의 통치 질서를 되살리려 했다. 비변사를 없애고 의정부와 삼군부의 기능을 나누었으며, 경복궁 중건과 서원 정리도 추진했다. 이는 신분제를 폐지하거나 의회를 만드는 개혁과는 목적이 달랐다. 집권 날짜는 당시 음력 1863년 12월 기준이다.",
+      "sources": [
+        "https://contents.history.go.kr/front/hm/view.do?levelId=hm_101_0010"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "호포제는 양반에게도 군포 부담을 지워 부담의 불균형을 줄이려는 조치였다. 사창제와 서원 정리에는 농민 생활을 안정시키려는 의도가 있었지만, 경복궁 중건을 위한 원납전과 당백전 발행은 백성의 부담과 물가 불안을 키웠다. 같은 집권기의 정책도 수혜와 비용을 나누어 살펴야 한다.",
+      "sources": [
+        "https://contents.history.go.kr/front/hm/view.do?levelId=hm_101_0010"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "korean-war",
+  "name": "6·25 전쟁의 발발과 전선 이동",
+  "type": "battle",
+  "date": "1950-06",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "북한군의 전면 남침으로 전쟁이 시작되었다. 낙동강 방어선까지 밀린 뒤 유엔군의 인천상륙작전으로 전세가 바뀌었으나 중국군 개입으로 다시 후퇴했다. 전선은 중부 지역에서 교착되었고 전쟁은 국제전으로 확대되었다. 지도는 초기 주요 점령지 서울을 표시하며 전쟁 전체가 이곳에 한정되지는 않는다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i501100"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "피란과 이산가족, 민간인 학살, 도시와 농촌의 파괴가 남북 주민의 삶을 무너뜨렸다. 전쟁은 전선의 이동만이 아니라 거주·가족·생계의 해체를 뜻했다. 1950년 9월 인천상륙과 1951년 1·4 후퇴, 이후 휴전회담의 긴 과정을 순서대로 연결해 이해하자.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i501100"
+      ]
+    }
+  }
+}

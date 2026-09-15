@@ -1,0 +1,30 @@
+{
+  "id": "sinmi-invasion",
+  "name": "신미양요와 척화비",
+  "type": "battle",
+  "date": "1871-06",
+  "location": {
+    "lng": 126.49,
+    "lat": 37.74
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "미국은 제너럴 셔먼호 사건을 내세우며 조선에 통상을 요구했고, 협상이 결렬된 뒤 강화도에서 군사 충돌이 벌어졌다. 어재연 등이 광성보를 지키다 전사했지만 미국 함대는 통상 조약을 얻지 못한 채 물러났다. 병인양요의 프랑스, 신미양요의 미국을 구별하면 사건의 순서가 분명해진다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0005160",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400800"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "흥선대원군은 서양과 화친하는 것을 경계하는 척화비를 세워 통상 수교 거부 의지를 드러냈다. 이는 침략에 맞선 주권 수호의 성격이 있었지만 새로운 국제 질서에 대응할 외교 통로를 좁히는 결과도 낳았다. 지도에서는 평양의 셔먼호 사건과 강화도의 전투가 서로 다른 장소임을 확인하자.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0005160",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400800"
+      ]
+    }
+  }
+}
