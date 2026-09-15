@@ -49,6 +49,8 @@ export default function HomeMap({ topics, yearItems = [], yearCounts = {} }) {
       return t.avgWeights[code] ?? 50;
     };
     topics.forEach(t => {
+      const position = topicCardLocation(t);
+      if (!position) return;
       const el = document.createElement('div');
       el.className = 'tcard';
       const bars = t.perspectives.map(p =>
@@ -60,7 +62,7 @@ export default function HomeMap({ topics, yearItems = [], yearCounts = {} }) {
         <div class="tb">${bars}</div>
         <div class="badge">${spread >= 30 ? '비대칭 지수 높음 ★' : '비대칭 보통'}</div>`;
       el.onclick = () => router.push('/' + t.id + '/');
-      const mk = new maplibregl.Marker({ element: el, anchor: 'center' }).setLngLat(t.card).addTo(map);
+      const mk = new maplibregl.Marker({ element: el, anchor: 'center' }).setLngLat(position).addTo(map);
       markersRef.current.push({ period: t.period, el, mk });
     });
     yearItems.filter(item => item.location).forEach(item => {
@@ -167,6 +169,19 @@ export default function HomeMap({ topics, yearItems = [], yearCounts = {} }) {
       </div>
     </div>
   );
+}
+
+// Older topic metadata omits card; its validated bounds still locate the topic.
+function topicCardLocation(topic) {
+  const validPoint = point => Array.isArray(point) && point.length === 2 &&
+    Number.isFinite(point[0]) && point[0] >= -180 && point[0] <= 180 &&
+    Number.isFinite(point[1]) && point[1] >= -90 && point[1] <= 90;
+  if (validPoint(topic.card)) return topic.card;
+  if (!Array.isArray(topic.bounds) || topic.bounds.length !== 2) return null;
+  const [southwest, northeast] = topic.bounds;
+  if (!validPoint(southwest) || !validPoint(northeast) ||
+      southwest[0] > northeast[0] || southwest[1] > northeast[1]) return null;
+  return [(southwest[0] + northeast[0]) / 2, (southwest[1] + northeast[1]) / 2];
 }
 
 function clampYear(value) {
