@@ -1,0 +1,39 @@
+{
+  "id": "world-trade-center-attacks",
+  "name": "세계무역센터 공격",
+  "type": "massacre",
+  "date": "2001-09",
+  "location": {
+    "lng": -74.01,
+    "lat": 40.71
+  },
+  "perspectives": {
+    "al_qaeda": {
+      "name": "미국 본토를 겨냥한 테러",
+      "weight": 100,
+      "narrative": "알카에다는 항공기를 납치해 뉴욕 세계무역센터를 공격했다. 공격은 대규모 민간인 피해와 함께 미국의 안보·외교 전략을 급격히 바꾸었다.",
+      "sources": [
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report",
+        "Lawrence Wright, The Looming Tower: Al-Qaeda and the Road to 9/11"
+      ]
+    },
+    "us": {
+      "name": "본토 안보의 붕괴감",
+      "weight": 100,
+      "narrative": "미국 정부와 시민은 본토 핵심 도시가 공격받는 충격을 경험했다. 테러 대응은 곧 전쟁과 정보·안보 체제 재편으로 이어졌다.",
+      "sources": [
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report",
+        "Bob Woodward, Bush at War"
+      ]
+    },
+    "civilians": {
+      "name": "민간인 피해와 기억",
+      "weight": 100,
+      "narrative": "세계무역센터 공격은 직장인, 구조대원, 주변 시민에게 막대한 피해와 트라우마를 남겼다. 사건의 기억은 미국 사회와 세계 정치의 기준점이 됐다.",
+      "sources": [
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report",
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "qala-i-jangi-uprising",
+  "name": "칼라이장기 포로 봉기",
+  "type": "battle",
+  "date": "2001-11",
+  "location": {
+    "lng": 67.10,
+    "lat": 36.70
+  },
+  "perspectives": {
+    "northern_alliance": {
+      "name": "포로 관리의 폭력적 위기",
+      "weight": 95,
+      "narrative": "칼라이장기 요새에서는 포로 봉기가 벌어져 북부동맹과 미국 측 대응이 폭력적으로 전개됐다. 사건은 전쟁 초기 포로 처리의 난점을 드러냈다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden"
+      ]
+    },
+    "al_qaeda": {
+      "name": "외국인 전투원의 잔존",
+      "weight": 80,
+      "narrative": "봉기에는 탈레반과 알카에다 관련 외국인 전투원 문제가 얽혀 있었다. 2001년 전쟁은 정권 전쟁과 초국적 조직 추적이 겹친 성격을 보였다.",
+      "sources": [
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden",
+        "Lawrence Wright, The Looming Tower: Al-Qaeda and the Road to 9/11"
+      ]
+    },
+    "civilians": {
+      "name": "요새 주변 전투의 불안",
+      "weight": 65,
+      "narrative": "포로 봉기와 진압은 지역 주민에게도 전쟁이 아직 끝나지 않았다는 신호였다. 정권 붕괴 이후에도 폭력은 여러 공간에서 이어졌다.",
+      "sources": [
+        "Thomas Barfield, Afghanistan: A Cultural and Political History",
+        "Barnett R. Rubin, The Fragmentation of Afghanistan"
+      ]
+    }
+  }
+}

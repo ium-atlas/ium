@@ -1,0 +1,39 @@
+{
+  "id": "pentagon-attack",
+  "name": "펜타곤 공격",
+  "type": "massacre",
+  "date": "2001-09",
+  "location": {
+    "lng": -77.06,
+    "lat": 38.87
+  },
+  "perspectives": {
+    "al_qaeda": {
+      "name": "군사 중추를 겨냥한 공격",
+      "weight": 100,
+      "narrative": "알카에다는 펜타곤을 공격해 미국 군사력의 상징을 직접 겨냥했다. 공격은 테러를 전쟁 행위로 규정하는 미국 내 논리를 강화했다.",
+      "sources": [
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report",
+        "Lawrence Wright, The Looming Tower: Al-Qaeda and the Road to 9/11"
+      ]
+    },
+    "us": {
+      "name": "군사 대응으로 향한 결정",
+      "weight": 95,
+      "narrative": "미국 국방부가 공격받으면서 대응은 수사와 보복을 넘어 군사 작전의 문제로 빠르게 이동했다. 아프가니스탄의 알카에다 기지가 초점이 됐다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report"
+      ]
+    },
+    "civilians": {
+      "name": "군인과 민간 직원의 피해",
+      "weight": 85,
+      "narrative": "펜타곤 공격은 군인뿐 아니라 민간 직원과 승객에게도 큰 피해를 냈다. 공격 대상의 군사성은 민간 피해의 현실을 지우지 못했다.",
+      "sources": [
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report",
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "massoud-assassination",
+  "name": "아흐마드 샤 마수드 암살",
+  "type": "political",
+  "date": "2001-09",
+  "location": {
+    "lng": 69.53,
+    "lat": 37.13
+  },
+  "perspectives": {
+    "northern_alliance": {
+      "name": "반탈레반 전선의 지도자 상실",
+      "weight": 100,
+      "narrative": "북부동맹은 아흐마드 샤 마수드 암살로 핵심 군사·정치 지도자를 잃었다. 그러나 조직은 곧 미국 지원과 결합해 탈레반에 맞서는 지상 동맹이 됐다.",
+      "sources": [
+        "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001",
+        "Barnett R. Rubin, The Fragmentation of Afghanistan"
+      ]
+    },
+    "al_qaeda": {
+      "name": "9·11 직전의 전략적 제거",
+      "weight": 90,
+      "narrative": "마수드 암살은 알카에다와 탈레반의 이해가 겹친 사건으로 해석됐다. 반탈레반 전선의 약화는 9·11 직전 아프가니스탄 전장을 흔들었다.",
+      "sources": [
+        "Lawrence Wright, The Looming Tower: Al-Qaeda and the Road to 9/11",
+        "Steve Coll, Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001"
+      ]
+    },
+    "taliban": {
+      "name": "북부 전선 압박의 기회",
+      "weight": 80,
+      "narrative": "탈레반에게 마수드의 죽음은 북부동맹을 약화시킬 기회처럼 보였다. 그러나 며칠 뒤 미국 본토 공격이 전쟁의 규모를 완전히 바꾸었다.",
+      "sources": [
+        "Ahmed Rashid, Taliban: Militant Islam, Oil and Fundamentalism in Central Asia",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    }
+  }
+}

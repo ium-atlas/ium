@@ -1,0 +1,39 @@
+{
+  "id": "mazar-i-sharif-falls",
+  "name": "마자르이샤리프 함락",
+  "type": "battle",
+  "date": "2001-11",
+  "location": {
+    "lng": 67.11,
+    "lat": 36.71
+  },
+  "perspectives": {
+    "northern_alliance": {
+      "name": "북부 전선의 돌파",
+      "weight": 100,
+      "narrative": "북부동맹은 미국 지원과 함께 마자르이샤리프를 장악하며 전쟁의 흐름을 바꾸었다. 북부 도시의 함락은 탈레반 방어선 붕괴의 신호였다.",
+      "sources": [
+        "Bob Woodward, Bush at War",
+        "Thomas Barfield, Afghanistan: A Cultural and Political History"
+      ]
+    },
+    "taliban": {
+      "name": "북부 거점 상실",
+      "weight": 90,
+      "narrative": "탈레반은 북부의 핵심 도시를 잃으며 여러 전선에서 후퇴 압박을 받았다. 정권의 군사적 지배는 빠르게 약해졌다.",
+      "sources": [
+        "Ahmed Rashid, Taliban: Militant Islam, Oil and Fundamentalism in Central Asia",
+        "Barnett R. Rubin, The Fragmentation of Afghanistan"
+      ]
+    },
+    "civilians": {
+      "name": "정권 교체와 보복 우려",
+      "weight": 75,
+      "narrative": "도시 주민은 탈레반 퇴각과 새 세력 진입을 맞으며 보복과 치안 공백을 우려했다. 전선 이동은 민간인의 안전 문제를 곧바로 바꾸었다.",
+      "sources": [
+        "Thomas Barfield, Afghanistan: A Cultural and Political History",
+        "Barnett R. Rubin, The Fragmentation of Afghanistan"
+      ]
+    }
+  }
+}

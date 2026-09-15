@@ -1,0 +1,39 @@
+{
+  "id": "flight-93-crash",
+  "name": "유나이티드 항공 93편 추락",
+  "type": "massacre",
+  "date": "2001-09",
+  "location": {
+    "lng": -78.91,
+    "lat": 40.05
+  },
+  "perspectives": {
+    "civilians": {
+      "name": "승객 저항의 기억",
+      "weight": 100,
+      "narrative": "93편 승객과 승무원은 납치 상황에서 저항했고, 항공기는 펜실베이니아에 추락했다. 사건은 민간인의 선택과 희생을 기억하는 상징이 됐다.",
+      "sources": [
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report",
+        "Peter Bergen, Holy War, Inc.: Inside the Secret World of Osama bin Laden"
+      ]
+    },
+    "al_qaeda": {
+      "name": "실패한 네 번째 공격",
+      "weight": 90,
+      "narrative": "알카에다의 네 번째 납치 공격은 목표에 도달하지 못했다. 93편은 9·11 작전의 계획성과 동시에 우발적 저항의 변수를 보여준다.",
+      "sources": [
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report",
+        "Lawrence Wright, The Looming Tower: Al-Qaeda and the Road to 9/11"
+      ]
+    },
+    "us": {
+      "name": "비상 대응 체계의 혼란",
+      "weight": 75,
+      "narrative": "미국 정부와 항공·방공 체계는 동시다발 납치에 혼란스럽게 대응했다. 이후 국내 안보 재편의 근거가 이 경험에서 나왔다.",
+      "sources": [
+        "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report",
+        "Bob Woodward, Bush at War"
+      ]
+    }
+  }
+}
