@@ -1,0 +1,28 @@
+{
+  "id": "july-communique",
+  "name": "7·4 남북 공동 성명",
+  "type": "treaty",
+  "date": "1972-07",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "남북은 비밀 접촉 뒤 자주·평화·민족 대단결의 통일 3원칙을 발표했다. 국제적 긴장 완화의 분위기가 남북 대화에 영향을 주었으며, 서울과 평양에서 공동 성명이 발표되었다. 이것은 남북 정상회담의 결과가 아니며 2000년 정상 간 합의와 구별해야 한다.",
+      "sources": [
+        "https://contents.history.go.kr/front/hm/print.do?levelId=hm_153_0050&tabId=01&treeId=010801&whereStr="
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "이산가족과 분단의 긴장을 겪던 사람들에게 대화는 기대를 주었다. 그러나 남북의 권위주의 체제가 강화되면서 합의의 실천은 제한되었다. 통일 원칙을 처음 합의한 의의와 실제 통일·화해가 이루어졌는지를 구분해야 이후 남북 기본 합의서와 6·15 공동선언의 차이도 보인다.",
+      "sources": [
+        "https://contents.history.go.kr/front/hm/print.do?levelId=hm_153_0050&tabId=01&treeId=010801&whereStr="
+      ]
+    }
+  }
+}

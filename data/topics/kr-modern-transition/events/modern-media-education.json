@@ -1,0 +1,32 @@
+{
+  "id": "modern-media-education",
+  "name": "근대 신문·학교와 생활의 변화",
+  "type": "culture",
+  "date": "1883-10",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "1883년 창간된 한성순보는 정부가 발행한 관보 성격의 신문으로 근대 정보 매체의 출발점 가운데 하나였다. 이후 독립신문은 한글과 영문으로 계몽과 여론 형성에 기여했다. 원산학사·동문학·육영공원 등 학교를 설립한 주체와 교육 목적을 나누어 보면 개화기의 인재 양성 방향이 보인다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0061736",
+        "https://encykorea.aks.ac.kr/Article/E0040700",
+        "https://encykorea.aks.ac.kr/Article/E0035203"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "배재학당과 이화학당 등 선교계 학교, 광혜원에서 제중원으로 이어진 근대 의료기관은 교육과 생활의 접점을 넓혔다. 신문 독자와 여성 교육의 확대는 지식에 접근하는 통로의 변화를 뜻했다. 이 사건의 지도는 여러 시설을 한곳으로 오인하지 않도록 대표 지점인 서울을 표시한다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0061736",
+        "https://encykorea.aks.ac.kr/Article/E0040700",
+        "https://encykorea.aks.ac.kr/Article/E0035203"
+      ]
+    }
+  }
+}

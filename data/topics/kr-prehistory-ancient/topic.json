@@ -1,0 +1,37 @@
+{
+  "id": "kr-prehistory-ancient",
+  "title": "한국사: 선사에서 남북국까지",
+  "subtitle": "한능검 심화 핵심 지도",
+  "period": [
+    -4000,
+    894
+  ],
+  "start": "-4000-01",
+  "end": "0894-12",
+  "bounds": [
+    [
+      122,
+      33
+    ],
+    [
+      131,
+      46
+    ]
+  ],
+  "card": [
+    127.5,
+    37.5
+  ],
+  "perspectives": [
+    {
+      "code": "politics",
+      "label": "정치와 국제 관계",
+      "color": "#4169a1"
+    },
+    {
+      "code": "society",
+      "label": "사회와 문화",
+      "color": "#a26a36"
+    }
+  ]
+}

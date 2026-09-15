@@ -1,0 +1,37 @@
+{
+  "id": "kr-contemporary",
+  "title": "광복·산업화·민주화와 통일 노력",
+  "subtitle": "한능검 심화 · 지도와 흐름으로 배우는 한국사",
+  "period": [
+    1945,
+    2000
+  ],
+  "start": "1945-08",
+  "end": "2000-06",
+  "bounds": [
+    [
+      36,
+      32
+    ],
+    [
+      132,
+      57
+    ]
+  ],
+  "card": [
+    126.978,
+    37.566
+  ],
+  "perspectives": [
+    {
+      "code": "institutions",
+      "label": "제도·정치와 국제관계",
+      "color": "#2563eb"
+    },
+    {
+      "code": "people",
+      "label": "시민·생활과 운동",
+      "color": "#d97706"
+    }
+  ]
+}

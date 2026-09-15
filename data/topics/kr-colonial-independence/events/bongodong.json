@@ -1,0 +1,30 @@
+{
+  "id": "bongodong",
+  "name": "봉오동 전투",
+  "type": "battle",
+  "date": "1920-06",
+  "location": {
+    "lng": 129.65,
+    "lat": 43.04
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "홍범도의 대한독립군 등 여러 부대는 북간도 봉오동에서 일본군을 상대로 승리를 거두었다. 독립군은 지형을 이용해 일본군을 유인하고 연합 작전을 펼쳤다. 1920년의 대표 전투인 봉오동은 청산리보다 먼저 일어났으며, 지도상의 위치는 오늘날 지명 변화와 전투 범위를 고려한 대표 지점이다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0023974",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o401600"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "만주 한인 사회는 식량과 정보·자금을 제공하며 독립군 활동을 뒷받침했다. 승전의 의미를 이해하려면 부대 이름뿐 아니라 독립군을 지탱한 이주민 공동체도 보아야 한다. 일본군이 이후 간도 지역으로 진입하며 주민들이 큰 피해를 입은 점은 독립전쟁과 민간인 보호가 맞물린 문제였음을 보여 준다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0023974",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o401600"
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "language-suppression",
+  "name": "조선어학회 사건과 민족문화 수호",
+  "type": "culture",
+  "date": "1942-10",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "조선어학회는 한글 맞춤법 통일안과 표준어 정리, 사전 편찬을 추진했으나 1942년 일제가 관련 인사들을 체포했다. 언어를 연구하고 보급하는 활동이 민족의 정체성을 지키는 일과 연결되었기 때문이다. 조선어연구회의 가갸날 제정과 뒤이은 조선어학회의 활동을 시간 순서로 구분하자.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0052129",
+        "https://encykorea.aks.ac.kr/Article/E0061523",
+        "https://encykorea.aks.ac.kr/Article/E0054620",
+        "https://encykorea.aks.ac.kr/Article/E0045444"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "문화 수호는 한글뿐 아니라 역사 연구와 문학에도 나타났다. 신채호·박은식의 민족주의 역사학, 백남운의 사회경제사 연구, 진단학회의 실증 연구는 방법이 달랐다. 이육사·윤동주 등의 문학도 식민지 현실 속에서 읽히지만, 서로 다른 작품과 활동을 한 단체의 성과로 섞지 않아야 한다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0052129",
+        "https://encykorea.aks.ac.kr/Article/E0061523",
+        "https://encykorea.aks.ac.kr/Article/E0054620",
+        "https://encykorea.aks.ac.kr/Article/E0045444"
+      ]
+    }
+  }
+}

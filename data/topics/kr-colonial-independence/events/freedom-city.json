@@ -1,0 +1,30 @@
+{
+  "id": "freedom-city",
+  "name": "자유시 참변과 독립군 재편",
+  "type": "battle",
+  "date": "1921-06",
+  "location": {
+    "lng": 128.13,
+    "lat": 51.38
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "러시아 자유시에 모인 독립군은 지휘권과 노선 갈등 속에서 무장 해제 요구에 직면했고 충돌로 큰 피해를 입었다. 1920년 승전 뒤 독립군의 국외 이동이 곧 안정된 통합으로 이어진 것은 아니었다. 사건 뒤 일부 세력은 만주로 돌아와 조직을 다시 세웠다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o401600",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o403530"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "한인 독립운동은 일본뿐 아니라 러시아 혁명 이후의 복잡한 정치·군사 환경에도 영향을 받았다. 독립군을 하나의 일치된 조직으로만 이해하면 이런 갈등을 설명하기 어렵다. 자유시 참변은 이후 참의부·정의부·신민부 등 만주 지역 조직의 재편을 이해하는 연결 고리이다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o401600",
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o403530"
+      ]
+    }
+  }
+}

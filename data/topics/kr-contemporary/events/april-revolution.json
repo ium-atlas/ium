@@ -1,0 +1,28 @@
+{
+  "id": "april-revolution",
+  "name": "4·19 혁명과 제2공화국",
+  "type": "movement",
+  "date": "1960-04",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "이승만 정부는 발췌 개헌과 사사오입 개헌으로 장기 집권 기반을 넓혔고 1960년 3·15 부정선거에 대한 항의가 커졌다. 마산에서 김주열의 시신이 발견된 뒤 학생·시민의 저항이 확산되어 이승만이 하야했다. 이후 내각책임제 개헌을 거쳐 장면 내각이 출범했다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i500700"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "학생들의 시위는 시민과 교수들의 참여로 확대되었다. 부정선거에 맞선 민주적 통제의 요구가 정권을 바꾸었다는 점이 핵심이다. 제2공화국의 대통령 윤보선과 국무총리 장면을 구분하고, 당시 내각책임제를 오늘날 대통령 중심제와 같은 제도로 이해하지 않아야 한다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i500700"
+      ]
+    }
+  }
+}

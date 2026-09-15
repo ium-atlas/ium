@@ -1,0 +1,30 @@
+{
+  "id": "korean-empire",
+  "name": "대한제국 선포와 광무개혁",
+  "type": "political",
+  "date": "1897-10",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "고종은 환구단에서 황제에 즉위하고 대한제국을 선포했다. 구본신참을 내세운 광무개혁은 기존 질서를 바탕으로 새 제도를 받아들였으며, 양전과 지계 발급, 군대 강화, 근대 산업·교육 진흥 등을 추진했다. 1899년 대한국 국제는 황제에게 권력을 집중시켜 국가의 자주성과 황제권을 함께 강조했다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0005118",
+        "https://encykorea.aks.ac.kr/Article/E0015187"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "토지 측량과 지계 발급은 소유 관계와 국가 재정을 정비하려는 사업이었다. 전차·전기·기술 교육의 확산은 도시 생활의 변화를 가져왔으나 재정 제약과 외세 간섭으로 개혁은 제한되었다. 의회와 민권을 강조한 독립협회의 구상과 황제 중심의 광무개혁은 근대화라는 목표 안에서도 방향이 달랐다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0005118",
+        "https://encykorea.aks.ac.kr/Article/E0015187"
+      ]
+    }
+  }
+}

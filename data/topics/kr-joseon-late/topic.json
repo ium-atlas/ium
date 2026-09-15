@@ -1,0 +1,37 @@
+{
+  "id": "kr-joseon-late",
+  "title": "조선 후기: 재건·개혁·사회 변동",
+  "subtitle": "한능검 심화 핵심 흐름",
+  "period": [
+    1600,
+    1863
+  ],
+  "start": "1600-01",
+  "end": "1863-12",
+  "bounds": [
+    [
+      124,
+      33
+    ],
+    [
+      131,
+      43
+    ]
+  ],
+  "card": [
+    127,
+    37
+  ],
+  "perspectives": [
+    {
+      "code": "state",
+      "label": "정책과 지배 질서",
+      "color": "#5277B5"
+    },
+    {
+      "code": "society",
+      "label": "사람과 사회",
+      "color": "#C48342"
+    }
+  ]
+}

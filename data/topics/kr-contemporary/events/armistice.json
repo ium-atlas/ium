@@ -1,0 +1,28 @@
+{
+  "id": "armistice",
+  "name": "정전협정과 분단의 고착",
+  "type": "treaty",
+  "date": "1953-07",
+  "location": {
+    "lng": 126.68,
+    "lat": 37.96
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "판문점에서 정전협정이 체결되어 전투가 중지되고 군사분계선과 비무장지대가 설정되었다. 정전은 평화조약을 통한 전쟁의 완전한 종결과는 다르다. 대한민국 정부는 협정 서명 당사자가 아니었으며 이후 한미상호방위조약 체결을 통해 안보 체제를 마련했다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i501100"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "정전 뒤에도 가족을 만나지 못한 사람들이 많았고 남북 대립은 생활과 정치에 오래 영향을 주었다. 남한에서는 미국 원조를 바탕으로 재건이 이루어지며 제분·제당·면방직의 삼백 산업이 성장했다. 전후 경제 구조와 냉전적 안보 체제는 이후 산업화와 정치 갈등의 조건이 되었다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i501100"
+      ]
+    }
+  }
+}

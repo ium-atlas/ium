@@ -1,0 +1,28 @@
+{
+  "id": "anti-collaboration",
+  "name": "반민특위와 친일 청산의 좌절",
+  "type": "political",
+  "date": "1948-10",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "제헌국회는 반민족행위처벌법에 따라 반민족행위특별조사위원회를 설치했다. 위원회는 일제에 협력한 반민족 행위를 조사하고 처벌 절차를 추진했다. 하지만 정부의 비협조와 경찰의 방해, 1949년 특위 습격 등으로 활동이 위축되어 충분한 청산으로 이어지지 못했다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0021478"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "친일 청산은 과거 개인의 행위를 따지는 것에 그치지 않고 새 국가가 어떤 책임과 정의의 원칙을 세울지의 문제였다. 식민 통치에 관여한 인력이 새 제도 안에 남으면서 갈등이 컸다. 반민특위를 조선총독부나 임시정부 산하 기구로 혼동하지 말고 제헌국회와 연결해야 한다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0021478"
+      ]
+    }
+  }
+}

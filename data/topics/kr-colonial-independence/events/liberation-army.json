@@ -1,0 +1,30 @@
+{
+  "id": "liberation-army",
+  "name": "충칭의 한국광복군",
+  "type": "movement",
+  "date": "1940-09",
+  "location": {
+    "lng": 106.55,
+    "lat": 29.56
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "대한민국 임시정부는 충칭에서 지청천을 총사령으로 하는 한국광복군을 창설했다. 대일 선전포고와 연합국 협력, 인도·버마 전선 활동 등으로 독립전쟁을 추진했다. 미국 전략정보국과 국내 진공을 준비했으나 일본이 항복하면서 계획을 실행하지 못했다는 점이 중요한 구별점이다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0005134",
+        "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_127_0030"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "광복군은 국권 회복뿐 아니라 해방 뒤 독립국가의 기반을 준비하는 의미가 있었다. 임시정부는 조소앙의 삼균주의를 바탕으로 건국강령을 발표해 정치·경제·교육의 균등을 제시했다. 군사 활동과 해방 이후 사회의 구상을 함께 읽어야 1940년대 독립운동의 목표가 보인다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0005134",
+        "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_127_0030"
+      ]
+    }
+  }
+}

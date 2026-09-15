@@ -1,0 +1,28 @@
+{
+  "id": "gwangju-democracy",
+  "name": "5·18 민주화운동",
+  "type": "movement",
+  "date": "1980-05",
+  "location": {
+    "lng": 126.92,
+    "lat": 35.16
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "신군부의 비상계엄 전국 확대와 정치 활동 금지에 맞서 광주에서 시위가 일어났다. 계엄군의 폭력 진압과 발포로 희생이 발생했고 시민들의 저항이 확대되었다. 광주 시민은 민주주의 회복과 계엄 해제를 요구했으며 신군부는 군사력으로 이를 진압했다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i501000"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "시민들은 부상자를 돕고 식량과 혈액을 나누며 공동체를 지켰다. 사건 뒤 진상이 왜곡·통제되었으나 민주화운동과 진상 규명 노력이 이어졌다. 1929년 광주 학생 항일 운동과는 다른 사건으로, 1980년 신군부와 계엄군이라는 정치적 배경을 함께 기억해야 한다.",
+      "sources": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i501000"
+      ]
+    }
+  }
+}

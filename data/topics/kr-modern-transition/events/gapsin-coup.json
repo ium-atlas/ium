@@ -1,0 +1,30 @@
+{
+  "id": "gapsin-coup",
+  "name": "갑신정변",
+  "type": "political",
+  "date": "1884-12",
+  "location": {
+    "lng": 126.978,
+    "lat": 37.566
+  },
+  "perspectives": {
+    "institutions": {
+      "name": "제도와 권력의 변화",
+      "weight": 95,
+      "narrative": "김옥균·박영효 등 급진 개화파는 우정총국 개국 축하연을 계기로 정변을 일으켰다. 청에 대한 의존을 줄이고 문벌 폐지, 능력에 따른 인재 등용, 재정 일원화 등을 지향했으나 청군 개입으로 사흘 만에 실패했다. 일본의 지원에 의존한 방식과 취약한 정치 기반도 실패의 원인으로 꼽힌다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0000922",
+        "https://encykorea.aks.ac.kr/Article/E0000923"
+      ]
+    },
+    "people": {
+      "name": "사람들의 대응과 생활",
+      "weight": 90,
+      "narrative": "일반 백성에게 정변의 개혁 목표가 충분히 전달되거나 지지 기반으로 조직되지는 못했다. 외국군에 의지한 권력 교체는 기존 개화 정책의 비용을 겪던 사람들에게 불신을 낳았다. 실패 뒤 한성 조약과 청일 톈진 조약이 이어져, 국내 개혁의 좌절이 국제적 간섭의 확대와 연결되었다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0000922",
+        "https://encykorea.aks.ac.kr/Article/E0000923"
+      ]
+    }
+  }
+}
